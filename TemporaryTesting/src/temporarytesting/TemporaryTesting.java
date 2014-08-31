@@ -23,12 +23,12 @@ public class TemporaryTesting {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        String sd = new String("Thu Nov  8 12:49:38 1990 GMT");
-        if (sd.matches("\\D+\\s+\\D+\\s+\\d+\\s+\\d+:\\d+:\\d+\\s+\\d+\\s+\\D{3,}?")) {
+        String sd = new String("27 Mar 91 17:35:40 -500");
+        if (sd.matches("\\d+\\s+\\D{3}?\\s+\\d+\\s+\\d+:\\d+:\\d+\\s+[+-]\\d{1,4}?")) {
             try {
                 System.out.println("String matches");
                 
-                SimpleDateFormat sdf = new SimpleDateFormat("EEE MMM d HH:mm:ss y z");
+                SimpleDateFormat sdf = new SimpleDateFormat("d MMM y HH:mm:ss X");
                 Date d = sdf.parse(sd);
                 System.out.println(d);
             } catch (ParseException ex) {

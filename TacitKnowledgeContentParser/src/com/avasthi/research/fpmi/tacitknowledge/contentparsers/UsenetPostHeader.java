@@ -24,15 +24,15 @@ import java.util.logging.Logger;
  */
 public class UsenetPostHeader {
 
-    private UsenetEmailAddress sender_;
-    private String id_;
-    private String subject_;
-    private Date date_;
-    private String contentType_;
-    private int bytes_;
-    private int lines_;
-    private String newsgroup_;
-    private String inReplyTo_;
+     UsenetEmailAddress sender_;
+     String id_;
+     String subject_;
+     Date date_;
+     String contentType_;
+     int bytes_;
+     int lines_;
+     String newsgroup_;
+     String inReplyTo_;
     List<String> references_;
 
     private boolean linesSet_;
@@ -43,13 +43,18 @@ public class UsenetPostHeader {
         references_ = new ArrayList<String>();
         bytesSet_ = false;
         linesSet_ = false;
+        contentType_ = new String("text/plain");
+        inReplyTo_ = new String("");
+        subject_ = new String("");
+        newsgroup_ = new String("");
 
     }
 
     void addReferences(String refString) {
+        refString.replaceAll("\\s+", " ");
         StringTokenizer st = new StringTokenizer(refString);
         while (st.hasMoreTokens()) {
-            references_.add(st.nextToken(" "));
+            references_.add(st.nextToken(" ").toLowerCase());
         }
     }
 
@@ -95,7 +100,7 @@ public class UsenetPostHeader {
             } else if (ds.matches(".......\\s+\\d+\\s+\\d+:\\d+:\\d+\\s+...\\s+\\d+")) {
                 SimpleDateFormat sdf = new SimpleDateFormat("EEE MMM d HH:mm:ss z y");
                 date_ = sdf.parse(ds);
-            } else if (ds.matches("\\d+\\s+...\\s+\\d+\\s+\\d+:\\d+:\\d+\\s+...")) {
+            } else if (ds.matches("\\d+\\s+...\\s+\\d+\\s+\\d+:\\d+:\\d+\\s+\\D{3}?")) {
                 SimpleDateFormat sdf = new SimpleDateFormat("d MMM y HH:mm:ss z");
                 date_ = sdf.parse(ds);
             } else if (ds.matches("\\d+\\s+...\\s+\\d+\\s+\\d+:\\d+:\\d+\\s+.....")) {
@@ -104,7 +109,7 @@ public class UsenetPostHeader {
             } else if (ds.matches("...,\\s+\\d+\\s+...\\s+\\d+\\s+\\d+:\\d+:\\d+")) {
                 SimpleDateFormat sdf = new SimpleDateFormat("EEE, d MMM y HH:mm:ss");
                 date_ = sdf.parse(ds);
-            } else if (ds.matches("\\d+\\s+...\\s+\\d+\\s+\\d+:\\d+:\\d+\\s+...")) {
+            } else if (ds.matches("\\d+\\s+...\\s+\\d+\\s+\\d+:\\d+:\\d+\\s+\\D{3}?")) {
                 SimpleDateFormat sdf = new SimpleDateFormat("d MMM y HH:mm:ss z");
                 date_ = sdf.parse(ds);
             } else if (ds.matches("\\d+\\s+...\\s+\\d+\\s+\\d+:\\d+\\s+...")) {
@@ -125,6 +130,36 @@ public class UsenetPostHeader {
             } else if (ds.matches("\\D+\\s+\\D+\\s+\\d+\\s+\\d+:\\d+:\\d+\\s+\\d+\\s+\\D{3,}?")) {
                 SimpleDateFormat sdf = new SimpleDateFormat("EEE MMM d HH:mm:ss y z");
                 date_ = sdf.parse(ds);
+            } else if (ds.matches("\\d+\\s+\\D{3}?\\s+\\d+\\s+\\d+:\\d+\\s+.{3,5}")) {
+                SimpleDateFormat sdf = new SimpleDateFormat("d MMM y HH:mm X");
+                date_ = sdf.parse(ds);
+            } else if (ds.matches("\\d+\\s+\\D{3}?\\s+\\d+\\s+\\d+:\\d+:\\d+\\s+\\D{3,4}?")) {
+                SimpleDateFormat sdf = new SimpleDateFormat("d MMM y HH:mm:ss z");
+                date_ = sdf.parse(ds);
+            } else if (ds.matches("\\d+\\s+\\D{3}?\\s+\\d+\\s+\\d+:\\d+:\\d+\\s+[+-]\\d{1,4}?")) {
+                SimpleDateFormat sdf = new SimpleDateFormat("d MMM y HH:mm:ss X");
+                date_ = sdf.parse(ds);
+            } else if (ds.matches("\\D{3}?,\\s+\\d+\\s+\\D{3}?\\s+\\d+\\s+\\d+:\\d+")) {
+                SimpleDateFormat sdf = new SimpleDateFormat("EEE, d MMM y HH:mm");
+                date_ = sdf.parse(ds);
+            } else if (ds.matches("\\D{3}?,\\s+\\d+\\s+\\D{3}?\\s+\\d+:\\d+:\\d+\\s+\\D{3}?")) {
+                SimpleDateFormat sdf = new SimpleDateFormat("EEE, d MMM HH:mm:ss z");
+                date_ = sdf.parse(ds);
+            } else if (ds.matches("\\d+-\\D{3}?-\\d+\\s+\\d+:\\d+\\s+\\D{3}?")) {
+                SimpleDateFormat sdf = new SimpleDateFormat("d-MMM-y HH:mm z");
+                date_ = sdf.parse(ds);
+            } else if (ds.matches("\\d+\\s+\\D+\\s+\\d+\\s+\\d+:\\d+\\s+[+-]\\d{4}?")) {
+                SimpleDateFormat sdf = new SimpleDateFormat("d MMM y HH:mm X");
+                date_ = sdf.parse(ds);
+            } else if (ds.matches("\\d+\\s+\\D+\\s+\\d+,\\s+\\d+:\\d+:\\d+\\s+\\D{3}?")) {
+                SimpleDateFormat sdf = new SimpleDateFormat("d MMM y, HH:mm:ss z");
+                date_ = sdf.parse(ds);
+            } else if (ds.matches("\\d+\\s+\\D+,\\s+\\d+\\s+\\d+:\\d+:\\d+")) {
+                SimpleDateFormat sdf = new SimpleDateFormat("d MMM, y HH:mm:ss");
+                date_ = sdf.parse(ds);
+            } else if (ds.matches("\\d+\\s+\\D+\\s+\\d+\\s+\\d+:\\d+:\\d+\\s+[+-]\\D{2,4}?")) {
+                SimpleDateFormat sdf = new SimpleDateFormat("d MMM y HH:mm:ss X");
+                date_ = sdf.parse(ds);
             } else if (ds.length() == 14 || ds.length() == 15) {
 
                 SimpleDateFormat sdf = new SimpleDateFormat("d MMM y HH:mm");
@@ -139,7 +174,7 @@ public class UsenetPostHeader {
                 date_ = sdf.parse(ds);
             } else if (ds.contains(",")) {
 
-                SimpleDateFormat sdf = new SimpleDateFormat("EEE, d MMM yyyy HH:mm:ss Z");
+                SimpleDateFormat sdf = new SimpleDateFormat("EEE, d MMM y HH:mm:ss Z");
                 date_ = sdf.parse(ds);
             } else {
 
