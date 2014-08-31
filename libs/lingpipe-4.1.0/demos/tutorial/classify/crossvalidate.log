@@ -1,0 +1,22 @@
+Buildfile: /home/vavasthi/dev/tools/lingpipe-4.1.0/demos/tutorial/classify/build.xml
+
+compile:
+
+crossValidateNews:
+     [java] Reading data.
+     [java] Num instances=46010.
+     [java] Permuting corpus.
+     [java]  FOLD        ACCU
+     [java]     0  0.70 +/- 0.01
+     [java]     1  0.71 +/- 0.01
+     [java]     2  0.70 +/- 0.01
+     [java]     3  0.70 +/- 0.01
+     [java]     4  0.71 +/- 0.01
+     [java]     5  0.71 +/- 0.01
+     [java]     6  0.69 +/- 0.01
+     [java]     7  0.70 +/- 0.01
+     [java]     8  0.69 +/- 0.01
+     [java]     9  0.70 +/- 0.01
+
+BUILD SUCCESSFUL
+Total time: 12 minutes 7 seconds
