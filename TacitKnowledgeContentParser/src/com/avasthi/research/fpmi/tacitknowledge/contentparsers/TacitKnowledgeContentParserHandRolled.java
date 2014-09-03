@@ -5,7 +5,7 @@
  */
 package com.avasthi.research.fpmi.tacitknowledge.contentparsers;
 
-import com.avasthi.research.fpmi.tacitknowledge.contentparsers.ws.MessageIngestService;
+import com.avasthi.research.fpmi.tacitknowledge.common.UsenetPostMessage;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -263,39 +263,25 @@ public class TacitKnowledgeContentParserHandRolled {
     }
 
     void addPost(UsenetPostHeader uph) throws DatatypeConfigurationException {
-        com.avasthi.research.fpmi.tacitknowledge.contentparsers.ws.MessageIngestService_Service mis
-                = new com.avasthi.research.fpmi.tacitknowledge.contentparsers.ws.MessageIngestService_Service();
-        MessageIngestService port = mis.getMessageIngestServicePort();
-        GregorianCalendar gc = new GregorianCalendar();
-        gc.setTime(uph.date_);
+        System.out.printf("Message Id |%s| Referencs are :%s\n", uph.id_, uph.references_);
         try {
-
-            port.ingestMessage(uph.sender_.getName(),
-                    uph.sender_.getAddress(),
-                    uph.id_.toLowerCase(),
-                    uph.subject_,
-                    DatatypeFactory.newInstance().newXMLGregorianCalendar(gc),
-                    uph.contentType_,
-                    uph.bytes_,
-                    uph.lines_,
-                    uph.newsgroup_,
-                    uph.inReplyTo_,
-                    uph.references_,
-                    uph.body_);
-        } catch (NullPointerException nex) {
-            port.ingestMessage(uph.sender_.getName(),
-                    uph.sender_.getAddress(),
-                    uph.id_.toLowerCase(),
-                    uph.subject_,
-                    DatatypeFactory.newInstance().newXMLGregorianCalendar(gc),
-                    uph.contentType_,
-                    uph.bytes_,
-                    uph.lines_,
-                    uph.newsgroup_,
-                    uph.inReplyTo_,
-                    uph.references_,
-                    uph.body_);
-
+            UsenetPostMessage upm =
+                    new UsenetPostMessage(uph.sender_.getName(),
+                uph.sender_.getAddress(),
+                uph.id_.toLowerCase(),
+                uph.subject_,
+                uph.date_,
+                uph.contentType_,
+                uph.bytes_,
+                uph.lines_,
+                uph.newsgroup_,
+                uph.inReplyTo_,
+                uph.references_,
+                uph.body_);
+            UsenetPostMessageQueueSender.instance().send(upm);
+        }
+        catch(NullPointerException nex) {
+            System.out.println(uph);
         }
     }
 }

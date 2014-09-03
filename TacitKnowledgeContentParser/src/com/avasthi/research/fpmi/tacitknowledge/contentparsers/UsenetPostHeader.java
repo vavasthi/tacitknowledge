@@ -24,15 +24,15 @@ import java.util.logging.Logger;
  */
 public class UsenetPostHeader {
 
-     UsenetEmailAddress sender_;
-     String id_;
-     String subject_;
-     Date date_;
-     String contentType_;
-     int bytes_;
-     int lines_;
-     String newsgroup_;
-     String inReplyTo_;
+    UsenetEmailAddress sender_;
+    String id_;
+    String subject_;
+    Date date_;
+    String contentType_;
+    int bytes_;
+    int lines_;
+    String newsgroup_;
+    String inReplyTo_;
     List<String> references_;
 
     private boolean linesSet_;
@@ -47,14 +47,23 @@ public class UsenetPostHeader {
         inReplyTo_ = new String("");
         subject_ = new String("");
         newsgroup_ = new String("");
+        date_ = new Date();
 
     }
 
     void addReferences(String refString) {
-        refString.replaceAll("\\s+", " ");
+        refString = refString.replaceAll(",", " ");
+        refString = refString.replaceAll("\\s+", " ");
         StringTokenizer st = new StringTokenizer(refString);
-        while (st.hasMoreTokens()) {
-            references_.add(st.nextToken(" ").toLowerCase());
+        if (st.countTokens() > 0) {
+
+            while (st.hasMoreTokens()) {
+                references_.add(st.nextToken(" ").toLowerCase());
+            }
+
+        } else {
+
+            references_.add(refString);
         }
     }
 

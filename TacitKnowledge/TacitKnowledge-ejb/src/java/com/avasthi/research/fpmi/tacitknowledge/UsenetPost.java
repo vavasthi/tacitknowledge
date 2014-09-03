@@ -7,6 +7,7 @@
 package com.avasthi.research.fpmi.tacitknowledge;
 
 import java.io.Serializable;
+import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 import javax.persistence.Basic;
@@ -36,8 +37,10 @@ public class UsenetPost implements Serializable {
     private int noLines;
     private String newsGroup;
     private String inReplyTo;
-    @OneToMany(mappedBy="referencedPost")
-    private List<UsenetPostReference> referencedPosts;
+    
+    @OneToMany
+    private List<UsenetPostReference> referencedPostIds = new ArrayList<UsenetPostReference>();
+    
     @Lob @Basic(fetch = FetchType.EAGER)
     String body;
 
@@ -106,11 +109,11 @@ public class UsenetPost implements Serializable {
     }
 
     public List<UsenetPostReference> getReferencedPosts() {
-        return referencedPosts;
+        return referencedPostIds;
     }
 
     public void setReferencedPosts(List<UsenetPostReference> referencedPosts) {
-        this.referencedPosts = referencedPosts;
+        this.referencedPostIds = referencedPosts;
     }
 
     public String getBody() {

@@ -15,6 +15,10 @@ import java.util.regex.Pattern;
  */
 public class UsenetEmailAddress {
 
+    public UsenetEmailAddress() {
+        name_ = new String();
+        address_ = new String();
+    }
     @Override
     public String toString() {
         return "UsenetEmailAddress{" + "name_=" + name_ + ", address_=" + address_ + '}';
@@ -69,8 +73,11 @@ public class UsenetEmailAddress {
             if (bracketMatcher.find()) {
                 name_ = str.replaceAll(bracketString, "$2").trim();
                 address_ = str.replaceAll(bracketString, "$1").trim();
+                return;
             }
         }
+        name_ = str;
+        address_ = str;
     }
 
     public String getName() {
