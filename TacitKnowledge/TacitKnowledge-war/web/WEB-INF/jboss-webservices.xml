@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<webservices xmlns="http://www.jboss.com/xml/ns/javaee" version="1.2">
+  <property>
+    <name>cxf.queue.default.maxQueueSize</name>
+    <value>1024</value>
+  </property>
+  <property>
+    <name>cxf.queue.default.highWaterMark</name>
+    <value>768</value>
+  </property>
+  <property>
+    <name>cxf.queue.default.initialThreads</name>
+    <value>50</value>
+  </property>  
+</webservices>
