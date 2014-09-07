@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
     <system systemId="http://localhost:8080/TacitKnowledge-war/MessageIngestService?wsdl" uri="xml-resources/web-service-references/MessageIngestService/wsdl/localhost_8080/TacitKnowledge-war/MessageIngestService.wsdl"/>
+    <system systemId="http://localhost:8080/TacitKnowledge-war/UsenetPostWS?wsdl" uri="xml-resources/web-service-references/UsenetPostWS/wsdl/localhost_8080/TacitKnowledge-war/UsenetPostWS.wsdl"/>
+    <system systemId="http://localhost:8080/TacitKnowledge-war/UsenetPostWebService?wsdl" uri="xml-resources/web-service-references/UsenetPostWebService/wsdl/localhost_8080/TacitKnowledge-war/UsenetPostWebService.wsdl"/>
 </catalog>

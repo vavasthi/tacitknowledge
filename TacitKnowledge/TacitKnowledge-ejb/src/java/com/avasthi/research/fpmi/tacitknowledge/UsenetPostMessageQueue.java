@@ -88,7 +88,6 @@ public class UsenetPostMessageQueue implements MessageListener {
         if (up == null) {
 
             up = new UsenetPost();
-            LOG.info("Creating a new post :" + id);
             up.setId(id);
             em.persist(up);
         }

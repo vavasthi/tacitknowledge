@@ -19,7 +19,7 @@ import com.aliasi.util.Files;
  *
  * @author vavasthi
  */
-public class TacitKnowledgeInterestingPhaseDetector {
+public class TacitKnowledgeInterestingPhraseDetector {
 
     TokenizedLM model;
     private static int NGRAM = 20;
@@ -28,7 +28,7 @@ public class TacitKnowledgeInterestingPhaseDetector {
     private static int NGRAM_REPORTING_LENGTH = 2;
     private static int MAX_COUNT = 500;
 
-    public TacitKnowledgeInterestingPhaseDetector() {
+    public TacitKnowledgeInterestingPhraseDetector() {
         TokenizerFactory tokenizerFactory = IndoEuropeanTokenizerFactory.INSTANCE;
         model = new TokenizedLM(tokenizerFactory, NGRAM);
     }
@@ -43,6 +43,7 @@ public class TacitKnowledgeInterestingPhaseDetector {
                                    MIN_COUNT,
                                    MAX_COUNT);
 
+        model.sequenceCounter().prune(3);
         report(coll);
     } 
 
@@ -50,7 +51,6 @@ public class TacitKnowledgeInterestingPhaseDetector {
         throws IOException {
 
         model.handle(text);
-        model.sequenceCounter().prune(3);
     }
 
     private void report(SortedSet<ScoredObject<String[]>> nGrams) {

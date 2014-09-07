@@ -58,7 +58,7 @@ public class UsenetPostHeader {
         if (st.countTokens() > 0) {
 
             while (st.hasMoreTokens()) {
-                references_.add(st.nextToken(" ").toLowerCase());
+                references_.add(st.nextToken(" ").toLowerCase().replaceAll("[<>]", ""));
             }
 
         } else {

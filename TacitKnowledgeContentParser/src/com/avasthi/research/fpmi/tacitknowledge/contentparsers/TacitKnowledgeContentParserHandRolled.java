@@ -201,7 +201,12 @@ public class TacitKnowledgeContentParserHandRolled {
                 String body = new String();
                 String l = br.readLine();
                 while (l != null) {
-                    body += l + "\n";
+                    String quotedLinePattern = "^[> |]+.*";
+                    String trimmedL = l.trim();
+                    if (!trimmedL.isEmpty() && !trimmedL.matches(quotedLinePattern)) {
+                        
+                      body += l + "\n";
+                    }
                     l = br.readLine();
                 }
                 uph.setBody(body);
