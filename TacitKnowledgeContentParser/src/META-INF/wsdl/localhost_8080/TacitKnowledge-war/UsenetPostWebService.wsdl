@@ -1,0 +1,370 @@
+<?xml version='1.0' encoding='UTF-8'?><wsdl:definitions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:tns="http://ws.tacitknowledge.fpmi.research.avasthi.com/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:ns1="http://schemas.xmlsoap.org/soap/http" name="UsenetPostWebService" targetNamespace="http://ws.tacitknowledge.fpmi.research.avasthi.com/">
+  <wsdl:types>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://ws.tacitknowledge.fpmi.research.avasthi.com/" elementFormDefault="unqualified" targetNamespace="http://ws.tacitknowledge.fpmi.research.avasthi.com/" version="1.0">
+
+  <xs:element name="countUsenetPosts" type="tns:countUsenetPosts"/>
+
+  <xs:element name="countUsenetPostsResponse" type="tns:countUsenetPostsResponse"/>
+
+  <xs:element name="countUsenetPosts_1" type="tns:countUsenetPosts_1"/>
+
+  <xs:element name="countUsenetPosts_1Response" type="tns:countUsenetPosts_1Response"/>
+
+  <xs:element name="getMessageBody" type="tns:getMessageBody"/>
+
+  <xs:element name="getMessageBodyResponse" type="tns:getMessageBodyResponse"/>
+
+  <xs:element name="individual" type="tns:individual"/>
+
+  <xs:element name="insertPhrases" type="tns:insertPhrases"/>
+
+  <xs:element name="listIndividualIds" type="tns:listIndividualIds"/>
+
+  <xs:element name="listIndividualIdsResponse" type="tns:listIndividualIdsResponse"/>
+
+  <xs:element name="listMessageIds" type="tns:listMessageIds"/>
+
+  <xs:element name="listMessageIdsResponse" type="tns:listMessageIdsResponse"/>
+
+  <xs:element name="listUsenetPosts" type="tns:listUsenetPosts"/>
+
+  <xs:element name="listUsenetPostsResponse" type="tns:listUsenetPostsResponse"/>
+
+  <xs:element name="listUsenetPosts_1" type="tns:listUsenetPosts_1"/>
+
+  <xs:element name="listUsenetPosts_1Response" type="tns:listUsenetPosts_1Response"/>
+
+  <xs:element name="updateMessageId" type="tns:updateMessageId"/>
+
+  <xs:element name="usenetPost" type="tns:usenetPost"/>
+
+  <xs:complexType name="listMessageIds">
+    <xs:sequence>
+      <xs:element name="id" type="xs:long"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="listMessageIdsResponse">
+    <xs:sequence>
+      <xs:element maxOccurs="unbounded" minOccurs="0" name="return" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="listUsenetPosts_1">
+    <xs:sequence/>
+  </xs:complexType>
+
+  <xs:complexType name="listUsenetPosts_1Response">
+    <xs:sequence>
+      <xs:element maxOccurs="unbounded" minOccurs="0" name="return" type="tns:usenetPost"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="usenetPost">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="body" type="xs:string"/>
+      <xs:element name="bytes" type="xs:int"/>
+      <xs:element minOccurs="0" name="contentType" type="xs:string"/>
+      <xs:element minOccurs="0" name="date" type="xs:dateTime"/>
+      <xs:element minOccurs="0" name="id" type="xs:string"/>
+      <xs:element minOccurs="0" name="inReplyTo" type="xs:string"/>
+      <xs:element minOccurs="0" name="newsGroup" type="xs:string"/>
+      <xs:element name="noLines" type="xs:int"/>
+      <xs:element maxOccurs="unbounded" minOccurs="0" name="referencedPosts" nillable="true" type="tns:usenetPostReference"/>
+      <xs:element minOccurs="0" name="sender" type="tns:individual"/>
+      <xs:element minOccurs="0" name="subject" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="usenetPostReference">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="id" type="xs:long"/>
+      <xs:element minOccurs="0" name="referenceId" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="individual">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="email" type="xs:string"/>
+      <xs:element minOccurs="0" name="id" type="xs:long"/>
+      <xs:element minOccurs="0" name="name" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="getMessageBody">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="id" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="getMessageBodyResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="updateMessageId">
+    <xs:sequence/>
+  </xs:complexType>
+
+  <xs:complexType name="countUsenetPosts_1">
+    <xs:sequence/>
+  </xs:complexType>
+
+  <xs:complexType name="countUsenetPosts_1Response">
+    <xs:sequence>
+      <xs:element name="return" type="xs:int"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="listIndividualIds">
+    <xs:sequence/>
+  </xs:complexType>
+
+  <xs:complexType name="listIndividualIdsResponse">
+    <xs:sequence>
+      <xs:element maxOccurs="unbounded" minOccurs="0" name="return" type="xs:long"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="listUsenetPosts">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="email" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="listUsenetPostsResponse">
+    <xs:sequence>
+      <xs:element maxOccurs="unbounded" minOccurs="0" name="return" type="tns:usenetPost"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="countUsenetPosts">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="email" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="countUsenetPostsResponse">
+    <xs:sequence>
+      <xs:element name="return" type="xs:int"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="insertPhrases">
+    <xs:sequence>
+      <xs:element name="userid" type="xs:long"/>
+      <xs:element maxOccurs="unbounded" minOccurs="0" name="ppsList" type="tns:usenetPostPhraseScore"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="usenetPostPhraseScore">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="phrase" type="xs:string"/>
+      <xs:element name="phraseLength" type="xs:int"/>
+      <xs:element name="score" type="xs:double"/>
+    </xs:sequence>
+  </xs:complexType>
+
+</xs:schema>
+  </wsdl:types>
+  <wsdl:message name="listMessageIds">
+    <wsdl:part element="tns:listMessageIds" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="listUsenetPosts_1">
+    <wsdl:part element="tns:listUsenetPosts_1" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="countUsenetPosts_1">
+    <wsdl:part element="tns:countUsenetPosts_1" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="listUsenetPosts">
+    <wsdl:part element="tns:listUsenetPosts" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="countUsenetPosts">
+    <wsdl:part element="tns:countUsenetPosts" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="insertPhrases">
+    <wsdl:part element="tns:insertPhrases" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="listMessageIdsResponse">
+    <wsdl:part element="tns:listMessageIdsResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="listUsenetPosts_1Response">
+    <wsdl:part element="tns:listUsenetPosts_1Response" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="getMessageBodyResponse">
+    <wsdl:part element="tns:getMessageBodyResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="listIndividualIdsResponse">
+    <wsdl:part element="tns:listIndividualIdsResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="getMessageBody">
+    <wsdl:part element="tns:getMessageBody" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="countUsenetPostsResponse">
+    <wsdl:part element="tns:countUsenetPostsResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="updateMessageId">
+    <wsdl:part element="tns:updateMessageId" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="countUsenetPosts_1Response">
+    <wsdl:part element="tns:countUsenetPosts_1Response" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="listUsenetPostsResponse">
+    <wsdl:part element="tns:listUsenetPostsResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="listIndividualIds">
+    <wsdl:part element="tns:listIndividualIds" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:portType name="UsenetPostWebService">
+    <wsdl:operation name="listMessageIds">
+      <wsdl:input message="tns:listMessageIds" name="listMessageIds">
+    </wsdl:input>
+      <wsdl:output message="tns:listMessageIdsResponse" name="listMessageIdsResponse">
+    </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listUsenetPosts_1">
+      <wsdl:input message="tns:listUsenetPosts_1" name="listUsenetPosts_1">
+    </wsdl:input>
+      <wsdl:output message="tns:listUsenetPosts_1Response" name="listUsenetPosts_1Response">
+    </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getMessageBody">
+      <wsdl:input message="tns:getMessageBody" name="getMessageBody">
+    </wsdl:input>
+      <wsdl:output message="tns:getMessageBodyResponse" name="getMessageBodyResponse">
+    </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="updateMessageId">
+      <wsdl:input message="tns:updateMessageId" name="updateMessageId">
+    </wsdl:input>
+    </wsdl:operation>
+    <wsdl:operation name="countUsenetPosts_1">
+      <wsdl:input message="tns:countUsenetPosts_1" name="countUsenetPosts_1">
+    </wsdl:input>
+      <wsdl:output message="tns:countUsenetPosts_1Response" name="countUsenetPosts_1Response">
+    </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listIndividualIds">
+      <wsdl:input message="tns:listIndividualIds" name="listIndividualIds">
+    </wsdl:input>
+      <wsdl:output message="tns:listIndividualIdsResponse" name="listIndividualIdsResponse">
+    </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listUsenetPosts">
+      <wsdl:input message="tns:listUsenetPosts" name="listUsenetPosts">
+    </wsdl:input>
+      <wsdl:output message="tns:listUsenetPostsResponse" name="listUsenetPostsResponse">
+    </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="countUsenetPosts">
+      <wsdl:input message="tns:countUsenetPosts" name="countUsenetPosts">
+    </wsdl:input>
+      <wsdl:output message="tns:countUsenetPostsResponse" name="countUsenetPostsResponse">
+    </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="insertPhrases">
+      <wsdl:input message="tns:insertPhrases" name="insertPhrases">
+    </wsdl:input>
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="UsenetPostWebServiceSoapBinding" type="tns:UsenetPostWebService">
+    <soap:binding style="document" transport="http://schemas.xmlsoap.org/soap/http"/>
+    <wsdl:operation name="listMessageIds">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="listMessageIds">
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="listMessageIdsResponse">
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listUsenetPosts_1">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="listUsenetPosts_1">
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="listUsenetPosts_1Response">
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getMessageBody">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="getMessageBody">
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="getMessageBodyResponse">
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="updateMessageId">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="updateMessageId">
+        <soap:body use="literal"/>
+      </wsdl:input>
+    </wsdl:operation>
+    <wsdl:operation name="countUsenetPosts_1">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="countUsenetPosts_1">
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="countUsenetPosts_1Response">
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listIndividualIds">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="listIndividualIds">
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="listIndividualIdsResponse">
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listUsenetPosts">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="listUsenetPosts">
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="listUsenetPostsResponse">
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="countUsenetPosts">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="countUsenetPosts">
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="countUsenetPostsResponse">
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="insertPhrases">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="insertPhrases">
+        <soap:body use="literal"/>
+      </wsdl:input>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="UsenetPostWebService">
+    <wsdl:port binding="tns:UsenetPostWebServiceSoapBinding" name="UsenetPostWebServicePort">
+      <soap:address location="http://localhost:8080/TacitKnowledge-war/UsenetPostWebService"/>
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
