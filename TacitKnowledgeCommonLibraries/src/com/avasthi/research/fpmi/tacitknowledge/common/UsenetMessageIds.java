@@ -1,0 +1,20 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+package com.avasthi.research.fpmi.tacitknowledge.common;
+
+/**
+ *
+ * @author vavasthi
+ */
+public class UsenetMessageIds {
+ 
+    public static final String MESSAGE_TYPE_PROPERTY = "MESSAGE_TYPE";
+    public static final int POST_MESSAGE = 0x01;
+    public static final int INTERESTING_PHRASE_MESSAGE = 0x02;
+    public static final int NETWORK_EDGE_MESSAGE = 0x03;
+    
+}
