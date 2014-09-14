@@ -125,6 +125,9 @@ public class UsenetPostMessage implements Serializable {
     List<String> references;
     String body;
 
+    public UsenetPostMessage() {
+        
+    }
     public UsenetPostMessage(String senderName,
             String senderEmail,
             String id,

@@ -6,7 +6,8 @@
 package com.avasthi.research.fpmi.tacitknowledge.contentparsers;
 
 import com.aliasi.util.ScoredObject;
-import com.avasthi.research.fpmi.tacitknowledge.contentparsers.ws.client.UsenetPostPhraseScore;
+import com.avasthi.research.fpmi.tacitknowledge.common.UsenetInterestingPhraseMessage;
+import com.avasthi.research.fpmi.tacitknowledge.common.UsenetPostPhraseScore;
 import com.avasthi.research.fpmi.tacitknowledge.contentparsers.ws.client.UsenetPostWebService;
 import com.avasthi.research.fpmi.tacitknowledge.contentparsers.ws.client.UsenetPostWebService_Service;
 import java.io.File;
@@ -18,6 +19,10 @@ import java.util.List;
 import java.util.SortedSet;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import javax.xml.datatype.DatatypeConfigurationException;
+import javax.xml.datatype.DatatypeConstants;
+import javax.xml.datatype.DatatypeFactory;
+import javax.xml.datatype.XMLGregorianCalendar;
 
 /**
  *
@@ -27,98 +32,98 @@ public class TacitKnowledgeContentParser {
 
     private final String email_;
     private final String base_;
-     private final static String exceptionWordPattern_ = "("
-                    + "all|"
-                    + "another|"
-                    + "a|"
-                    + "am|"
-                    + "an|"
-                    + "and|"
-                    + "any|"
-                    + "anybody|"
-                    + "anyone|"
-                    + "anything|"
-                    + "both|"
-                    + "each|"
-                    + "either|"
-                    + "everybody|"
-                    + "everyone|"
-                    + "everything|"
-                    + "few|"
-                    + "for|"
-                    + "from|"
-                    + "has|"
-                    + "have|"
-                    + "he|"
-                    + "her|"
-                    + "hers|"
-                    + "herself|"
-                    + "him|"
-                    + "himself|"
-                    + "his|"
-                    + "i|"
-                    + "if|"
-                    + "is|"
-                    + "it|"
-                    + "its|"
-                    + "itself|"
-                    + "many|"
-                    + "me|"
-                    + "mine|"
-                    + "more|"
-                    + "most|"
-                    + "much|"
-                    + "my|"
-                    + "myself|"
-                    + "neither|"
-                    + "no one|"
-                    + "nobody|"
-                    + "none|"
-                    + "not|"
-                    + "nothing|"
-                    + "of|"
-                    + "one|"
-                    + "or|"
-                    + "other|"
-                    + "others|"
-                    + "our|"
-                    + "ours|"
-                    + "ourselves|"
-                    + "please|"
-                    + "several|"
-                    + "she|"
-                    + "some|"
-                    + "somebody|"
-                    + "someone|"
-                    + "something|"
-                    + "that|"
-                    + "the|"
-                    + "their|"
-                    + "theirs|"
-                    + "them|"
-                    + "themselves|"
-                    + "these|"
-                    + "they|"
-                    + "this|"
-                    + "those|"
-                    + "to|"
-                    + "us|"
-                    + "we|"
-                    + "what|"
-                    + "whatever|"
-                    + "which|"
-                    + "whichever|"
-                    + "who|"
-                    + "whoever|"
-                    + "whom|"
-                    + "whomever|"
-                    + "whose|"
-                    + "with|"
-                    + "you|"
-                    + "your|"
-                    + "yours|"
-                    + "yourself|"
-                    + "yourselves)" + "\\b";
+    private final static String exceptionWordPattern_ = "("
+            + "all|"
+            + "another|"
+            + "a|"
+            + "am|"
+            + "an|"
+            + "and|"
+            + "any|"
+            + "anybody|"
+            + "anyone|"
+            + "anything|"
+            + "both|"
+            + "each|"
+            + "either|"
+            + "everybody|"
+            + "everyone|"
+            + "everything|"
+            + "few|"
+            + "for|"
+            + "from|"
+            + "has|"
+            + "have|"
+            + "he|"
+            + "her|"
+            + "hers|"
+            + "herself|"
+            + "him|"
+            + "himself|"
+            + "his|"
+            + "i|"
+            + "if|"
+            + "is|"
+            + "it|"
+            + "its|"
+            + "itself|"
+            + "many|"
+            + "me|"
+            + "mine|"
+            + "more|"
+            + "most|"
+            + "much|"
+            + "my|"
+            + "myself|"
+            + "neither|"
+            + "no one|"
+            + "nobody|"
+            + "none|"
+            + "not|"
+            + "nothing|"
+            + "of|"
+            + "one|"
+            + "or|"
+            + "other|"
+            + "others|"
+            + "our|"
+            + "ours|"
+            + "ourselves|"
+            + "please|"
+            + "several|"
+            + "she|"
+            + "some|"
+            + "somebody|"
+            + "someone|"
+            + "something|"
+            + "that|"
+            + "the|"
+            + "their|"
+            + "theirs|"
+            + "them|"
+            + "themselves|"
+            + "these|"
+            + "they|"
+            + "this|"
+            + "those|"
+            + "to|"
+            + "us|"
+            + "we|"
+            + "what|"
+            + "whatever|"
+            + "which|"
+            + "whichever|"
+            + "who|"
+            + "whoever|"
+            + "whom|"
+            + "whomever|"
+            + "whose|"
+            + "with|"
+            + "you|"
+            + "your|"
+            + "yours|"
+            + "yourself|"
+            + "yourselves)" + "\\b";
 
     private TacitKnowledgeContentParser(String base, String email) {
         base_ = base;
@@ -163,57 +168,92 @@ public class TacitKnowledgeContentParser {
                 if (!userDir.isDirectory()) {
                     userDir.mkdirs();
                 }
-                TacitKnowledgeInterestingPhraseDetector ipd
-                        = new TacitKnowledgeInterestingPhraseDetector();
+                int noMsgs = 0;
                 System.out.println("Searching " + " for user id " + uid);
-                List<String> messageIdList = ws.listMessageIds(uid);
-                for (String mid : messageIdList) {
-                    System.out.println("Found " + mid + " message Ids" + " for user id " + uid);
-                    FileWriter fw = null;
-                    try {
-                        File msgFile = new File(userDir, mid);
-                        fw = new FileWriter(msgFile);
-                        String body = URLDecoder.decode(ws.getMessageBody(mid), "UTF-8");
-                        body = body.toLowerCase();
-                        body = body.replaceAll("[^a-z0-9@ ]", "");
-                        body = body.replaceAll(exceptionWordPattern_, "");
-                        ipd.incrementalTrain(body);
-                        fw.write(body);
-                        fw.close();
-                    } catch (IOException ex) {
-                        Logger.getLogger(TacitKnowledgeContentParser.class.getName()).log(Level.SEVERE, null, ex);
-                    } finally {
+                XMLGregorianCalendar fromMin = ws.getMinDateForUser(uid);
+                XMLGregorianCalendar toMax = ws.getMaxDateForUser(uid);
+                XMLGregorianCalendar from = DatatypeFactory.newInstance().newXMLGregorianCalendar(fromMin.toGregorianCalendar());
+                from.setHour(0);
+                from.setMinute(0);
+                from.setSecond(0);
+                from.setTimezone(0);
+                XMLGregorianCalendar to = DatatypeFactory.newInstance().newXMLGregorianCalendar(fromMin.toGregorianCalendar());;
+                to.setHour(0);
+                to.setMinute(0);
+                to.setSecond(0);
+                to.setTimezone(0);
+                System.out.println("Before " + from.toString() + " " + to.toString());
+                to.add(DatatypeFactory.newInstance().newDuration("P1M"));
+                System.out.println("After " + from.toString() + " " + to.toString());
+                while (from.compare(toMax) == DatatypeConstants.LESSER) {
+
+                    TacitKnowledgeInterestingPhraseDetector ipd
+                        = new TacitKnowledgeInterestingPhraseDetector();
+                    List<String> messageIdList = ws.listMessageIds(uid, from, to);
+                    System.out.println("Found " + messageIdList.size() + " message Ids" + " for user id " + uid + " between dates " + from.toString() + " and " + to.toString());
+                    for (String mid : messageIdList) {
+                        FileWriter fw = null;
                         try {
-                            fw.close();
+//                            File msgFile = new File(userDir, mid);
+//                            fw = new FileWriter(msgFile);
+                            String body = URLDecoder.decode(ws.getMessageBody(mid), "UTF-8");
+                            body = body.toLowerCase();
+                            body = body.replaceAll("[^a-z0-9@ ]", "");
+                            body = body.replaceAll(exceptionWordPattern_, "");
+                            ipd.incrementalTrain(body);
+                            ++noMsgs;
+                            if (noMsgs == 200) {
+                                noMsgs = 0;
+                                ipd.model.sequenceCounter().prune(3);
+                            }
+  //                          fw.write(body);
+  //                          fw.close();
                         } catch (IOException ex) {
                             Logger.getLogger(TacitKnowledgeContentParser.class.getName()).log(Level.SEVERE, null, ex);
+                        } finally {
+//                            try {
+ //                               fw.close();
+ //                           } catch (IOException ex) {
+ //                               Logger.getLogger(TacitKnowledgeContentParser.class.getName()).log(Level.SEVERE, null, ex);
+ //                           }
                         }
                     }
-                }
-                List<UsenetPostPhraseScore> ppsList = new ArrayList<UsenetPostPhraseScore>();
-                for (int i = 1; i < 4; ++i) {
-                    SortedSet< ScoredObject<String[]>> sso;
-                    sso = ipd.model.frequentTermSet(i, 100);
-                    String sep1 = " ";
-                    String sep2 = "";
-                    String sep = sep2;
-                    for (ScoredObject<String[]> so : sso) {
-                        String[] sa = so.getObject();
-                        String phrase = "";
-                        for (int j = 0; j < sa.length; ++j) {
-                            phrase += sep + sa[j];
-                            sep = sep1;
+                    List<UsenetPostPhraseScore> ppsList = new ArrayList<UsenetPostPhraseScore>();
+                    ipd.model.sequenceCounter().prune(3);
+                    for (int i = 1; i < 5; ++i) {
+                        SortedSet< ScoredObject<String[]>> sso;
+                        sso = ipd.model.frequentTermSet(i, 100);
+                        String sep1 = " ";
+                        String sep2 = "";
+                        String sep = sep2;
+                        for (ScoredObject<String[]> so : sso) {
+                            String[] sa = so.getObject();
+                            String phrase = "";
+                            for (int j = 0; j < sa.length; ++j) {
+                                phrase += sep + sa[j];
+                                sep = sep1;
+                            }
+                            UsenetPostPhraseScore pps = new UsenetPostPhraseScore();
+                            pps.setPhrase(phrase);
+                            pps.setScore(so.score());
+                            pps.setPhraseLength(i);
+                            ppsList.add(pps);
                         }
-                        UsenetPostPhraseScore pps = new UsenetPostPhraseScore();
-                        pps.setPhrase(phrase);
-                        pps.setScore(so.score());
-                        pps.setPhraseLength(i);
-                        ppsList.add(pps);
                     }
+                    UsenetInterestingPhraseMessage uipm 
+                            = new UsenetInterestingPhraseMessage();
+                    uipm.setUid(uid);
+                    uipm.setFrom(from.toGregorianCalendar().getTime());
+                    uipm.setTo(to.toGregorianCalendar().getTime());
+                    uipm.setPpsList(ppsList);
+                    UsenetPostMessageQueueSender.instance().send(uipm);
+//                    ipd.report();
+                    from.add(DatatypeFactory.newInstance().newDuration("P1M"));
+                    to.add(DatatypeFactory.newInstance().newDuration("P1M"));
                 }
-                ws.insertPhrases(uid, ppsList);
-                ipd.report();
-            } catch (IOException ex) {
+//            } catch (IOException ex) {
+//                Logger.getLogger(TacitKnowledgeContentParser.class.getName()).log(Level.SEVERE, null, ex);
+            } catch (DatatypeConfigurationException ex) {
                 Logger.getLogger(TacitKnowledgeContentParser.class.getName()).log(Level.SEVERE, null, ex);
             }
 

@@ -40,7 +40,7 @@ public class UsenetPost implements Serializable {
     private String newsGroup;
     private String inReplyTo;
     
-    @OneToMany
+    @OneToMany(fetch = FetchType.EAGER)
     private List<UsenetPostReference> referencedPostIds = new ArrayList<UsenetPostReference>();
     
     @Lob @Basic(fetch = FetchType.EAGER)

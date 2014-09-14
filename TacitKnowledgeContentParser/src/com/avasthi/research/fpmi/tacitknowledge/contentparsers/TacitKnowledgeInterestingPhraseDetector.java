@@ -38,6 +38,8 @@ public class TacitKnowledgeInterestingPhraseDetector {
 
     public void report() throws IOException {
 
+        try {
+            
         SortedSet<ScoredObject<String[]>> coll 
             = model.collocationSet(NGRAM_REPORTING_LENGTH,
                                    MIN_COUNT,
@@ -45,6 +47,11 @@ public class TacitKnowledgeInterestingPhraseDetector {
 
         model.sequenceCounter().prune(3);
         report(coll);
+        }
+        catch(IllegalArgumentException iaex) {
+            System.out.println("Invalid model");
+            iaex.printStackTrace();
+        }
     } 
 
     public void incrementalTrain(String text) 

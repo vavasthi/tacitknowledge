@@ -8,7 +8,13 @@ package com.avasthi.research.fpmi.tacitknowledge.ws;
 
 import com.avasthi.research.fpmi.tacitknowledge.UsenetPost;
 import com.avasthi.research.fpmi.tacitknowledge.UsenetPostSessionLocal;
+import com.avasthi.research.fpmi.tacitknowledge.common.NetworkEdge;
+import com.avasthi.research.fpmi.tacitknowledge.common.NetworkNode;
+import com.avasthi.research.fpmi.tacitknowledge.common.UsenetPostHeaders;
+import com.avasthi.research.fpmi.tacitknowledge.common.UsenetPostPhraseScore;
+import java.util.Date;
 import java.util.List;
+import java.util.Set;
 import javax.ejb.EJB;
 import javax.jws.Oneway;
 import javax.jws.WebMethod;
@@ -57,13 +63,33 @@ public class UsenetPostWebService {
     }
 
     @WebMethod(operationName = "listMessageIds")
-    public List<String> listMessageIds(@WebParam(name = "id") long id) {
-        return ejbRef.listMessageIds(id);
+    public List<String> listMessageIds(@WebParam(name = "id") long id, @WebParam(name = "from") Date from, @WebParam(name = "to") Date to) {
+        return ejbRef.listMessageIds(id, from, to);
     }
 
     @WebMethod(operationName = "getMessageBody")
     public String getMessageBody(@WebParam(name = "id") String id) {
         return ejbRef.getMessageBody(id);
+    }
+
+    @WebMethod(operationName = "getMinDateForUser")
+    public Date getMinDateForUser(@WebParam(name = "uid") Long uid) {
+        return ejbRef.getMinDateForUser(uid);
+    }
+
+    @WebMethod(operationName = "getMaxDateForUser")
+    public Date getMaxDateForUser(@WebParam(name = "uid") Long uid) {
+        return ejbRef.getMaxDateForUser(uid);
+    }
+
+    @WebMethod(operationName = "getMinDate")
+    public Date getMinDate() {
+        return ejbRef.getMinDate();
+    }
+
+    @WebMethod(operationName = "getMaxDate")
+    public Date getMaxDate() {
+        return ejbRef.getMaxDate();
     }
 
     @WebMethod(operationName = "updateMessageId")
@@ -74,8 +100,23 @@ public class UsenetPostWebService {
 
     @WebMethod(operationName = "insertPhrases")
     @Oneway
-    public void insertPhrases(@WebParam(name = "userid") long userid, @WebParam(name = "ppsList") List<com.avasthi.research.fpmi.tacitknowledge.common.UsenetPostPhraseScore> ppsList) {
-        ejbRef.insertPhrases(userid, ppsList);
+    public void insertPhrases(@WebParam(name = "userid") long userid, @WebParam(name = "from") Date from, @WebParam(name = "to") Date to, @WebParam(name = "ppsList") List<UsenetPostPhraseScore> ppsList) {
+        ejbRef.insertPhrases(userid, from, to, ppsList);
+    }
+
+    @WebMethod(operationName = "getPost")
+    public UsenetPostHeaders getPost(@WebParam(name = "id") String id) {
+        return ejbRef.getPost(id);
+    }
+
+    @WebMethod(operationName = "getNetworkNodes")
+    public Set<NetworkNode> getNetworkNodes(@WebParam(name = "from") Date from, @WebParam(name = "to") Date to) {
+        return ejbRef.getNetworkNodes(from, to);
+    }
+
+    @WebMethod(operationName = "getNetworkEdges")
+    public List<NetworkEdge> getNetworkEdges(@WebParam(name = "src") Long src, @WebParam(name = "tgt") Long tgt, @WebParam(name = "from") Date from, @WebParam(name = "to") Date to) {
+        return ejbRef.getNetworkEdges(src, tgt, from, to);
     }
     
 }

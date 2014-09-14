@@ -5,8 +5,14 @@
  */
 package com.avasthi.research.fpmi.tacitknowledge;
 
+import com.avasthi.research.fpmi.tacitknowledge.common.NetworkEdge;
+import com.avasthi.research.fpmi.tacitknowledge.common.NetworkNode;
+import com.avasthi.research.fpmi.tacitknowledge.common.UsenetNetworkEdgeMessage;
+import com.avasthi.research.fpmi.tacitknowledge.common.UsenetPostHeaders;
 import com.avasthi.research.fpmi.tacitknowledge.common.UsenetPostPhraseScore;
+import java.util.Date;
 import java.util.List;
+import java.util.Set;
 import javax.ejb.Local;
 
 /**
@@ -23,13 +29,20 @@ public interface UsenetPostSessionLocal {
 
     List<Long> listIndividualIds();
 
-    List<String> listMessageIds(long id);
+    List<String> listMessageIds(long id, Date from, Date to);
 
     String getMessageBody(String id);
+    Date getMinDateForUser(Long uid);
+    Date getMaxDateForUser(Long uid);
+    Date getMinDate();
+    Date getMaxDate();
 
     void updateMessageId();
 
-    void insertPhrases(long userid, List<UsenetPostPhraseScore> ppsList);
+    void insertPhrases(long userid, Date from, Date to, List<UsenetPostPhraseScore> ppsList);
+    UsenetPostHeaders getPost(String id);
+    Set<NetworkNode> getNetworkNodes(Date from, Date to);
+    List<NetworkEdge> getNetworkEdges(Long src, Long tgt, Date from, Date to);
     
 
 }

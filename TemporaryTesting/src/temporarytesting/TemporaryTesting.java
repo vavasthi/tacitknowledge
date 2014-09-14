@@ -9,6 +9,7 @@ package temporarytesting;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
+import java.util.StringTokenizer;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
@@ -103,6 +104,11 @@ public class TemporaryTesting {
     public static void main(String[] args) {
         // TODO code application logic here
         
+        String str1 = "This, is, a,new, String";
+        StringTokenizer st = new StringTokenizer(str1, ", ");
+        while (st.hasMoreTokens()) {
+            System.out.println(st.nextToken());
+        }
         String test1 = "<This is an interesting stirng>";
         String test2 = "<this is an interesting stirng>";
         String test3 = "this ee";

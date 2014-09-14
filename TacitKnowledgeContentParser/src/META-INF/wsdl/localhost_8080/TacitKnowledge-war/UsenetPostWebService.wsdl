@@ -10,9 +10,37 @@
 
   <xs:element name="countUsenetPosts_1Response" type="tns:countUsenetPosts_1Response"/>
 
+  <xs:element name="getMaxDate" type="tns:getMaxDate"/>
+
+  <xs:element name="getMaxDateForUser" type="tns:getMaxDateForUser"/>
+
+  <xs:element name="getMaxDateForUserResponse" type="tns:getMaxDateForUserResponse"/>
+
+  <xs:element name="getMaxDateResponse" type="tns:getMaxDateResponse"/>
+
   <xs:element name="getMessageBody" type="tns:getMessageBody"/>
 
   <xs:element name="getMessageBodyResponse" type="tns:getMessageBodyResponse"/>
+
+  <xs:element name="getMinDate" type="tns:getMinDate"/>
+
+  <xs:element name="getMinDateForUser" type="tns:getMinDateForUser"/>
+
+  <xs:element name="getMinDateForUserResponse" type="tns:getMinDateForUserResponse"/>
+
+  <xs:element name="getMinDateResponse" type="tns:getMinDateResponse"/>
+
+  <xs:element name="getNetworkEdges" type="tns:getNetworkEdges"/>
+
+  <xs:element name="getNetworkEdgesResponse" type="tns:getNetworkEdgesResponse"/>
+
+  <xs:element name="getNetworkNodes" type="tns:getNetworkNodes"/>
+
+  <xs:element name="getNetworkNodesResponse" type="tns:getNetworkNodesResponse"/>
+
+  <xs:element name="getPost" type="tns:getPost"/>
+
+  <xs:element name="getPostResponse" type="tns:getPostResponse"/>
 
   <xs:element name="individual" type="tns:individual"/>
 
@@ -41,12 +69,24 @@
   <xs:complexType name="listMessageIds">
     <xs:sequence>
       <xs:element name="id" type="xs:long"/>
+      <xs:element minOccurs="0" name="from" type="xs:dateTime"/>
+      <xs:element minOccurs="0" name="to" type="xs:dateTime"/>
     </xs:sequence>
   </xs:complexType>
 
   <xs:complexType name="listMessageIdsResponse">
     <xs:sequence>
       <xs:element maxOccurs="unbounded" minOccurs="0" name="return" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="getMinDate">
+    <xs:sequence/>
+  </xs:complexType>
+
+  <xs:complexType name="getMinDateResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="xs:dateTime"/>
     </xs:sequence>
   </xs:complexType>
 
@@ -91,20 +131,49 @@
     </xs:sequence>
   </xs:complexType>
 
-  <xs:complexType name="getMessageBody">
+  <xs:complexType name="getNetworkNodes">
     <xs:sequence>
+      <xs:element minOccurs="0" name="from" type="xs:dateTime"/>
+      <xs:element minOccurs="0" name="to" type="xs:dateTime"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="getNetworkNodesResponse">
+    <xs:sequence>
+      <xs:element maxOccurs="unbounded" minOccurs="0" name="return" type="tns:networkNode"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="networkNode">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="id" type="xs:long"/>
+      <xs:element minOccurs="0" name="name" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="getNetworkEdges">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="src" type="xs:long"/>
+      <xs:element minOccurs="0" name="tgt" type="xs:long"/>
+      <xs:element minOccurs="0" name="from" type="xs:dateTime"/>
+      <xs:element minOccurs="0" name="to" type="xs:dateTime"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="getNetworkEdgesResponse">
+    <xs:sequence>
+      <xs:element maxOccurs="unbounded" minOccurs="0" name="return" type="tns:networkEdge"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="networkEdge">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="count" type="xs:long"/>
       <xs:element minOccurs="0" name="id" type="xs:string"/>
+      <xs:element minOccurs="0" name="individualFrom" type="xs:long"/>
+      <xs:element minOccurs="0" name="individualTo" type="xs:long"/>
+      <xs:element minOccurs="0" name="topic" type="xs:string"/>
     </xs:sequence>
-  </xs:complexType>
-
-  <xs:complexType name="getMessageBodyResponse">
-    <xs:sequence>
-      <xs:element minOccurs="0" name="return" type="xs:string"/>
-    </xs:sequence>
-  </xs:complexType>
-
-  <xs:complexType name="updateMessageId">
-    <xs:sequence/>
   </xs:complexType>
 
   <xs:complexType name="countUsenetPosts_1">
@@ -114,16 +183,6 @@
   <xs:complexType name="countUsenetPosts_1Response">
     <xs:sequence>
       <xs:element name="return" type="xs:int"/>
-    </xs:sequence>
-  </xs:complexType>
-
-  <xs:complexType name="listIndividualIds">
-    <xs:sequence/>
-  </xs:complexType>
-
-  <xs:complexType name="listIndividualIdsResponse">
-    <xs:sequence>
-      <xs:element maxOccurs="unbounded" minOccurs="0" name="return" type="xs:long"/>
     </xs:sequence>
   </xs:complexType>
 
@@ -154,6 +213,8 @@
   <xs:complexType name="insertPhrases">
     <xs:sequence>
       <xs:element name="userid" type="xs:long"/>
+      <xs:element minOccurs="0" name="from" type="xs:dateTime"/>
+      <xs:element minOccurs="0" name="to" type="xs:dateTime"/>
       <xs:element maxOccurs="unbounded" minOccurs="0" name="ppsList" type="tns:usenetPostPhraseScore"/>
     </xs:sequence>
   </xs:complexType>
@@ -166,34 +227,125 @@
     </xs:sequence>
   </xs:complexType>
 
+  <xs:complexType name="getMaxDate">
+    <xs:sequence/>
+  </xs:complexType>
+
+  <xs:complexType name="getMaxDateResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="xs:dateTime"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="getMaxDateForUser">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="uid" type="xs:long"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="getMaxDateForUserResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="xs:dateTime"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="getPost">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="id" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="getPostResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="tns:usenetPostHeaders"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="usenetPostHeaders">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="date" type="xs:dateTime"/>
+      <xs:element minOccurs="0" name="id" type="xs:string"/>
+      <xs:element minOccurs="0" name="inReplyTo" type="xs:string"/>
+      <xs:element minOccurs="0" name="newsgroup" type="xs:string"/>
+      <xs:element maxOccurs="unbounded" minOccurs="0" name="references" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="senderId" type="xs:long"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="getMessageBody">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="id" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="getMessageBodyResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="updateMessageId">
+    <xs:sequence/>
+  </xs:complexType>
+
+  <xs:complexType name="listIndividualIds">
+    <xs:sequence/>
+  </xs:complexType>
+
+  <xs:complexType name="listIndividualIdsResponse">
+    <xs:sequence>
+      <xs:element maxOccurs="unbounded" minOccurs="0" name="return" type="xs:long"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="getMinDateForUser">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="uid" type="xs:long"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="getMinDateForUserResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="xs:dateTime"/>
+    </xs:sequence>
+  </xs:complexType>
+
 </xs:schema>
   </wsdl:types>
   <wsdl:message name="listMessageIds">
     <wsdl:part element="tns:listMessageIds" name="parameters">
     </wsdl:part>
   </wsdl:message>
+  <wsdl:message name="getMaxDateForUserResponse">
+    <wsdl:part element="tns:getMaxDateForUserResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
   <wsdl:message name="listUsenetPosts_1">
     <wsdl:part element="tns:listUsenetPosts_1" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="getNetworkNodesResponse">
+    <wsdl:part element="tns:getNetworkNodesResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="getMaxDateResponse">
+    <wsdl:part element="tns:getMaxDateResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="getNetworkEdges">
+    <wsdl:part element="tns:getNetworkEdges" name="parameters">
     </wsdl:part>
   </wsdl:message>
   <wsdl:message name="countUsenetPosts_1">
     <wsdl:part element="tns:countUsenetPosts_1" name="parameters">
     </wsdl:part>
   </wsdl:message>
-  <wsdl:message name="listUsenetPosts">
-    <wsdl:part element="tns:listUsenetPosts" name="parameters">
-    </wsdl:part>
-  </wsdl:message>
   <wsdl:message name="countUsenetPosts">
     <wsdl:part element="tns:countUsenetPosts" name="parameters">
     </wsdl:part>
   </wsdl:message>
-  <wsdl:message name="insertPhrases">
-    <wsdl:part element="tns:insertPhrases" name="parameters">
-    </wsdl:part>
-  </wsdl:message>
-  <wsdl:message name="listMessageIdsResponse">
-    <wsdl:part element="tns:listMessageIdsResponse" name="parameters">
+  <wsdl:message name="getMaxDate">
+    <wsdl:part element="tns:getMaxDate" name="parameters">
     </wsdl:part>
   </wsdl:message>
   <wsdl:message name="listUsenetPosts_1Response">
@@ -204,12 +356,12 @@
     <wsdl:part element="tns:getMessageBodyResponse" name="parameters">
     </wsdl:part>
   </wsdl:message>
-  <wsdl:message name="listIndividualIdsResponse">
-    <wsdl:part element="tns:listIndividualIdsResponse" name="parameters">
+  <wsdl:message name="getMaxDateForUser">
+    <wsdl:part element="tns:getMaxDateForUser" name="parameters">
     </wsdl:part>
   </wsdl:message>
-  <wsdl:message name="getMessageBody">
-    <wsdl:part element="tns:getMessageBody" name="parameters">
+  <wsdl:message name="listIndividualIdsResponse">
+    <wsdl:part element="tns:listIndividualIdsResponse" name="parameters">
     </wsdl:part>
   </wsdl:message>
   <wsdl:message name="countUsenetPostsResponse">
@@ -218,6 +370,50 @@
   </wsdl:message>
   <wsdl:message name="updateMessageId">
     <wsdl:part element="tns:updateMessageId" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="getMinDateForUser">
+    <wsdl:part element="tns:getMinDateForUser" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="getMinDate">
+    <wsdl:part element="tns:getMinDate" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="getNetworkNodes">
+    <wsdl:part element="tns:getNetworkNodes" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="listUsenetPosts">
+    <wsdl:part element="tns:listUsenetPosts" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="insertPhrases">
+    <wsdl:part element="tns:insertPhrases" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="listMessageIdsResponse">
+    <wsdl:part element="tns:listMessageIdsResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="getMinDateResponse">
+    <wsdl:part element="tns:getMinDateResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="getNetworkEdgesResponse">
+    <wsdl:part element="tns:getNetworkEdgesResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="getPost">
+    <wsdl:part element="tns:getPost" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="getMessageBody">
+    <wsdl:part element="tns:getMessageBody" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="getPostResponse">
+    <wsdl:part element="tns:getPostResponse" name="parameters">
     </wsdl:part>
   </wsdl:message>
   <wsdl:message name="countUsenetPosts_1Response">
@@ -232,11 +428,21 @@
     <wsdl:part element="tns:listIndividualIds" name="parameters">
     </wsdl:part>
   </wsdl:message>
+  <wsdl:message name="getMinDateForUserResponse">
+    <wsdl:part element="tns:getMinDateForUserResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
   <wsdl:portType name="UsenetPostWebService">
     <wsdl:operation name="listMessageIds">
       <wsdl:input message="tns:listMessageIds" name="listMessageIds">
     </wsdl:input>
       <wsdl:output message="tns:listMessageIdsResponse" name="listMessageIdsResponse">
+    </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getMinDate">
+      <wsdl:input message="tns:getMinDate" name="getMinDate">
+    </wsdl:input>
+      <wsdl:output message="tns:getMinDateResponse" name="getMinDateResponse">
     </wsdl:output>
     </wsdl:operation>
     <wsdl:operation name="listUsenetPosts_1">
@@ -245,26 +451,22 @@
       <wsdl:output message="tns:listUsenetPosts_1Response" name="listUsenetPosts_1Response">
     </wsdl:output>
     </wsdl:operation>
-    <wsdl:operation name="getMessageBody">
-      <wsdl:input message="tns:getMessageBody" name="getMessageBody">
+    <wsdl:operation name="getNetworkNodes">
+      <wsdl:input message="tns:getNetworkNodes" name="getNetworkNodes">
     </wsdl:input>
-      <wsdl:output message="tns:getMessageBodyResponse" name="getMessageBodyResponse">
+      <wsdl:output message="tns:getNetworkNodesResponse" name="getNetworkNodesResponse">
     </wsdl:output>
     </wsdl:operation>
-    <wsdl:operation name="updateMessageId">
-      <wsdl:input message="tns:updateMessageId" name="updateMessageId">
+    <wsdl:operation name="getNetworkEdges">
+      <wsdl:input message="tns:getNetworkEdges" name="getNetworkEdges">
     </wsdl:input>
+      <wsdl:output message="tns:getNetworkEdgesResponse" name="getNetworkEdgesResponse">
+    </wsdl:output>
     </wsdl:operation>
     <wsdl:operation name="countUsenetPosts_1">
       <wsdl:input message="tns:countUsenetPosts_1" name="countUsenetPosts_1">
     </wsdl:input>
       <wsdl:output message="tns:countUsenetPosts_1Response" name="countUsenetPosts_1Response">
-    </wsdl:output>
-    </wsdl:operation>
-    <wsdl:operation name="listIndividualIds">
-      <wsdl:input message="tns:listIndividualIds" name="listIndividualIds">
-    </wsdl:input>
-      <wsdl:output message="tns:listIndividualIdsResponse" name="listIndividualIdsResponse">
     </wsdl:output>
     </wsdl:operation>
     <wsdl:operation name="listUsenetPosts">
@@ -282,6 +484,46 @@
     <wsdl:operation name="insertPhrases">
       <wsdl:input message="tns:insertPhrases" name="insertPhrases">
     </wsdl:input>
+    </wsdl:operation>
+    <wsdl:operation name="getMaxDate">
+      <wsdl:input message="tns:getMaxDate" name="getMaxDate">
+    </wsdl:input>
+      <wsdl:output message="tns:getMaxDateResponse" name="getMaxDateResponse">
+    </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getMaxDateForUser">
+      <wsdl:input message="tns:getMaxDateForUser" name="getMaxDateForUser">
+    </wsdl:input>
+      <wsdl:output message="tns:getMaxDateForUserResponse" name="getMaxDateForUserResponse">
+    </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getPost">
+      <wsdl:input message="tns:getPost" name="getPost">
+    </wsdl:input>
+      <wsdl:output message="tns:getPostResponse" name="getPostResponse">
+    </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getMessageBody">
+      <wsdl:input message="tns:getMessageBody" name="getMessageBody">
+    </wsdl:input>
+      <wsdl:output message="tns:getMessageBodyResponse" name="getMessageBodyResponse">
+    </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="updateMessageId">
+      <wsdl:input message="tns:updateMessageId" name="updateMessageId">
+    </wsdl:input>
+    </wsdl:operation>
+    <wsdl:operation name="listIndividualIds">
+      <wsdl:input message="tns:listIndividualIds" name="listIndividualIds">
+    </wsdl:input>
+      <wsdl:output message="tns:listIndividualIdsResponse" name="listIndividualIdsResponse">
+    </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getMinDateForUser">
+      <wsdl:input message="tns:getMinDateForUser" name="getMinDateForUser">
+    </wsdl:input>
+      <wsdl:output message="tns:getMinDateForUserResponse" name="getMinDateForUserResponse">
+    </wsdl:output>
     </wsdl:operation>
   </wsdl:portType>
   <wsdl:binding name="UsenetPostWebServiceSoapBinding" type="tns:UsenetPostWebService">
@@ -304,20 +546,32 @@
         <soap:body use="literal"/>
       </wsdl:output>
     </wsdl:operation>
-    <wsdl:operation name="getMessageBody">
+    <wsdl:operation name="getMinDate">
       <soap:operation soapAction="" style="document"/>
-      <wsdl:input name="getMessageBody">
+      <wsdl:input name="getMinDate">
         <soap:body use="literal"/>
       </wsdl:input>
-      <wsdl:output name="getMessageBodyResponse">
+      <wsdl:output name="getMinDateResponse">
         <soap:body use="literal"/>
       </wsdl:output>
     </wsdl:operation>
-    <wsdl:operation name="updateMessageId">
+    <wsdl:operation name="getNetworkNodes">
       <soap:operation soapAction="" style="document"/>
-      <wsdl:input name="updateMessageId">
+      <wsdl:input name="getNetworkNodes">
         <soap:body use="literal"/>
       </wsdl:input>
+      <wsdl:output name="getNetworkNodesResponse">
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getNetworkEdges">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="getNetworkEdges">
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="getNetworkEdgesResponse">
+        <soap:body use="literal"/>
+      </wsdl:output>
     </wsdl:operation>
     <wsdl:operation name="countUsenetPosts_1">
       <soap:operation soapAction="" style="document"/>
@@ -325,15 +579,6 @@
         <soap:body use="literal"/>
       </wsdl:input>
       <wsdl:output name="countUsenetPosts_1Response">
-        <soap:body use="literal"/>
-      </wsdl:output>
-    </wsdl:operation>
-    <wsdl:operation name="listIndividualIds">
-      <soap:operation soapAction="" style="document"/>
-      <wsdl:input name="listIndividualIds">
-        <soap:body use="literal"/>
-      </wsdl:input>
-      <wsdl:output name="listIndividualIdsResponse">
         <soap:body use="literal"/>
       </wsdl:output>
     </wsdl:operation>
@@ -360,6 +605,66 @@
       <wsdl:input name="insertPhrases">
         <soap:body use="literal"/>
       </wsdl:input>
+    </wsdl:operation>
+    <wsdl:operation name="getMaxDate">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="getMaxDate">
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="getMaxDateResponse">
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getMaxDateForUser">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="getMaxDateForUser">
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="getMaxDateForUserResponse">
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getPost">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="getPost">
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="getPostResponse">
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getMessageBody">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="getMessageBody">
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="getMessageBodyResponse">
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="updateMessageId">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="updateMessageId">
+        <soap:body use="literal"/>
+      </wsdl:input>
+    </wsdl:operation>
+    <wsdl:operation name="listIndividualIds">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="listIndividualIds">
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="listIndividualIdsResponse">
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getMinDateForUser">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="getMinDateForUser">
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="getMinDateForUserResponse">
+        <soap:body use="literal"/>
+      </wsdl:output>
     </wsdl:operation>
   </wsdl:binding>
   <wsdl:service name="UsenetPostWebService">

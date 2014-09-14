@@ -5,12 +5,17 @@
  */
 package com.avasthi.research.fpmi.tacitknowledge;
 
+import com.avasthi.research.fpmi.tacitknowledge.common.UsenetInterestingPhraseMessage;
+import com.avasthi.research.fpmi.tacitknowledge.common.UsenetMessageIds;
+import com.avasthi.research.fpmi.tacitknowledge.common.UsenetNetworkEdgeMessage;
 import com.avasthi.research.fpmi.tacitknowledge.common.UsenetPostMessage;
+import com.avasthi.research.fpmi.tacitknowledge.common.UsenetPostPhraseScore;
+import java.io.UnsupportedEncodingException;
+import java.net.URLDecoder;
 import java.util.ArrayList;
 import java.util.Date;
-import java.util.HashSet;
 import java.util.List;
-import java.util.Set;
+import java.util.StringTokenizer;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.ejb.ActivationConfigProperty;
@@ -20,6 +25,7 @@ import javax.jms.Message;
 import javax.jms.MessageListener;
 import javax.jms.ObjectMessage;
 import javax.persistence.EntityManager;
+import javax.persistence.NoResultException;
 import javax.persistence.PersistenceContext;
 import javax.persistence.Query;
 
@@ -48,19 +54,39 @@ public class UsenetPostMessageQueue implements MessageListener {
         if (message instanceof ObjectMessage) {
             try {
                 ObjectMessage o = (ObjectMessage) message;
-                UsenetPostMessage upm = (UsenetPostMessage) o.getObject();
-                processMessage(upm.getSenderName(),
-                        upm.getSenderEmail(),
-                        upm.getId(),
-                        upm.getSubject(),
-                        upm.getDate(),
-                        upm.getContentType(),
-                        upm.getBytes(),
-                        upm.getLines(),
-                        upm.getNewsgroup(),
-                        upm.getInReplyTo(),
-                        upm.getReferences(),
-                        upm.getBody());
+                int messageType = o.getIntProperty(UsenetMessageIds.MESSAGE_TYPE_PROPERTY);
+                switch (messageType) {
+                    case UsenetMessageIds.POST_MESSAGE:
+                        UsenetPostMessage upm = (UsenetPostMessage) o.getObject();
+                        processMessage(upm.getSenderName(),
+                                upm.getSenderEmail(),
+                                upm.getId(),
+                                upm.getSubject(),
+                                upm.getDate(),
+                                upm.getContentType(),
+                                upm.getBytes(),
+                                upm.getLines(),
+                                upm.getNewsgroup(),
+                                upm.getInReplyTo(),
+                                upm.getReferences(),
+                                upm.getBody());
+                        break;
+                    case UsenetMessageIds.INTERESTING_PHRASE_MESSAGE:
+                        UsenetInterestingPhraseMessage uipm = (UsenetInterestingPhraseMessage) o.getObject();
+                        processMessage(uipm.getUid(),
+                                uipm.getFrom(),
+                                uipm.getTo(),
+                                uipm.getPpsList());
+                        break;
+                    case UsenetMessageIds.NETWORK_EDGE_MESSAGE:
+                        UsenetNetworkEdgeMessage unem = (UsenetNetworkEdgeMessage) o.getObject();
+                        processMessage(unem.getIndividualFrom(),
+                                unem.getIndividualTo(),
+                                unem.getDateFrom(),
+                                unem.getDateTo(),
+                                unem.getTopic());
+                        break;
+                }
             } catch (JMSException ex) {
                 Logger.getLogger(UsenetPostMessageQueue.class.getName()).log(Level.SEVERE, null, ex);
             }
@@ -124,8 +150,72 @@ public class UsenetPostMessageQueue implements MessageListener {
                 em.persist(upr);
             }
         }
-            up.setReferencedPosts(referenceList);
+        up.setReferencedPosts(referenceList);
     }
-    private static final Logger LOG = Logger.getLogger(UsenetPostMessageQueue.class.getName());
+
+    private void processMessage(long uid, Date from, Date to, List<UsenetPostPhraseScore> ppsList) {
+
+        if (ppsList != null) {
+
+            LOG.info(ppsList.size() + " elements received for date range " + from.toString() + " to " + to.toString() + " for uid " + uid);
+            for (UsenetPostPhraseScore pps : ppsList) {
+
+                IndividualInterestingPhrases iip
+                        = new IndividualInterestingPhrases();
+                iip.setFromDate(from);
+                iip.setToDate(to);
+                iip.setUserid(uid);
+                iip.setPhraseLength(pps.getPhraseLength());
+                iip.setPhrase(pps.getPhrase());
+                iip.setScore(pps.getScore());
+                em.persist(iip);
+            }
+        } else {
+            LOG.info("No element received for date range " + from.toString() + " to " + to.toString() + " for uid " + uid);
+        }
+
+    }
+
+    private void processMessage(long uidFrom,
+            long uidTo,
+            Date from,
+            Date to,
+            String topic) {
+
+        Individual indFrom = em.find(Individual.class, uidFrom);
+        Individual indTo = em.find(Individual.class, uidTo);
+        try {
+            String dTopic = URLDecoder.decode(topic, "UTF-8");
+            StringTokenizer st = new StringTokenizer(dTopic, ", ");
+            String t= null;
+            while (st.hasMoreTokens()) {
+                try {
+                    t = st.nextToken();
+                    Query q = em.createQuery("select une from UsenetNetworkEdge une where une.from = :from and une.to = :to and une.dateFrom = :dateFrom and une.dateTo = :dateTo and une.topic = :topic");
+                    q.setParameter("from", indFrom);
+                    q.setParameter("to", indTo);
+                    q.setParameter("dateFrom", from);
+                    q.setParameter("dateTo", to);
+                    q.setParameter("topic", t);
+                    UsenetNetworkEdge une = (UsenetNetworkEdge) (q.getSingleResult());
+                    une.setCount(une.getCount() + 1);
+                } catch (NoResultException nre) {
+                    UsenetNetworkEdge une = new UsenetNetworkEdge();
+                    une.setCount(1L);
+                    une.setDateFrom(from);
+                    une.setDateTo(to);
+                    une.setFrom(indFrom);
+                    une.setTo(indTo);
+                    une.setTopic(t);
+                    em.persist(une);
+                }
+            }
+        } catch (UnsupportedEncodingException ex) {
+            Logger.getLogger(UsenetPostMessageQueue.class.getName()).log(Level.SEVERE, null, ex);
+        }
+    }
+
+    private static final Logger LOG = Logger.getLogger(UsenetPostMessageQueue.class
+            .getName());
 
 }

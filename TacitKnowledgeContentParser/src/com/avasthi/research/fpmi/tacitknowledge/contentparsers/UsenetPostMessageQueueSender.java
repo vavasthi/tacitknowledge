@@ -5,11 +5,13 @@
  */
 package com.avasthi.research.fpmi.tacitknowledge.contentparsers;
 
+import com.avasthi.research.fpmi.tacitknowledge.common.UsenetInterestingPhraseMessage;
+import com.avasthi.research.fpmi.tacitknowledge.common.UsenetMessageIds;
+import com.avasthi.research.fpmi.tacitknowledge.common.UsenetNetworkEdgeMessage;
 import com.avasthi.research.fpmi.tacitknowledge.common.UsenetPostMessage;
 import java.util.Properties;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import javax.annotation.Resource;
 import javax.jms.Connection;
 import javax.jms.ConnectionFactory;
 import javax.jms.JMSException;
@@ -83,6 +85,25 @@ public class UsenetPostMessageQueueSender {
     public void send(UsenetPostMessage message) {
         try {
             Message m = session.createObjectMessage(message);
+            m.setIntProperty(UsenetMessageIds.MESSAGE_TYPE_PROPERTY, UsenetMessageIds.POST_MESSAGE);
+            messageProducer.send(m);
+        } catch (JMSException ex) {
+            Logger.getLogger(UsenetPostMessageQueueSender.class.getName()).log(Level.SEVERE, null, ex);
+        }
+    }
+    public void send(UsenetInterestingPhraseMessage message) {
+        try {
+            Message m = session.createObjectMessage(message);
+            m.setIntProperty(UsenetMessageIds.MESSAGE_TYPE_PROPERTY, UsenetMessageIds.INTERESTING_PHRASE_MESSAGE);
+            messageProducer.send(m);
+        } catch (JMSException ex) {
+            Logger.getLogger(UsenetPostMessageQueueSender.class.getName()).log(Level.SEVERE, null, ex);
+        }
+    }
+    public void send(UsenetNetworkEdgeMessage message) {
+        try {
+            Message m = session.createObjectMessage(message);
+            m.setIntProperty(UsenetMessageIds.MESSAGE_TYPE_PROPERTY, UsenetMessageIds.NETWORK_EDGE_MESSAGE);
             messageProducer.send(m);
         } catch (JMSException ex) {
             Logger.getLogger(UsenetPostMessageQueueSender.class.getName()).log(Level.SEVERE, null, ex);

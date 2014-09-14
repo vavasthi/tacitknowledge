@@ -7,8 +7,7 @@
 package com.avasthi.research.fpmi.tacitknowledge;
 
 import java.io.Serializable;
-import java.math.BigInteger;
-import javax.persistence.Basic;
+import java.util.Date;
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -44,6 +43,10 @@ public class IndividualInterestingPhrases implements Serializable {
     private Long id;
     @Column(name = "userid")
     private Long userid;
+    @Column(name = "fromDate")
+    private Date fromDate;
+    @Column(name = "toDate")
+    private Date toDate;
     @Column(name = "phraseLength")
     private Integer phraseLength;
     @Size(max = 255)
@@ -75,7 +78,21 @@ public class IndividualInterestingPhrases implements Serializable {
     public void setUserid(Long userid) {
         this.userid = userid;
     }
+    public Date getFromDate() {
+        return fromDate;
+    }
 
+    public void setFromDate(Date fromDate) {
+        this.fromDate = fromDate;
+    }
+
+    public Date getToDate() {
+        return toDate;
+    }
+
+    public void setToDate(Date toDate) {
+        this.toDate = toDate;
+    }
     public Integer getPhraseLength() {
         return phraseLength;
     }
