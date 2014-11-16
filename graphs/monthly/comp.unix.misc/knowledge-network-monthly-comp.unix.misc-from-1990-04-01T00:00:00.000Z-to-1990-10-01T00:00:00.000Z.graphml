@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2706"/>
+<node id="11027"/>
+<node id="11540"/>
+<node id="364562"/>
+<node id="1947"/>
+<node id="12443"/>
+<node id="409886"/>
+<node id="5029"/>
+<node id="2854"/>
+<node id="3239"/>
+<node id="549025"/>
+<node id="5033"/>
+<node id="784167"/>
+<node id="12986"/>
+<node id="11579"/>
+<node id="411837"/>
+<node id="11452"/>
+<node id="3261"/>
+<node id="386490"/>
+<node id="947251"/>
+<node id="444988"/>
+<node id="363708"/>
+<node id="2113"/>
+<node id="2756"/>
+<node id="1093"/>
+<node id="19397"/>
+<node id="1866"/>
+<node id="556891"/>
+<node id="17876"/>
+<node id="2901"/>
+<node id="1087975"/>
+<node id="1087976"/>
+<node id="1078632"/>
+<node id="11868"/>
+<node id="833234"/>
+<node id="1087059"/>
+<node id="1309393"/>
+<node id="1893"/>
+<node id="644333"/>
+<node id="651629"/>
+<node id="11495"/>
+<node id="1087192"/>
+<node id="1086553"/>
+<node id="9451"/>
+<node id="434029"/>
+<node id="361577"/>
+<node id="15087"/>
+<node id="434935"/>
+<node id="1906"/>
+<node id="1146"/>
+<node id="1788"/>
+<node id="649203"/>
+<node id="840817"/>
+<node id="1668"/>
+<node id="2184"/>
+<node id="1032"/>
+<node id="12425"/>
+<node id="399"/>
+<edge id="12443-434029-comp.unix.misc" source="12443" target="434029">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="409886-1893-comp.unix.misc" source="409886" target="1893">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5029-1087975-comp.unix.misc" source="5029" target="1087975">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5029-434935-comp.unix.misc" source="5029" target="434935">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5033-644333-comp.unix.misc" source="5033" target="644333">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12986-947251-comp.unix.misc" source="12986" target="947251">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12986-1078632-comp.unix.misc" source="12986" target="1078632">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12986-840817-comp.unix.misc" source="12986" target="840817">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11579-11868-comp.unix.misc" source="11579" target="11868">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="411837-784167-comp.unix.misc" source="411837" target="784167">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="411837-1087059-comp.unix.misc" source="411837" target="1087059">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11452-11540-comp.unix.misc" source="11452" target="11540">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11452-1947-comp.unix.misc" source="11452" target="1947">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11452-3239-comp.unix.misc" source="11452" target="3239">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11452-2113-comp.unix.misc" source="11452" target="2113">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11452-833234-comp.unix.misc" source="11452" target="833234">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11452-11495-comp.unix.misc" source="11452" target="11495">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11452-1906-comp.unix.misc" source="11452" target="1906">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="3261-409886-comp.unix.misc" source="3261" target="409886">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3261-1087976-comp.unix.misc" source="3261" target="1087976">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3261-1893-comp.unix.misc" source="3261" target="1893">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="386490-549025-comp.unix.misc" source="386490" target="549025">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="386490-9451-comp.unix.misc" source="386490" target="9451">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="386490-1146-comp.unix.misc" source="386490" target="1146">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="947251-840817-comp.unix.misc" source="947251" target="840817">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="444988-19397-comp.unix.misc" source="444988" target="19397">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="444988-840817-comp.unix.misc" source="444988" target="840817">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2756-1087975-comp.unix.misc" source="2756" target="1087975">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1093-549025-comp.unix.misc" source="1093" target="549025">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1093-386490-comp.unix.misc" source="1093" target="386490">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1093-9451-comp.unix.misc" source="1093" target="9451">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1093-1146-comp.unix.misc" source="1093" target="1146">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1866-11027-comp.unix.misc" source="1866" target="11027">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17876-3239-comp.unix.misc" source="17876" target="3239">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17876-11495-comp.unix.misc" source="17876" target="11495">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17876-1906-comp.unix.misc" source="17876" target="1906">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2901-11540-comp.unix.misc" source="2901" target="11540">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2901-11452-comp.unix.misc" source="2901" target="11452">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2901-833234-comp.unix.misc" source="2901" target="833234">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2901-11495-comp.unix.misc" source="2901" target="11495">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1087059-784167-comp.unix.misc" source="1087059" target="784167">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1893-409886-comp.unix.misc" source="1893" target="409886">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1893-3261-comp.unix.misc" source="1893" target="3261">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1893-1087975-comp.unix.misc" source="1893" target="1087975">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1893-1087976-comp.unix.misc" source="1893" target="1087976">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="651629-11579-comp.unix.misc" source="651629" target="11579">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="651629-11868-comp.unix.misc" source="651629" target="11868">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11495-11540-comp.unix.misc" source="11495" target="11540">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11495-1906-comp.unix.misc" source="11495" target="1906">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1087192-363708-comp.unix.misc" source="1087192" target="363708">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1087192-556891-comp.unix.misc" source="1087192" target="556891">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1086553-2706-comp.unix.misc" source="1086553" target="2706">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1086553-2854-comp.unix.misc" source="1086553" target="2854">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1086553-361577-comp.unix.misc" source="1086553" target="361577">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15087-363708-comp.unix.misc" source="15087" target="363708">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15087-556891-comp.unix.misc" source="15087" target="556891">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1906-11540-comp.unix.misc" source="1906" target="11540">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1906-3239-comp.unix.misc" source="1906" target="3239">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="1906-11495-comp.unix.misc" source="1906" target="11495">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1788-1309393-comp.unix.misc" source="1788" target="1309393">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="649203-434029-comp.unix.misc" source="649203" target="434029">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="649203-1032-comp.unix.misc" source="649203" target="1032">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1668-364562-comp.unix.misc" source="1668" target="364562">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2184-1906-comp.unix.misc" source="2184" target="1906">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12425-549025-comp.unix.misc" source="12425" target="549025">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12425-386490-comp.unix.misc" source="12425" target="386490">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12425-1093-comp.unix.misc" source="12425" target="1093">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12425-9451-comp.unix.misc" source="12425" target="9451">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12425-1146-comp.unix.misc" source="12425" target="1146">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="399-409886-comp.unix.misc" source="399" target="409886">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="399-3261-comp.unix.misc" source="399" target="3261">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="399-1087976-comp.unix.misc" source="399" target="1087976">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="399-1893-comp.unix.misc" source="399" target="1893">
+	<data key="topic">comp.unix.misc</data>
+	<data key="weight">3</data>
+</edge>
+</graph>
+</graphml>

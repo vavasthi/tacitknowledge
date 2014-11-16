@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1028384"/>
+<node id="696075"/>
+<node id="1929853"/>
+<node id="1590203"/>
+<node id="2730349"/>
+<node id="819435"/>
+<node id="514961"/>
+<node id="514544"/>
+<node id="15419"/>
+<node id="7901"/>
+<node id="27056"/>
+<edge id="1028384-2730349-misc.consumers.house" source="1028384" target="2730349">
+	<data key="topic">misc.consumers.house</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1929853-819435-misc.consumers.house" source="1929853" target="819435">
+	<data key="topic">misc.consumers.house</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1590203-1028384-misc.consumers.house" source="1590203" target="1028384">
+	<data key="topic">misc.consumers.house</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1590203-696075-misc.consumers.house" source="1590203" target="696075">
+	<data key="topic">misc.consumers.house</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="514961-1028384-misc.consumers.house" source="514961" target="1028384">
+	<data key="topic">misc.consumers.house</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="514961-696075-misc.consumers.house" source="514961" target="696075">
+	<data key="topic">misc.consumers.house</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="514961-1590203-misc.consumers.house" source="514961" target="1590203">
+	<data key="topic">misc.consumers.house</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="514544-1028384-misc.consumers.house" source="514544" target="1028384">
+	<data key="topic">misc.consumers.house</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="514544-2730349-misc.consumers.house" source="514544" target="2730349">
+	<data key="topic">misc.consumers.house</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="514544-7901-misc.consumers.house" source="514544" target="7901">
+	<data key="topic">misc.consumers.house</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15419-819435-misc.consumers.house" source="15419" target="819435">
+	<data key="topic">misc.consumers.house</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7901-1028384-misc.consumers.house" source="7901" target="1028384">
+	<data key="topic">misc.consumers.house</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="7901-696075-misc.consumers.house" source="7901" target="696075">
+	<data key="topic">misc.consumers.house</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7901-1590203-misc.consumers.house" source="7901" target="1590203">
+	<data key="topic">misc.consumers.house</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7901-2730349-misc.consumers.house" source="7901" target="2730349">
+	<data key="topic">misc.consumers.house</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7901-514961-misc.consumers.house" source="7901" target="514961">
+	<data key="topic">misc.consumers.house</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="27056-1028384-misc.consumers.house" source="27056" target="1028384">
+	<data key="topic">misc.consumers.house</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="27056-696075-misc.consumers.house" source="27056" target="696075">
+	<data key="topic">misc.consumers.house</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

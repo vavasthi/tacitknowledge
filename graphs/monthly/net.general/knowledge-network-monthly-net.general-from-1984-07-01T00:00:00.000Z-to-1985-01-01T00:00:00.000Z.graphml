@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="626204"/>
+<node id="522902"/>
+<node id="529629"/>
+<node id="521630"/>
+<node id="339111"/>
+<node id="654190"/>
+<node id="459236"/>
+<node id="462177"/>
+<node id="473519"/>
+<node id="337200"/>
+<node id="623353"/>
+<node id="1406919"/>
+<node id="337598"/>
+<node id="464254"/>
+<node id="337919"/>
+<node id="2167840"/>
+<node id="495737"/>
+<node id="624706"/>
+<node id="633409"/>
+<node id="603201"/>
+<node id="490701"/>
+<node id="651779"/>
+<node id="653254"/>
+<node id="341385"/>
+<node id="524551"/>
+<edge id="522902-524551-net.general" source="522902" target="524551">
+	<data key="topic">net.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="529629-626204-net.general" source="529629" target="626204">
+	<data key="topic">net.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521630-623353-net.general" source="521630" target="623353">
+	<data key="topic">net.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521630-2167840-net.general" source="521630" target="2167840">
+	<data key="topic">net.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339111-633409-net.general" source="339111" target="633409">
+	<data key="topic">net.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="473519-490701-net.general" source="473519" target="490701">
+	<data key="topic">net.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337200-654190-net.general" source="337200" target="654190">
+	<data key="topic">net.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="464254-626204-net.general" source="464254" target="626204">
+	<data key="topic">net.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="464254-341385-net.general" source="464254" target="341385">
+	<data key="topic">net.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337919-459236-net.general" source="337919" target="459236">
+	<data key="topic">net.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="624706-626204-net.general" source="624706" target="626204">
+	<data key="topic">net.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="603201-495737-net.general" source="603201" target="495737">
+	<data key="topic">net.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="651779-1406919-net.general" source="651779" target="1406919">
+	<data key="topic">net.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="653254-337598-net.general" source="653254" target="337598">
+	<data key="topic">net.general</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

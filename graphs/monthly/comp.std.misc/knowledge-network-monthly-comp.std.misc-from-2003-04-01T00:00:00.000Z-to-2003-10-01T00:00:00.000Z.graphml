@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2189153"/>
+<node id="2805497"/>
+<node id="2197944"/>
+<node id="215673"/>
+<node id="2801975"/>
+<edge id="2197944-2189153-comp.std.misc" source="2197944" target="2189153">
+	<data key="topic">comp.std.misc</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2197944-2805497-comp.std.misc" source="2197944" target="2805497">
+	<data key="topic">comp.std.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2197944-215673-comp.std.misc" source="2197944" target="215673">
+	<data key="topic">comp.std.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2197944-2801975-comp.std.misc" source="2197944" target="2801975">
+	<data key="topic">comp.std.misc</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="215673-2189153-comp.std.misc" source="215673" target="2189153">
+	<data key="topic">comp.std.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="215673-2805497-comp.std.misc" source="215673" target="2805497">
+	<data key="topic">comp.std.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="215673-2197944-comp.std.misc" source="215673" target="2197944">
+	<data key="topic">comp.std.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="215673-2801975-comp.std.misc" source="215673" target="2801975">
+	<data key="topic">comp.std.misc</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

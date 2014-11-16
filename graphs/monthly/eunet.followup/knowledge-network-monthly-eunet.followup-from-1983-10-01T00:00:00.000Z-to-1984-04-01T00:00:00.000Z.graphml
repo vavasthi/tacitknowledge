@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="339190"/>
+<node id="532894"/>
+<node id="2076985"/>
+<node id="337934"/>
+<node id="524307"/>
+<node id="430219"/>
+<edge id="339190-2076985-eunet.followup" source="339190" target="2076985">
+	<data key="topic">eunet.followup</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="532894-339190-eunet.followup" source="532894" target="339190">
+	<data key="topic">eunet.followup</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="532894-2076985-eunet.followup" source="532894" target="2076985">
+	<data key="topic">eunet.followup</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="532894-337934-eunet.followup" source="532894" target="337934">
+	<data key="topic">eunet.followup</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="532894-430219-eunet.followup" source="532894" target="430219">
+	<data key="topic">eunet.followup</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337934-339190-eunet.followup" source="337934" target="339190">
+	<data key="topic">eunet.followup</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337934-2076985-eunet.followup" source="337934" target="2076985">
+	<data key="topic">eunet.followup</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="524307-339190-eunet.followup" source="524307" target="339190">
+	<data key="topic">eunet.followup</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="524307-2076985-eunet.followup" source="524307" target="2076985">
+	<data key="topic">eunet.followup</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="524307-337934-eunet.followup" source="524307" target="337934">
+	<data key="topic">eunet.followup</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="430219-339190-eunet.followup" source="430219" target="339190">
+	<data key="topic">eunet.followup</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="430219-2076985-eunet.followup" source="430219" target="2076985">
+	<data key="topic">eunet.followup</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="430219-337934-eunet.followup" source="430219" target="337934">
+	<data key="topic">eunet.followup</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

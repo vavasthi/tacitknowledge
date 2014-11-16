@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="15409"/>
+<node id="18226"/>
+<node id="396630"/>
+<node id="391863"/>
+<node id="339186"/>
+<node id="30775"/>
+<node id="452818"/>
+<node id="1014707"/>
+<node id="17953"/>
+<node id="1379"/>
+<node id="1014701"/>
+<node id="36681"/>
+<node id="17450"/>
+<edge id="18226-339186-talk.philosophy.misc" source="18226" target="339186">
+	<data key="topic">talk.philosophy.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="18226-30775-talk.philosophy.misc" source="18226" target="30775">
+	<data key="topic">talk.philosophy.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="396630-15409-talk.philosophy.misc" source="396630" target="15409">
+	<data key="topic">talk.philosophy.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="396630-391863-talk.philosophy.misc" source="396630" target="391863">
+	<data key="topic">talk.philosophy.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="396630-17953-talk.philosophy.misc" source="396630" target="17953">
+	<data key="topic">talk.philosophy.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="452818-36681-talk.philosophy.misc" source="452818" target="36681">
+	<data key="topic">talk.philosophy.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1014707-36681-talk.philosophy.misc" source="1014707" target="36681">
+	<data key="topic">talk.philosophy.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1379-1014707-talk.philosophy.misc" source="1379" target="1014707">
+	<data key="topic">talk.philosophy.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1379-36681-talk.philosophy.misc" source="1379" target="36681">
+	<data key="topic">talk.philosophy.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1379-17450-talk.philosophy.misc" source="1379" target="17450">
+	<data key="topic">talk.philosophy.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1014701-1014707-talk.philosophy.misc" source="1014701" target="1014707">
+	<data key="topic">talk.philosophy.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1014701-36681-talk.philosophy.misc" source="1014701" target="36681">
+	<data key="topic">talk.philosophy.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17450-1014707-talk.philosophy.misc" source="17450" target="1014707">
+	<data key="topic">talk.philosophy.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17450-36681-talk.philosophy.misc" source="17450" target="36681">
+	<data key="topic">talk.philosophy.misc</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="710876"/>
+<node id="375666"/>
+<node id="388562"/>
+<node id="852122"/>
+<node id="33079"/>
+<node id="2540001"/>
+<node id="12888"/>
+<node id="708497"/>
+<node id="875714"/>
+<node id="708438"/>
+<edge id="375666-2540001-sci.skeptic" source="375666" target="2540001">
+	<data key="topic">sci.skeptic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="375666-708497-sci.skeptic" source="375666" target="708497">
+	<data key="topic">sci.skeptic</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="388562-708497-sci.skeptic" source="388562" target="708497">
+	<data key="topic">sci.skeptic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="852122-875714-sci.skeptic" source="852122" target="875714">
+	<data key="topic">sci.skeptic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="33079-710876-sci.skeptic" source="33079" target="710876">
+	<data key="topic">sci.skeptic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2540001-708497-sci.skeptic" source="2540001" target="708497">
+	<data key="topic">sci.skeptic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12888-708497-sci.skeptic" source="12888" target="708497">
+	<data key="topic">sci.skeptic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="708497-388562-sci.skeptic" source="708497" target="388562">
+	<data key="topic">sci.skeptic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="708497-2540001-sci.skeptic" source="708497" target="2540001">
+	<data key="topic">sci.skeptic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="708438-708497-sci.skeptic" source="708438" target="708497">
+	<data key="topic">sci.skeptic</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

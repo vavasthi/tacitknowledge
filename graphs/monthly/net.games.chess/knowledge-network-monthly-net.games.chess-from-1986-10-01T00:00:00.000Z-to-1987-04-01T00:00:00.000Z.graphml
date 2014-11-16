@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="584986"/>
+<node id="19827"/>
+<node id="391681"/>
+<node id="600576"/>
+<node id="920902"/>
+<node id="395932"/>
+<edge id="391681-584986-net.games.chess" source="391681" target="584986">
+	<data key="topic">net.games.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391681-19827-net.games.chess" source="391681" target="19827">
+	<data key="topic">net.games.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391681-920902-net.games.chess" source="391681" target="920902">
+	<data key="topic">net.games.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391681-395932-net.games.chess" source="391681" target="395932">
+	<data key="topic">net.games.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="600576-584986-net.games.chess" source="600576" target="584986">
+	<data key="topic">net.games.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="600576-19827-net.games.chess" source="600576" target="19827">
+	<data key="topic">net.games.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="600576-395932-net.games.chess" source="600576" target="395932">
+	<data key="topic">net.games.chess</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="920902-584986-net.games.chess" source="920902" target="584986">
+	<data key="topic">net.games.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="920902-19827-net.games.chess" source="920902" target="19827">
+	<data key="topic">net.games.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="920902-395932-net.games.chess" source="920902" target="395932">
+	<data key="topic">net.games.chess</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

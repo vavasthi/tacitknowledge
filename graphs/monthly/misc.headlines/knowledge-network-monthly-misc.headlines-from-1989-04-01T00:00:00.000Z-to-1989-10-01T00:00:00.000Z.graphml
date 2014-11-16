@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1266884"/>
+<node id="1194020"/>
+<node id="382712"/>
+<node id="696762"/>
+<node id="700447"/>
+<node id="546429"/>
+<node id="8790"/>
+<node id="8279"/>
+<node id="28889"/>
+<node id="515067"/>
+<node id="2977"/>
+<node id="1246897"/>
+<node id="1194002"/>
+<node id="518372"/>
+<node id="18694"/>
+<node id="19368"/>
+<node id="511024"/>
+<node id="29868"/>
+<node id="502186"/>
+<edge id="1194020-1266884-misc.headlines" source="1194020" target="1266884">
+	<data key="topic">misc.headlines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1194020-8790-misc.headlines" source="1194020" target="8790">
+	<data key="topic">misc.headlines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1194020-515067-misc.headlines" source="1194020" target="515067">
+	<data key="topic">misc.headlines</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="382712-2977-misc.headlines" source="382712" target="2977">
+	<data key="topic">misc.headlines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="8790-1266884-misc.headlines" source="8790" target="1266884">
+	<data key="topic">misc.headlines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="8279-1266884-misc.headlines" source="8279" target="1266884">
+	<data key="topic">misc.headlines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="8279-28889-misc.headlines" source="8279" target="28889">
+	<data key="topic">misc.headlines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28889-1266884-misc.headlines" source="28889" target="1266884">
+	<data key="topic">misc.headlines</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="515067-1266884-misc.headlines" source="515067" target="1266884">
+	<data key="topic">misc.headlines</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="515067-8790-misc.headlines" source="515067" target="8790">
+	<data key="topic">misc.headlines</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2977-1266884-misc.headlines" source="2977" target="1266884">
+	<data key="topic">misc.headlines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2977-8790-misc.headlines" source="2977" target="8790">
+	<data key="topic">misc.headlines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1194002-382712-misc.headlines" source="1194002" target="382712">
+	<data key="topic">misc.headlines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1194002-2977-misc.headlines" source="1194002" target="2977">
+	<data key="topic">misc.headlines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18694-700447-misc.headlines" source="18694" target="700447">
+	<data key="topic">misc.headlines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18694-546429-misc.headlines" source="18694" target="546429">
+	<data key="topic">misc.headlines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18694-1246897-misc.headlines" source="18694" target="1246897">
+	<data key="topic">misc.headlines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19368-382712-misc.headlines" source="19368" target="382712">
+	<data key="topic">misc.headlines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19368-2977-misc.headlines" source="19368" target="2977">
+	<data key="topic">misc.headlines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19368-1194002-misc.headlines" source="19368" target="1194002">
+	<data key="topic">misc.headlines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="511024-382712-misc.headlines" source="511024" target="382712">
+	<data key="topic">misc.headlines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="511024-2977-misc.headlines" source="511024" target="2977">
+	<data key="topic">misc.headlines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="511024-1194002-misc.headlines" source="511024" target="1194002">
+	<data key="topic">misc.headlines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29868-700447-misc.headlines" source="29868" target="700447">
+	<data key="topic">misc.headlines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29868-546429-misc.headlines" source="29868" target="546429">
+	<data key="topic">misc.headlines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29868-1246897-misc.headlines" source="29868" target="1246897">
+	<data key="topic">misc.headlines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29868-518372-misc.headlines" source="29868" target="518372">
+	<data key="topic">misc.headlines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="502186-696762-misc.headlines" source="502186" target="696762">
+	<data key="topic">misc.headlines</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

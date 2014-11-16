@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="38673"/>
+<node id="132465"/>
+<node id="123699"/>
+<node id="50164"/>
+<node id="37365"/>
+<node id="103224"/>
+<node id="107544"/>
+<node id="127640"/>
+<node id="94425"/>
+<node id="111485"/>
+<node id="49376"/>
+<node id="107459"/>
+<node id="54854"/>
+<node id="37227"/>
+<node id="42703"/>
+<edge id="38673-103224-comp.theory" source="38673" target="103224">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="132465-123699-comp.theory" source="132465" target="123699">
+	<data key="topic">comp.theory</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="50164-103224-comp.theory" source="50164" target="103224">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="50164-107544-comp.theory" source="50164" target="107544">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="50164-107459-comp.theory" source="50164" target="107459">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37365-42703-comp.theory" source="37365" target="42703">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="107544-103224-comp.theory" source="107544" target="103224">
+	<data key="topic">comp.theory</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="107544-111485-comp.theory" source="107544" target="111485">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="107544-107459-comp.theory" source="107544" target="107459">
+	<data key="topic">comp.theory</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="127640-123699-comp.theory" source="127640" target="123699">
+	<data key="topic">comp.theory</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="94425-42703-comp.theory" source="94425" target="42703">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="49376-42703-comp.theory" source="49376" target="42703">
+	<data key="topic">comp.theory</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="107459-50164-comp.theory" source="107459" target="50164">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="107459-103224-comp.theory" source="107459" target="103224">
+	<data key="topic">comp.theory</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="107459-107544-comp.theory" source="107459" target="107544">
+	<data key="topic">comp.theory</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="107459-111485-comp.theory" source="107459" target="111485">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="54854-103224-comp.theory" source="54854" target="103224">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="54854-107544-comp.theory" source="54854" target="107544">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="54854-111485-comp.theory" source="54854" target="111485">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="54854-107459-comp.theory" source="54854" target="107459">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37227-123699-comp.theory" source="37227" target="123699">
+	<data key="topic">comp.theory</data>
+	<data key="weight">2</data>
+</edge>
+</graph>
+</graphml>

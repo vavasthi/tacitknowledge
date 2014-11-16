@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1137"/>
+<node id="1347157"/>
+<node id="8068"/>
+<node id="441617"/>
+<node id="858939"/>
+<node id="407390"/>
+<node id="9006"/>
+<node id="1284046"/>
+<node id="8271"/>
+<edge id="1137-1284046-aus.computers.amiga" source="1137" target="1284046">
+	<data key="topic">aus.computers.amiga</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1347157-858939-aus.computers.amiga" source="1347157" target="858939">
+	<data key="topic">aus.computers.amiga</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="8068-441617-aus.computers.amiga" source="8068" target="441617">
+	<data key="topic">aus.computers.amiga</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="407390-9006-aus.computers.amiga" source="407390" target="9006">
+	<data key="topic">aus.computers.amiga</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="8271-9006-aus.computers.amiga" source="8271" target="9006">
+	<data key="topic">aus.computers.amiga</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

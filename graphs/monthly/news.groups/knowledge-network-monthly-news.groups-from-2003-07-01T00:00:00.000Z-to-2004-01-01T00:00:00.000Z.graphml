@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="46722"/>
+<node id="41465"/>
+<node id="39789"/>
+<node id="41709"/>
+<node id="57757"/>
+<edge id="46722-41465-news.groups" source="46722" target="41465">
+	<data key="topic">news.groups</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41465-46722-news.groups" source="41465" target="46722">
+	<data key="topic">news.groups</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41465-41709-news.groups" source="41465" target="41709">
+	<data key="topic">news.groups</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="39789-46722-news.groups" source="39789" target="46722">
+	<data key="topic">news.groups</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="39789-41465-news.groups" source="39789" target="41465">
+	<data key="topic">news.groups</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="39789-41709-news.groups" source="39789" target="41709">
+	<data key="topic">news.groups</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41709-46722-news.groups" source="41709" target="46722">
+	<data key="topic">news.groups</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41709-41465-news.groups" source="41709" target="41465">
+	<data key="topic">news.groups</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="57757-46722-news.groups" source="57757" target="46722">
+	<data key="topic">news.groups</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="57757-41465-news.groups" source="57757" target="41465">
+	<data key="topic">news.groups</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

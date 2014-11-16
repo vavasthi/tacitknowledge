@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="509048"/>
+<node id="907037"/>
+<node id="846655"/>
+<node id="814399"/>
+<node id="507411"/>
+<node id="640509"/>
+<node id="736095"/>
+<node id="247"/>
+<node id="1175"/>
+<node id="439807"/>
+<node id="608468"/>
+<node id="2142779"/>
+<node id="17436"/>
+<node id="371386"/>
+<node id="224"/>
+<node id="432678"/>
+<node id="1807826"/>
+<node id="447213"/>
+<node id="2506893"/>
+<node id="533190"/>
+<node id="1003011"/>
+<node id="519594"/>
+<edge id="907037-814399-bionet.general" source="907037" target="814399">
+	<data key="topic">bionet.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="907037-432678-bionet.general" source="907037" target="432678">
+	<data key="topic">bionet.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="846655-507411-bionet.general" source="846655" target="507411">
+	<data key="topic">bionet.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="846655-224-bionet.general" source="846655" target="224">
+	<data key="topic">bionet.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="507411-1807826-bionet.general" source="507411" target="1807826">
+	<data key="topic">bionet.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="640509-2506893-bionet.general" source="640509" target="2506893">
+	<data key="topic">bionet.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="736095-2142779-bionet.general" source="736095" target="2142779">
+	<data key="topic">bionet.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="247-509048-bionet.general" source="247" target="509048">
+	<data key="topic">bionet.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="247-608468-bionet.general" source="247" target="608468">
+	<data key="topic">bionet.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1175-507411-bionet.general" source="1175" target="507411">
+	<data key="topic">bionet.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1175-1807826-bionet.general" source="1175" target="1807826">
+	<data key="topic">bionet.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="439807-371386-bionet.general" source="439807" target="371386">
+	<data key="topic">bionet.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17436-533190-bionet.general" source="17436" target="533190">
+	<data key="topic">bionet.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17436-1003011-bionet.general" source="17436" target="1003011">
+	<data key="topic">bionet.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="224-507411-bionet.general" source="224" target="507411">
+	<data key="topic">bionet.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="224-519594-bionet.general" source="224" target="519594">
+	<data key="topic">bionet.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="447213-2506893-bionet.general" source="447213" target="2506893">
+	<data key="topic">bionet.general</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

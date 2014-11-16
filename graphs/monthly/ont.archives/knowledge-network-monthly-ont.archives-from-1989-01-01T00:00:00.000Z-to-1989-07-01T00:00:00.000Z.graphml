@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="14129"/>
+<node id="751676"/>
+<node id="698076"/>
+<node id="521589"/>
+<node id="521586"/>
+<node id="719806"/>
+<node id="609553"/>
+<node id="28346"/>
+<node id="516606"/>
+<node id="16124"/>
+<node id="515687"/>
+<node id="521584"/>
+<node id="23754"/>
+<node id="16106"/>
+<node id="515022"/>
+<node id="1204057"/>
+<node id="29006"/>
+<node id="2255"/>
+<node id="16623"/>
+<edge id="751676-29006-ont.archives" source="751676" target="29006">
+	<data key="topic">ont.archives</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521589-521584-ont.archives" source="521589" target="521584">
+	<data key="topic">ont.archives</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521586-515022-ont.archives" source="521586" target="515022">
+	<data key="topic">ont.archives</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="719806-14129-ont.archives" source="719806" target="14129">
+	<data key="topic">ont.archives</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="516606-28346-ont.archives" source="516606" target="28346">
+	<data key="topic">ont.archives</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="515687-28346-ont.archives" source="515687" target="28346">
+	<data key="topic">ont.archives</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="515687-516606-ont.archives" source="515687" target="516606">
+	<data key="topic">ont.archives</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521584-16106-ont.archives" source="521584" target="16106">
+	<data key="topic">ont.archives</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23754-16124-ont.archives" source="23754" target="16124">
+	<data key="topic">ont.archives</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="23754-16106-ont.archives" source="23754" target="16106">
+	<data key="topic">ont.archives</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1204057-698076-ont.archives" source="1204057" target="698076">
+	<data key="topic">ont.archives</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2255-609553-ont.archives" source="2255" target="609553">
+	<data key="topic">ont.archives</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2255-16124-ont.archives" source="2255" target="16124">
+	<data key="topic">ont.archives</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2255-23754-ont.archives" source="2255" target="23754">
+	<data key="topic">ont.archives</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16623-515022-ont.archives" source="16623" target="515022">
+	<data key="topic">ont.archives</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

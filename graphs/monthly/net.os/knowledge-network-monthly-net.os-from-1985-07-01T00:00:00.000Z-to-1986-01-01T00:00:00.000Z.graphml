@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="466549"/>
+<node id="341703"/>
+<node id="339287"/>
+<node id="338961"/>
+<node id="26314"/>
+<node id="337532"/>
+<edge id="338961-466549-net.os" source="338961" target="466549">
+	<data key="topic">net.os</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338961-341703-net.os" source="338961" target="341703">
+	<data key="topic">net.os</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338961-339287-net.os" source="338961" target="339287">
+	<data key="topic">net.os</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338961-26314-net.os" source="338961" target="26314">
+	<data key="topic">net.os</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338961-337532-net.os" source="338961" target="337532">
+	<data key="topic">net.os</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

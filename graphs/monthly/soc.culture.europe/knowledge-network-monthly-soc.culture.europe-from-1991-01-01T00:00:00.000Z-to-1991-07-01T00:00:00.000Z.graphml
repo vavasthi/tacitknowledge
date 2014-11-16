@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="347798"/>
+<node id="347832"/>
+<node id="347826"/>
+<node id="347809"/>
+<node id="401953"/>
+<node id="347811"/>
+<node id="416717"/>
+<node id="1106781"/>
+<node id="347803"/>
+<node id="948466"/>
+<edge id="347798-347809-soc.culture.europe" source="347798" target="347809">
+	<data key="topic">soc.culture.europe</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347832-347809-soc.culture.europe" source="347832" target="347809">
+	<data key="topic">soc.culture.europe</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347832-347811-soc.culture.europe" source="347832" target="347811">
+	<data key="topic">soc.culture.europe</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347832-948466-soc.culture.europe" source="347832" target="948466">
+	<data key="topic">soc.culture.europe</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347826-347809-soc.culture.europe" source="347826" target="347809">
+	<data key="topic">soc.culture.europe</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347826-347811-soc.culture.europe" source="347826" target="347811">
+	<data key="topic">soc.culture.europe</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347826-948466-soc.culture.europe" source="347826" target="948466">
+	<data key="topic">soc.culture.europe</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347809-347811-soc.culture.europe" source="347809" target="347811">
+	<data key="topic">soc.culture.europe</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347809-948466-soc.culture.europe" source="347809" target="948466">
+	<data key="topic">soc.culture.europe</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="401953-1106781-soc.culture.europe" source="401953" target="1106781">
+	<data key="topic">soc.culture.europe</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347811-347809-soc.culture.europe" source="347811" target="347809">
+	<data key="topic">soc.culture.europe</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347811-948466-soc.culture.europe" source="347811" target="948466">
+	<data key="topic">soc.culture.europe</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1106781-416717-soc.culture.europe" source="1106781" target="416717">
+	<data key="topic">soc.culture.europe</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347803-948466-soc.culture.europe" source="347803" target="948466">
+	<data key="topic">soc.culture.europe</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

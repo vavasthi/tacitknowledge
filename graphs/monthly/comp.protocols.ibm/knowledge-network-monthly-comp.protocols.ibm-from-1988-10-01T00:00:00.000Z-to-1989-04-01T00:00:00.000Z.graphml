@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1200577"/>
+<node id="511989"/>
+<node id="34901"/>
+<node id="517714"/>
+<node id="1250694"/>
+<node id="510737"/>
+<node id="429981"/>
+<node id="1821"/>
+<node id="28445"/>
+<node id="10688"/>
+<node id="796777"/>
+<node id="16550"/>
+<node id="2116550"/>
+<node id="512142"/>
+<node id="510414"/>
+<node id="2104429"/>
+<node id="2104430"/>
+<node id="584615"/>
+<node id="1256030"/>
+<node id="1256382"/>
+<node id="449385"/>
+<edge id="1200577-2104430-comp.protocols.ibm" source="1200577" target="2104430">
+	<data key="topic">comp.protocols.ibm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="511989-16550-comp.protocols.ibm" source="511989" target="16550">
+	<data key="topic">comp.protocols.ibm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="511989-2104429-comp.protocols.ibm" source="511989" target="2104429">
+	<data key="topic">comp.protocols.ibm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="511989-1256030-comp.protocols.ibm" source="511989" target="1256030">
+	<data key="topic">comp.protocols.ibm</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="34901-517714-comp.protocols.ibm" source="34901" target="517714">
+	<data key="topic">comp.protocols.ibm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510737-2116550-comp.protocols.ibm" source="510737" target="2116550">
+	<data key="topic">comp.protocols.ibm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="429981-1256382-comp.protocols.ibm" source="429981" target="1256382">
+	<data key="topic">comp.protocols.ibm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1821-517714-comp.protocols.ibm" source="1821" target="517714">
+	<data key="topic">comp.protocols.ibm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1821-584615-comp.protocols.ibm" source="1821" target="584615">
+	<data key="topic">comp.protocols.ibm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28445-1250694-comp.protocols.ibm" source="28445" target="1250694">
+	<data key="topic">comp.protocols.ibm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10688-1256030-comp.protocols.ibm" source="10688" target="1256030">
+	<data key="topic">comp.protocols.ibm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="796777-517714-comp.protocols.ibm" source="796777" target="517714">
+	<data key="topic">comp.protocols.ibm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16550-1256030-comp.protocols.ibm" source="16550" target="1256030">
+	<data key="topic">comp.protocols.ibm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="512142-510414-comp.protocols.ibm" source="512142" target="510414">
+	<data key="topic">comp.protocols.ibm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="449385-1250694-comp.protocols.ibm" source="449385" target="1250694">
+	<data key="topic">comp.protocols.ibm</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

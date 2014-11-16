@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="555353"/>
+<node id="648297"/>
+<node id="369528"/>
+<node id="1729102"/>
+<node id="785281"/>
+<edge id="555353-1729102-aus.computers.amiga" source="555353" target="1729102">
+	<data key="topic">aus.computers.amiga</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="369528-1729102-aus.computers.amiga" source="369528" target="1729102">
+	<data key="topic">aus.computers.amiga</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="785281-648297-aus.computers.amiga" source="785281" target="648297">
+	<data key="topic">aus.computers.amiga</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

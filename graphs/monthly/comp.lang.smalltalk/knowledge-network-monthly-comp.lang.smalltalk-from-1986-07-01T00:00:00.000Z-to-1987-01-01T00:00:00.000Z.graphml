@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="932768"/>
+<node id="456129"/>
+<node id="391315"/>
+<node id="932759"/>
+<node id="923928"/>
+<node id="925592"/>
+<node id="15836"/>
+<node id="483963"/>
+<edge id="932768-932759-comp.lang.smalltalk" source="932768" target="932759">
+	<data key="topic">comp.lang.smalltalk</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="456129-932759-comp.lang.smalltalk" source="456129" target="932759">
+	<data key="topic">comp.lang.smalltalk</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391315-483963-comp.lang.smalltalk" source="391315" target="483963">
+	<data key="topic">comp.lang.smalltalk</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="923928-925592-comp.lang.smalltalk" source="923928" target="925592">
+	<data key="topic">comp.lang.smalltalk</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15836-932759-comp.lang.smalltalk" source="15836" target="932759">
+	<data key="topic">comp.lang.smalltalk</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="483963-391315-comp.lang.smalltalk" source="483963" target="391315">
+	<data key="topic">comp.lang.smalltalk</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

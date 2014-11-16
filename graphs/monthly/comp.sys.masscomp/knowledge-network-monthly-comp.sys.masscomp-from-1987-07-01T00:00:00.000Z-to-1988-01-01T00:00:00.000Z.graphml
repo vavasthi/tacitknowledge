@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="724059"/>
+<node id="17876"/>
+<node id="448276"/>
+<node id="653152"/>
+<node id="792181"/>
+<node id="658257"/>
+<node id="449371"/>
+<node id="2742615"/>
+<node id="930922"/>
+<node id="724621"/>
+<node id="1090234"/>
+<node id="401579"/>
+<node id="389579"/>
+<edge id="17876-724059-comp.sys.masscomp" source="17876" target="724059">
+	<data key="topic">comp.sys.masscomp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17876-1090234-comp.sys.masscomp" source="17876" target="1090234">
+	<data key="topic">comp.sys.masscomp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="448276-401579-comp.sys.masscomp" source="448276" target="401579">
+	<data key="topic">comp.sys.masscomp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="653152-17876-comp.sys.masscomp" source="653152" target="17876">
+	<data key="topic">comp.sys.masscomp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="653152-1090234-comp.sys.masscomp" source="653152" target="1090234">
+	<data key="topic">comp.sys.masscomp</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="658257-1090234-comp.sys.masscomp" source="658257" target="1090234">
+	<data key="topic">comp.sys.masscomp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="930922-724621-comp.sys.masscomp" source="930922" target="724621">
+	<data key="topic">comp.sys.masscomp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="389579-792181-comp.sys.masscomp" source="389579" target="792181">
+	<data key="topic">comp.sys.masscomp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="389579-449371-comp.sys.masscomp" source="389579" target="449371">
+	<data key="topic">comp.sys.masscomp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="389579-2742615-comp.sys.masscomp" source="389579" target="2742615">
+	<data key="topic">comp.sys.masscomp</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

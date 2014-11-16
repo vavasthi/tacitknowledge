@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="449428"/>
+<node id="23382"/>
+<node id="725693"/>
+<node id="18426"/>
+<node id="16955"/>
+<node id="447259"/>
+<node id="24801"/>
+<node id="450728"/>
+<node id="725834"/>
+<node id="725615"/>
+<node id="16968"/>
+<node id="448578"/>
+<node id="504911"/>
+<node id="548515"/>
+<node id="24267"/>
+<node id="390608"/>
+<node id="725825"/>
+<node id="725832"/>
+<edge id="449428-450728-comp.sys.ibm.pc.rt" source="449428" target="450728">
+	<data key="topic">comp.sys.ibm.pc.rt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="725693-16955-comp.sys.ibm.pc.rt" source="725693" target="16955">
+	<data key="topic">comp.sys.ibm.pc.rt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="725693-548515-comp.sys.ibm.pc.rt" source="725693" target="548515">
+	<data key="topic">comp.sys.ibm.pc.rt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16955-725834-comp.sys.ibm.pc.rt" source="16955" target="725834">
+	<data key="topic">comp.sys.ibm.pc.rt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16955-548515-comp.sys.ibm.pc.rt" source="16955" target="548515">
+	<data key="topic">comp.sys.ibm.pc.rt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="447259-16968-comp.sys.ibm.pc.rt" source="447259" target="16968">
+	<data key="topic">comp.sys.ibm.pc.rt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24801-18426-comp.sys.ibm.pc.rt" source="24801" target="18426">
+	<data key="topic">comp.sys.ibm.pc.rt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24801-24267-comp.sys.ibm.pc.rt" source="24801" target="24267">
+	<data key="topic">comp.sys.ibm.pc.rt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16968-447259-comp.sys.ibm.pc.rt" source="16968" target="447259">
+	<data key="topic">comp.sys.ibm.pc.rt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="448578-725825-comp.sys.ibm.pc.rt" source="448578" target="725825">
+	<data key="topic">comp.sys.ibm.pc.rt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="504911-23382-comp.sys.ibm.pc.rt" source="504911" target="23382">
+	<data key="topic">comp.sys.ibm.pc.rt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="548515-725615-comp.sys.ibm.pc.rt" source="548515" target="725615">
+	<data key="topic">comp.sys.ibm.pc.rt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="548515-24267-comp.sys.ibm.pc.rt" source="548515" target="24267">
+	<data key="topic">comp.sys.ibm.pc.rt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="725825-725693-comp.sys.ibm.pc.rt" source="725825" target="725693">
+	<data key="topic">comp.sys.ibm.pc.rt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="725825-16955-comp.sys.ibm.pc.rt" source="725825" target="16955">
+	<data key="topic">comp.sys.ibm.pc.rt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="725825-725615-comp.sys.ibm.pc.rt" source="725825" target="725615">
+	<data key="topic">comp.sys.ibm.pc.rt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="725825-548515-comp.sys.ibm.pc.rt" source="725825" target="548515">
+	<data key="topic">comp.sys.ibm.pc.rt</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="725832-390608-comp.sys.ibm.pc.rt" source="725832" target="390608">
+	<data key="topic">comp.sys.ibm.pc.rt</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

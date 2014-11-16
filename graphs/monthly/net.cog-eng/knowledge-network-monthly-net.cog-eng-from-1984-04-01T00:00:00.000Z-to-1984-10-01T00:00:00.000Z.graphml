@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="470836"/>
+<node id="528529"/>
+<node id="524307"/>
+<node id="460520"/>
+<node id="1135316"/>
+<node id="521893"/>
+<node id="524879"/>
+<node id="522895"/>
+<node id="339407"/>
+<node id="527045"/>
+<node id="567077"/>
+<node id="460843"/>
+<node id="567046"/>
+<node id="460202"/>
+<node id="523018"/>
+<node id="652072"/>
+<node id="524551"/>
+<edge id="524307-460520-net.cog-eng" source="524307" target="460520">
+	<data key="topic">net.cog-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521893-339407-net.cog-eng" source="521893" target="339407">
+	<data key="topic">net.cog-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522895-460520-net.cog-eng" source="522895" target="460520">
+	<data key="topic">net.cog-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522895-524879-net.cog-eng" source="522895" target="524879">
+	<data key="topic">net.cog-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339407-470836-net.cog-eng" source="339407" target="470836">
+	<data key="topic">net.cog-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="527045-652072-net.cog-eng" source="527045" target="652072">
+	<data key="topic">net.cog-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="567077-460520-net.cog-eng" source="567077" target="460520">
+	<data key="topic">net.cog-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="567077-524551-net.cog-eng" source="567077" target="524551">
+	<data key="topic">net.cog-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460843-523018-net.cog-eng" source="460843" target="523018">
+	<data key="topic">net.cog-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="567046-524307-net.cog-eng" source="567046" target="524307">
+	<data key="topic">net.cog-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="567046-460520-net.cog-eng" source="567046" target="460520">
+	<data key="topic">net.cog-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460202-1135316-net.cog-eng" source="460202" target="1135316">
+	<data key="topic">net.cog-eng</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

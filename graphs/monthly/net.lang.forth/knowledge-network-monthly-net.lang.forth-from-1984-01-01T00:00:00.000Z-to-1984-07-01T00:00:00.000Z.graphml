@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="469208"/>
+<node id="471032"/>
+<node id="475607"/>
+<node id="346936"/>
+<node id="460596"/>
+<node id="343026"/>
+<node id="528446"/>
+<node id="2075464"/>
+<node id="563761"/>
+<node id="521658"/>
+<node id="460360"/>
+<node id="460199"/>
+<node id="459620"/>
+<node id="524621"/>
+<node id="339760"/>
+<edge id="469208-460199-net.lang.forth" source="469208" target="460199">
+	<data key="topic">net.lang.forth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="346936-460596-net.lang.forth" source="346936" target="460596">
+	<data key="topic">net.lang.forth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="346936-343026-net.lang.forth" source="346936" target="343026">
+	<data key="topic">net.lang.forth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="346936-528446-net.lang.forth" source="346936" target="528446">
+	<data key="topic">net.lang.forth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="346936-2075464-net.lang.forth" source="346936" target="2075464">
+	<data key="topic">net.lang.forth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="346936-563761-net.lang.forth" source="346936" target="563761">
+	<data key="topic">net.lang.forth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="346936-459620-net.lang.forth" source="346936" target="459620">
+	<data key="topic">net.lang.forth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460596-563761-net.lang.forth" source="460596" target="563761">
+	<data key="topic">net.lang.forth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521658-471032-net.lang.forth" source="521658" target="471032">
+	<data key="topic">net.lang.forth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460360-524621-net.lang.forth" source="460360" target="524621">
+	<data key="topic">net.lang.forth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459620-2075464-net.lang.forth" source="459620" target="2075464">
+	<data key="topic">net.lang.forth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339760-475607-net.lang.forth" source="339760" target="475607">
+	<data key="topic">net.lang.forth</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

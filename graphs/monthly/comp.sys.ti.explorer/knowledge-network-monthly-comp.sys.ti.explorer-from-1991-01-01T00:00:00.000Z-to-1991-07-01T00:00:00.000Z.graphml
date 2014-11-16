@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="823231"/>
+<node id="415892"/>
+<node id="1848998"/>
+<node id="2704785"/>
+<node id="613014"/>
+<node id="1848996"/>
+<node id="1228436"/>
+<node id="4548"/>
+<node id="1635708"/>
+<node id="1848985"/>
+<node id="13896"/>
+<node id="400578"/>
+<node id="378160"/>
+<node id="404238"/>
+<node id="404236"/>
+<edge id="415892-378160-comp.sys.ti.explorer" source="415892" target="378160">
+	<data key="topic">comp.sys.ti.explorer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1848998-1848985-comp.sys.ti.explorer" source="1848998" target="1848985">
+	<data key="topic">comp.sys.ti.explorer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2704785-4548-comp.sys.ti.explorer" source="2704785" target="4548">
+	<data key="topic">comp.sys.ti.explorer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1848996-613014-comp.sys.ti.explorer" source="1848996" target="613014">
+	<data key="topic">comp.sys.ti.explorer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1228436-404238-comp.sys.ti.explorer" source="1228436" target="404238">
+	<data key="topic">comp.sys.ti.explorer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1228436-404236-comp.sys.ti.explorer" source="1228436" target="404236">
+	<data key="topic">comp.sys.ti.explorer</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="4548-404236-comp.sys.ti.explorer" source="4548" target="404236">
+	<data key="topic">comp.sys.ti.explorer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="13896-823231-comp.sys.ti.explorer" source="13896" target="823231">
+	<data key="topic">comp.sys.ti.explorer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="13896-1635708-comp.sys.ti.explorer" source="13896" target="1635708">
+	<data key="topic">comp.sys.ti.explorer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="13896-404236-comp.sys.ti.explorer" source="13896" target="404236">
+	<data key="topic">comp.sys.ti.explorer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="400578-378160-comp.sys.ti.explorer" source="400578" target="378160">
+	<data key="topic">comp.sys.ti.explorer</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

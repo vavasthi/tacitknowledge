@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="29606"/>
+<node id="23385"/>
+<node id="546433"/>
+<node id="2881987"/>
+<node id="670311"/>
+<node id="29006"/>
+<edge id="546433-29606-biz.comp.telebit" source="546433" target="29606">
+	<data key="topic">biz.comp.telebit</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2881987-23385-biz.comp.telebit" source="2881987" target="23385">
+	<data key="topic">biz.comp.telebit</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="670311-23385-biz.comp.telebit" source="670311" target="23385">
+	<data key="topic">biz.comp.telebit</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-23385-biz.comp.telebit" source="29006" target="23385">
+	<data key="topic">biz.comp.telebit</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-2881987-biz.comp.telebit" source="29006" target="2881987">
+	<data key="topic">biz.comp.telebit</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

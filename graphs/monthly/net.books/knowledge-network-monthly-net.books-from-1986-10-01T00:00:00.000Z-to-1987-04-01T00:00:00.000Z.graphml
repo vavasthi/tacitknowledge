@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="526170"/>
+<node id="493620"/>
+<node id="925913"/>
+<node id="659965"/>
+<node id="931898"/>
+<node id="919029"/>
+<node id="15708"/>
+<node id="484572"/>
+<node id="927252"/>
+<node id="24584"/>
+<node id="484329"/>
+<node id="927170"/>
+<node id="924386"/>
+<edge id="493620-925913-net.books" source="493620" target="925913">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="493620-484329-net.books" source="493620" target="484329">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="493620-927170-net.books" source="493620" target="927170">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="925913-484329-net.books" source="925913" target="484329">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="925913-927170-net.books" source="925913" target="927170">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="659965-484329-net.books" source="659965" target="484329">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919029-931898-net.books" source="919029" target="931898">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919029-484572-net.books" source="919029" target="484572">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15708-526170-net.books" source="15708" target="526170">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15708-931898-net.books" source="15708" target="931898">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15708-484572-net.books" source="15708" target="484572">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="927252-925913-net.books" source="927252" target="925913">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="927252-484329-net.books" source="927252" target="484329">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="927252-927170-net.books" source="927252" target="927170">
+	<data key="topic">net.books</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="927252-924386-net.books" source="927252" target="924386">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24584-484329-net.books" source="24584" target="484329">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="927170-925913-net.books" source="927170" target="925913">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="927170-484329-net.books" source="927170" target="484329">
+	<data key="topic">net.books</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="924386-925913-net.books" source="924386" target="925913">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="924386-484329-net.books" source="924386" target="484329">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="924386-927170-net.books" source="924386" target="927170">
+	<data key="topic">net.books</data>
+	<data key="weight">2</data>
+</edge>
+</graph>
+</graphml>

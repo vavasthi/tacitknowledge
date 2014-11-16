@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="339190"/>
+<node id="565339"/>
+<node id="460659"/>
+<node id="460668"/>
+<node id="338106"/>
+<node id="459483"/>
+<node id="459323"/>
+<node id="461657"/>
+<node id="459206"/>
+<node id="459238"/>
+<node id="459937"/>
+<node id="525008"/>
+<node id="339760"/>
+<node id="459339"/>
+<edge id="339190-339760-net.micro.6809" source="339190" target="339760">
+	<data key="topic">net.micro.6809</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="565339-459206-net.micro.6809" source="565339" target="459206">
+	<data key="topic">net.micro.6809</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="565339-459937-net.micro.6809" source="565339" target="459937">
+	<data key="topic">net.micro.6809</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459483-459937-net.micro.6809" source="459483" target="459937">
+	<data key="topic">net.micro.6809</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459323-338106-net.micro.6809" source="459323" target="338106">
+	<data key="topic">net.micro.6809</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="459323-461657-net.micro.6809" source="459323" target="461657">
+	<data key="topic">net.micro.6809</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459206-460659-net.micro.6809" source="459206" target="460659">
+	<data key="topic">net.micro.6809</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459206-460668-net.micro.6809" source="459206" target="460668">
+	<data key="topic">net.micro.6809</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459206-459483-net.micro.6809" source="459206" target="459483">
+	<data key="topic">net.micro.6809</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459206-459937-net.micro.6809" source="459206" target="459937">
+	<data key="topic">net.micro.6809</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="459238-338106-net.micro.6809" source="459238" target="338106">
+	<data key="topic">net.micro.6809</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459238-459323-net.micro.6809" source="459238" target="459323">
+	<data key="topic">net.micro.6809</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459238-459937-net.micro.6809" source="459238" target="459937">
+	<data key="topic">net.micro.6809</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459238-525008-net.micro.6809" source="459238" target="525008">
+	<data key="topic">net.micro.6809</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="525008-459238-net.micro.6809" source="525008" target="459238">
+	<data key="topic">net.micro.6809</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459339-338106-net.micro.6809" source="459339" target="338106">
+	<data key="topic">net.micro.6809</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

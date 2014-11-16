@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="26833"/>
+<node id="26258"/>
+<node id="29660"/>
+<node id="15198"/>
+<node id="519976"/>
+<node id="546155"/>
+<node id="36774"/>
+<node id="499683"/>
+<node id="16106"/>
+<node id="519855"/>
+<node id="516461"/>
+<node id="700517"/>
+<node id="519849"/>
+<node id="14129"/>
+<node id="546938"/>
+<node id="28788"/>
+<node id="371187"/>
+<node id="1921547"/>
+<node id="36795"/>
+<node id="702392"/>
+<node id="548663"/>
+<node id="30719"/>
+<node id="521593"/>
+<node id="2055"/>
+<node id="515022"/>
+<node id="546436"/>
+<node id="29006"/>
+<node id="619720"/>
+<edge id="26258-16106-tor.news" source="26258" target="16106">
+	<data key="topic">tor.news</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29660-546155-tor.news" source="29660" target="546155">
+	<data key="topic">tor.news</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15198-36774-tor.news" source="15198" target="36774">
+	<data key="topic">tor.news</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15198-16106-tor.news" source="15198" target="16106">
+	<data key="topic">tor.news</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15198-519855-tor.news" source="15198" target="519855">
+	<data key="topic">tor.news</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15198-28788-tor.news" source="15198" target="28788">
+	<data key="topic">tor.news</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="15198-546436-tor.news" source="15198" target="546436">
+	<data key="topic">tor.news</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15198-29006-tor.news" source="15198" target="29006">
+	<data key="topic">tor.news</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36774-15198-tor.news" source="36774" target="15198">
+	<data key="topic">tor.news</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36774-28788-tor.news" source="36774" target="28788">
+	<data key="topic">tor.news</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36774-546436-tor.news" source="36774" target="546436">
+	<data key="topic">tor.news</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36774-29006-tor.news" source="36774" target="29006">
+	<data key="topic">tor.news</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="499683-26258-tor.news" source="499683" target="26258">
+	<data key="topic">tor.news</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16106-26258-tor.news" source="16106" target="26258">
+	<data key="topic">tor.news</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="519855-15198-tor.news" source="519855" target="15198">
+	<data key="topic">tor.news</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="519855-36774-tor.news" source="519855" target="36774">
+	<data key="topic">tor.news</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="519855-28788-tor.news" source="519855" target="28788">
+	<data key="topic">tor.news</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="519855-546436-tor.news" source="519855" target="546436">
+	<data key="topic">tor.news</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="519855-29006-tor.news" source="519855" target="29006">
+	<data key="topic">tor.news</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="516461-29006-tor.news" source="516461" target="29006">
+	<data key="topic">tor.news</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="516461-619720-tor.news" source="516461" target="619720">
+	<data key="topic">tor.news</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="700517-15198-tor.news" source="700517" target="15198">
+	<data key="topic">tor.news</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="700517-28788-tor.news" source="700517" target="28788">
+	<data key="topic">tor.news</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="519849-519976-tor.news" source="519849" target="519976">
+	<data key="topic">tor.news</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="371187-14129-tor.news" source="371187" target="14129">
+	<data key="topic">tor.news</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1921547-26833-tor.news" source="1921547" target="26833">
+	<data key="topic">tor.news</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36795-26258-tor.news" source="36795" target="26258">
+	<data key="topic">tor.news</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36795-16106-tor.news" source="36795" target="16106">
+	<data key="topic">tor.news</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="702392-546938-tor.news" source="702392" target="546938">
+	<data key="topic">tor.news</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521593-548663-tor.news" source="521593" target="548663">
+	<data key="topic">tor.news</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2055-16106-tor.news" source="2055" target="16106">
+	<data key="topic">tor.news</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="515022-15198-tor.news" source="515022" target="15198">
+	<data key="topic">tor.news</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="515022-28788-tor.news" source="515022" target="28788">
+	<data key="topic">tor.news</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="546436-15198-tor.news" source="546436" target="15198">
+	<data key="topic">tor.news</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="546436-28788-tor.news" source="546436" target="28788">
+	<data key="topic">tor.news</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="546436-30719-tor.news" source="546436" target="30719">
+	<data key="topic">tor.news</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-15198-tor.news" source="29006" target="15198">
+	<data key="topic">tor.news</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-28788-tor.news" source="29006" target="28788">
+	<data key="topic">tor.news</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-546436-tor.news" source="29006" target="546436">
+	<data key="topic">tor.news</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-619720-tor.news" source="29006" target="619720">
+	<data key="topic">tor.news</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

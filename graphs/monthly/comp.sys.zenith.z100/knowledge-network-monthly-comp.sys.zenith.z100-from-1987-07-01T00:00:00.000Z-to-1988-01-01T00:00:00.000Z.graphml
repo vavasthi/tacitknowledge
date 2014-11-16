@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="18321"/>
+<node id="19043"/>
+<node id="586043"/>
+<node id="20356"/>
+<node id="1249851"/>
+<node id="1995720"/>
+<node id="19035"/>
+<node id="501822"/>
+<node id="585987"/>
+<node id="512829"/>
+<node id="660229"/>
+<node id="587239"/>
+<edge id="18321-1249851-comp.sys.zenith.z100" source="18321" target="1249851">
+	<data key="topic">comp.sys.zenith.z100</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18321-19035-comp.sys.zenith.z100" source="18321" target="19035">
+	<data key="topic">comp.sys.zenith.z100</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="18321-501822-comp.sys.zenith.z100" source="18321" target="501822">
+	<data key="topic">comp.sys.zenith.z100</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18321-660229-comp.sys.zenith.z100" source="18321" target="660229">
+	<data key="topic">comp.sys.zenith.z100</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19043-18321-comp.sys.zenith.z100" source="19043" target="18321">
+	<data key="topic">comp.sys.zenith.z100</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="586043-18321-comp.sys.zenith.z100" source="586043" target="18321">
+	<data key="topic">comp.sys.zenith.z100</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20356-1995720-comp.sys.zenith.z100" source="20356" target="1995720">
+	<data key="topic">comp.sys.zenith.z100</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="585987-512829-comp.sys.zenith.z100" source="585987" target="512829">
+	<data key="topic">comp.sys.zenith.z100</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="587239-20356-comp.sys.zenith.z100" source="587239" target="20356">
+	<data key="topic">comp.sys.zenith.z100</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

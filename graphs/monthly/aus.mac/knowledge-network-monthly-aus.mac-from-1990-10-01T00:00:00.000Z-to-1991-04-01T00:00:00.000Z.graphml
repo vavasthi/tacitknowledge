@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="8017"/>
+<node id="355701"/>
+<node id="354578"/>
+<node id="833818"/>
+<node id="439185"/>
+<node id="6616"/>
+<node id="1934534"/>
+<node id="381982"/>
+<node id="358269"/>
+<node id="438558"/>
+<node id="1223376"/>
+<node id="6722"/>
+<node id="7330"/>
+<node id="355175"/>
+<node id="377889"/>
+<node id="941292"/>
+<node id="1219925"/>
+<node id="438593"/>
+<node id="879654"/>
+<node id="941320"/>
+<node id="368394"/>
+<node id="406379"/>
+<node id="882596"/>
+<node id="7408"/>
+<edge id="354578-8017-aus.mac" source="354578" target="8017">
+	<data key="topic">aus.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="354578-358269-aus.mac" source="354578" target="358269">
+	<data key="topic">aus.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="439185-833818-aus.mac" source="439185" target="833818">
+	<data key="topic">aus.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="439185-406379-aus.mac" source="439185" target="406379">
+	<data key="topic">aus.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1934534-355701-aus.mac" source="1934534" target="355701">
+	<data key="topic">aus.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="381982-8017-aus.mac" source="381982" target="8017">
+	<data key="topic">aus.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="381982-358269-aus.mac" source="381982" target="358269">
+	<data key="topic">aus.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="358269-8017-aus.mac" source="358269" target="8017">
+	<data key="topic">aus.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1223376-879654-aus.mac" source="1223376" target="879654">
+	<data key="topic">aus.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="6722-1219925-aus.mac" source="6722" target="1219925">
+	<data key="topic">aus.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7330-1219925-aus.mac" source="7330" target="1219925">
+	<data key="topic">aus.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="355175-6616-aus.mac" source="355175" target="6616">
+	<data key="topic">aus.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="438593-438558-aus.mac" source="438593" target="438558">
+	<data key="topic">aus.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="941320-377889-aus.mac" source="941320" target="377889">
+	<data key="topic">aus.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="368394-377889-aus.mac" source="368394" target="377889">
+	<data key="topic">aus.mac</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="368394-941292-aus.mac" source="368394" target="941292">
+	<data key="topic">aus.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="406379-833818-aus.mac" source="406379" target="833818">
+	<data key="topic">aus.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="882596-1219925-aus.mac" source="882596" target="1219925">
+	<data key="topic">aus.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7408-355701-aus.mac" source="7408" target="355701">
+	<data key="topic">aus.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7408-1934534-aus.mac" source="7408" target="1934534">
+	<data key="topic">aus.mac</data>
+	<data key="weight">2</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="31650"/>
+<node id="3427"/>
+<node id="1081060"/>
+<node id="1301"/>
+<node id="2773"/>
+<node id="956603"/>
+<node id="1954246"/>
+<node id="618529"/>
+<node id="3242"/>
+<node id="1726468"/>
+<node id="995093"/>
+<node id="1582"/>
+<edge id="3427-618529-comp.os.aos" source="3427" target="618529">
+	<data key="topic">comp.os.aos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1081060-956603-comp.os.aos" source="1081060" target="956603">
+	<data key="topic">comp.os.aos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1301-995093-comp.os.aos" source="1301" target="995093">
+	<data key="topic">comp.os.aos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2773-31650-comp.os.aos" source="2773" target="31650">
+	<data key="topic">comp.os.aos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1954246-618529-comp.os.aos" source="1954246" target="618529">
+	<data key="topic">comp.os.aos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3242-1726468-comp.os.aos" source="3242" target="1726468">
+	<data key="topic">comp.os.aos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1582-3427-comp.os.aos" source="1582" target="3427">
+	<data key="topic">comp.os.aos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1582-618529-comp.os.aos" source="1582" target="618529">
+	<data key="topic">comp.os.aos</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

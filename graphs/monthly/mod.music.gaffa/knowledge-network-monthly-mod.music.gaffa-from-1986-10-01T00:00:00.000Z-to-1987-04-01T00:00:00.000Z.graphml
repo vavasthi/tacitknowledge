@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="927712"/>
+<node id="918558"/>
+<node id="918199"/>
+<node id="918517"/>
+<node id="390010"/>
+<node id="918515"/>
+<node id="918513"/>
+<node id="390011"/>
+<node id="918575"/>
+<node id="918542"/>
+<node id="927687"/>
+<node id="485999"/>
+<node id="918533"/>
+<edge id="927712-485999-mod.music.gaffa" source="927712" target="485999">
+	<data key="topic">mod.music.gaffa</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="918517-918558-mod.music.gaffa" source="918517" target="918558">
+	<data key="topic">mod.music.gaffa</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="918517-918575-mod.music.gaffa" source="918517" target="918575">
+	<data key="topic">mod.music.gaffa</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390010-390011-mod.music.gaffa" source="390010" target="390011">
+	<data key="topic">mod.music.gaffa</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="390011-390010-mod.music.gaffa" source="390011" target="390010">
+	<data key="topic">mod.music.gaffa</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="918542-918199-mod.music.gaffa" source="918542" target="918199">
+	<data key="topic">mod.music.gaffa</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="918542-918513-mod.music.gaffa" source="918542" target="918513">
+	<data key="topic">mod.music.gaffa</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="927687-918533-mod.music.gaffa" source="927687" target="918533">
+	<data key="topic">mod.music.gaffa</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="485999-918515-mod.music.gaffa" source="485999" target="918515">
+	<data key="topic">mod.music.gaffa</data>
+	<data key="weight">3</data>
+</edge>
+</graph>
+</graphml>

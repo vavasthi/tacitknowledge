@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="51382"/>
+<node id="53097"/>
+<node id="50394"/>
+<node id="49947"/>
+<node id="47020"/>
+<node id="53838"/>
+<edge id="51382-53097-sci.skepticism" source="51382" target="53097">
+	<data key="topic">sci.skepticism</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="51382-50394-sci.skepticism" source="51382" target="50394">
+	<data key="topic">sci.skepticism</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="51382-49947-sci.skepticism" source="51382" target="49947">
+	<data key="topic">sci.skepticism</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="51382-47020-sci.skepticism" source="51382" target="47020">
+	<data key="topic">sci.skepticism</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="51382-53838-sci.skepticism" source="51382" target="53838">
+	<data key="topic">sci.skepticism</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

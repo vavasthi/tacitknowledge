@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="464471"/>
+<node id="522101"/>
+<node id="623711"/>
+<node id="340990"/>
+<node id="337278"/>
+<node id="337917"/>
+<node id="604465"/>
+<node id="482078"/>
+<node id="1707138"/>
+<node id="624311"/>
+<node id="338504"/>
+<node id="600719"/>
+<node id="1041833"/>
+<node id="337422"/>
+<node id="342350"/>
+<node id="337200"/>
+<node id="337264"/>
+<node id="337744"/>
+<node id="29006"/>
+<node id="340617"/>
+<node id="465579"/>
+<node id="980066"/>
+<edge id="464471-342350-net.games.video" source="464471" target="342350">
+	<data key="topic">net.games.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522101-342350-net.games.video" source="522101" target="342350">
+	<data key="topic">net.games.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340990-337278-net.games.video" source="340990" target="337278">
+	<data key="topic">net.games.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="482078-340990-net.games.video" source="482078" target="340990">
+	<data key="topic">net.games.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338504-1707138-net.games.video" source="338504" target="1707138">
+	<data key="topic">net.games.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="600719-482078-net.games.video" source="600719" target="482078">
+	<data key="topic">net.games.video</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="600719-342350-net.games.video" source="600719" target="342350">
+	<data key="topic">net.games.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1041833-1707138-net.games.video" source="1041833" target="1707138">
+	<data key="topic">net.games.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1041833-338504-net.games.video" source="1041833" target="338504">
+	<data key="topic">net.games.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337422-604465-net.games.video" source="337422" target="604465">
+	<data key="topic">net.games.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337422-342350-net.games.video" source="337422" target="342350">
+	<data key="topic">net.games.video</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="337200-337917-net.games.video" source="337200" target="337917">
+	<data key="topic">net.games.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337264-624311-net.games.video" source="337264" target="624311">
+	<data key="topic">net.games.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337744-623711-net.games.video" source="337744" target="623711">
+	<data key="topic">net.games.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-337917-net.games.video" source="29006" target="337917">
+	<data key="topic">net.games.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340617-604465-net.games.video" source="340617" target="604465">
+	<data key="topic">net.games.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="465579-980066-net.games.video" source="465579" target="980066">
+	<data key="topic">net.games.video</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

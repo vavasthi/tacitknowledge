@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="432711"/>
+<node id="27236"/>
+<node id="764145"/>
+<edge id="764145-432711-talk.politics.mideast" source="764145" target="432711">
+	<data key="topic">talk.politics.mideast</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="764145-27236-talk.politics.mideast" source="764145" target="27236">
+	<data key="topic">talk.politics.mideast</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

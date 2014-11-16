@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="646298"/>
+<node id="369525"/>
+<node id="381957"/>
+<node id="352462"/>
+<node id="355369"/>
+<node id="7199"/>
+<node id="7168"/>
+<edge id="646298-381957-comp.lang.forth.mac" source="646298" target="381957">
+	<data key="topic">comp.lang.forth.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="646298-7199-comp.lang.forth.mac" source="646298" target="7199">
+	<data key="topic">comp.lang.forth.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="369525-7199-comp.lang.forth.mac" source="369525" target="7199">
+	<data key="topic">comp.lang.forth.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="381957-7199-comp.lang.forth.mac" source="381957" target="7199">
+	<data key="topic">comp.lang.forth.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="352462-369525-comp.lang.forth.mac" source="352462" target="369525">
+	<data key="topic">comp.lang.forth.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="352462-7199-comp.lang.forth.mac" source="352462" target="7199">
+	<data key="topic">comp.lang.forth.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="352462-7168-comp.lang.forth.mac" source="352462" target="7168">
+	<data key="topic">comp.lang.forth.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="355369-7199-comp.lang.forth.mac" source="355369" target="7199">
+	<data key="topic">comp.lang.forth.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7168-369525-comp.lang.forth.mac" source="7168" target="369525">
+	<data key="topic">comp.lang.forth.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7168-7199-comp.lang.forth.mac" source="7168" target="7199">
+	<data key="topic">comp.lang.forth.mac</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

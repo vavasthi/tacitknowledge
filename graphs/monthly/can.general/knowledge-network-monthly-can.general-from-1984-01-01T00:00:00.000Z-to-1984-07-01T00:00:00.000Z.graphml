@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="337943"/>
+<node id="459285"/>
+<node id="340978"/>
+<node id="460520"/>
+<node id="685872"/>
+<node id="565807"/>
+<node id="462177"/>
+<node id="460257"/>
+<node id="339971"/>
+<node id="521953"/>
+<node id="459278"/>
+<node id="459181"/>
+<node id="29006"/>
+<node id="463467"/>
+<node id="459946"/>
+<edge id="337943-565807-can.general" source="337943" target="565807">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337943-462177-can.general" source="337943" target="462177">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337943-460257-can.general" source="337943" target="460257">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459285-340978-can.general" source="459285" target="340978">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459285-459181-can.general" source="459285" target="459181">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340978-459285-can.general" source="340978" target="459285">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340978-459181-can.general" source="340978" target="459181">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="685872-339971-can.general" source="685872" target="339971">
+	<data key="topic">can.general</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="685872-459181-can.general" source="685872" target="459181">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="462177-459285-can.general" source="462177" target="459285">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="462177-459278-can.general" source="462177" target="459278">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="462177-459181-can.general" source="462177" target="459181">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460257-565807-can.general" source="460257" target="565807">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460257-462177-can.general" source="460257" target="462177">
+	<data key="topic">can.general</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="339971-337943-can.general" source="339971" target="337943">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521953-459285-can.general" source="521953" target="459285">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521953-462177-can.general" source="521953" target="462177">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521953-459278-can.general" source="521953" target="459278">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521953-459181-can.general" source="521953" target="459181">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459278-459285-can.general" source="459278" target="459285">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459278-459181-can.general" source="459278" target="459181">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459181-459285-can.general" source="459181" target="459285">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459181-340978-can.general" source="459181" target="340978">
+	<data key="topic">can.general</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="459181-460520-can.general" source="459181" target="460520">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459181-339971-can.general" source="459181" target="339971">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459181-29006-can.general" source="459181" target="29006">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-460520-can.general" source="29006" target="460520">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="463467-565807-can.general" source="463467" target="565807">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="463467-462177-can.general" source="463467" target="462177">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459946-459285-can.general" source="459946" target="459285">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459946-459181-can.general" source="459946" target="459181">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

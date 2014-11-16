@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="375798"/>
+<node id="416805"/>
+<node id="434417"/>
+<node id="348110"/>
+<node id="1635506"/>
+<node id="352746"/>
+<node id="439002"/>
+<edge id="416805-1635506-comp.sys.apple" source="416805" target="1635506">
+	<data key="topic">comp.sys.apple</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="416805-352746-comp.sys.apple" source="416805" target="352746">
+	<data key="topic">comp.sys.apple</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="434417-375798-comp.sys.apple" source="434417" target="375798">
+	<data key="topic">comp.sys.apple</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="434417-348110-comp.sys.apple" source="434417" target="348110">
+	<data key="topic">comp.sys.apple</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="352746-416805-comp.sys.apple" source="352746" target="416805">
+	<data key="topic">comp.sys.apple</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="439002-416805-comp.sys.apple" source="439002" target="416805">
+	<data key="topic">comp.sys.apple</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="439002-1635506-comp.sys.apple" source="439002" target="1635506">
+	<data key="topic">comp.sys.apple</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

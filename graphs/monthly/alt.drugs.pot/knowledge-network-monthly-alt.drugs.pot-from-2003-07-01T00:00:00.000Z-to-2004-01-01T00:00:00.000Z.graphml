@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="179507"/>
+<node id="179924"/>
+<node id="197489"/>
+<node id="203062"/>
+<node id="92730"/>
+<node id="37019"/>
+<node id="215645"/>
+<node id="187043"/>
+<node id="215716"/>
+<node id="187524"/>
+<node id="174600"/>
+<node id="39304"/>
+<node id="167302"/>
+<node id="37227"/>
+<node id="187561"/>
+<node id="133226"/>
+<edge id="179507-179924-alt.drugs.pot" source="179507" target="179924">
+	<data key="topic">alt.drugs.pot</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="179507-92730-alt.drugs.pot" source="179507" target="92730">
+	<data key="topic">alt.drugs.pot</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="203062-197489-alt.drugs.pot" source="203062" target="197489">
+	<data key="topic">alt.drugs.pot</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37019-92730-alt.drugs.pot" source="37019" target="92730">
+	<data key="topic">alt.drugs.pot</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="215645-133226-alt.drugs.pot" source="215645" target="133226">
+	<data key="topic">alt.drugs.pot</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="187043-133226-alt.drugs.pot" source="187043" target="133226">
+	<data key="topic">alt.drugs.pot</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="215716-215645-alt.drugs.pot" source="215716" target="215645">
+	<data key="topic">alt.drugs.pot</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="215716-133226-alt.drugs.pot" source="215716" target="133226">
+	<data key="topic">alt.drugs.pot</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="187524-133226-alt.drugs.pot" source="187524" target="133226">
+	<data key="topic">alt.drugs.pot</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="174600-197489-alt.drugs.pot" source="174600" target="197489">
+	<data key="topic">alt.drugs.pot</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="39304-92730-alt.drugs.pot" source="39304" target="92730">
+	<data key="topic">alt.drugs.pot</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="167302-133226-alt.drugs.pot" source="167302" target="133226">
+	<data key="topic">alt.drugs.pot</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37227-179924-alt.drugs.pot" source="37227" target="179924">
+	<data key="topic">alt.drugs.pot</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37227-92730-alt.drugs.pot" source="37227" target="92730">
+	<data key="topic">alt.drugs.pot</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="187561-167302-alt.drugs.pot" source="187561" target="167302">
+	<data key="topic">alt.drugs.pot</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="187561-133226-alt.drugs.pot" source="187561" target="133226">
+	<data key="topic">alt.drugs.pot</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

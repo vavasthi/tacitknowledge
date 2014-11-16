@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="854174"/>
+<node id="440024"/>
+<node id="854173"/>
+<node id="7381"/>
+<node id="438675"/>
+<node id="640798"/>
+<node id="354527"/>
+<node id="430043"/>
+<node id="610"/>
+<node id="550570"/>
+<node id="6565"/>
+<node id="831784"/>
+<node id="6576"/>
+<node id="779967"/>
+<node id="550591"/>
+<node id="608896"/>
+<node id="640768"/>
+<node id="1294860"/>
+<node id="20986"/>
+<node id="512831"/>
+<node id="825014"/>
+<node id="1278795"/>
+<node id="907408"/>
+<node id="640781"/>
+<node id="907401"/>
+<node id="6983"/>
+<node id="907403"/>
+<node id="382286"/>
+<node id="907397"/>
+<node id="412173"/>
+<node id="779970"/>
+<node id="438798"/>
+<node id="907399"/>
+<node id="417100"/>
+<node id="583494"/>
+<node id="553543"/>
+<edge id="907408-907403-comp.binaries.mac" source="907408" target="907403">
+	<data key="topic">comp.binaries.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="907408-907397-comp.binaries.mac" source="907408" target="907397">
+	<data key="topic">comp.binaries.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="907401-907408-comp.binaries.mac" source="907401" target="907408">
+	<data key="topic">comp.binaries.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="907401-907403-comp.binaries.mac" source="907401" target="907403">
+	<data key="topic">comp.binaries.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="907401-907397-comp.binaries.mac" source="907401" target="907397">
+	<data key="topic">comp.binaries.mac</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="907403-907397-comp.binaries.mac" source="907403" target="907397">
+	<data key="topic">comp.binaries.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="907397-907408-comp.binaries.mac" source="907397" target="907408">
+	<data key="topic">comp.binaries.mac</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="907397-907401-comp.binaries.mac" source="907397" target="907401">
+	<data key="topic">comp.binaries.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="907397-907403-comp.binaries.mac" source="907397" target="907403">
+	<data key="topic">comp.binaries.mac</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="907399-907408-comp.binaries.mac" source="907399" target="907408">
+	<data key="topic">comp.binaries.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="907399-907401-comp.binaries.mac" source="907399" target="907401">
+	<data key="topic">comp.binaries.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="907399-907403-comp.binaries.mac" source="907399" target="907403">
+	<data key="topic">comp.binaries.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="907399-907397-comp.binaries.mac" source="907399" target="907397">
+	<data key="topic">comp.binaries.mac</data>
+	<data key="weight">3</data>
+</edge>
+</graph>
+</graphml>

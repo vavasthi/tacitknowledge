@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="361462"/>
+<node id="3445"/>
+<node id="2854"/>
+<node id="642722"/>
+<node id="2043"/>
+<node id="2092"/>
+<node id="642726"/>
+<node id="24687"/>
+<node id="512506"/>
+<node id="359243"/>
+<edge id="361462-642726-gnu.utils.bug" source="361462" target="642726">
+	<data key="topic">gnu.utils.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3445-642726-gnu.utils.bug" source="3445" target="642726">
+	<data key="topic">gnu.utils.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2854-2043-gnu.utils.bug" source="2854" target="2043">
+	<data key="topic">gnu.utils.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="642722-2092-gnu.utils.bug" source="642722" target="2092">
+	<data key="topic">gnu.utils.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="642722-642726-gnu.utils.bug" source="642722" target="642726">
+	<data key="topic">gnu.utils.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2092-642726-gnu.utils.bug" source="2092" target="642726">
+	<data key="topic">gnu.utils.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="512506-3445-gnu.utils.bug" source="512506" target="3445">
+	<data key="topic">gnu.utils.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="512506-642726-gnu.utils.bug" source="512506" target="642726">
+	<data key="topic">gnu.utils.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="359243-24687-gnu.utils.bug" source="359243" target="24687">
+	<data key="topic">gnu.utils.bug</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

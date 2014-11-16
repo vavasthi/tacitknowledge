@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="465687"/>
+<node id="657695"/>
+<node id="337811"/>
+<node id="493585"/>
+<node id="1508400"/>
+<node id="18590"/>
+<node id="1506839"/>
+<node id="28067"/>
+<node id="1127444"/>
+<node id="1574045"/>
+<node id="478371"/>
+<node id="390563"/>
+<node id="1121178"/>
+<node id="478636"/>
+<node id="1506841"/>
+<node id="1509914"/>
+<node id="390315"/>
+<node id="492856"/>
+<node id="390582"/>
+<node id="464945"/>
+<node id="397120"/>
+<node id="926518"/>
+<node id="392518"/>
+<node id="24771"/>
+<node id="396998"/>
+<node id="338114"/>
+<node id="338126"/>
+<node id="1774132"/>
+<node id="1574197"/>
+<node id="338134"/>
+<node id="1130466"/>
+<node id="337749"/>
+<node id="337361"/>
+<node id="397017"/>
+<node id="919663"/>
+<node id="337645"/>
+<node id="393584"/>
+<node id="390512"/>
+<node id="978918"/>
+<node id="1507548"/>
+<node id="1510408"/>
+<node id="459128"/>
+<node id="483830"/>
+<node id="1581707"/>
+<node id="466804"/>
+<node id="922875"/>
+<node id="659965"/>
+<node id="398719"/>
+<node id="16636"/>
+<node id="987508"/>
+<node id="484860"/>
+<node id="465785"/>
+<node id="1091344"/>
+<node id="669324"/>
+<node id="1575039"/>
+<node id="593807"/>
+<node id="918791"/>
+<node id="390284"/>
+<edge id="337811-1506841-net.books" source="337811" target="1506841">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337811-337361-net.books" source="337811" target="337361">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337811-919663-net.books" source="337811" target="919663">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="493585-1574197-net.books" source="493585" target="1574197">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18590-593807-net.books" source="18590" target="593807">
+	<data key="topic">net.books</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1506839-1506841-net.books" source="1506839" target="1506841">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28067-1121178-net.books" source="28067" target="1121178">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28067-16636-net.books" source="28067" target="16636">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28067-465785-net.books" source="28067" target="465785">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1127444-657695-net.books" source="1127444" target="657695">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1574045-492856-net.books" source="1574045" target="492856">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390563-466804-net.books" source="390563" target="466804">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="478636-657695-net.books" source="478636" target="657695">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1509914-478371-net.books" source="1509914" target="478371">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390315-1091344-net.books" source="390315" target="1091344">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390582-390284-net.books" source="390582" target="390284">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="464945-18590-net.books" source="464945" target="18590">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="464945-593807-net.books" source="464945" target="593807">
+	<data key="topic">net.books</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="397120-1121178-net.books" source="397120" target="1121178">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="397120-465785-net.books" source="397120" target="465785">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="926518-919663-net.books" source="926518" target="919663">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392518-478371-net.books" source="392518" target="478371">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24771-337811-net.books" source="24771" target="337811">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24771-1506841-net.books" source="24771" target="1506841">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24771-337361-net.books" source="24771" target="337361">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24771-919663-net.books" source="24771" target="919663">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="396998-493585-net.books" source="396998" target="493585">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="396998-1574197-net.books" source="396998" target="1574197">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1774132-390284-net.books" source="1774132" target="390284">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338134-492856-net.books" source="338134" target="492856">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1130466-18590-net.books" source="1130466" target="18590">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1130466-593807-net.books" source="1130466" target="593807">
+	<data key="topic">net.books</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="337361-1506841-net.books" source="337361" target="1506841">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="397017-1508400-net.books" source="397017" target="1508400">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919663-1506841-net.books" source="919663" target="1506841">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919663-337361-net.books" source="919663" target="337361">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337645-1506839-net.books" source="337645" target="1506839">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337645-1506841-net.books" source="337645" target="1506841">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="393584-390582-net.books" source="393584" target="390582">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="393584-390284-net.books" source="393584" target="390284">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390512-1574197-net.books" source="390512" target="1574197">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="978918-1506839-net.books" source="978918" target="1506839">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="978918-1506841-net.books" source="978918" target="1506841">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="978918-337645-net.books" source="978918" target="337645">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1507548-390582-net.books" source="1507548" target="390582">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1507548-393584-net.books" source="1507548" target="393584">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1507548-390284-net.books" source="1507548" target="390284">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="483830-1506839-net.books" source="483830" target="1506839">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="483830-1506841-net.books" source="483830" target="1506841">
+	<data key="topic">net.books</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="483830-337645-net.books" source="483830" target="337645">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="483830-978918-net.books" source="483830" target="978918">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="922875-28067-net.books" source="922875" target="28067">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="922875-459128-net.books" source="922875" target="459128">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="922875-1581707-net.books" source="922875" target="1581707">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="922875-465785-net.books" source="922875" target="465785">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="659965-1506841-net.books" source="659965" target="1506841">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="659965-337361-net.books" source="659965" target="337361">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="659965-919663-net.books" source="659965" target="919663">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="398719-1506841-net.books" source="398719" target="1506841">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="398719-337361-net.books" source="398719" target="337361">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="398719-919663-net.books" source="398719" target="919663">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16636-465687-net.books" source="16636" target="465687">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16636-1121178-net.books" source="16636" target="1121178">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16636-338114-net.books" source="16636" target="338114">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16636-337749-net.books" source="16636" target="337749">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16636-987508-net.books" source="16636" target="987508">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16636-465785-net.books" source="16636" target="465785">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="484860-1506841-net.books" source="484860" target="1506841">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="484860-337361-net.books" source="484860" target="337361">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="484860-919663-net.books" source="484860" target="919663">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1091344-390315-net.books" source="1091344" target="390315">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="669324-338126-net.books" source="669324" target="338126">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1575039-478371-net.books" source="1575039" target="478371">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="918791-390582-net.books" source="918791" target="390582">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="918791-1510408-net.books" source="918791" target="1510408">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="918791-390284-net.books" source="918791" target="390284">
+	<data key="topic">net.books</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

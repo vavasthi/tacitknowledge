@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="509880"/>
+<node id="26833"/>
+<node id="32242"/>
+<node id="671456"/>
+<node id="2109334"/>
+<node id="509873"/>
+<node id="513329"/>
+<node id="2109336"/>
+<node id="789709"/>
+<node id="534121"/>
+<node id="533421"/>
+<node id="428719"/>
+<node id="1673137"/>
+<node id="31019"/>
+<node id="534147"/>
+<node id="534757"/>
+<node id="519563"/>
+<node id="676421"/>
+<node id="1673143"/>
+<edge id="32242-509880-comp.lsi.cad" source="32242" target="509880">
+	<data key="topic">comp.lsi.cad</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="671456-509873-comp.lsi.cad" source="671456" target="509873">
+	<data key="topic">comp.lsi.cad</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2109334-1673137-comp.lsi.cad" source="2109334" target="1673137">
+	<data key="topic">comp.lsi.cad</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509873-676421-comp.lsi.cad" source="509873" target="676421">
+	<data key="topic">comp.lsi.cad</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2109336-26833-comp.lsi.cad" source="2109336" target="26833">
+	<data key="topic">comp.lsi.cad</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="534121-534147-comp.lsi.cad" source="534121" target="534147">
+	<data key="topic">comp.lsi.cad</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="533421-534121-comp.lsi.cad" source="533421" target="534121">
+	<data key="topic">comp.lsi.cad</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="533421-534147-comp.lsi.cad" source="533421" target="534147">
+	<data key="topic">comp.lsi.cad</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="31019-789709-comp.lsi.cad" source="31019" target="789709">
+	<data key="topic">comp.lsi.cad</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="534757-513329-comp.lsi.cad" source="534757" target="513329">
+	<data key="topic">comp.lsi.cad</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="519563-513329-comp.lsi.cad" source="519563" target="513329">
+	<data key="topic">comp.lsi.cad</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="676421-509873-comp.lsi.cad" source="676421" target="509873">
+	<data key="topic">comp.lsi.cad</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1673143-428719-comp.lsi.cad" source="1673143" target="428719">
+	<data key="topic">comp.lsi.cad</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

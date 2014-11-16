@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="377429"/>
+<node id="1456456"/>
+<node id="7923"/>
+<node id="648092"/>
+<node id="10643"/>
+<node id="779933"/>
+<node id="785649"/>
+<node id="10652"/>
+<node id="1180842"/>
+<node id="7454"/>
+<node id="408645"/>
+<node id="10661"/>
+<node id="860649"/>
+<node id="3850"/>
+<node id="375434"/>
+<node id="785669"/>
+<edge id="377429-10643-rec.music.classical" source="377429" target="10643">
+	<data key="topic">rec.music.classical</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="377429-408645-rec.music.classical" source="377429" target="408645">
+	<data key="topic">rec.music.classical</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="377429-10661-rec.music.classical" source="377429" target="10661">
+	<data key="topic">rec.music.classical</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7923-648092-rec.music.classical" source="7923" target="648092">
+	<data key="topic">rec.music.classical</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7923-785649-rec.music.classical" source="7923" target="785649">
+	<data key="topic">rec.music.classical</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10643-408645-rec.music.classical" source="10643" target="408645">
+	<data key="topic">rec.music.classical</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10643-10661-rec.music.classical" source="10643" target="10661">
+	<data key="topic">rec.music.classical</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="779933-648092-rec.music.classical" source="779933" target="648092">
+	<data key="topic">rec.music.classical</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="785649-648092-rec.music.classical" source="785649" target="648092">
+	<data key="topic">rec.music.classical</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10652-10661-rec.music.classical" source="10652" target="10661">
+	<data key="topic">rec.music.classical</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1180842-408645-rec.music.classical" source="1180842" target="408645">
+	<data key="topic">rec.music.classical</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1180842-10661-rec.music.classical" source="1180842" target="10661">
+	<data key="topic">rec.music.classical</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="860649-1456456-rec.music.classical" source="860649" target="1456456">
+	<data key="topic">rec.music.classical</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3850-10661-rec.music.classical" source="3850" target="10661">
+	<data key="topic">rec.music.classical</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="375434-7454-rec.music.classical" source="375434" target="7454">
+	<data key="topic">rec.music.classical</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="785669-648092-rec.music.classical" source="785669" target="648092">
+	<data key="topic">rec.music.classical</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="350146"/>
+<node id="361697"/>
+<node id="350125"/>
+<node id="388733"/>
+<node id="358575"/>
+<node id="425834"/>
+<edge id="350146-358575-rec.autos.driving" source="350146" target="358575">
+	<data key="topic">rec.autos.driving</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350146-425834-rec.autos.driving" source="350146" target="425834">
+	<data key="topic">rec.autos.driving</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="361697-350146-rec.autos.driving" source="361697" target="350146">
+	<data key="topic">rec.autos.driving</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="361697-358575-rec.autos.driving" source="361697" target="358575">
+	<data key="topic">rec.autos.driving</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="361697-425834-rec.autos.driving" source="361697" target="425834">
+	<data key="topic">rec.autos.driving</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350125-350146-rec.autos.driving" source="350125" target="350146">
+	<data key="topic">rec.autos.driving</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="350125-388733-rec.autos.driving" source="350125" target="388733">
+	<data key="topic">rec.autos.driving</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350125-358575-rec.autos.driving" source="350125" target="358575">
+	<data key="topic">rec.autos.driving</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350125-425834-rec.autos.driving" source="350125" target="425834">
+	<data key="topic">rec.autos.driving</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="388733-350146-rec.autos.driving" source="388733" target="350146">
+	<data key="topic">rec.autos.driving</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="388733-358575-rec.autos.driving" source="388733" target="358575">
+	<data key="topic">rec.autos.driving</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="388733-425834-rec.autos.driving" source="388733" target="425834">
+	<data key="topic">rec.autos.driving</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="358575-350146-rec.autos.driving" source="358575" target="350146">
+	<data key="topic">rec.autos.driving</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="358575-425834-rec.autos.driving" source="358575" target="425834">
+	<data key="topic">rec.autos.driving</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="425834-350146-rec.autos.driving" source="425834" target="350146">
+	<data key="topic">rec.autos.driving</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="425834-358575-rec.autos.driving" source="425834" target="358575">
+	<data key="topic">rec.autos.driving</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

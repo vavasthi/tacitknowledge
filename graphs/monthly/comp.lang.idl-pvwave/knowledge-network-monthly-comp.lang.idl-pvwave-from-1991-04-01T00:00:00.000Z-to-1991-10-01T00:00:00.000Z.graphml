@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1973296"/>
+<node id="1806891"/>
+<node id="1806889"/>
+<node id="360146"/>
+<node id="996251"/>
+<node id="2073383"/>
+<node id="839991"/>
+<node id="839985"/>
+<node id="949971"/>
+<node id="6110"/>
+<node id="350844"/>
+<node id="437241"/>
+<node id="1300302"/>
+<node id="787476"/>
+<node id="2073376"/>
+<node id="2073375"/>
+<node id="1228945"/>
+<node id="1158995"/>
+<node id="1159349"/>
+<node id="7721"/>
+<node id="5132"/>
+<node id="1040227"/>
+<node id="1101918"/>
+<node id="2505993"/>
+<edge id="1806891-787476-comp.lang.idl-pvwave" source="1806891" target="787476">
+	<data key="topic">comp.lang.idl-pvwave</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="996251-1806889-comp.lang.idl-pvwave" source="996251" target="1806889">
+	<data key="topic">comp.lang.idl-pvwave</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="996251-1228945-comp.lang.idl-pvwave" source="996251" target="1228945">
+	<data key="topic">comp.lang.idl-pvwave</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="996251-5132-comp.lang.idl-pvwave" source="996251" target="5132">
+	<data key="topic">comp.lang.idl-pvwave</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="996251-1040227-comp.lang.idl-pvwave" source="996251" target="1040227">
+	<data key="topic">comp.lang.idl-pvwave</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2073383-360146-comp.lang.idl-pvwave" source="2073383" target="360146">
+	<data key="topic">comp.lang.idl-pvwave</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2073383-350844-comp.lang.idl-pvwave" source="2073383" target="350844">
+	<data key="topic">comp.lang.idl-pvwave</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="839991-787476-comp.lang.idl-pvwave" source="839991" target="787476">
+	<data key="topic">comp.lang.idl-pvwave</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="839985-360146-comp.lang.idl-pvwave" source="839985" target="360146">
+	<data key="topic">comp.lang.idl-pvwave</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="949971-787476-comp.lang.idl-pvwave" source="949971" target="787476">
+	<data key="topic">comp.lang.idl-pvwave</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350844-360146-comp.lang.idl-pvwave" source="350844" target="360146">
+	<data key="topic">comp.lang.idl-pvwave</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="437241-1806889-comp.lang.idl-pvwave" source="437241" target="1806889">
+	<data key="topic">comp.lang.idl-pvwave</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="437241-1040227-comp.lang.idl-pvwave" source="437241" target="1040227">
+	<data key="topic">comp.lang.idl-pvwave</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1300302-1973296-comp.lang.idl-pvwave" source="1300302" target="1973296">
+	<data key="topic">comp.lang.idl-pvwave</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1300302-1158995-comp.lang.idl-pvwave" source="1300302" target="1158995">
+	<data key="topic">comp.lang.idl-pvwave</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1228945-1806889-comp.lang.idl-pvwave" source="1228945" target="1806889">
+	<data key="topic">comp.lang.idl-pvwave</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1228945-5132-comp.lang.idl-pvwave" source="1228945" target="5132">
+	<data key="topic">comp.lang.idl-pvwave</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1228945-1040227-comp.lang.idl-pvwave" source="1228945" target="1040227">
+	<data key="topic">comp.lang.idl-pvwave</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1159349-6110-comp.lang.idl-pvwave" source="1159349" target="6110">
+	<data key="topic">comp.lang.idl-pvwave</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1159349-787476-comp.lang.idl-pvwave" source="1159349" target="787476">
+	<data key="topic">comp.lang.idl-pvwave</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1159349-1040227-comp.lang.idl-pvwave" source="1159349" target="1040227">
+	<data key="topic">comp.lang.idl-pvwave</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7721-360146-comp.lang.idl-pvwave" source="7721" target="360146">
+	<data key="topic">comp.lang.idl-pvwave</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7721-350844-comp.lang.idl-pvwave" source="7721" target="350844">
+	<data key="topic">comp.lang.idl-pvwave</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5132-1806889-comp.lang.idl-pvwave" source="5132" target="1806889">
+	<data key="topic">comp.lang.idl-pvwave</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="5132-360146-comp.lang.idl-pvwave" source="5132" target="360146">
+	<data key="topic">comp.lang.idl-pvwave</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5132-2073383-comp.lang.idl-pvwave" source="5132" target="2073383">
+	<data key="topic">comp.lang.idl-pvwave</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5132-350844-comp.lang.idl-pvwave" source="5132" target="350844">
+	<data key="topic">comp.lang.idl-pvwave</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5132-2073375-comp.lang.idl-pvwave" source="5132" target="2073375">
+	<data key="topic">comp.lang.idl-pvwave</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5132-1228945-comp.lang.idl-pvwave" source="5132" target="1228945">
+	<data key="topic">comp.lang.idl-pvwave</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5132-1040227-comp.lang.idl-pvwave" source="5132" target="1040227">
+	<data key="topic">comp.lang.idl-pvwave</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="5132-1101918-comp.lang.idl-pvwave" source="5132" target="1101918">
+	<data key="topic">comp.lang.idl-pvwave</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1040227-1806889-comp.lang.idl-pvwave" source="1040227" target="1806889">
+	<data key="topic">comp.lang.idl-pvwave</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1040227-360146-comp.lang.idl-pvwave" source="1040227" target="360146">
+	<data key="topic">comp.lang.idl-pvwave</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1040227-2073376-comp.lang.idl-pvwave" source="1040227" target="2073376">
+	<data key="topic">comp.lang.idl-pvwave</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1040227-5132-comp.lang.idl-pvwave" source="1040227" target="5132">
+	<data key="topic">comp.lang.idl-pvwave</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1101918-2073375-comp.lang.idl-pvwave" source="1101918" target="2073375">
+	<data key="topic">comp.lang.idl-pvwave</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2505993-787476-comp.lang.idl-pvwave" source="2505993" target="787476">
+	<data key="topic">comp.lang.idl-pvwave</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

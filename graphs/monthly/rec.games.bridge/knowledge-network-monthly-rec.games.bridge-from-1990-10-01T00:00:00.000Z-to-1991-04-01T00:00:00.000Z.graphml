@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2052656"/>
+<node id="1691886"/>
+<node id="2052620"/>
+<node id="390"/>
+<node id="354628"/>
+<node id="360"/>
+<node id="2052693"/>
+<node id="877298"/>
+<edge id="2052620-2052656-rec.games.bridge" source="2052620" target="2052656">
+	<data key="topic">rec.games.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2052620-1691886-rec.games.bridge" source="2052620" target="1691886">
+	<data key="topic">rec.games.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390-2052656-rec.games.bridge" source="390" target="2052656">
+	<data key="topic">rec.games.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390-1691886-rec.games.bridge" source="390" target="1691886">
+	<data key="topic">rec.games.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390-2052693-rec.games.bridge" source="390" target="2052693">
+	<data key="topic">rec.games.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="354628-2052656-rec.games.bridge" source="354628" target="2052656">
+	<data key="topic">rec.games.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="354628-1691886-rec.games.bridge" source="354628" target="1691886">
+	<data key="topic">rec.games.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="360-2052656-rec.games.bridge" source="360" target="2052656">
+	<data key="topic">rec.games.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="360-1691886-rec.games.bridge" source="360" target="1691886">
+	<data key="topic">rec.games.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2052693-2052656-rec.games.bridge" source="2052693" target="2052656">
+	<data key="topic">rec.games.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2052693-1691886-rec.games.bridge" source="2052693" target="1691886">
+	<data key="topic">rec.games.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="877298-2052656-rec.games.bridge" source="877298" target="2052656">
+	<data key="topic">rec.games.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="877298-1691886-rec.games.bridge" source="877298" target="1691886">
+	<data key="topic">rec.games.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="877298-2052693-rec.games.bridge" source="877298" target="2052693">
+	<data key="topic">rec.games.bridge</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

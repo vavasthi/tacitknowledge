@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="350674"/>
+<node id="614685"/>
+<node id="558687"/>
+<node id="1879147"/>
+<node id="669405"/>
+<node id="2569981"/>
+<node id="436444"/>
+<node id="1446295"/>
+<node id="510821"/>
+<node id="864745"/>
+<node id="864613"/>
+<node id="618980"/>
+<node id="1003045"/>
+<node id="428908"/>
+<node id="1582"/>
+<node id="2038"/>
+<node id="1351811"/>
+<node id="2040"/>
+<node id="19320"/>
+<node id="716532"/>
+<node id="431166"/>
+<node id="608502"/>
+<node id="608694"/>
+<node id="558537"/>
+<node id="867981"/>
+<node id="10696"/>
+<node id="706190"/>
+<node id="706370"/>
+<node id="5776"/>
+<edge id="614685-867981-gnu.gdb.bug" source="614685" target="867981">
+	<data key="topic">gnu.gdb.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="558687-350674-gnu.gdb.bug" source="558687" target="350674">
+	<data key="topic">gnu.gdb.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="558687-1879147-gnu.gdb.bug" source="558687" target="1879147">
+	<data key="topic">gnu.gdb.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="558687-618980-gnu.gdb.bug" source="558687" target="618980">
+	<data key="topic">gnu.gdb.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="558687-2038-gnu.gdb.bug" source="558687" target="2038">
+	<data key="topic">gnu.gdb.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="669405-864745-gnu.gdb.bug" source="669405" target="864745">
+	<data key="topic">gnu.gdb.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="669405-1351811-gnu.gdb.bug" source="669405" target="1351811">
+	<data key="topic">gnu.gdb.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="436444-558687-gnu.gdb.bug" source="436444" target="558687">
+	<data key="topic">gnu.gdb.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="618980-1582-gnu.gdb.bug" source="618980" target="1582">
+	<data key="topic">gnu.gdb.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="618980-608502-gnu.gdb.bug" source="618980" target="608502">
+	<data key="topic">gnu.gdb.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1003045-431166-gnu.gdb.bug" source="1003045" target="431166">
+	<data key="topic">gnu.gdb.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="428908-608502-gnu.gdb.bug" source="428908" target="608502">
+	<data key="topic">gnu.gdb.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="428908-706370-gnu.gdb.bug" source="428908" target="706370">
+	<data key="topic">gnu.gdb.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2038-618980-gnu.gdb.bug" source="2038" target="618980">
+	<data key="topic">gnu.gdb.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1351811-669405-gnu.gdb.bug" source="1351811" target="669405">
+	<data key="topic">gnu.gdb.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2040-19320-gnu.gdb.bug" source="2040" target="19320">
+	<data key="topic">gnu.gdb.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="716532-864613-gnu.gdb.bug" source="716532" target="864613">
+	<data key="topic">gnu.gdb.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="608502-2569981-gnu.gdb.bug" source="608502" target="2569981">
+	<data key="topic">gnu.gdb.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="608502-436444-gnu.gdb.bug" source="608502" target="436444">
+	<data key="topic">gnu.gdb.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="608502-864745-gnu.gdb.bug" source="608502" target="864745">
+	<data key="topic">gnu.gdb.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="608502-1582-gnu.gdb.bug" source="608502" target="1582">
+	<data key="topic">gnu.gdb.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="608502-1351811-gnu.gdb.bug" source="608502" target="1351811">
+	<data key="topic">gnu.gdb.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="608502-706370-gnu.gdb.bug" source="608502" target="706370">
+	<data key="topic">gnu.gdb.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="608502-5776-gnu.gdb.bug" source="608502" target="5776">
+	<data key="topic">gnu.gdb.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="608694-558687-gnu.gdb.bug" source="608694" target="558687">
+	<data key="topic">gnu.gdb.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="608694-618980-gnu.gdb.bug" source="608694" target="618980">
+	<data key="topic">gnu.gdb.bug</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="608694-1582-gnu.gdb.bug" source="608694" target="1582">
+	<data key="topic">gnu.gdb.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="608694-2038-gnu.gdb.bug" source="608694" target="2038">
+	<data key="topic">gnu.gdb.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="608694-608502-gnu.gdb.bug" source="608694" target="608502">
+	<data key="topic">gnu.gdb.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="706190-558537-gnu.gdb.bug" source="706190" target="558537">
+	<data key="topic">gnu.gdb.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="706370-428908-gnu.gdb.bug" source="706370" target="428908">
+	<data key="topic">gnu.gdb.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5776-510821-gnu.gdb.bug" source="5776" target="510821">
+	<data key="topic">gnu.gdb.bug</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

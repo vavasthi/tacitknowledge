@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="459351"/>
+<node id="459671"/>
+<node id="459862"/>
+<node id="462673"/>
+<node id="459486"/>
+<node id="459741"/>
+<node id="960022"/>
+<node id="459292"/>
+<node id="340956"/>
+<node id="522856"/>
+<node id="567209"/>
+<node id="2075488"/>
+<node id="462311"/>
+<node id="459620"/>
+<node id="459555"/>
+<node id="521827"/>
+<node id="2075483"/>
+<node id="459233"/>
+<node id="459630"/>
+<node id="680737"/>
+<node id="459949"/>
+<node id="459692"/>
+<node id="521835"/>
+<node id="460138"/>
+<node id="390315"/>
+<node id="522857"/>
+<node id="562939"/>
+<node id="459446"/>
+<node id="459957"/>
+<node id="461109"/>
+<node id="522548"/>
+<node id="339252"/>
+<node id="464896"/>
+<node id="459709"/>
+<node id="337919"/>
+<node id="459388"/>
+<node id="459963"/>
+<node id="459706"/>
+<node id="460409"/>
+<node id="459654"/>
+<node id="467973"/>
+<node id="527181"/>
+<node id="341697"/>
+<node id="336909"/>
+<node id="460815"/>
+<node id="459469"/>
+<node id="528966"/>
+<node id="460234"/>
+<edge id="459351-459957-net.games.trivia" source="459351" target="459957">
+	<data key="topic">net.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459671-459949-net.games.trivia" source="459671" target="459949">
+	<data key="topic">net.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="462673-340956-net.games.trivia" source="462673" target="340956">
+	<data key="topic">net.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="462673-460138-net.games.trivia" source="462673" target="460138">
+	<data key="topic">net.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459486-340956-net.games.trivia" source="459486" target="340956">
+	<data key="topic">net.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459486-461109-net.games.trivia" source="459486" target="461109">
+	<data key="topic">net.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459741-459963-net.games.trivia" source="459741" target="459963">
+	<data key="topic">net.games.trivia</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="459741-459469-net.games.trivia" source="459741" target="459469">
+	<data key="topic">net.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="960022-459949-net.games.trivia" source="960022" target="459949">
+	<data key="topic">net.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459292-459706-net.games.trivia" source="459292" target="459706">
+	<data key="topic">net.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522856-464896-net.games.trivia" source="522856" target="464896">
+	<data key="topic">net.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="567209-340956-net.games.trivia" source="567209" target="340956">
+	<data key="topic">net.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2075488-2075483-net.games.trivia" source="2075488" target="2075483">
+	<data key="topic">net.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="462311-461109-net.games.trivia" source="462311" target="461109">
+	<data key="topic">net.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459620-459555-net.games.trivia" source="459620" target="459555">
+	<data key="topic">net.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521827-459862-net.games.trivia" source="521827" target="459862">
+	<data key="topic">net.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521827-527181-net.games.trivia" source="521827" target="527181">
+	<data key="topic">net.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459233-521835-net.games.trivia" source="459233" target="521835">
+	<data key="topic">net.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459233-460234-net.games.trivia" source="459233" target="460234">
+	<data key="topic">net.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459630-460138-net.games.trivia" source="459630" target="460138">
+	<data key="topic">net.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="680737-459233-net.games.trivia" source="680737" target="459233">
+	<data key="topic">net.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="680737-521835-net.games.trivia" source="680737" target="521835">
+	<data key="topic">net.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459949-460138-net.games.trivia" source="459949" target="460138">
+	<data key="topic">net.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459949-459446-net.games.trivia" source="459949" target="459446">
+	<data key="topic">net.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459692-459620-net.games.trivia" source="459692" target="459620">
+	<data key="topic">net.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459692-459388-net.games.trivia" source="459692" target="459388">
+	<data key="topic">net.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390315-459862-net.games.trivia" source="390315" target="459862">
+	<data key="topic">net.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522857-460138-net.games.trivia" source="522857" target="460138">
+	<data key="topic">net.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="562939-459233-net.games.trivia" source="562939" target="459233">
+	<data key="topic">net.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="562939-521835-net.games.trivia" source="562939" target="521835">
+	<data key="topic">net.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="562939-341697-net.games.trivia" source="562939" target="341697">
+	<data key="topic">net.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459446-460138-net.games.trivia" source="459446" target="460138">
+	<data key="topic">net.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522548-459862-net.games.trivia" source="522548" target="459862">
+	<data key="topic">net.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459709-459469-net.games.trivia" source="459709" target="459469">
+	<data key="topic">net.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459388-459620-net.games.trivia" source="459388" target="459620">
+	<data key="topic">net.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460409-337919-net.games.trivia" source="460409" target="337919">
+	<data key="topic">net.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="467973-521835-net.games.trivia" source="467973" target="521835">
+	<data key="topic">net.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="527181-460138-net.games.trivia" source="527181" target="460138">
+	<data key="topic">net.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341697-562939-net.games.trivia" source="341697" target="562939">
+	<data key="topic">net.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="336909-459654-net.games.trivia" source="336909" target="459654">
+	<data key="topic">net.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460815-459862-net.games.trivia" source="460815" target="459862">
+	<data key="topic">net.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="528966-339252-net.games.trivia" source="528966" target="339252">
+	<data key="topic">net.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

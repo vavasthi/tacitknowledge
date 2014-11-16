@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2175825"/>
+<node id="2194645"/>
+<node id="2189160"/>
+<node id="2251964"/>
+<node id="205712"/>
+<edge id="2175825-2189160-comp.compilers.lcc" source="2175825" target="2189160">
+	<data key="topic">comp.compilers.lcc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2175825-205712-comp.compilers.lcc" source="2175825" target="205712">
+	<data key="topic">comp.compilers.lcc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2194645-2189160-comp.compilers.lcc" source="2194645" target="2189160">
+	<data key="topic">comp.compilers.lcc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2194645-2251964-comp.compilers.lcc" source="2194645" target="2251964">
+	<data key="topic">comp.compilers.lcc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2194645-205712-comp.compilers.lcc" source="2194645" target="205712">
+	<data key="topic">comp.compilers.lcc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2189160-205712-comp.compilers.lcc" source="2189160" target="205712">
+	<data key="topic">comp.compilers.lcc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2251964-2189160-comp.compilers.lcc" source="2251964" target="2189160">
+	<data key="topic">comp.compilers.lcc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2251964-205712-comp.compilers.lcc" source="2251964" target="205712">
+	<data key="topic">comp.compilers.lcc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="205712-2194645-comp.compilers.lcc" source="205712" target="2194645">
+	<data key="topic">comp.compilers.lcc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="205712-2189160-comp.compilers.lcc" source="205712" target="2189160">
+	<data key="topic">comp.compilers.lcc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="205712-2251964-comp.compilers.lcc" source="205712" target="2251964">
+	<data key="topic">comp.compilers.lcc</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

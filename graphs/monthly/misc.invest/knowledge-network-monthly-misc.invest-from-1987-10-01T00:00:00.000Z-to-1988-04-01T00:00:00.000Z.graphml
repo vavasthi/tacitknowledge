@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1683770"/>
+<node id="390790"/>
+<node id="510391"/>
+<node id="5571"/>
+<node id="397877"/>
+<node id="451713"/>
+<node id="26775"/>
+<node id="661614"/>
+<node id="15419"/>
+<node id="588534"/>
+<edge id="1683770-451713-misc.invest" source="1683770" target="451713">
+	<data key="topic">misc.invest</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390790-5571-misc.invest" source="390790" target="5571">
+	<data key="topic">misc.invest</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510391-26775-misc.invest" source="510391" target="26775">
+	<data key="topic">misc.invest</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510391-588534-misc.invest" source="510391" target="588534">
+	<data key="topic">misc.invest</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="397877-1683770-misc.invest" source="397877" target="1683770">
+	<data key="topic">misc.invest</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="397877-451713-misc.invest" source="397877" target="451713">
+	<data key="topic">misc.invest</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="397877-661614-misc.invest" source="397877" target="661614">
+	<data key="topic">misc.invest</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="397877-15419-misc.invest" source="397877" target="15419">
+	<data key="topic">misc.invest</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15419-1683770-misc.invest" source="15419" target="1683770">
+	<data key="topic">misc.invest</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15419-451713-misc.invest" source="15419" target="451713">
+	<data key="topic">misc.invest</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

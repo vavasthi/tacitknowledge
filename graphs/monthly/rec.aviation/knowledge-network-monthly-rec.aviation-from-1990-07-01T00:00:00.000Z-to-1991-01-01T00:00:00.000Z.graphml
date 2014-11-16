@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="3761"/>
+<node id="15057"/>
+<node id="1010"/>
+<node id="7474"/>
+<node id="1719020"/>
+<node id="432534"/>
+<node id="430003"/>
+<node id="366801"/>
+<node id="14552"/>
+<node id="1080973"/>
+<node id="1228461"/>
+<node id="1790502"/>
+<node id="1288884"/>
+<node id="1310965"/>
+<node id="1724827"/>
+<node id="1458070"/>
+<node id="823824"/>
+<node id="2854"/>
+<node id="552034"/>
+<node id="6060"/>
+<node id="363786"/>
+<node id="15087"/>
+<node id="1648"/>
+<edge id="3761-1228461-rec.aviation" source="3761" target="1228461">
+	<data key="topic">rec.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15057-1719020-rec.aviation" source="15057" target="1719020">
+	<data key="topic">rec.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15057-363786-rec.aviation" source="15057" target="363786">
+	<data key="topic">rec.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7474-1719020-rec.aviation" source="7474" target="1719020">
+	<data key="topic">rec.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7474-363786-rec.aviation" source="7474" target="363786">
+	<data key="topic">rec.aviation</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1719020-363786-rec.aviation" source="1719020" target="363786">
+	<data key="topic">rec.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="432534-1719020-rec.aviation" source="432534" target="1719020">
+	<data key="topic">rec.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="432534-363786-rec.aviation" source="432534" target="363786">
+	<data key="topic">rec.aviation</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="366801-823824-rec.aviation" source="366801" target="823824">
+	<data key="topic">rec.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1080973-14552-rec.aviation" source="1080973" target="14552">
+	<data key="topic">rec.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1080973-1790502-rec.aviation" source="1080973" target="1790502">
+	<data key="topic">rec.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1080973-6060-rec.aviation" source="1080973" target="6060">
+	<data key="topic">rec.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1790502-14552-rec.aviation" source="1790502" target="14552">
+	<data key="topic">rec.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1790502-6060-rec.aviation" source="1790502" target="6060">
+	<data key="topic">rec.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1288884-363786-rec.aviation" source="1288884" target="363786">
+	<data key="topic">rec.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1310965-14552-rec.aviation" source="1310965" target="14552">
+	<data key="topic">rec.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1724827-1719020-rec.aviation" source="1724827" target="1719020">
+	<data key="topic">rec.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1724827-363786-rec.aviation" source="1724827" target="363786">
+	<data key="topic">rec.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2854-3761-rec.aviation" source="2854" target="3761">
+	<data key="topic">rec.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2854-1010-rec.aviation" source="2854" target="1010">
+	<data key="topic">rec.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2854-430003-rec.aviation" source="2854" target="430003">
+	<data key="topic">rec.aviation</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2854-1288884-rec.aviation" source="2854" target="1288884">
+	<data key="topic">rec.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2854-1458070-rec.aviation" source="2854" target="1458070">
+	<data key="topic">rec.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2854-552034-rec.aviation" source="2854" target="552034">
+	<data key="topic">rec.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2854-363786-rec.aviation" source="2854" target="363786">
+	<data key="topic">rec.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2854-1648-rec.aviation" source="2854" target="1648">
+	<data key="topic">rec.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="6060-14552-rec.aviation" source="6060" target="14552">
+	<data key="topic">rec.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="363786-1719020-rec.aviation" source="363786" target="1719020">
+	<data key="topic">rec.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="363786-1288884-rec.aviation" source="363786" target="1288884">
+	<data key="topic">rec.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15087-1719020-rec.aviation" source="15087" target="1719020">
+	<data key="topic">rec.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15087-363786-rec.aviation" source="15087" target="363786">
+	<data key="topic">rec.aviation</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="24689"/>
+<node id="1512998"/>
+<node id="725470"/>
+<node id="1122312"/>
+<node id="2733471"/>
+<node id="337376"/>
+<node id="339176"/>
+<node id="466019"/>
+<node id="390596"/>
+<node id="487810"/>
+<node id="399855"/>
+<node id="1133529"/>
+<node id="1132960"/>
+<edge id="24689-725470-net.aviation" source="24689" target="725470">
+	<data key="topic">net.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24689-390596-net.aviation" source="24689" target="390596">
+	<data key="topic">net.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1512998-487810-net.aviation" source="1512998" target="487810">
+	<data key="topic">net.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="725470-466019-net.aviation" source="725470" target="466019">
+	<data key="topic">net.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="725470-390596-net.aviation" source="725470" target="390596">
+	<data key="topic">net.aviation</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1122312-487810-net.aviation" source="1122312" target="487810">
+	<data key="topic">net.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2733471-339176-net.aviation" source="2733471" target="339176">
+	<data key="topic">net.aviation</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="339176-2733471-net.aviation" source="339176" target="2733471">
+	<data key="topic">net.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="466019-725470-net.aviation" source="466019" target="725470">
+	<data key="topic">net.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="466019-390596-net.aviation" source="466019" target="390596">
+	<data key="topic">net.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="399855-487810-net.aviation" source="399855" target="487810">
+	<data key="topic">net.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1133529-337376-net.aviation" source="1133529" target="337376">
+	<data key="topic">net.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1133529-1132960-net.aviation" source="1133529" target="1132960">
+	<data key="topic">net.aviation</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

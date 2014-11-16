@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="63506"/>
+<node id="100337"/>
+<node id="37011"/>
+<node id="97302"/>
+<node id="37019"/>
+<node id="38204"/>
+<node id="96874"/>
+<node id="37227"/>
+<node id="37036"/>
+<node id="100909"/>
+<node id="101261"/>
+<node id="40687"/>
+<node id="37552"/>
+<edge id="63506-101261-sci.philosophy.meta" source="63506" target="101261">
+	<data key="topic">sci.philosophy.meta</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="100337-101261-sci.philosophy.meta" source="100337" target="101261">
+	<data key="topic">sci.philosophy.meta</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37011-97302-sci.philosophy.meta" source="37011" target="97302">
+	<data key="topic">sci.philosophy.meta</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37011-37227-sci.philosophy.meta" source="37011" target="37227">
+	<data key="topic">sci.philosophy.meta</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37011-40687-sci.philosophy.meta" source="37011" target="40687">
+	<data key="topic">sci.philosophy.meta</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="97302-37227-sci.philosophy.meta" source="97302" target="37227">
+	<data key="topic">sci.philosophy.meta</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="97302-40687-sci.philosophy.meta" source="97302" target="40687">
+	<data key="topic">sci.philosophy.meta</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37019-37227-sci.philosophy.meta" source="37019" target="37227">
+	<data key="topic">sci.philosophy.meta</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37019-37036-sci.philosophy.meta" source="37019" target="37036">
+	<data key="topic">sci.philosophy.meta</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37019-40687-sci.philosophy.meta" source="37019" target="40687">
+	<data key="topic">sci.philosophy.meta</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37019-37552-sci.philosophy.meta" source="37019" target="37552">
+	<data key="topic">sci.philosophy.meta</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="38204-100909-sci.philosophy.meta" source="38204" target="100909">
+	<data key="topic">sci.philosophy.meta</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="96874-37227-sci.philosophy.meta" source="96874" target="37227">
+	<data key="topic">sci.philosophy.meta</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37227-100909-sci.philosophy.meta" source="37227" target="100909">
+	<data key="topic">sci.philosophy.meta</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="40687-37011-sci.philosophy.meta" source="40687" target="37011">
+	<data key="topic">sci.philosophy.meta</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="40687-97302-sci.philosophy.meta" source="40687" target="97302">
+	<data key="topic">sci.philosophy.meta</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="40687-37227-sci.philosophy.meta" source="40687" target="37227">
+	<data key="topic">sci.philosophy.meta</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37552-37227-sci.philosophy.meta" source="37552" target="37227">
+	<data key="topic">sci.philosophy.meta</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37552-40687-sci.philosophy.meta" source="37552" target="40687">
+	<data key="topic">sci.philosophy.meta</data>
+	<data key="weight">2</data>
+</edge>
+</graph>
+</graphml>

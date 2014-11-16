@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1611290"/>
+<node id="699145"/>
+<node id="1006142"/>
+<node id="992874"/>
+<node id="357806"/>
+<node id="623025"/>
+<edge id="699145-1006142-aus.computers.ibm-pc" source="699145" target="1006142">
+	<data key="topic">aus.computers.ibm-pc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="992874-1611290-aus.computers.ibm-pc" source="992874" target="1611290">
+	<data key="topic">aus.computers.ibm-pc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="992874-623025-aus.computers.ibm-pc" source="992874" target="623025">
+	<data key="topic">aus.computers.ibm-pc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="623025-1611290-aus.computers.ibm-pc" source="623025" target="1611290">
+	<data key="topic">aus.computers.ibm-pc</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

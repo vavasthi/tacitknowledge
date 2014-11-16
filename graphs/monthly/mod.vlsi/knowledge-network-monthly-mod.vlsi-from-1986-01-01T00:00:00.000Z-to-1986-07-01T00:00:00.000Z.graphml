@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1692089"/>
+<node id="391303"/>
+<node id="448259"/>
+<node id="2480340"/>
+<node id="1692079"/>
+<node id="1477008"/>
+<node id="1692084"/>
+<node id="2480336"/>
+<node id="2713046"/>
+<node id="483115"/>
+<node id="1625448"/>
+<node id="1692087"/>
+<edge id="1692089-483115-mod.vlsi" source="1692089" target="483115">
+	<data key="topic">mod.vlsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391303-2480340-mod.vlsi" source="391303" target="2480340">
+	<data key="topic">mod.vlsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1692079-1692084-mod.vlsi" source="1692079" target="1692084">
+	<data key="topic">mod.vlsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2480336-2713046-mod.vlsi" source="2480336" target="2713046">
+	<data key="topic">mod.vlsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="483115-2480340-mod.vlsi" source="483115" target="2480340">
+	<data key="topic">mod.vlsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="483115-2713046-mod.vlsi" source="483115" target="2713046">
+	<data key="topic">mod.vlsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1625448-1477008-mod.vlsi" source="1625448" target="1477008">
+	<data key="topic">mod.vlsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1692087-448259-mod.vlsi" source="1692087" target="448259">
+	<data key="topic">mod.vlsi</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

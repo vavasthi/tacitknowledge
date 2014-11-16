@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="340978"/>
+<node id="490484"/>
+<node id="347315"/>
+<node id="397327"/>
+<node id="341611"/>
+<node id="460457"/>
+<edge id="340978-347315-fa.info-vax" source="340978" target="347315">
+	<data key="topic">fa.info-vax</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="490484-347315-fa.info-vax" source="490484" target="347315">
+	<data key="topic">fa.info-vax</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="397327-347315-fa.info-vax" source="397327" target="347315">
+	<data key="topic">fa.info-vax</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341611-347315-fa.info-vax" source="341611" target="347315">
+	<data key="topic">fa.info-vax</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="460457-347315-fa.info-vax" source="460457" target="347315">
+	<data key="topic">fa.info-vax</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

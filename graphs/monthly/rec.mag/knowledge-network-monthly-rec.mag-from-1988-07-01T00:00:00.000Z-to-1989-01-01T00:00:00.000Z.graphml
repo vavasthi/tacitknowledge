@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="28578"/>
+<node id="21907"/>
+<node id="18694"/>
+<node id="22407"/>
+<node id="767011"/>
+<node id="28490"/>
+<node id="32139"/>
+<node id="432489"/>
+<node id="587512"/>
+<edge id="21907-22407-rec.mag" source="21907" target="22407">
+	<data key="topic">rec.mag</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18694-28578-rec.mag" source="18694" target="28578">
+	<data key="topic">rec.mag</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="18694-767011-rec.mag" source="18694" target="767011">
+	<data key="topic">rec.mag</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="18694-32139-rec.mag" source="18694" target="32139">
+	<data key="topic">rec.mag</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="18694-432489-rec.mag" source="18694" target="432489">
+	<data key="topic">rec.mag</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="28490-21907-rec.mag" source="28490" target="21907">
+	<data key="topic">rec.mag</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28490-22407-rec.mag" source="28490" target="22407">
+	<data key="topic">rec.mag</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="587512-21907-rec.mag" source="587512" target="21907">
+	<data key="topic">rec.mag</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="587512-22407-rec.mag" source="587512" target="22407">
+	<data key="topic">rec.mag</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

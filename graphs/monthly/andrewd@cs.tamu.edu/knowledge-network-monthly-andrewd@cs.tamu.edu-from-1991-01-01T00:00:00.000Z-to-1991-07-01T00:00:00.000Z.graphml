@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="357523"/>
+<node id="357453"/>
+<node id="351536"/>
+<node id="370570"/>
+<node id="408684"/>
+<edge id="357523-357453-andrewd@cs.tamu.edu" source="357523" target="357453">
+	<data key="topic">andrewd@cs.tamu.edu</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="357523-370570-andrewd@cs.tamu.edu" source="357523" target="370570">
+	<data key="topic">andrewd@cs.tamu.edu</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="351536-370570-andrewd@cs.tamu.edu" source="351536" target="370570">
+	<data key="topic">andrewd@cs.tamu.edu</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="408684-370570-andrewd@cs.tamu.edu" source="408684" target="370570">
+	<data key="topic">andrewd@cs.tamu.edu</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

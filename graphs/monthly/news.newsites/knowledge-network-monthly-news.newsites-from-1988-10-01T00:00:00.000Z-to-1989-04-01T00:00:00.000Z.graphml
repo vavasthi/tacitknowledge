@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="26833"/>
+<node id="1976171"/>
+<node id="27222"/>
+<node id="520210"/>
+<node id="1212901"/>
+<node id="16376"/>
+<node id="2107866"/>
+<node id="520221"/>
+<node id="429116"/>
+<node id="798157"/>
+<node id="542761"/>
+<node id="517863"/>
+<node id="29606"/>
+<node id="706192"/>
+<node id="518177"/>
+<node id="16106"/>
+<node id="534851"/>
+<node id="546436"/>
+<node id="511915"/>
+<node id="30640"/>
+<node id="546440"/>
+<edge id="27222-520221-news.newsites" source="27222" target="520221">
+	<data key="topic">news.newsites</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="520210-27222-news.newsites" source="520210" target="27222">
+	<data key="topic">news.newsites</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="520210-520221-news.newsites" source="520210" target="520221">
+	<data key="topic">news.newsites</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="520210-511915-news.newsites" source="520210" target="511915">
+	<data key="topic">news.newsites</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16376-30640-news.newsites" source="16376" target="30640">
+	<data key="topic">news.newsites</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="542761-429116-news.newsites" source="542761" target="429116">
+	<data key="topic">news.newsites</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="517863-30640-news.newsites" source="517863" target="30640">
+	<data key="topic">news.newsites</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29606-517863-news.newsites" source="29606" target="517863">
+	<data key="topic">news.newsites</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29606-30640-news.newsites" source="29606" target="30640">
+	<data key="topic">news.newsites</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="706192-26833-news.newsites" source="706192" target="26833">
+	<data key="topic">news.newsites</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="518177-2107866-news.newsites" source="518177" target="2107866">
+	<data key="topic">news.newsites</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16106-534851-news.newsites" source="16106" target="534851">
+	<data key="topic">news.newsites</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16106-546436-news.newsites" source="16106" target="546436">
+	<data key="topic">news.newsites</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="534851-798157-news.newsites" source="534851" target="798157">
+	<data key="topic">news.newsites</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="534851-546436-news.newsites" source="534851" target="546436">
+	<data key="topic">news.newsites</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="511915-27222-news.newsites" source="511915" target="27222">
+	<data key="topic">news.newsites</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="511915-520221-news.newsites" source="511915" target="520221">
+	<data key="topic">news.newsites</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="546440-1976171-news.newsites" source="546440" target="1976171">
+	<data key="topic">news.newsites</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

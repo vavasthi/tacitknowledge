@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="339190"/>
+<node id="341029"/>
+<node id="680762"/>
+<node id="521877"/>
+<node id="341697"/>
+<node id="521827"/>
+<node id="526240"/>
+<node id="459181"/>
+<node id="392729"/>
+<node id="521881"/>
+<edge id="339190-680762-net.std" source="339190" target="680762">
+	<data key="topic">net.std</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341029-459181-net.std" source="341029" target="459181">
+	<data key="topic">net.std</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="521877-459181-net.std" source="521877" target="459181">
+	<data key="topic">net.std</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521877-521881-net.std" source="521877" target="521881">
+	<data key="topic">net.std</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341697-521877-net.std" source="341697" target="521877">
+	<data key="topic">net.std</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341697-521881-net.std" source="341697" target="521881">
+	<data key="topic">net.std</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521827-392729-net.std" source="521827" target="392729">
+	<data key="topic">net.std</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="526240-459181-net.std" source="526240" target="459181">
+	<data key="topic">net.std</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459181-341029-net.std" source="459181" target="341029">
+	<data key="topic">net.std</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459181-341697-net.std" source="459181" target="341697">
+	<data key="topic">net.std</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459181-521881-net.std" source="459181" target="521881">
+	<data key="topic">net.std</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521881-521877-net.std" source="521881" target="521877">
+	<data key="topic">net.std</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521881-341697-net.std" source="521881" target="341697">
+	<data key="topic">net.std</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521881-459181-net.std" source="521881" target="459181">
+	<data key="topic">net.std</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

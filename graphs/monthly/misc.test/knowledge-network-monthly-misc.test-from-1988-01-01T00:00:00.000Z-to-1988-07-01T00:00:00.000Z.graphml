@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="26324"/>
+<node id="584924"/>
+<node id="26325"/>
+<node id="1745230"/>
+<node id="818902"/>
+<node id="510462"/>
+<node id="369434"/>
+<node id="450201"/>
+<node id="28352"/>
+<node id="588302"/>
+<node id="586753"/>
+<node id="2091830"/>
+<node id="596741"/>
+<edge id="26325-26324-misc.test" source="26325" target="26324">
+	<data key="topic">misc.test</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1745230-26324-misc.test" source="1745230" target="26324">
+	<data key="topic">misc.test</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1745230-26325-misc.test" source="1745230" target="26325">
+	<data key="topic">misc.test</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="369434-2091830-misc.test" source="369434" target="2091830">
+	<data key="topic">misc.test</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="450201-369434-misc.test" source="450201" target="369434">
+	<data key="topic">misc.test</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="450201-2091830-misc.test" source="450201" target="2091830">
+	<data key="topic">misc.test</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28352-584924-misc.test" source="28352" target="584924">
+	<data key="topic">misc.test</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28352-586753-misc.test" source="28352" target="586753">
+	<data key="topic">misc.test</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="588302-818902-misc.test" source="588302" target="818902">
+	<data key="topic">misc.test</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="586753-584924-misc.test" source="586753" target="584924">
+	<data key="topic">misc.test</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="596741-818902-misc.test" source="596741" target="818902">
+	<data key="topic">misc.test</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="596741-588302-misc.test" source="596741" target="588302">
+	<data key="topic">misc.test</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="205603"/>
+<node id="2176369"/>
+<node id="2295041"/>
+<node id="2288983"/>
+<node id="2275493"/>
+<node id="2188615"/>
+<node id="2179772"/>
+<node id="205712"/>
+<node id="2290927"/>
+<node id="2290894"/>
+<edge id="205603-2179772-comp.lang.objective-c" source="205603" target="2179772">
+	<data key="topic">comp.lang.objective-c</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="205603-2290894-comp.lang.objective-c" source="205603" target="2290894">
+	<data key="topic">comp.lang.objective-c</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2176369-2179772-comp.lang.objective-c" source="2176369" target="2179772">
+	<data key="topic">comp.lang.objective-c</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2295041-205603-comp.lang.objective-c" source="2295041" target="205603">
+	<data key="topic">comp.lang.objective-c</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2295041-2179772-comp.lang.objective-c" source="2295041" target="2179772">
+	<data key="topic">comp.lang.objective-c</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2295041-2290894-comp.lang.objective-c" source="2295041" target="2290894">
+	<data key="topic">comp.lang.objective-c</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2288983-2179772-comp.lang.objective-c" source="2288983" target="2179772">
+	<data key="topic">comp.lang.objective-c</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2275493-2179772-comp.lang.objective-c" source="2275493" target="2179772">
+	<data key="topic">comp.lang.objective-c</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2188615-205603-comp.lang.objective-c" source="2188615" target="205603">
+	<data key="topic">comp.lang.objective-c</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2188615-2295041-comp.lang.objective-c" source="2188615" target="2295041">
+	<data key="topic">comp.lang.objective-c</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2188615-2179772-comp.lang.objective-c" source="2188615" target="2179772">
+	<data key="topic">comp.lang.objective-c</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2188615-2290894-comp.lang.objective-c" source="2188615" target="2290894">
+	<data key="topic">comp.lang.objective-c</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2179772-2176369-comp.lang.objective-c" source="2179772" target="2176369">
+	<data key="topic">comp.lang.objective-c</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="205712-2179772-comp.lang.objective-c" source="205712" target="2179772">
+	<data key="topic">comp.lang.objective-c</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2290927-205603-comp.lang.objective-c" source="2290927" target="205603">
+	<data key="topic">comp.lang.objective-c</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2290927-2179772-comp.lang.objective-c" source="2290927" target="2179772">
+	<data key="topic">comp.lang.objective-c</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2290927-2290894-comp.lang.objective-c" source="2290927" target="2290894">
+	<data key="topic">comp.lang.objective-c</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2290894-205603-comp.lang.objective-c" source="2290894" target="205603">
+	<data key="topic">comp.lang.objective-c</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2290894-2179772-comp.lang.objective-c" source="2290894" target="2179772">
+	<data key="topic">comp.lang.objective-c</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

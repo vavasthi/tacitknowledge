@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1301"/>
+<node id="14277"/>
+<node id="9990"/>
+<node id="785859"/>
+<node id="2171"/>
+<node id="377291"/>
+<edge id="1301-377291-rec.puzzles" source="1301" target="377291">
+	<data key="topic">rec.puzzles</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="9990-1301-rec.puzzles" source="9990" target="1301">
+	<data key="topic">rec.puzzles</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="9990-377291-rec.puzzles" source="9990" target="377291">
+	<data key="topic">rec.puzzles</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="785859-377291-rec.puzzles" source="785859" target="377291">
+	<data key="topic">rec.puzzles</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2171-14277-rec.puzzles" source="2171" target="14277">
+	<data key="topic">rec.puzzles</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="181831"/>
+<node id="2188615"/>
+<node id="134220"/>
+<node id="2305963"/>
+<node id="225391"/>
+<edge id="181831-134220-sci.physics" source="181831" target="134220">
+	<data key="topic">sci.physics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="181831-2305963-sci.physics" source="181831" target="2305963">
+	<data key="topic">sci.physics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2188615-181831-sci.physics" source="2188615" target="181831">
+	<data key="topic">sci.physics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2188615-134220-sci.physics" source="2188615" target="134220">
+	<data key="topic">sci.physics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2188615-2305963-sci.physics" source="2188615" target="2305963">
+	<data key="topic">sci.physics</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="134220-2305963-sci.physics" source="134220" target="2305963">
+	<data key="topic">sci.physics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="225391-2305963-sci.physics" source="225391" target="2305963">
+	<data key="topic">sci.physics</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

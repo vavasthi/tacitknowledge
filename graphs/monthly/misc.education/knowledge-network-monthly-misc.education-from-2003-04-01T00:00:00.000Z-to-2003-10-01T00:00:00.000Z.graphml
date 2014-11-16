@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="132242"/>
+<node id="139410"/>
+<node id="141975"/>
+<node id="112474"/>
+<node id="125536"/>
+<node id="42242"/>
+<node id="149634"/>
+<node id="43429"/>
+<node id="113254"/>
+<node id="143973"/>
+<node id="43975"/>
+<node id="144780"/>
+<node id="37227"/>
+<node id="88941"/>
+<node id="111023"/>
+<node id="45712"/>
+<node id="146126"/>
+<edge id="132242-141975-misc.education" source="132242" target="141975">
+	<data key="topic">misc.education</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="132242-143973-misc.education" source="132242" target="143973">
+	<data key="topic">misc.education</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="139410-43429-misc.education" source="139410" target="43429">
+	<data key="topic">misc.education</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="139410-143973-misc.education" source="139410" target="143973">
+	<data key="topic">misc.education</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="139410-146126-misc.education" source="139410" target="146126">
+	<data key="topic">misc.education</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="112474-149634-misc.education" source="112474" target="149634">
+	<data key="topic">misc.education</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="112474-143973-misc.education" source="112474" target="143973">
+	<data key="topic">misc.education</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="42242-143973-misc.education" source="42242" target="143973">
+	<data key="topic">misc.education</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="42242-43975-misc.education" source="42242" target="43975">
+	<data key="topic">misc.education</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="43429-143973-misc.education" source="43429" target="143973">
+	<data key="topic">misc.education</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="113254-143973-misc.education" source="113254" target="143973">
+	<data key="topic">misc.education</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="43975-42242-misc.education" source="43975" target="42242">
+	<data key="topic">misc.education</data>
+	<data key="weight">9</data>
+</edge>
+<edge id="43975-143973-misc.education" source="43975" target="143973">
+	<data key="topic">misc.education</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="43975-88941-misc.education" source="43975" target="88941">
+	<data key="topic">misc.education</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37227-125536-misc.education" source="37227" target="125536">
+	<data key="topic">misc.education</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37227-143973-misc.education" source="37227" target="143973">
+	<data key="topic">misc.education</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37227-144780-misc.education" source="37227" target="144780">
+	<data key="topic">misc.education</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37227-111023-misc.education" source="37227" target="111023">
+	<data key="topic">misc.education</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="88941-42242-misc.education" source="88941" target="42242">
+	<data key="topic">misc.education</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="88941-143973-misc.education" source="88941" target="143973">
+	<data key="topic">misc.education</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="88941-43975-misc.education" source="88941" target="43975">
+	<data key="topic">misc.education</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="111023-143973-misc.education" source="111023" target="143973">
+	<data key="topic">misc.education</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="111023-144780-misc.education" source="111023" target="144780">
+	<data key="topic">misc.education</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="111023-37227-misc.education" source="111023" target="37227">
+	<data key="topic">misc.education</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="111023-45712-misc.education" source="111023" target="45712">
+	<data key="topic">misc.education</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="45712-149634-misc.education" source="45712" target="149634">
+	<data key="topic">misc.education</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="45712-143973-misc.education" source="45712" target="143973">
+	<data key="topic">misc.education</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="45712-111023-misc.education" source="45712" target="111023">
+	<data key="topic">misc.education</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

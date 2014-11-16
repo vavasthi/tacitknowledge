@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="44977"/>
+<node id="199795"/>
+<node id="37011"/>
+<node id="179602"/>
+<node id="266385"/>
+<node id="235291"/>
+<node id="181292"/>
+<node id="204779"/>
+<node id="267663"/>
+<node id="46316"/>
+<node id="41485"/>
+<node id="37424"/>
+<node id="38000"/>
+<edge id="44977-179602-sci.research" source="44977" target="179602">
+	<data key="topic">sci.research</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="44977-181292-sci.research" source="44977" target="181292">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="199795-44977-sci.research" source="199795" target="44977">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="199795-179602-sci.research" source="199795" target="179602">
+	<data key="topic">sci.research</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="199795-181292-sci.research" source="199795" target="181292">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37011-44977-sci.research" source="37011" target="44977">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37011-199795-sci.research" source="37011" target="199795">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37011-179602-sci.research" source="37011" target="179602">
+	<data key="topic">sci.research</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37011-181292-sci.research" source="37011" target="181292">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37011-204779-sci.research" source="37011" target="204779">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="235291-44977-sci.research" source="235291" target="44977">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="235291-179602-sci.research" source="235291" target="179602">
+	<data key="topic">sci.research</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="235291-181292-sci.research" source="235291" target="181292">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="204779-44977-sci.research" source="204779" target="44977">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="204779-199795-sci.research" source="204779" target="199795">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="204779-179602-sci.research" source="204779" target="179602">
+	<data key="topic">sci.research</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="204779-181292-sci.research" source="204779" target="181292">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="267663-266385-sci.research" source="267663" target="266385">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="267663-37424-sci.research" source="267663" target="37424">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="46316-266385-sci.research" source="46316" target="266385">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41485-179602-sci.research" source="41485" target="179602">
+	<data key="topic">sci.research</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="37424-266385-sci.research" source="37424" target="266385">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="38000-266385-sci.research" source="38000" target="266385">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

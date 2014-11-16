@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1163458"/>
+<node id="751002"/>
+<node id="613053"/>
+<node id="1209320"/>
+<node id="16903"/>
+<node id="855948"/>
+<node id="839991"/>
+<node id="1194303"/>
+<node id="29006"/>
+<node id="5263"/>
+<node id="486121"/>
+<edge id="1163458-1194303-rec.music.misc" source="1163458" target="1194303">
+	<data key="topic">rec.music.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="751002-16903-rec.music.misc" source="751002" target="16903">
+	<data key="topic">rec.music.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="751002-29006-rec.music.misc" source="751002" target="29006">
+	<data key="topic">rec.music.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="751002-486121-rec.music.misc" source="751002" target="486121">
+	<data key="topic">rec.music.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="613053-486121-rec.music.misc" source="613053" target="486121">
+	<data key="topic">rec.music.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1209320-16903-rec.music.misc" source="1209320" target="16903">
+	<data key="topic">rec.music.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1209320-29006-rec.music.misc" source="1209320" target="29006">
+	<data key="topic">rec.music.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1209320-486121-rec.music.misc" source="1209320" target="486121">
+	<data key="topic">rec.music.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16903-486121-rec.music.misc" source="16903" target="486121">
+	<data key="topic">rec.music.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="855948-1194303-rec.music.misc" source="855948" target="1194303">
+	<data key="topic">rec.music.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="839991-5263-rec.music.misc" source="839991" target="5263">
+	<data key="topic">rec.music.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-16903-rec.music.misc" source="29006" target="16903">
+	<data key="topic">rec.music.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-486121-rec.music.misc" source="29006" target="486121">
+	<data key="topic">rec.music.misc</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="391992"/>
+<node id="489141"/>
+<node id="674621"/>
+<node id="30811"/>
+<node id="1092683"/>
+<node id="497341"/>
+<node id="18301"/>
+<node id="392633"/>
+<node id="919505"/>
+<node id="920751"/>
+<node id="391045"/>
+<node id="18308"/>
+<node id="394852"/>
+<node id="471137"/>
+<node id="493770"/>
+<node id="920642"/>
+<edge id="391992-18301-net.micro.cpm" source="391992" target="18301">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="674621-1092683-net.micro.cpm" source="674621" target="1092683">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="674621-18308-net.micro.cpm" source="674621" target="18308">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="497341-30811-net.micro.cpm" source="497341" target="30811">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919505-489141-net.micro.cpm" source="919505" target="489141">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391045-920751-net.micro.cpm" source="391045" target="920751">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="394852-392633-net.micro.cpm" source="394852" target="392633">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="493770-18301-net.micro.cpm" source="493770" target="18301">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="920642-471137-net.micro.cpm" source="920642" target="471137">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

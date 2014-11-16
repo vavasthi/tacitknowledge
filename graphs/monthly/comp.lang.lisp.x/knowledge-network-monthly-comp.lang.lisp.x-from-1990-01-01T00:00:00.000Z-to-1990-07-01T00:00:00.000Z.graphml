@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="26833"/>
+<node id="869597"/>
+<node id="3893"/>
+<node id="608799"/>
+<node id="435039"/>
+<node id="7065"/>
+<node id="419998"/>
+<node id="518139"/>
+<node id="360924"/>
+<node id="558840"/>
+<node id="1194158"/>
+<node id="2724"/>
+<node id="3524"/>
+<node id="13064"/>
+<node id="1234166"/>
+<node id="2507311"/>
+<node id="413486"/>
+<node id="782088"/>
+<node id="1039554"/>
+<edge id="3893-608799-comp.lang.lisp.x" source="3893" target="608799">
+	<data key="topic">comp.lang.lisp.x</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3893-435039-comp.lang.lisp.x" source="3893" target="435039">
+	<data key="topic">comp.lang.lisp.x</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3893-419998-comp.lang.lisp.x" source="3893" target="419998">
+	<data key="topic">comp.lang.lisp.x</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3893-518139-comp.lang.lisp.x" source="3893" target="518139">
+	<data key="topic">comp.lang.lisp.x</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3893-558840-comp.lang.lisp.x" source="3893" target="558840">
+	<data key="topic">comp.lang.lisp.x</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3893-2724-comp.lang.lisp.x" source="3893" target="2724">
+	<data key="topic">comp.lang.lisp.x</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="608799-435039-comp.lang.lisp.x" source="608799" target="435039">
+	<data key="topic">comp.lang.lisp.x</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="608799-2724-comp.lang.lisp.x" source="608799" target="2724">
+	<data key="topic">comp.lang.lisp.x</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="608799-13064-comp.lang.lisp.x" source="608799" target="13064">
+	<data key="topic">comp.lang.lisp.x</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="435039-360924-comp.lang.lisp.x" source="435039" target="360924">
+	<data key="topic">comp.lang.lisp.x</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="7065-869597-comp.lang.lisp.x" source="7065" target="869597">
+	<data key="topic">comp.lang.lisp.x</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="518139-608799-comp.lang.lisp.x" source="518139" target="608799">
+	<data key="topic">comp.lang.lisp.x</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="518139-435039-comp.lang.lisp.x" source="518139" target="435039">
+	<data key="topic">comp.lang.lisp.x</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="518139-2724-comp.lang.lisp.x" source="518139" target="2724">
+	<data key="topic">comp.lang.lisp.x</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="360924-435039-comp.lang.lisp.x" source="360924" target="435039">
+	<data key="topic">comp.lang.lisp.x</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2724-608799-comp.lang.lisp.x" source="2724" target="608799">
+	<data key="topic">comp.lang.lisp.x</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2724-435039-comp.lang.lisp.x" source="2724" target="435039">
+	<data key="topic">comp.lang.lisp.x</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="13064-608799-comp.lang.lisp.x" source="13064" target="608799">
+	<data key="topic">comp.lang.lisp.x</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="13064-435039-comp.lang.lisp.x" source="13064" target="435039">
+	<data key="topic">comp.lang.lisp.x</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="13064-2724-comp.lang.lisp.x" source="13064" target="2724">
+	<data key="topic">comp.lang.lisp.x</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1234166-26833-comp.lang.lisp.x" source="1234166" target="26833">
+	<data key="topic">comp.lang.lisp.x</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2507311-1194158-comp.lang.lisp.x" source="2507311" target="1194158">
+	<data key="topic">comp.lang.lisp.x</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="413486-3893-comp.lang.lisp.x" source="413486" target="3893">
+	<data key="topic">comp.lang.lisp.x</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="782088-1039554-comp.lang.lisp.x" source="782088" target="1039554">
+	<data key="topic">comp.lang.lisp.x</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

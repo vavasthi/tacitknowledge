@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="509142"/>
+<node id="801567"/>
+<node id="3668"/>
+<node id="512085"/>
+<node id="510802"/>
+<node id="1236453"/>
+<node id="1236454"/>
+<node id="617233"/>
+<node id="665745"/>
+<node id="427867"/>
+<node id="509210"/>
+<node id="28959"/>
+<node id="509224"/>
+<node id="533355"/>
+<node id="16550"/>
+<node id="533347"/>
+<node id="1191961"/>
+<node id="496"/>
+<node id="513257"/>
+<node id="16561"/>
+<node id="706940"/>
+<node id="546236"/>
+<node id="2764948"/>
+<node id="696692"/>
+<node id="696759"/>
+<node id="26306"/>
+<node id="511687"/>
+<node id="30338"/>
+<node id="2094717"/>
+<node id="696522"/>
+<node id="1192114"/>
+<node id="30536"/>
+<node id="737992"/>
+<node id="509066"/>
+<node id="362636"/>
+<node id="513162"/>
+<node id="537031"/>
+<node id="619720"/>
+<edge id="509142-509224-gnu.utils.bug" source="509142" target="509224">
+	<data key="topic">gnu.utils.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509142-533347-gnu.utils.bug" source="509142" target="533347">
+	<data key="topic">gnu.utils.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="801567-1236453-gnu.utils.bug" source="801567" target="1236453">
+	<data key="topic">gnu.utils.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3668-509210-gnu.utils.bug" source="3668" target="509210">
+	<data key="topic">gnu.utils.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3668-511687-gnu.utils.bug" source="3668" target="511687">
+	<data key="topic">gnu.utils.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510802-696522-gnu.utils.bug" source="510802" target="696522">
+	<data key="topic">gnu.utils.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1236454-513257-gnu.utils.bug" source="1236454" target="513257">
+	<data key="topic">gnu.utils.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="617233-737992-gnu.utils.bug" source="617233" target="737992">
+	<data key="topic">gnu.utils.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="617233-537031-gnu.utils.bug" source="617233" target="537031">
+	<data key="topic">gnu.utils.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="665745-546236-gnu.utils.bug" source="665745" target="546236">
+	<data key="topic">gnu.utils.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="427867-2094717-gnu.utils.bug" source="427867" target="2094717">
+	<data key="topic">gnu.utils.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="427867-30536-gnu.utils.bug" source="427867" target="30536">
+	<data key="topic">gnu.utils.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28959-509210-gnu.utils.bug" source="28959" target="509210">
+	<data key="topic">gnu.utils.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28959-16550-gnu.utils.bug" source="28959" target="16550">
+	<data key="topic">gnu.utils.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="533355-696759-gnu.utils.bug" source="533355" target="696759">
+	<data key="topic">gnu.utils.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16550-509210-gnu.utils.bug" source="16550" target="509210">
+	<data key="topic">gnu.utils.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16550-509066-gnu.utils.bug" source="16550" target="509066">
+	<data key="topic">gnu.utils.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="496-16561-gnu.utils.bug" source="496" target="16561">
+	<data key="topic">gnu.utils.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="496-26306-gnu.utils.bug" source="496" target="26306">
+	<data key="topic">gnu.utils.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16561-26306-gnu.utils.bug" source="16561" target="26306">
+	<data key="topic">gnu.utils.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="706940-1192114-gnu.utils.bug" source="706940" target="1192114">
+	<data key="topic">gnu.utils.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696692-1191961-gnu.utils.bug" source="696692" target="1191961">
+	<data key="topic">gnu.utils.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="511687-509210-gnu.utils.bug" source="511687" target="509210">
+	<data key="topic">gnu.utils.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="511687-16550-gnu.utils.bug" source="511687" target="16550">
+	<data key="topic">gnu.utils.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696522-513257-gnu.utils.bug" source="696522" target="513257">
+	<data key="topic">gnu.utils.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30536-546236-gnu.utils.bug" source="30536" target="546236">
+	<data key="topic">gnu.utils.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509066-509210-gnu.utils.bug" source="509066" target="509210">
+	<data key="topic">gnu.utils.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509066-16550-gnu.utils.bug" source="509066" target="16550">
+	<data key="topic">gnu.utils.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362636-30338-gnu.utils.bug" source="362636" target="30338">
+	<data key="topic">gnu.utils.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="513162-2764948-gnu.utils.bug" source="513162" target="2764948">
+	<data key="topic">gnu.utils.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="537031-737992-gnu.utils.bug" source="537031" target="737992">
+	<data key="topic">gnu.utils.bug</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

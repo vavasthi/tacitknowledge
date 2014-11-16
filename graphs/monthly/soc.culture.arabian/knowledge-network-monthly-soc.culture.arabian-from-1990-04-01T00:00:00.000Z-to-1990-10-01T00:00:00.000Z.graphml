@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="780521"/>
+<node id="2101"/>
+<node id="2649"/>
+<node id="558035"/>
+<edge id="2101-780521-soc.culture.arabian" source="2101" target="780521">
+	<data key="topic">soc.culture.arabian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2101-2649-soc.culture.arabian" source="2101" target="2649">
+	<data key="topic">soc.culture.arabian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2101-558035-soc.culture.arabian" source="2101" target="558035">
+	<data key="topic">soc.culture.arabian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2649-780521-soc.culture.arabian" source="2649" target="780521">
+	<data key="topic">soc.culture.arabian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="558035-780521-soc.culture.arabian" source="558035" target="780521">
+	<data key="topic">soc.culture.arabian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="558035-2649-soc.culture.arabian" source="558035" target="2649">
+	<data key="topic">soc.culture.arabian</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="368822"/>
+<node id="365301"/>
+<node id="339"/>
+<node id="363314"/>
+<node id="3670"/>
+<node id="433716"/>
+<node id="887286"/>
+<node id="359293"/>
+<node id="363528"/>
+<node id="400838"/>
+<node id="445606"/>
+<node id="1093"/>
+<node id="368196"/>
+<node id="648943"/>
+<node id="400845"/>
+<node id="12590"/>
+<node id="2615594"/>
+<edge id="368822-2615594-sco.opendesktop" source="368822" target="2615594">
+	<data key="topic">sco.opendesktop</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="365301-3670-sco.opendesktop" source="365301" target="3670">
+	<data key="topic">sco.opendesktop</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339-359293-sco.opendesktop" source="339" target="359293">
+	<data key="topic">sco.opendesktop</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="339-400838-sco.opendesktop" source="339" target="400838">
+	<data key="topic">sco.opendesktop</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="363314-363528-sco.opendesktop" source="363314" target="363528">
+	<data key="topic">sco.opendesktop</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="433716-3670-sco.opendesktop" source="433716" target="3670">
+	<data key="topic">sco.opendesktop</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="433716-368196-sco.opendesktop" source="433716" target="368196">
+	<data key="topic">sco.opendesktop</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="359293-400838-sco.opendesktop" source="359293" target="400838">
+	<data key="topic">sco.opendesktop</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="359293-648943-sco.opendesktop" source="359293" target="648943">
+	<data key="topic">sco.opendesktop</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="400838-359293-sco.opendesktop" source="400838" target="359293">
+	<data key="topic">sco.opendesktop</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="445606-887286-sco.opendesktop" source="445606" target="887286">
+	<data key="topic">sco.opendesktop</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1093-400845-sco.opendesktop" source="1093" target="400845">
+	<data key="topic">sco.opendesktop</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="368196-3670-sco.opendesktop" source="368196" target="3670">
+	<data key="topic">sco.opendesktop</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="368196-433716-sco.opendesktop" source="368196" target="433716">
+	<data key="topic">sco.opendesktop</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12590-3670-sco.opendesktop" source="12590" target="3670">
+	<data key="topic">sco.opendesktop</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12590-368196-sco.opendesktop" source="12590" target="368196">
+	<data key="topic">sco.opendesktop</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

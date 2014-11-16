@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="339206"/>
+<node id="528458"/>
+<node id="652494"/>
+<node id="525544"/>
+<edge id="339206-652494-net.puzzles" source="339206" target="652494">
+	<data key="topic">net.puzzles</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="528458-652494-net.puzzles" source="528458" target="652494">
+	<data key="topic">net.puzzles</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="525544-528458-net.puzzles" source="525544" target="528458">
+	<data key="topic">net.puzzles</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="525544-652494-net.puzzles" source="525544" target="652494">
+	<data key="topic">net.puzzles</data>
+	<data key="weight">2</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1123170"/>
+<node id="1697674"/>
+<node id="1132260"/>
+<node id="20084"/>
+<node id="473925"/>
+<node id="668511"/>
+<node id="1121178"/>
+<node id="485040"/>
+<node id="341965"/>
+<node id="1129323"/>
+<node id="925764"/>
+<edge id="1121178-1697674-soc.misc" source="1121178" target="1697674">
+	<data key="topic">soc.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1121178-1132260-soc.misc" source="1121178" target="1132260">
+	<data key="topic">soc.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1121178-485040-soc.misc" source="1121178" target="485040">
+	<data key="topic">soc.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1121178-1129323-soc.misc" source="1121178" target="1129323">
+	<data key="topic">soc.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="925764-1123170-soc.misc" source="925764" target="1123170">
+	<data key="topic">soc.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="925764-20084-soc.misc" source="925764" target="20084">
+	<data key="topic">soc.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="925764-473925-soc.misc" source="925764" target="473925">
+	<data key="topic">soc.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="925764-668511-soc.misc" source="925764" target="668511">
+	<data key="topic">soc.misc</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="925764-341965-soc.misc" source="925764" target="341965">
+	<data key="topic">soc.misc</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

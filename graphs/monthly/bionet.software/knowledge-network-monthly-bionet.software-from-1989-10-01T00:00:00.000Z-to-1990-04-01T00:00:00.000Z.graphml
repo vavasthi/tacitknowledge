@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="375960"/>
+<node id="640509"/>
+<node id="736095"/>
+<node id="1175"/>
+<node id="608468"/>
+<node id="840913"/>
+<node id="224"/>
+<node id="406330"/>
+<node id="1879130"/>
+<node id="831596"/>
+<node id="362211"/>
+<node id="1278549"/>
+<node id="779654"/>
+<edge id="375960-1879130-bionet.software" source="375960" target="1879130">
+	<data key="topic">bionet.software</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="640509-1879130-bionet.software" source="640509" target="1879130">
+	<data key="topic">bionet.software</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="640509-779654-bionet.software" source="640509" target="779654">
+	<data key="topic">bionet.software</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="736095-1278549-bionet.software" source="736095" target="1278549">
+	<data key="topic">bionet.software</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1175-640509-bionet.software" source="1175" target="640509">
+	<data key="topic">bionet.software</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1175-1879130-bionet.software" source="1175" target="1879130">
+	<data key="topic">bionet.software</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="224-831596-bionet.software" source="224" target="831596">
+	<data key="topic">bionet.software</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="406330-840913-bionet.software" source="406330" target="840913">
+	<data key="topic">bionet.software</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362211-608468-bionet.software" source="362211" target="608468">
+	<data key="topic">bionet.software</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

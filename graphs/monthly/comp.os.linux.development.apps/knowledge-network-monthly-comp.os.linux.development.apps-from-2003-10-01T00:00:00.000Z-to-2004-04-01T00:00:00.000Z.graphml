@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2175730"/>
+<node id="2803433"/>
+<node id="2289570"/>
+<node id="204769"/>
+<node id="2846628"/>
+<node id="2834049"/>
+<node id="2232015"/>
+<edge id="2175730-2289570-comp.os.linux.development.apps" source="2175730" target="2289570">
+	<data key="topic">comp.os.linux.development.apps</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2803433-204769-comp.os.linux.development.apps" source="2803433" target="204769">
+	<data key="topic">comp.os.linux.development.apps</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2846628-2834049-comp.os.linux.development.apps" source="2846628" target="2834049">
+	<data key="topic">comp.os.linux.development.apps</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2846628-2232015-comp.os.linux.development.apps" source="2846628" target="2232015">
+	<data key="topic">comp.os.linux.development.apps</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2834049-2846628-comp.os.linux.development.apps" source="2834049" target="2846628">
+	<data key="topic">comp.os.linux.development.apps</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2232015-2846628-comp.os.linux.development.apps" source="2232015" target="2846628">
+	<data key="topic">comp.os.linux.development.apps</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2232015-2834049-comp.os.linux.development.apps" source="2232015" target="2834049">
+	<data key="topic">comp.os.linux.development.apps</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

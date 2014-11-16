@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="338134"/>
+<node id="602364"/>
+<node id="341816"/>
+<node id="460213"/>
+<node id="2635005"/>
+<node id="463667"/>
+<node id="681054"/>
+<node id="460224"/>
+<node id="497472"/>
+<node id="460218"/>
+<node id="460153"/>
+<node id="2636696"/>
+<node id="1406103"/>
+<node id="459428"/>
+<node id="521936"/>
+<node id="1117756"/>
+<node id="394574"/>
+<node id="459308"/>
+<node id="459339"/>
+<edge id="338134-602364-net.emacs" source="338134" target="602364">
+	<data key="topic">net.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338134-681054-net.emacs" source="338134" target="681054">
+	<data key="topic">net.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338134-460224-net.emacs" source="338134" target="460224">
+	<data key="topic">net.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338134-497472-net.emacs" source="338134" target="497472">
+	<data key="topic">net.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338134-394574-net.emacs" source="338134" target="394574">
+	<data key="topic">net.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341816-394574-net.emacs" source="341816" target="394574">
+	<data key="topic">net.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460213-460218-net.emacs" source="460213" target="460218">
+	<data key="topic">net.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2635005-2636696-net.emacs" source="2635005" target="2636696">
+	<data key="topic">net.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="463667-459339-net.emacs" source="463667" target="459339">
+	<data key="topic">net.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460153-497472-net.emacs" source="460153" target="497472">
+	<data key="topic">net.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1406103-1117756-net.emacs" source="1406103" target="1117756">
+	<data key="topic">net.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459428-681054-net.emacs" source="459428" target="681054">
+	<data key="topic">net.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="394574-341816-net.emacs" source="394574" target="341816">
+	<data key="topic">net.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="394574-681054-net.emacs" source="394574" target="681054">
+	<data key="topic">net.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459308-521936-net.emacs" source="459308" target="521936">
+	<data key="topic">net.emacs</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

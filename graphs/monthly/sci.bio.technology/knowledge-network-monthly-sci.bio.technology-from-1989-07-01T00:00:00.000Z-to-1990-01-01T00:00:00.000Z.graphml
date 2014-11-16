@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="814095"/>
+<node id="401603"/>
+<node id="30616"/>
+<node id="514961"/>
+<edge id="814095-401603-sci.bio.technology" source="814095" target="401603">
+	<data key="topic">sci.bio.technology</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="814095-30616-sci.bio.technology" source="814095" target="30616">
+	<data key="topic">sci.bio.technology</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="814095-514961-sci.bio.technology" source="814095" target="514961">
+	<data key="topic">sci.bio.technology</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30616-401603-sci.bio.technology" source="30616" target="401603">
+	<data key="topic">sci.bio.technology</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30616-514961-sci.bio.technology" source="30616" target="514961">
+	<data key="topic">sci.bio.technology</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="514961-401603-sci.bio.technology" source="514961" target="401603">
+	<data key="topic">sci.bio.technology</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

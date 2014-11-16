@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="42834"/>
+<node id="50002"/>
+<node id="50914"/>
+<node id="45091"/>
+<node id="58628"/>
+<node id="50662"/>
+<node id="48423"/>
+<node id="58969"/>
+<node id="96874"/>
+<node id="41226"/>
+<node id="98348"/>
+<node id="49007"/>
+<edge id="42834-41226-sci.energy.hydrogen" source="42834" target="41226">
+	<data key="topic">sci.energy.hydrogen</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="50002-42834-sci.energy.hydrogen" source="50002" target="42834">
+	<data key="topic">sci.energy.hydrogen</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="50002-48423-sci.energy.hydrogen" source="50002" target="48423">
+	<data key="topic">sci.energy.hydrogen</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="50002-41226-sci.energy.hydrogen" source="50002" target="41226">
+	<data key="topic">sci.energy.hydrogen</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="50914-42834-sci.energy.hydrogen" source="50914" target="42834">
+	<data key="topic">sci.energy.hydrogen</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="50914-41226-sci.energy.hydrogen" source="50914" target="41226">
+	<data key="topic">sci.energy.hydrogen</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="45091-42834-sci.energy.hydrogen" source="45091" target="42834">
+	<data key="topic">sci.energy.hydrogen</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="45091-41226-sci.energy.hydrogen" source="45091" target="41226">
+	<data key="topic">sci.energy.hydrogen</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="58628-50662-sci.energy.hydrogen" source="58628" target="50662">
+	<data key="topic">sci.energy.hydrogen</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="58628-58969-sci.energy.hydrogen" source="58628" target="58969">
+	<data key="topic">sci.energy.hydrogen</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="50662-42834-sci.energy.hydrogen" source="50662" target="42834">
+	<data key="topic">sci.energy.hydrogen</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="50662-58969-sci.energy.hydrogen" source="50662" target="58969">
+	<data key="topic">sci.energy.hydrogen</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="50662-41226-sci.energy.hydrogen" source="50662" target="41226">
+	<data key="topic">sci.energy.hydrogen</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="48423-42834-sci.energy.hydrogen" source="48423" target="42834">
+	<data key="topic">sci.energy.hydrogen</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="48423-41226-sci.energy.hydrogen" source="48423" target="41226">
+	<data key="topic">sci.energy.hydrogen</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="58969-58628-sci.energy.hydrogen" source="58969" target="58628">
+	<data key="topic">sci.energy.hydrogen</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="58969-50662-sci.energy.hydrogen" source="58969" target="50662">
+	<data key="topic">sci.energy.hydrogen</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="96874-98348-sci.energy.hydrogen" source="96874" target="98348">
+	<data key="topic">sci.energy.hydrogen</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="49007-42834-sci.energy.hydrogen" source="49007" target="42834">
+	<data key="topic">sci.energy.hydrogen</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="49007-41226-sci.energy.hydrogen" source="49007" target="41226">
+	<data key="topic">sci.energy.hydrogen</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

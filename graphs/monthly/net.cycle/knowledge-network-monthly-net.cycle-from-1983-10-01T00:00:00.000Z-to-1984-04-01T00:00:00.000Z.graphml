@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="562490"/>
+<node id="522386"/>
+<node id="337555"/>
+<node id="391315"/>
+<node id="680308"/>
+<node id="521885"/>
+<node id="460956"/>
+<node id="523356"/>
+<node id="683350"/>
+<node id="566954"/>
+<node id="521827"/>
+<node id="523075"/>
+<node id="459469"/>
+<node id="522125"/>
+<node id="460237"/>
+<node id="459692"/>
+<node id="336905"/>
+<node id="392297"/>
+<node id="346475"/>
+<edge id="522386-523075-net.cycle" source="522386" target="523075">
+	<data key="topic">net.cycle</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522386-522125-net.cycle" source="522386" target="522125">
+	<data key="topic">net.cycle</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337555-562490-net.cycle" source="337555" target="562490">
+	<data key="topic">net.cycle</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391315-522125-net.cycle" source="391315" target="522125">
+	<data key="topic">net.cycle</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="680308-521827-net.cycle" source="680308" target="521827">
+	<data key="topic">net.cycle</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="680308-459692-net.cycle" source="680308" target="459692">
+	<data key="topic">net.cycle</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="523356-521885-net.cycle" source="523356" target="521885">
+	<data key="topic">net.cycle</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="683350-460237-net.cycle" source="683350" target="460237">
+	<data key="topic">net.cycle</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="523075-522125-net.cycle" source="523075" target="522125">
+	<data key="topic">net.cycle</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459692-460956-net.cycle" source="459692" target="460956">
+	<data key="topic">net.cycle</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459692-566954-net.cycle" source="459692" target="566954">
+	<data key="topic">net.cycle</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459692-336905-net.cycle" source="459692" target="336905">
+	<data key="topic">net.cycle</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="336905-566954-net.cycle" source="336905" target="566954">
+	<data key="topic">net.cycle</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392297-521827-net.cycle" source="392297" target="521827">
+	<data key="topic">net.cycle</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="346475-459469-net.cycle" source="346475" target="459469">
+	<data key="topic">net.cycle</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

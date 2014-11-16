@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="397495"/>
+<node id="446743"/>
+<node id="920031"/>
+<node id="465687"/>
+<node id="389928"/>
+<node id="18467"/>
+<node id="390823"/>
+<node id="1507043"/>
+<node id="928053"/>
+<node id="393596"/>
+<node id="1506697"/>
+<edge id="397495-465687-net.music.synth" source="397495" target="465687">
+	<data key="topic">net.music.synth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="397495-390823-net.music.synth" source="397495" target="390823">
+	<data key="topic">net.music.synth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="446743-393596-net.music.synth" source="446743" target="393596">
+	<data key="topic">net.music.synth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="465687-390823-net.music.synth" source="465687" target="390823">
+	<data key="topic">net.music.synth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="389928-18467-net.music.synth" source="389928" target="18467">
+	<data key="topic">net.music.synth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1507043-1506697-net.music.synth" source="1507043" target="1506697">
+	<data key="topic">net.music.synth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="928053-920031-net.music.synth" source="928053" target="920031">
+	<data key="topic">net.music.synth</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

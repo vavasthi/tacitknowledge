@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1311156"/>
+<node id="349891"/>
+<node id="1193"/>
+<node id="389308"/>
+<node id="991"/>
+<node id="751093"/>
+<edge id="389308-1311156-ba.transportation" source="389308" target="1311156">
+	<data key="topic">ba.transportation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="389308-349891-ba.transportation" source="389308" target="349891">
+	<data key="topic">ba.transportation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="389308-991-ba.transportation" source="389308" target="991">
+	<data key="topic">ba.transportation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="751093-1311156-ba.transportation" source="751093" target="1311156">
+	<data key="topic">ba.transportation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="751093-1193-ba.transportation" source="751093" target="1193">
+	<data key="topic">ba.transportation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="751093-991-ba.transportation" source="751093" target="991">
+	<data key="topic">ba.transportation</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

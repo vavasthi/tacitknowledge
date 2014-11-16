@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="109746"/>
+<node id="42849"/>
+<node id="92243"/>
+<node id="41381"/>
+<node id="37019"/>
+<node id="37163"/>
+<node id="109438"/>
+<edge id="42849-92243-alt.meditation" source="42849" target="92243">
+	<data key="topic">alt.meditation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41381-109438-alt.meditation" source="41381" target="109438">
+	<data key="topic">alt.meditation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37019-109746-alt.meditation" source="37019" target="109746">
+	<data key="topic">alt.meditation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37019-41381-alt.meditation" source="37019" target="41381">
+	<data key="topic">alt.meditation</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="37019-37163-alt.meditation" source="37019" target="37163">
+	<data key="topic">alt.meditation</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37019-109438-alt.meditation" source="37019" target="109438">
+	<data key="topic">alt.meditation</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="37163-41381-alt.meditation" source="37163" target="41381">
+	<data key="topic">alt.meditation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37163-109438-alt.meditation" source="37163" target="109438">
+	<data key="topic">alt.meditation</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

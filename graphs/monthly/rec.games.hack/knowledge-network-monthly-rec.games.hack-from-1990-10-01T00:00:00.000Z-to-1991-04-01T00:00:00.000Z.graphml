@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="3922"/>
+<node id="448853"/>
+<node id="363571"/>
+<node id="2056201"/>
+<node id="8121"/>
+<node id="882455"/>
+<node id="4349"/>
+<node id="8450"/>
+<node id="349799"/>
+<node id="2214"/>
+<node id="8455"/>
+<node id="2053530"/>
+<node id="1287643"/>
+<node id="355151"/>
+<node id="443886"/>
+<node id="402827"/>
+<edge id="3922-349799-rec.games.hack" source="3922" target="349799">
+	<data key="topic">rec.games.hack</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="448853-8121-rec.games.hack" source="448853" target="8121">
+	<data key="topic">rec.games.hack</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="448853-8450-rec.games.hack" source="448853" target="8450">
+	<data key="topic">rec.games.hack</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="448853-8455-rec.games.hack" source="448853" target="8455">
+	<data key="topic">rec.games.hack</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="363571-2214-rec.games.hack" source="363571" target="2214">
+	<data key="topic">rec.games.hack</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2056201-2053530-rec.games.hack" source="2056201" target="2053530">
+	<data key="topic">rec.games.hack</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="882455-2056201-rec.games.hack" source="882455" target="2056201">
+	<data key="topic">rec.games.hack</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="882455-2053530-rec.games.hack" source="882455" target="2053530">
+	<data key="topic">rec.games.hack</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="882455-443886-rec.games.hack" source="882455" target="443886">
+	<data key="topic">rec.games.hack</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="8450-8121-rec.games.hack" source="8450" target="8121">
+	<data key="topic">rec.games.hack</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="8450-8455-rec.games.hack" source="8450" target="8455">
+	<data key="topic">rec.games.hack</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1287643-4349-rec.games.hack" source="1287643" target="4349">
+	<data key="topic">rec.games.hack</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1287643-402827-rec.games.hack" source="1287643" target="402827">
+	<data key="topic">rec.games.hack</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="355151-363571-rec.games.hack" source="355151" target="363571">
+	<data key="topic">rec.games.hack</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="355151-2214-rec.games.hack" source="355151" target="2214">
+	<data key="topic">rec.games.hack</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="355151-402827-rec.games.hack" source="355151" target="402827">
+	<data key="topic">rec.games.hack</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="443886-2056201-rec.games.hack" source="443886" target="2056201">
+	<data key="topic">rec.games.hack</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="443886-2053530-rec.games.hack" source="443886" target="2053530">
+	<data key="topic">rec.games.hack</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="402827-363571-rec.games.hack" source="402827" target="363571">
+	<data key="topic">rec.games.hack</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="402827-2214-rec.games.hack" source="402827" target="2214">
+	<data key="topic">rec.games.hack</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

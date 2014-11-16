@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="352325"/>
+<node id="782505"/>
+<node id="372465"/>
+<node id="351508"/>
+<node id="348494"/>
+<node id="374590"/>
+<node id="1745044"/>
+<node id="820628"/>
+<edge id="352325-782505-alt.sys.unisys" source="352325" target="782505">
+	<data key="topic">alt.sys.unisys</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="352325-348494-alt.sys.unisys" source="352325" target="348494">
+	<data key="topic">alt.sys.unisys</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="352325-374590-alt.sys.unisys" source="352325" target="374590">
+	<data key="topic">alt.sys.unisys</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="372465-1745044-alt.sys.unisys" source="372465" target="1745044">
+	<data key="topic">alt.sys.unisys</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="351508-820628-alt.sys.unisys" source="351508" target="820628">
+	<data key="topic">alt.sys.unisys</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

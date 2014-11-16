@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="336997"/>
+<node id="685854"/>
+<node id="337598"/>
+<node id="683825"/>
+<node id="461917"/>
+<node id="392297"/>
+<node id="681862"/>
+<edge id="336997-683825-net.rec.caves" source="336997" target="683825">
+	<data key="topic">net.rec.caves</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337598-685854-net.rec.caves" source="337598" target="685854">
+	<data key="topic">net.rec.caves</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337598-461917-net.rec.caves" source="337598" target="461917">
+	<data key="topic">net.rec.caves</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392297-683825-net.rec.caves" source="392297" target="683825">
+	<data key="topic">net.rec.caves</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="681862-685854-net.rec.caves" source="681862" target="685854">
+	<data key="topic">net.rec.caves</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

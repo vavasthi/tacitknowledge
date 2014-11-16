@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="565322"/>
+<node id="462375"/>
+<node id="1146867"/>
+<node id="459860"/>
+<node id="1145717"/>
+<node id="459633"/>
+<node id="1145607"/>
+<node id="460526"/>
+<node id="462156"/>
+<node id="766166"/>
+<node id="1146864"/>
+<node id="460409"/>
+<edge id="565322-462375-net.sport.football" source="565322" target="462375">
+	<data key="topic">net.sport.football</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1146867-462156-net.sport.football" source="1146867" target="462156">
+	<data key="topic">net.sport.football</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459860-460526-net.sport.football" source="459860" target="460526">
+	<data key="topic">net.sport.football</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459633-1146867-net.sport.football" source="459633" target="1146867">
+	<data key="topic">net.sport.football</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1145607-1145717-net.sport.football" source="1145607" target="1145717">
+	<data key="topic">net.sport.football</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1145607-766166-net.sport.football" source="1145607" target="766166">
+	<data key="topic">net.sport.football</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1146864-565322-net.sport.football" source="1146864" target="565322">
+	<data key="topic">net.sport.football</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1146864-462375-net.sport.football" source="1146864" target="462375">
+	<data key="topic">net.sport.football</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460409-1146867-net.sport.football" source="460409" target="1146867">
+	<data key="topic">net.sport.football</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="12723"/>
+<node id="671177"/>
+<node id="534108"/>
+<node id="422"/>
+<node id="26390"/>
+<node id="30007"/>
+<node id="17609"/>
+<node id="671281"/>
+<node id="671317"/>
+<edge id="12723-534108-rec.arts.startrek" source="12723" target="534108">
+	<data key="topic">rec.arts.startrek</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12723-30007-rec.arts.startrek" source="12723" target="30007">
+	<data key="topic">rec.arts.startrek</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12723-671317-rec.arts.startrek" source="12723" target="671317">
+	<data key="topic">rec.arts.startrek</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="422-26390-rec.arts.startrek" source="422" target="26390">
+	<data key="topic">rec.arts.startrek</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17609-12723-rec.arts.startrek" source="17609" target="12723">
+	<data key="topic">rec.arts.startrek</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17609-671177-rec.arts.startrek" source="17609" target="671177">
+	<data key="topic">rec.arts.startrek</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17609-534108-rec.arts.startrek" source="17609" target="534108">
+	<data key="topic">rec.arts.startrek</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17609-30007-rec.arts.startrek" source="17609" target="30007">
+	<data key="topic">rec.arts.startrek</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17609-671281-rec.arts.startrek" source="17609" target="671281">
+	<data key="topic">rec.arts.startrek</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17609-671317-rec.arts.startrek" source="17609" target="671317">
+	<data key="topic">rec.arts.startrek</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="671281-12723-rec.arts.startrek" source="671281" target="12723">
+	<data key="topic">rec.arts.startrek</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="671281-671177-rec.arts.startrek" source="671281" target="671177">
+	<data key="topic">rec.arts.startrek</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="671281-534108-rec.arts.startrek" source="671281" target="534108">
+	<data key="topic">rec.arts.startrek</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="671281-30007-rec.arts.startrek" source="671281" target="30007">
+	<data key="topic">rec.arts.startrek</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="671281-671317-rec.arts.startrek" source="671281" target="671317">
+	<data key="topic">rec.arts.startrek</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="671317-534108-rec.arts.startrek" source="671317" target="534108">
+	<data key="topic">rec.arts.startrek</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="671317-30007-rec.arts.startrek" source="671317" target="30007">
+	<data key="topic">rec.arts.startrek</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

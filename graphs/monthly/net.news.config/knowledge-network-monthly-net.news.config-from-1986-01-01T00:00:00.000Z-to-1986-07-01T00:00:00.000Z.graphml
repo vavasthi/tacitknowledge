@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="339190"/>
+<node id="390582"/>
+<node id="15667"/>
+<node id="341950"/>
+<node id="337376"/>
+<node id="339711"/>
+<node id="391515"/>
+<node id="483897"/>
+<node id="16099"/>
+<node id="482787"/>
+<node id="338308"/>
+<node id="339107"/>
+<node id="346243"/>
+<node id="341965"/>
+<node id="392682"/>
+<node id="29006"/>
+<node id="471819"/>
+<node id="337323"/>
+<edge id="339190-391515-net.news.config" source="339190" target="391515">
+	<data key="topic">net.news.config</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390582-339107-net.news.config" source="390582" target="339107">
+	<data key="topic">net.news.config</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341950-339107-net.news.config" source="341950" target="339107">
+	<data key="topic">net.news.config</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337376-15667-net.news.config" source="337376" target="15667">
+	<data key="topic">net.news.config</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339711-16099-net.news.config" source="339711" target="16099">
+	<data key="topic">net.news.config</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="483897-337376-net.news.config" source="483897" target="337376">
+	<data key="topic">net.news.config</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="482787-29006-net.news.config" source="482787" target="29006">
+	<data key="topic">net.news.config</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338308-341950-net.news.config" source="338308" target="341950">
+	<data key="topic">net.news.config</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338308-339107-net.news.config" source="338308" target="339107">
+	<data key="topic">net.news.config</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339107-337323-net.news.config" source="339107" target="337323">
+	<data key="topic">net.news.config</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341965-390582-net.news.config" source="341965" target="390582">
+	<data key="topic">net.news.config</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341965-471819-net.news.config" source="341965" target="471819">
+	<data key="topic">net.news.config</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="471819-390582-net.news.config" source="471819" target="390582">
+	<data key="topic">net.news.config</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

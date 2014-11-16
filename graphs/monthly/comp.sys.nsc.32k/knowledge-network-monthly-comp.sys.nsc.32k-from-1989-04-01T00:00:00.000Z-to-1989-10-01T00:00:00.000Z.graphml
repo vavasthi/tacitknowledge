@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="512341"/>
+<node id="509280"/>
+<node id="375069"/>
+<node id="1207977"/>
+<node id="30434"/>
+<node id="29606"/>
+<node id="510691"/>
+<node id="4263"/>
+<node id="1208469"/>
+<node id="1655071"/>
+<node id="4265"/>
+<node id="550177"/>
+<node id="451119"/>
+<node id="856293"/>
+<node id="501934"/>
+<node id="381295"/>
+<node id="741286"/>
+<node id="1238851"/>
+<node id="510198"/>
+<node id="746496"/>
+<node id="2692256"/>
+<node id="2692255"/>
+<node id="698889"/>
+<node id="16324"/>
+<node id="804555"/>
+<node id="499213"/>
+<node id="364234"/>
+<node id="30735"/>
+<edge id="512341-1655071-comp.sys.nsc.32k" source="512341" target="1655071">
+	<data key="topic">comp.sys.nsc.32k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509280-2692255-comp.sys.nsc.32k" source="509280" target="2692255">
+	<data key="topic">comp.sys.nsc.32k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="375069-451119-comp.sys.nsc.32k" source="375069" target="451119">
+	<data key="topic">comp.sys.nsc.32k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29606-451119-comp.sys.nsc.32k" source="29606" target="451119">
+	<data key="topic">comp.sys.nsc.32k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510691-4263-comp.sys.nsc.32k" source="510691" target="4263">
+	<data key="topic">comp.sys.nsc.32k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1208469-741286-comp.sys.nsc.32k" source="1208469" target="741286">
+	<data key="topic">comp.sys.nsc.32k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4265-550177-comp.sys.nsc.32k" source="4265" target="550177">
+	<data key="topic">comp.sys.nsc.32k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4265-2692255-comp.sys.nsc.32k" source="4265" target="2692255">
+	<data key="topic">comp.sys.nsc.32k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4265-364234-comp.sys.nsc.32k" source="4265" target="364234">
+	<data key="topic">comp.sys.nsc.32k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="501934-30735-comp.sys.nsc.32k" source="501934" target="30735">
+	<data key="topic">comp.sys.nsc.32k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="381295-30434-comp.sys.nsc.32k" source="381295" target="30434">
+	<data key="topic">comp.sys.nsc.32k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1238851-510691-comp.sys.nsc.32k" source="1238851" target="510691">
+	<data key="topic">comp.sys.nsc.32k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1238851-4263-comp.sys.nsc.32k" source="1238851" target="4263">
+	<data key="topic">comp.sys.nsc.32k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510198-804555-comp.sys.nsc.32k" source="510198" target="804555">
+	<data key="topic">comp.sys.nsc.32k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="746496-1207977-comp.sys.nsc.32k" source="746496" target="1207977">
+	<data key="topic">comp.sys.nsc.32k</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="746496-4263-comp.sys.nsc.32k" source="746496" target="4263">
+	<data key="topic">comp.sys.nsc.32k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="746496-856293-comp.sys.nsc.32k" source="746496" target="856293">
+	<data key="topic">comp.sys.nsc.32k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2692256-501934-comp.sys.nsc.32k" source="2692256" target="501934">
+	<data key="topic">comp.sys.nsc.32k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2692256-30735-comp.sys.nsc.32k" source="2692256" target="30735">
+	<data key="topic">comp.sys.nsc.32k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="698889-1655071-comp.sys.nsc.32k" source="698889" target="1655071">
+	<data key="topic">comp.sys.nsc.32k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="698889-364234-comp.sys.nsc.32k" source="698889" target="364234">
+	<data key="topic">comp.sys.nsc.32k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16324-30434-comp.sys.nsc.32k" source="16324" target="30434">
+	<data key="topic">comp.sys.nsc.32k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="499213-29606-comp.sys.nsc.32k" source="499213" target="29606">
+	<data key="topic">comp.sys.nsc.32k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="499213-451119-comp.sys.nsc.32k" source="499213" target="451119">
+	<data key="topic">comp.sys.nsc.32k</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

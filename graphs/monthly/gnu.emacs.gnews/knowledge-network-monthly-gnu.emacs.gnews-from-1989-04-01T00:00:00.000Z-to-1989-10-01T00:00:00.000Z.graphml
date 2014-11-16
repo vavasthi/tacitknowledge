@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="743162"/>
+<node id="509142"/>
+<node id="515507"/>
+<node id="546399"/>
+<node id="3613"/>
+<node id="27549"/>
+<node id="16065"/>
+<node id="709068"/>
+<node id="1161779"/>
+<node id="1161782"/>
+<node id="699440"/>
+<node id="618576"/>
+<node id="1161816"/>
+<node id="2130474"/>
+<node id="1161790"/>
+<edge id="743162-515507-gnu.emacs.gnews" source="743162" target="515507">
+	<data key="topic">gnu.emacs.gnews</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509142-743162-gnu.emacs.gnews" source="509142" target="743162">
+	<data key="topic">gnu.emacs.gnews</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509142-515507-gnu.emacs.gnews" source="509142" target="515507">
+	<data key="topic">gnu.emacs.gnews</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="509142-1161790-gnu.emacs.gnews" source="509142" target="1161790">
+	<data key="topic">gnu.emacs.gnews</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="515507-743162-gnu.emacs.gnews" source="515507" target="743162">
+	<data key="topic">gnu.emacs.gnews</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="515507-16065-gnu.emacs.gnews" source="515507" target="16065">
+	<data key="topic">gnu.emacs.gnews</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="546399-515507-gnu.emacs.gnews" source="546399" target="515507">
+	<data key="topic">gnu.emacs.gnews</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="546399-27549-gnu.emacs.gnews" source="546399" target="27549">
+	<data key="topic">gnu.emacs.gnews</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="546399-1161779-gnu.emacs.gnews" source="546399" target="1161779">
+	<data key="topic">gnu.emacs.gnews</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="546399-699440-gnu.emacs.gnews" source="546399" target="699440">
+	<data key="topic">gnu.emacs.gnews</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="546399-618576-gnu.emacs.gnews" source="546399" target="618576">
+	<data key="topic">gnu.emacs.gnews</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="27549-699440-gnu.emacs.gnews" source="27549" target="699440">
+	<data key="topic">gnu.emacs.gnews</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16065-743162-gnu.emacs.gnews" source="16065" target="743162">
+	<data key="topic">gnu.emacs.gnews</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16065-515507-gnu.emacs.gnews" source="16065" target="515507">
+	<data key="topic">gnu.emacs.gnews</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="709068-3613-gnu.emacs.gnews" source="709068" target="3613">
+	<data key="topic">gnu.emacs.gnews</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="709068-618576-gnu.emacs.gnews" source="709068" target="618576">
+	<data key="topic">gnu.emacs.gnews</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="709068-2130474-gnu.emacs.gnews" source="709068" target="2130474">
+	<data key="topic">gnu.emacs.gnews</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1161779-515507-gnu.emacs.gnews" source="1161779" target="515507">
+	<data key="topic">gnu.emacs.gnews</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1161779-16065-gnu.emacs.gnews" source="1161779" target="16065">
+	<data key="topic">gnu.emacs.gnews</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1161782-27549-gnu.emacs.gnews" source="1161782" target="27549">
+	<data key="topic">gnu.emacs.gnews</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1161782-699440-gnu.emacs.gnews" source="1161782" target="699440">
+	<data key="topic">gnu.emacs.gnews</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1161782-618576-gnu.emacs.gnews" source="1161782" target="618576">
+	<data key="topic">gnu.emacs.gnews</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="699440-27549-gnu.emacs.gnews" source="699440" target="27549">
+	<data key="topic">gnu.emacs.gnews</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="618576-515507-gnu.emacs.gnews" source="618576" target="515507">
+	<data key="topic">gnu.emacs.gnews</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="618576-27549-gnu.emacs.gnews" source="618576" target="27549">
+	<data key="topic">gnu.emacs.gnews</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="618576-16065-gnu.emacs.gnews" source="618576" target="16065">
+	<data key="topic">gnu.emacs.gnews</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="618576-709068-gnu.emacs.gnews" source="618576" target="709068">
+	<data key="topic">gnu.emacs.gnews</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="618576-699440-gnu.emacs.gnews" source="618576" target="699440">
+	<data key="topic">gnu.emacs.gnews</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="618576-2130474-gnu.emacs.gnews" source="618576" target="2130474">
+	<data key="topic">gnu.emacs.gnews</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1161816-515507-gnu.emacs.gnews" source="1161816" target="515507">
+	<data key="topic">gnu.emacs.gnews</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1161816-16065-gnu.emacs.gnews" source="1161816" target="16065">
+	<data key="topic">gnu.emacs.gnews</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1161816-1161779-gnu.emacs.gnews" source="1161816" target="1161779">
+	<data key="topic">gnu.emacs.gnews</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

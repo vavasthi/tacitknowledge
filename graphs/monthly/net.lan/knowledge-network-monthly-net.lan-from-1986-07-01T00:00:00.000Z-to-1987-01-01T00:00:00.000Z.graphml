@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="28050"/>
+<node id="340378"/>
+<node id="7071"/>
+<node id="459304"/>
+<node id="518823"/>
+<node id="1506582"/>
+<node id="16293"/>
+<node id="1125013"/>
+<node id="390446"/>
+<node id="1125018"/>
+<node id="1019684"/>
+<node id="926242"/>
+<node id="1125023"/>
+<node id="397495"/>
+<node id="15667"/>
+<node id="762170"/>
+<node id="919358"/>
+<node id="447539"/>
+<node id="919350"/>
+<node id="919348"/>
+<node id="340793"/>
+<node id="341819"/>
+<node id="1579592"/>
+<node id="470088"/>
+<node id="815055"/>
+<node id="1512500"/>
+<node id="392653"/>
+<node id="919362"/>
+<node id="338134"/>
+<node id="466386"/>
+<node id="919384"/>
+<node id="337376"/>
+<node id="340192"/>
+<node id="397278"/>
+<node id="15582"/>
+<node id="919505"/>
+<node id="1769564"/>
+<node id="16099"/>
+<node id="15971"/>
+<node id="980581"/>
+<node id="451436"/>
+<node id="911844"/>
+<node id="1480839"/>
+<node id="393720"/>
+<node id="1506566"/>
+<node id="337265"/>
+<node id="464256"/>
+<node id="1125006"/>
+<node id="454393"/>
+<node id="473736"/>
+<node id="465288"/>
+<node id="341766"/>
+<node id="980617"/>
+<node id="918538"/>
+<node id="1506559"/>
+<node id="1510271"/>
+<node id="396942"/>
+<node id="920705"/>
+<edge id="340378-337376-net.lan" source="340378" target="337376">
+	<data key="topic">net.lan</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="340378-919505-net.lan" source="340378" target="919505">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7071-341819-net.lan" source="7071" target="341819">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459304-15582-net.lan" source="459304" target="15582">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459304-396942-net.lan" source="459304" target="396942">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16293-919348-net.lan" source="16293" target="919348">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16293-473736-net.lan" source="16293" target="473736">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1125013-518823-net.lan" source="1125013" target="518823">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390446-926242-net.lan" source="390446" target="926242">
+	<data key="topic">net.lan</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="390446-337376-net.lan" source="390446" target="337376">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="397495-1506582-net.lan" source="397495" target="1506582">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="397495-1019684-net.lan" source="397495" target="1019684">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919358-919348-net.lan" source="919358" target="919348">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919358-473736-net.lan" source="919358" target="473736">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="447539-459304-net.lan" source="447539" target="459304">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="447539-15582-net.lan" source="447539" target="15582">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919350-919348-net.lan" source="919350" target="919348">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919350-473736-net.lan" source="919350" target="473736">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341819-7071-net.lan" source="341819" target="7071">
+	<data key="topic">net.lan</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="1579592-337376-net.lan" source="1579592" target="337376">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1579592-15971-net.lan" source="1579592" target="15971">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="470088-1506582-net.lan" source="470088" target="1506582">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1512500-911844-net.lan" source="1512500" target="911844">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1512500-1506566-net.lan" source="1512500" target="1506566">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392653-1579592-net.lan" source="392653" target="1579592">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392653-337376-net.lan" source="392653" target="337376">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392653-15971-net.lan" source="392653" target="15971">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919362-466386-net.lan" source="919362" target="466386">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919362-454393-net.lan" source="919362" target="454393">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338134-340793-net.lan" source="338134" target="340793">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="466386-7071-net.lan" source="466386" target="7071">
+	<data key="topic">net.lan</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="466386-341819-net.lan" source="466386" target="341819">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="466386-454393-net.lan" source="466386" target="454393">
+	<data key="topic">net.lan</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="337376-390446-net.lan" source="337376" target="390446">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337376-1125018-net.lan" source="337376" target="1125018">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337376-926242-net.lan" source="337376" target="926242">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337376-15667-net.lan" source="337376" target="15667">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337376-762170-net.lan" source="337376" target="762170">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337376-919350-net.lan" source="337376" target="919350">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337376-919348-net.lan" source="337376" target="919348">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337376-815055-net.lan" source="337376" target="815055">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337376-1512500-net.lan" source="337376" target="1512500">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337376-15971-net.lan" source="337376" target="15971">
+	<data key="topic">net.lan</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="337376-911844-net.lan" source="337376" target="911844">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337376-1506566-net.lan" source="337376" target="1506566">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337376-337265-net.lan" source="337376" target="337265">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337376-473736-net.lan" source="337376" target="473736">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337376-465288-net.lan" source="337376" target="465288">
+	<data key="topic">net.lan</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="337376-1510271-net.lan" source="337376" target="1510271">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340192-15582-net.lan" source="340192" target="15582">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="397278-337376-net.lan" source="397278" target="337376">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919505-337376-net.lan" source="919505" target="337376">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16099-466386-net.lan" source="16099" target="466386">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16099-454393-net.lan" source="16099" target="454393">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="980581-390446-net.lan" source="980581" target="390446">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="980581-926242-net.lan" source="980581" target="926242">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="980581-337376-net.lan" source="980581" target="337376">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="451436-919384-net.lan" source="451436" target="919384">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="911844-1506566-net.lan" source="911844" target="1506566">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1480839-1506559-net.lan" source="1480839" target="1506559">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="393720-919350-net.lan" source="393720" target="919350">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="393720-919348-net.lan" source="393720" target="919348">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="393720-473736-net.lan" source="393720" target="473736">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="464256-337376-net.lan" source="464256" target="337376">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1125006-1125023-net.lan" source="1125006" target="1125023">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="465288-337376-net.lan" source="465288" target="337376">
+	<data key="topic">net.lan</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="341766-28050-net.lan" source="341766" target="28050">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="918538-1769564-net.lan" source="918538" target="1769564">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1510271-1512500-net.lan" source="1510271" target="1512500">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1510271-911844-net.lan" source="1510271" target="911844">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1510271-1506566-net.lan" source="1510271" target="1506566">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="920705-980617-net.lan" source="920705" target="980617">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,921 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="106130"/>
+<node id="167703"/>
+<node id="168151"/>
+<node id="179926"/>
+<node id="112474"/>
+<node id="184540"/>
+<node id="37019"/>
+<node id="199321"/>
+<node id="45021"/>
+<node id="169380"/>
+<node id="43939"/>
+<node id="140898"/>
+<node id="204904"/>
+<node id="37227"/>
+<node id="39789"/>
+<node id="169712"/>
+<node id="44977"/>
+<node id="170866"/>
+<node id="41077"/>
+<node id="140469"/>
+<node id="167546"/>
+<node id="173503"/>
+<node id="198334"/>
+<node id="203837"/>
+<node id="46722"/>
+<node id="89473"/>
+<node id="114179"/>
+<node id="167623"/>
+<node id="46279"/>
+<node id="168582"/>
+<node id="39304"/>
+<node id="196876"/>
+<node id="39242"/>
+<node id="167305"/>
+<node id="207306"/>
+<node id="48013"/>
+<node id="41485"/>
+<node id="137037"/>
+<edge id="106130-168151-sci.engr.semiconductors" source="106130" target="168151">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="106130-112474-sci.engr.semiconductors" source="106130" target="112474">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="106130-168582-sci.engr.semiconductors" source="106130" target="168582">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="106130-48013-sci.engr.semiconductors" source="106130" target="48013">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="167703-167546-sci.engr.semiconductors" source="167703" target="167546">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="167703-48013-sci.engr.semiconductors" source="167703" target="48013">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="168151-112474-sci.engr.semiconductors" source="168151" target="112474">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="168151-48013-sci.engr.semiconductors" source="168151" target="48013">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="112474-167703-sci.engr.semiconductors" source="112474" target="167703">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="112474-167546-sci.engr.semiconductors" source="112474" target="167546">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="112474-48013-sci.engr.semiconductors" source="112474" target="48013">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="184540-168151-sci.engr.semiconductors" source="184540" target="168151">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="184540-112474-sci.engr.semiconductors" source="184540" target="112474">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="184540-169712-sci.engr.semiconductors" source="184540" target="169712">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="184540-46722-sci.engr.semiconductors" source="184540" target="46722">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="184540-89473-sci.engr.semiconductors" source="184540" target="89473">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="184540-168582-sci.engr.semiconductors" source="184540" target="168582">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="184540-39242-sci.engr.semiconductors" source="184540" target="39242">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="184540-48013-sci.engr.semiconductors" source="184540" target="48013">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="184540-137037-sci.engr.semiconductors" source="184540" target="137037">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37019-140898-sci.engr.semiconductors" source="37019" target="140898">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37019-39789-sci.engr.semiconductors" source="37019" target="39789">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37019-169712-sci.engr.semiconductors" source="37019" target="169712">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37019-46279-sci.engr.semiconductors" source="37019" target="46279">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37019-168582-sci.engr.semiconductors" source="37019" target="168582">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37019-39304-sci.engr.semiconductors" source="37019" target="39304">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37019-196876-sci.engr.semiconductors" source="37019" target="196876">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37019-39242-sci.engr.semiconductors" source="37019" target="39242">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37019-48013-sci.engr.semiconductors" source="37019" target="48013">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37019-137037-sci.engr.semiconductors" source="37019" target="137037">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="199321-168151-sci.engr.semiconductors" source="199321" target="168151">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="199321-112474-sci.engr.semiconductors" source="199321" target="112474">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="199321-169712-sci.engr.semiconductors" source="199321" target="169712">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="199321-168582-sci.engr.semiconductors" source="199321" target="168582">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="199321-39304-sci.engr.semiconductors" source="199321" target="39304">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="199321-39242-sci.engr.semiconductors" source="199321" target="39242">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="199321-48013-sci.engr.semiconductors" source="199321" target="48013">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="45021-48013-sci.engr.semiconductors" source="45021" target="48013">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="169380-46722-sci.engr.semiconductors" source="169380" target="46722">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="169380-48013-sci.engr.semiconductors" source="169380" target="48013">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="43939-168151-sci.engr.semiconductors" source="43939" target="168151">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="43939-112474-sci.engr.semiconductors" source="43939" target="112474">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="43939-168582-sci.engr.semiconductors" source="43939" target="168582">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="43939-48013-sci.engr.semiconductors" source="43939" target="48013">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="140898-39789-sci.engr.semiconductors" source="140898" target="39789">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="140898-169712-sci.engr.semiconductors" source="140898" target="169712">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="140898-168582-sci.engr.semiconductors" source="140898" target="168582">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="140898-39242-sci.engr.semiconductors" source="140898" target="39242">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="140898-48013-sci.engr.semiconductors" source="140898" target="48013">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="140898-137037-sci.engr.semiconductors" source="140898" target="137037">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="204904-140898-sci.engr.semiconductors" source="204904" target="140898">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="204904-39789-sci.engr.semiconductors" source="204904" target="39789">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="204904-169712-sci.engr.semiconductors" source="204904" target="169712">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="204904-46279-sci.engr.semiconductors" source="204904" target="46279">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="204904-168582-sci.engr.semiconductors" source="204904" target="168582">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="204904-39304-sci.engr.semiconductors" source="204904" target="39304">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="204904-196876-sci.engr.semiconductors" source="204904" target="196876">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="204904-39242-sci.engr.semiconductors" source="204904" target="39242">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="204904-48013-sci.engr.semiconductors" source="204904" target="48013">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="204904-137037-sci.engr.semiconductors" source="204904" target="137037">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37227-167703-sci.engr.semiconductors" source="37227" target="167703">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37227-167546-sci.engr.semiconductors" source="37227" target="167546">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37227-167623-sci.engr.semiconductors" source="37227" target="167623">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37227-48013-sci.engr.semiconductors" source="37227" target="48013">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="39789-169712-sci.engr.semiconductors" source="39789" target="169712">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="39789-168582-sci.engr.semiconductors" source="39789" target="168582">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="39789-48013-sci.engr.semiconductors" source="39789" target="48013">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="39789-137037-sci.engr.semiconductors" source="39789" target="137037">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="44977-140898-sci.engr.semiconductors" source="44977" target="140898">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="44977-39789-sci.engr.semiconductors" source="44977" target="39789">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="44977-169712-sci.engr.semiconductors" source="44977" target="169712">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="44977-168582-sci.engr.semiconductors" source="44977" target="168582">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="44977-39242-sci.engr.semiconductors" source="44977" target="39242">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="44977-48013-sci.engr.semiconductors" source="44977" target="48013">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="44977-137037-sci.engr.semiconductors" source="44977" target="137037">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="170866-168151-sci.engr.semiconductors" source="170866" target="168151">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="170866-112474-sci.engr.semiconductors" source="170866" target="112474">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="170866-168582-sci.engr.semiconductors" source="170866" target="168582">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="170866-48013-sci.engr.semiconductors" source="170866" target="48013">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41077-48013-sci.engr.semiconductors" source="41077" target="48013">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="140469-48013-sci.engr.semiconductors" source="140469" target="48013">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="167546-48013-sci.engr.semiconductors" source="167546" target="48013">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="173503-48013-sci.engr.semiconductors" source="173503" target="48013">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="198334-140898-sci.engr.semiconductors" source="198334" target="140898">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="198334-39789-sci.engr.semiconductors" source="198334" target="39789">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="198334-169712-sci.engr.semiconductors" source="198334" target="169712">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="198334-44977-sci.engr.semiconductors" source="198334" target="44977">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="198334-168582-sci.engr.semiconductors" source="198334" target="168582">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="198334-39304-sci.engr.semiconductors" source="198334" target="39304">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="198334-39242-sci.engr.semiconductors" source="198334" target="39242">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="198334-48013-sci.engr.semiconductors" source="198334" target="48013">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="198334-137037-sci.engr.semiconductors" source="198334" target="137037">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="203837-168151-sci.engr.semiconductors" source="203837" target="168151">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="203837-112474-sci.engr.semiconductors" source="203837" target="112474">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="203837-184540-sci.engr.semiconductors" source="203837" target="184540">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="203837-140898-sci.engr.semiconductors" source="203837" target="140898">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="203837-39789-sci.engr.semiconductors" source="203837" target="39789">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="203837-169712-sci.engr.semiconductors" source="203837" target="169712">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="203837-46722-sci.engr.semiconductors" source="203837" target="46722">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="203837-46279-sci.engr.semiconductors" source="203837" target="46279">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="203837-168582-sci.engr.semiconductors" source="203837" target="168582">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="203837-39304-sci.engr.semiconductors" source="203837" target="39304">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="203837-196876-sci.engr.semiconductors" source="203837" target="196876">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="203837-39242-sci.engr.semiconductors" source="203837" target="39242">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="203837-48013-sci.engr.semiconductors" source="203837" target="48013">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="203837-137037-sci.engr.semiconductors" source="203837" target="137037">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="46722-168151-sci.engr.semiconductors" source="46722" target="168151">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="46722-112474-sci.engr.semiconductors" source="46722" target="112474">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="46722-169712-sci.engr.semiconductors" source="46722" target="169712">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="46722-168582-sci.engr.semiconductors" source="46722" target="168582">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="46722-39242-sci.engr.semiconductors" source="46722" target="39242">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="46722-48013-sci.engr.semiconductors" source="46722" target="48013">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="46722-137037-sci.engr.semiconductors" source="46722" target="137037">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="89473-168151-sci.engr.semiconductors" source="89473" target="168151">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="89473-112474-sci.engr.semiconductors" source="89473" target="112474">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="89473-184540-sci.engr.semiconductors" source="89473" target="184540">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="89473-169712-sci.engr.semiconductors" source="89473" target="169712">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="89473-46722-sci.engr.semiconductors" source="89473" target="46722">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="89473-168582-sci.engr.semiconductors" source="89473" target="168582">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="89473-39242-sci.engr.semiconductors" source="89473" target="39242">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="89473-48013-sci.engr.semiconductors" source="89473" target="48013">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="89473-137037-sci.engr.semiconductors" source="89473" target="137037">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="114179-168151-sci.engr.semiconductors" source="114179" target="168151">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="114179-112474-sci.engr.semiconductors" source="114179" target="112474">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="114179-170866-sci.engr.semiconductors" source="114179" target="170866">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="114179-46279-sci.engr.semiconductors" source="114179" target="46279">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="114179-168582-sci.engr.semiconductors" source="114179" target="168582">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="114179-48013-sci.engr.semiconductors" source="114179" target="48013">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="114179-137037-sci.engr.semiconductors" source="114179" target="137037">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="167623-37227-sci.engr.semiconductors" source="167623" target="37227">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="167623-48013-sci.engr.semiconductors" source="167623" target="48013">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="46279-168151-sci.engr.semiconductors" source="46279" target="168151">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="46279-112474-sci.engr.semiconductors" source="46279" target="112474">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="46279-140898-sci.engr.semiconductors" source="46279" target="140898">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="46279-39789-sci.engr.semiconductors" source="46279" target="39789">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="46279-169712-sci.engr.semiconductors" source="46279" target="169712">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="46279-44977-sci.engr.semiconductors" source="46279" target="44977">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="46279-170866-sci.engr.semiconductors" source="46279" target="170866">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="46279-168582-sci.engr.semiconductors" source="46279" target="168582">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">8</data>
+</edge>
+<edge id="46279-196876-sci.engr.semiconductors" source="46279" target="196876">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="46279-39242-sci.engr.semiconductors" source="46279" target="39242">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="46279-48013-sci.engr.semiconductors" source="46279" target="48013">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="46279-137037-sci.engr.semiconductors" source="46279" target="137037">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="168582-168151-sci.engr.semiconductors" source="168582" target="168151">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">6</data>
+</edge>
+<edge id="168582-112474-sci.engr.semiconductors" source="168582" target="112474">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">6</data>
+</edge>
+<edge id="168582-43939-sci.engr.semiconductors" source="168582" target="43939">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="168582-169712-sci.engr.semiconductors" source="168582" target="169712">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="168582-170866-sci.engr.semiconductors" source="168582" target="170866">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="168582-46279-sci.engr.semiconductors" source="168582" target="46279">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="168582-39242-sci.engr.semiconductors" source="168582" target="39242">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="168582-48013-sci.engr.semiconductors" source="168582" target="48013">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">7</data>
+</edge>
+<edge id="168582-137037-sci.engr.semiconductors" source="168582" target="137037">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="39304-168151-sci.engr.semiconductors" source="39304" target="168151">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="39304-112474-sci.engr.semiconductors" source="39304" target="112474">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="39304-184540-sci.engr.semiconductors" source="39304" target="184540">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="39304-37019-sci.engr.semiconductors" source="39304" target="37019">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="39304-140898-sci.engr.semiconductors" source="39304" target="140898">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">8</data>
+</edge>
+<edge id="39304-204904-sci.engr.semiconductors" source="39304" target="204904">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="39304-39789-sci.engr.semiconductors" source="39304" target="39789">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">8</data>
+</edge>
+<edge id="39304-169712-sci.engr.semiconductors" source="39304" target="169712">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">10</data>
+</edge>
+<edge id="39304-44977-sci.engr.semiconductors" source="39304" target="44977">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="39304-140469-sci.engr.semiconductors" source="39304" target="140469">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="39304-198334-sci.engr.semiconductors" source="39304" target="198334">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="39304-203837-sci.engr.semiconductors" source="39304" target="203837">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="39304-46722-sci.engr.semiconductors" source="39304" target="46722">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="39304-46279-sci.engr.semiconductors" source="39304" target="46279">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="39304-168582-sci.engr.semiconductors" source="39304" target="168582">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">12</data>
+</edge>
+<edge id="39304-196876-sci.engr.semiconductors" source="39304" target="196876">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="39304-39242-sci.engr.semiconductors" source="39304" target="39242">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">10</data>
+</edge>
+<edge id="39304-167305-sci.engr.semiconductors" source="39304" target="167305">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="39304-48013-sci.engr.semiconductors" source="39304" target="48013">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">12</data>
+</edge>
+<edge id="39304-41485-sci.engr.semiconductors" source="39304" target="41485">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="39304-137037-sci.engr.semiconductors" source="39304" target="137037">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">9</data>
+</edge>
+<edge id="196876-140898-sci.engr.semiconductors" source="196876" target="140898">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="196876-39789-sci.engr.semiconductors" source="196876" target="39789">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="196876-169712-sci.engr.semiconductors" source="196876" target="169712">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="196876-168582-sci.engr.semiconductors" source="196876" target="168582">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="196876-39242-sci.engr.semiconductors" source="196876" target="39242">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="196876-48013-sci.engr.semiconductors" source="196876" target="48013">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="196876-137037-sci.engr.semiconductors" source="196876" target="137037">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="39242-168151-sci.engr.semiconductors" source="39242" target="168151">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="39242-112474-sci.engr.semiconductors" source="39242" target="112474">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="39242-39789-sci.engr.semiconductors" source="39242" target="39789">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="39242-169712-sci.engr.semiconductors" source="39242" target="169712">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="39242-168582-sci.engr.semiconductors" source="39242" target="168582">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="39242-48013-sci.engr.semiconductors" source="39242" target="48013">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="39242-137037-sci.engr.semiconductors" source="39242" target="137037">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="207306-140898-sci.engr.semiconductors" source="207306" target="140898">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="207306-39789-sci.engr.semiconductors" source="207306" target="39789">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="207306-169712-sci.engr.semiconductors" source="207306" target="169712">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="207306-44977-sci.engr.semiconductors" source="207306" target="44977">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="207306-198334-sci.engr.semiconductors" source="207306" target="198334">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="207306-168582-sci.engr.semiconductors" source="207306" target="168582">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="207306-39304-sci.engr.semiconductors" source="207306" target="39304">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="207306-39242-sci.engr.semiconductors" source="207306" target="39242">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="207306-48013-sci.engr.semiconductors" source="207306" target="48013">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="207306-137037-sci.engr.semiconductors" source="207306" target="137037">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="48013-168151-sci.engr.semiconductors" source="48013" target="168151">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="48013-179926-sci.engr.semiconductors" source="48013" target="179926">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="48013-112474-sci.engr.semiconductors" source="48013" target="112474">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="48013-37227-sci.engr.semiconductors" source="48013" target="37227">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="48013-169712-sci.engr.semiconductors" source="48013" target="169712">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="48013-140469-sci.engr.semiconductors" source="48013" target="140469">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="48013-46722-sci.engr.semiconductors" source="48013" target="46722">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="48013-167623-sci.engr.semiconductors" source="48013" target="167623">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="48013-168582-sci.engr.semiconductors" source="48013" target="168582">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="48013-137037-sci.engr.semiconductors" source="48013" target="137037">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41485-140469-sci.engr.semiconductors" source="41485" target="140469">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="41485-39304-sci.engr.semiconductors" source="41485" target="39304">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41485-48013-sci.engr.semiconductors" source="41485" target="48013">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="137037-168151-sci.engr.semiconductors" source="137037" target="168151">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="137037-112474-sci.engr.semiconductors" source="137037" target="112474">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="137037-39789-sci.engr.semiconductors" source="137037" target="39789">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="137037-169712-sci.engr.semiconductors" source="137037" target="169712">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="137037-170866-sci.engr.semiconductors" source="137037" target="170866">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="137037-46279-sci.engr.semiconductors" source="137037" target="46279">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="137037-168582-sci.engr.semiconductors" source="137037" target="168582">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">8</data>
+</edge>
+<edge id="137037-39242-sci.engr.semiconductors" source="137037" target="39242">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="137037-48013-sci.engr.semiconductors" source="137037" target="48013">
+	<data key="topic">sci.engr.semiconductors</data>
+	<data key="weight">4</data>
+</edge>
+</graph>
+</graphml>

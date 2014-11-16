@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="390006"/>
+<node id="397495"/>
+<node id="337265"/>
+<node id="723124"/>
+<node id="33916"/>
+<node id="15582"/>
+<node id="1129360"/>
+<node id="2849"/>
+<node id="338214"/>
+<node id="1129363"/>
+<node id="918538"/>
+<node id="392682"/>
+<node id="399052"/>
+<edge id="337265-2849-net.usenix" source="337265" target="2849">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337265-918538-net.usenix" source="337265" target="918538">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="723124-1129360-net.usenix" source="723124" target="1129360">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="33916-15582-net.usenix" source="33916" target="15582">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338214-15582-net.usenix" source="338214" target="15582">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1129363-15582-net.usenix" source="1129363" target="15582">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392682-390006-net.usenix" source="392682" target="390006">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="399052-397495-net.usenix" source="399052" target="397495">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="399052-1129360-net.usenix" source="399052" target="1129360">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="399052-2849-net.usenix" source="399052" target="2849">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

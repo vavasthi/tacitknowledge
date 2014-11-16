@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="339346"/>
+<node id="339282"/>
+<node id="1706863"/>
+<node id="460369"/>
+<node id="632018"/>
+<node id="632466"/>
+<node id="1186217"/>
+<node id="338460"/>
+<node id="489818"/>
+<node id="336870"/>
+<node id="341538"/>
+<node id="341604"/>
+<node id="524207"/>
+<node id="338787"/>
+<node id="338606"/>
+<node id="459512"/>
+<node id="342962"/>
+<node id="337265"/>
+<node id="624704"/>
+<node id="338238"/>
+<node id="635442"/>
+<node id="338429"/>
+<node id="561524"/>
+<node id="337799"/>
+<node id="338243"/>
+<node id="339022"/>
+<node id="1706865"/>
+<node id="339596"/>
+<node id="634055"/>
+<edge id="339346-460369-net.poems" source="339346" target="460369">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1706863-1706865-net.poems" source="1706863" target="1706865">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="632466-336870-net.poems" source="632466" target="336870">
+	<data key="topic">net.poems</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="632466-634055-net.poems" source="632466" target="634055">
+	<data key="topic">net.poems</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="336870-634055-net.poems" source="336870" target="634055">
+	<data key="topic">net.poems</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="341538-1186217-net.poems" source="341538" target="1186217">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341538-338460-net.poems" source="341538" target="338460">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341538-489818-net.poems" source="341538" target="489818">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341538-341604-net.poems" source="341538" target="341604">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341538-524207-net.poems" source="341538" target="524207">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341538-338787-net.poems" source="341538" target="338787">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341538-459512-net.poems" source="341538" target="459512">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341538-337265-net.poems" source="341538" target="337265">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341538-561524-net.poems" source="341538" target="561524">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341538-338243-net.poems" source="341538" target="338243">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341538-339022-net.poems" source="341538" target="339022">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341538-339596-net.poems" source="341538" target="339596">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341604-338460-net.poems" source="341604" target="338460">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341604-341538-net.poems" source="341604" target="341538">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341604-339022-net.poems" source="341604" target="339022">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338787-339596-net.poems" source="338787" target="339596">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338606-341538-net.poems" source="338606" target="341538">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338606-338238-net.poems" source="338606" target="338238">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338606-561524-net.poems" source="338606" target="561524">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459512-338787-net.poems" source="459512" target="338787">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459512-339596-net.poems" source="459512" target="339596">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="342962-338460-net.poems" source="342962" target="338460">
+	<data key="topic">net.poems</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="342962-341538-net.poems" source="342962" target="341538">
+	<data key="topic">net.poems</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="342962-341604-net.poems" source="342962" target="341604">
+	<data key="topic">net.poems</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="342962-338429-net.poems" source="342962" target="338429">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="342962-337799-net.poems" source="342962" target="337799">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="342962-339022-net.poems" source="342962" target="339022">
+	<data key="topic">net.poems</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="337265-338787-net.poems" source="337265" target="338787">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337265-459512-net.poems" source="337265" target="459512">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337265-339596-net.poems" source="337265" target="339596">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="624704-338460-net.poems" source="624704" target="338460">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="624704-341538-net.poems" source="624704" target="341538">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="624704-341604-net.poems" source="624704" target="341604">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="624704-342962-net.poems" source="624704" target="342962">
+	<data key="topic">net.poems</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="624704-337799-net.poems" source="624704" target="337799">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="624704-339022-net.poems" source="624704" target="339022">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="635442-339282-net.poems" source="635442" target="339282">
+	<data key="topic">net.poems</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="338429-338460-net.poems" source="338429" target="338460">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338429-341538-net.poems" source="338429" target="341538">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338429-341604-net.poems" source="338429" target="341604">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338429-342962-net.poems" source="338429" target="342962">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338429-339022-net.poems" source="338429" target="339022">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337799-338460-net.poems" source="337799" target="338460">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337799-341538-net.poems" source="337799" target="341538">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337799-341604-net.poems" source="337799" target="341604">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337799-342962-net.poems" source="337799" target="342962">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337799-339022-net.poems" source="337799" target="339022">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339596-561524-net.poems" source="339596" target="561524">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

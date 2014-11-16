@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="31252"/>
+<node id="403954"/>
+<node id="520863"/>
+<node id="28538"/>
+<node id="4379"/>
+<node id="801073"/>
+<node id="521113"/>
+<node id="548152"/>
+<node id="1683546"/>
+<node id="726095"/>
+<node id="432303"/>
+<node id="510256"/>
+<node id="521101"/>
+<node id="29006"/>
+<edge id="31252-548152-sci.astro" source="31252" target="548152">
+	<data key="topic">sci.astro</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="31252-510256-sci.astro" source="31252" target="510256">
+	<data key="topic">sci.astro</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="403954-4379-sci.astro" source="403954" target="4379">
+	<data key="topic">sci.astro</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="520863-432303-sci.astro" source="520863" target="432303">
+	<data key="topic">sci.astro</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="726095-28538-sci.astro" source="726095" target="28538">
+	<data key="topic">sci.astro</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="432303-521113-sci.astro" source="432303" target="521113">
+	<data key="topic">sci.astro</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="432303-29006-sci.astro" source="432303" target="29006">
+	<data key="topic">sci.astro</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521101-432303-sci.astro" source="521101" target="432303">
+	<data key="topic">sci.astro</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-801073-sci.astro" source="29006" target="801073">
+	<data key="topic">sci.astro</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-521113-sci.astro" source="29006" target="521113">
+	<data key="topic">sci.astro</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="29006-1683546-sci.astro" source="29006" target="1683546">
+	<data key="topic">sci.astro</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-432303-sci.astro" source="29006" target="432303">
+	<data key="topic">sci.astro</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

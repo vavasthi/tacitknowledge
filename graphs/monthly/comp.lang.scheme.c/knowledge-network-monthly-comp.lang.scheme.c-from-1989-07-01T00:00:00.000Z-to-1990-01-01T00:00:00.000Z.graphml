@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="558809"/>
+<node id="850383"/>
+<node id="718010"/>
+<node id="553133"/>
+<node id="10455"/>
+<node id="2014009"/>
+<node id="811099"/>
+<node id="557826"/>
+<node id="594580"/>
+<node id="1865208"/>
+<node id="10478"/>
+<edge id="850383-1865208-comp.lang.scheme.c" source="850383" target="1865208">
+	<data key="topic">comp.lang.scheme.c</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10455-553133-comp.lang.scheme.c" source="10455" target="553133">
+	<data key="topic">comp.lang.scheme.c</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="557826-811099-comp.lang.scheme.c" source="557826" target="811099">
+	<data key="topic">comp.lang.scheme.c</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="594580-718010-comp.lang.scheme.c" source="594580" target="718010">
+	<data key="topic">comp.lang.scheme.c</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10478-2014009-comp.lang.scheme.c" source="10478" target="2014009">
+	<data key="topic">comp.lang.scheme.c</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

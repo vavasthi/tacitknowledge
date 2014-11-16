@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="891822"/>
+<node id="341320"/>
+<node id="985580"/>
+<node id="399855"/>
+<node id="337721"/>
+<node id="484459"/>
+<node id="983987"/>
+<node id="978113"/>
+<edge id="985580-891822-net.misc.coke" source="985580" target="891822">
+	<data key="topic">net.misc.coke</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="985580-341320-net.misc.coke" source="985580" target="341320">
+	<data key="topic">net.misc.coke</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="985580-978113-net.misc.coke" source="985580" target="978113">
+	<data key="topic">net.misc.coke</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="399855-891822-net.misc.coke" source="399855" target="891822">
+	<data key="topic">net.misc.coke</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337721-891822-net.misc.coke" source="337721" target="891822">
+	<data key="topic">net.misc.coke</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337721-978113-net.misc.coke" source="337721" target="978113">
+	<data key="topic">net.misc.coke</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="484459-891822-net.misc.coke" source="484459" target="891822">
+	<data key="topic">net.misc.coke</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="484459-399855-net.misc.coke" source="484459" target="399855">
+	<data key="topic">net.misc.coke</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="983987-341320-net.misc.coke" source="983987" target="341320">
+	<data key="topic">net.misc.coke</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

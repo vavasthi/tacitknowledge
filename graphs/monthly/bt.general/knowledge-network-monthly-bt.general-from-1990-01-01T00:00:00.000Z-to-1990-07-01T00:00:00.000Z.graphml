@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="618425"/>
+<node id="11540"/>
+<node id="363166"/>
+<node id="520381"/>
+<node id="551269"/>
+<node id="435036"/>
+<edge id="618425-551269-bt.general" source="618425" target="551269">
+	<data key="topic">bt.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11540-618425-bt.general" source="11540" target="618425">
+	<data key="topic">bt.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11540-363166-bt.general" source="11540" target="363166">
+	<data key="topic">bt.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11540-551269-bt.general" source="11540" target="551269">
+	<data key="topic">bt.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="363166-618425-bt.general" source="363166" target="618425">
+	<data key="topic">bt.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="363166-551269-bt.general" source="363166" target="551269">
+	<data key="topic">bt.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="520381-363166-bt.general" source="520381" target="363166">
+	<data key="topic">bt.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="520381-551269-bt.general" source="520381" target="551269">
+	<data key="topic">bt.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="520381-435036-bt.general" source="520381" target="435036">
+	<data key="topic">bt.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="435036-520381-bt.general" source="435036" target="520381">
+	<data key="topic">bt.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="435036-551269-bt.general" source="435036" target="551269">
+	<data key="topic">bt.general</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

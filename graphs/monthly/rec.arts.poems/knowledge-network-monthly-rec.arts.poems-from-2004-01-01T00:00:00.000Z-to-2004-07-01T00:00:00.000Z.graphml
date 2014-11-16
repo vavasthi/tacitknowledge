@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2305091"/>
+<node id="197489"/>
+<node id="2305505"/>
+<node id="2188615"/>
+<node id="2305781"/>
+<node id="2307803"/>
+<node id="172265"/>
+<node id="2265005"/>
+<node id="2308333"/>
+<edge id="2305091-2188615-rec.arts.poems" source="2305091" target="2188615">
+	<data key="topic">rec.arts.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2305091-172265-rec.arts.poems" source="2305091" target="172265">
+	<data key="topic">rec.arts.poems</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="197489-2305091-rec.arts.poems" source="197489" target="2305091">
+	<data key="topic">rec.arts.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="197489-2265005-rec.arts.poems" source="197489" target="2265005">
+	<data key="topic">rec.arts.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2305505-2305091-rec.arts.poems" source="2305505" target="2305091">
+	<data key="topic">rec.arts.poems</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2305505-197489-rec.arts.poems" source="2305505" target="197489">
+	<data key="topic">rec.arts.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2305505-2265005-rec.arts.poems" source="2305505" target="2265005">
+	<data key="topic">rec.arts.poems</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2188615-2305091-rec.arts.poems" source="2188615" target="2305091">
+	<data key="topic">rec.arts.poems</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2188615-172265-rec.arts.poems" source="2188615" target="172265">
+	<data key="topic">rec.arts.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2305781-2305091-rec.arts.poems" source="2305781" target="2305091">
+	<data key="topic">rec.arts.poems</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2305781-2307803-rec.arts.poems" source="2305781" target="2307803">
+	<data key="topic">rec.arts.poems</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2305781-2308333-rec.arts.poems" source="2305781" target="2308333">
+	<data key="topic">rec.arts.poems</data>
+	<data key="weight">6</data>
+</edge>
+<edge id="2307803-2305091-rec.arts.poems" source="2307803" target="2305091">
+	<data key="topic">rec.arts.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="172265-2305091-rec.arts.poems" source="172265" target="2305091">
+	<data key="topic">rec.arts.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2265005-2305091-rec.arts.poems" source="2265005" target="2305091">
+	<data key="topic">rec.arts.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2265005-2305505-rec.arts.poems" source="2265005" target="2305505">
+	<data key="topic">rec.arts.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2308333-2305091-rec.arts.poems" source="2308333" target="2305091">
+	<data key="topic">rec.arts.poems</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2308333-2305781-rec.arts.poems" source="2308333" target="2305781">
+	<data key="topic">rec.arts.poems</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2308333-2307803-rec.arts.poems" source="2308333" target="2307803">
+	<data key="topic">rec.arts.poems</data>
+	<data key="weight">3</data>
+</edge>
+</graph>
+</graphml>

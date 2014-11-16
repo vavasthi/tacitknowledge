@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="514504"/>
+<node id="640586"/>
+<node id="644986"/>
+<node id="6754"/>
+<node id="645344"/>
+<node id="559714"/>
+<edge id="514504-645344-soc.culture.iranian" source="514504" target="645344">
+	<data key="topic">soc.culture.iranian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="640586-645344-soc.culture.iranian" source="640586" target="645344">
+	<data key="topic">soc.culture.iranian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="644986-6754-soc.culture.iranian" source="644986" target="6754">
+	<data key="topic">soc.culture.iranian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="645344-6754-soc.culture.iranian" source="645344" target="6754">
+	<data key="topic">soc.culture.iranian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="559714-6754-soc.culture.iranian" source="559714" target="6754">
+	<data key="topic">soc.culture.iranian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="559714-645344-soc.culture.iranian" source="559714" target="645344">
+	<data key="topic">soc.culture.iranian</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

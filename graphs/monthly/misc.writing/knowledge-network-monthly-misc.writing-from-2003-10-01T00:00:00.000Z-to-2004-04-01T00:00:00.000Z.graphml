@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="42197"/>
+<node id="151127"/>
+<node id="318961"/>
+<node id="274161"/>
+<node id="206263"/>
+<node id="267444"/>
+<node id="323572"/>
+<node id="38490"/>
+<node id="211739"/>
+<node id="265179"/>
+<node id="180701"/>
+<node id="269852"/>
+<node id="38209"/>
+<node id="37227"/>
+<node id="37424"/>
+<edge id="42197-206263-misc.writing" source="42197" target="206263">
+	<data key="topic">misc.writing</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="151127-318961-misc.writing" source="151127" target="318961">
+	<data key="topic">misc.writing</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="151127-206263-misc.writing" source="151127" target="206263">
+	<data key="topic">misc.writing</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="318961-151127-misc.writing" source="318961" target="151127">
+	<data key="topic">misc.writing</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="318961-206263-misc.writing" source="318961" target="206263">
+	<data key="topic">misc.writing</data>
+	<data key="weight">6</data>
+</edge>
+<edge id="318961-323572-misc.writing" source="318961" target="323572">
+	<data key="topic">misc.writing</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="318961-180701-misc.writing" source="318961" target="180701">
+	<data key="topic">misc.writing</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="206263-151127-misc.writing" source="206263" target="151127">
+	<data key="topic">misc.writing</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="206263-318961-misc.writing" source="206263" target="318961">
+	<data key="topic">misc.writing</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="267444-274161-misc.writing" source="267444" target="274161">
+	<data key="topic">misc.writing</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="267444-38490-misc.writing" source="267444" target="38490">
+	<data key="topic">misc.writing</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="267444-37227-misc.writing" source="267444" target="37227">
+	<data key="topic">misc.writing</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="267444-37424-misc.writing" source="267444" target="37424">
+	<data key="topic">misc.writing</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="323572-151127-misc.writing" source="323572" target="151127">
+	<data key="topic">misc.writing</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="323572-318961-misc.writing" source="323572" target="318961">
+	<data key="topic">misc.writing</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="323572-206263-misc.writing" source="323572" target="206263">
+	<data key="topic">misc.writing</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="38490-211739-misc.writing" source="38490" target="211739">
+	<data key="topic">misc.writing</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="38490-265179-misc.writing" source="38490" target="265179">
+	<data key="topic">misc.writing</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="38490-37227-misc.writing" source="38490" target="37227">
+	<data key="topic">misc.writing</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="211739-38490-misc.writing" source="211739" target="38490">
+	<data key="topic">misc.writing</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="265179-38490-misc.writing" source="265179" target="38490">
+	<data key="topic">misc.writing</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="180701-151127-misc.writing" source="180701" target="151127">
+	<data key="topic">misc.writing</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="180701-318961-misc.writing" source="180701" target="318961">
+	<data key="topic">misc.writing</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="180701-206263-misc.writing" source="180701" target="206263">
+	<data key="topic">misc.writing</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="269852-38490-misc.writing" source="269852" target="38490">
+	<data key="topic">misc.writing</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="269852-211739-misc.writing" source="269852" target="211739">
+	<data key="topic">misc.writing</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="38209-38490-misc.writing" source="38209" target="38490">
+	<data key="topic">misc.writing</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="38209-269852-misc.writing" source="38209" target="269852">
+	<data key="topic">misc.writing</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37227-38490-misc.writing" source="37227" target="38490">
+	<data key="topic">misc.writing</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37424-38490-misc.writing" source="37424" target="38490">
+	<data key="topic">misc.writing</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

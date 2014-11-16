@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="24662"/>
+<node id="751215"/>
+<node id="621853"/>
+<node id="1614487"/>
+<edge id="24662-1614487-ba.music" source="24662" target="1614487">
+	<data key="topic">ba.music</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="751215-621853-ba.music" source="751215" target="621853">
+	<data key="topic">ba.music</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1614487-621853-ba.music" source="1614487" target="621853">
+	<data key="topic">ba.music</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

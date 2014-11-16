@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="442039"/>
+<node id="422616"/>
+<node id="1643888"/>
+<node id="950455"/>
+<node id="367546"/>
+<node id="352329"/>
+<node id="950484"/>
+<node id="350700"/>
+<edge id="442039-367546-rec.misc" source="442039" target="367546">
+	<data key="topic">rec.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="422616-1643888-rec.misc" source="422616" target="1643888">
+	<data key="topic">rec.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="950455-367546-rec.misc" source="950455" target="367546">
+	<data key="topic">rec.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="352329-367546-rec.misc" source="352329" target="367546">
+	<data key="topic">rec.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="950484-442039-rec.misc" source="950484" target="442039">
+	<data key="topic">rec.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="950484-367546-rec.misc" source="950484" target="367546">
+	<data key="topic">rec.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350700-367546-rec.misc" source="350700" target="367546">
+	<data key="topic">rec.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350700-352329-rec.misc" source="350700" target="352329">
+	<data key="topic">rec.misc</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

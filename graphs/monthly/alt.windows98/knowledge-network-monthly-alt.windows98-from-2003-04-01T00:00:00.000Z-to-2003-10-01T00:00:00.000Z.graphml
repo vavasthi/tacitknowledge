@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="104165"/>
+<node id="50647"/>
+<node id="88106"/>
+<node id="37552"/>
+<edge id="104165-37552-alt.windows98" source="104165" target="37552">
+	<data key="topic">alt.windows98</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="50647-88106-alt.windows98" source="50647" target="88106">
+	<data key="topic">alt.windows98</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="50647-37552-alt.windows98" source="50647" target="37552">
+	<data key="topic">alt.windows98</data>
+	<data key="weight">14</data>
+</edge>
+<edge id="88106-37552-alt.windows98" source="88106" target="37552">
+	<data key="topic">alt.windows98</data>
+	<data key="weight">7</data>
+</edge>
+<edge id="37552-104165-alt.windows98" source="37552" target="104165">
+	<data key="topic">alt.windows98</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37552-50647-alt.windows98" source="37552" target="50647">
+	<data key="topic">alt.windows98</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37552-88106-alt.windows98" source="37552" target="88106">
+	<data key="topic">alt.windows98</data>
+	<data key="weight">5</data>
+</edge>
+</graph>
+</graphml>

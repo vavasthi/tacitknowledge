@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="22979"/>
+<node id="673530"/>
+<node id="338946"/>
+<node id="31318"/>
+<node id="371438"/>
+<node id="584933"/>
+<node id="1926836"/>
+<edge id="22979-338946-rec.music.misc" source="22979" target="338946">
+	<data key="topic">rec.music.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="22979-371438-rec.music.misc" source="22979" target="371438">
+	<data key="topic">rec.music.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="22979-584933-rec.music.misc" source="22979" target="584933">
+	<data key="topic">rec.music.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338946-371438-rec.music.misc" source="338946" target="371438">
+	<data key="topic">rec.music.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="31318-673530-rec.music.misc" source="31318" target="673530">
+	<data key="topic">rec.music.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="584933-338946-rec.music.misc" source="584933" target="338946">
+	<data key="topic">rec.music.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="584933-371438-rec.music.misc" source="584933" target="371438">
+	<data key="topic">rec.music.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1926836-338946-rec.music.misc" source="1926836" target="338946">
+	<data key="topic">rec.music.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1926836-371438-rec.music.misc" source="1926836" target="371438">
+	<data key="topic">rec.music.misc</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

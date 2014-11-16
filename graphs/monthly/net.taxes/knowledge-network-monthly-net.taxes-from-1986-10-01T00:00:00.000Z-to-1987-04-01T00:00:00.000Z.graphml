@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="466008"/>
+<node id="392824"/>
+<node id="485750"/>
+<node id="922795"/>
+<node id="1125286"/>
+<node id="488867"/>
+<node id="483727"/>
+<node id="473519"/>
+<node id="919701"/>
+<node id="24028"/>
+<node id="466427"/>
+<edge id="466008-392824-net.taxes" source="466008" target="392824">
+	<data key="topic">net.taxes</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="466008-922795-net.taxes" source="466008" target="922795">
+	<data key="topic">net.taxes</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="466008-24028-net.taxes" source="466008" target="24028">
+	<data key="topic">net.taxes</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1125286-922795-net.taxes" source="1125286" target="922795">
+	<data key="topic">net.taxes</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="488867-922795-net.taxes" source="488867" target="922795">
+	<data key="topic">net.taxes</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="488867-24028-net.taxes" source="488867" target="24028">
+	<data key="topic">net.taxes</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="483727-922795-net.taxes" source="483727" target="922795">
+	<data key="topic">net.taxes</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="483727-473519-net.taxes" source="483727" target="473519">
+	<data key="topic">net.taxes</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="483727-24028-net.taxes" source="483727" target="24028">
+	<data key="topic">net.taxes</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919701-922795-net.taxes" source="919701" target="922795">
+	<data key="topic">net.taxes</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="466427-485750-net.taxes" source="466427" target="485750">
+	<data key="topic">net.taxes</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

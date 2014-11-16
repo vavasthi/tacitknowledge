@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="618010"/>
+<node id="1013326"/>
+<node id="1013357"/>
+<node id="617310"/>
+<node id="1391907"/>
+<node id="1889409"/>
+<node id="534662"/>
+<edge id="618010-617310-talk.politics.theory" source="618010" target="617310">
+	<data key="topic">talk.politics.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="618010-1391907-talk.politics.theory" source="618010" target="1391907">
+	<data key="topic">talk.politics.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="618010-1889409-talk.politics.theory" source="618010" target="1889409">
+	<data key="topic">talk.politics.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="618010-534662-talk.politics.theory" source="618010" target="534662">
+	<data key="topic">talk.politics.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1013326-618010-talk.politics.theory" source="1013326" target="618010">
+	<data key="topic">talk.politics.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1013326-1013357-talk.politics.theory" source="1013326" target="1013357">
+	<data key="topic">talk.politics.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1013326-1889409-talk.politics.theory" source="1013326" target="1889409">
+	<data key="topic">talk.politics.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1013357-618010-talk.politics.theory" source="1013357" target="618010">
+	<data key="topic">talk.politics.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1013357-1889409-talk.politics.theory" source="1013357" target="1889409">
+	<data key="topic">talk.politics.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1889409-618010-talk.politics.theory" source="1889409" target="618010">
+	<data key="topic">talk.politics.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="534662-617310-talk.politics.theory" source="534662" target="617310">
+	<data key="topic">talk.politics.theory</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

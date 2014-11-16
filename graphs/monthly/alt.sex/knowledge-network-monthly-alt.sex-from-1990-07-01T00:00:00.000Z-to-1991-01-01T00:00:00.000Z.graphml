@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2849"/>
+<node id="1527480"/>
+<node id="1746"/>
+<node id="1939581"/>
+<node id="616830"/>
+<node id="6693"/>
+<node id="1750"/>
+<node id="1379774"/>
+<node id="1950184"/>
+<node id="2844"/>
+<node id="890196"/>
+<edge id="2849-616830-alt.sex" source="2849" target="616830">
+	<data key="topic">alt.sex</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2849-2844-alt.sex" source="2849" target="2844">
+	<data key="topic">alt.sex</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1746-1750-alt.sex" source="1746" target="1750">
+	<data key="topic">alt.sex</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="6693-1750-alt.sex" source="6693" target="1750">
+	<data key="topic">alt.sex</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1750-1746-alt.sex" source="1750" target="1746">
+	<data key="topic">alt.sex</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1950184-1379774-alt.sex" source="1950184" target="1379774">
+	<data key="topic">alt.sex</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2844-2849-alt.sex" source="2844" target="2849">
+	<data key="topic">alt.sex</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="890196-1527480-alt.sex" source="890196" target="1527480">
+	<data key="topic">alt.sex</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="890196-1939581-alt.sex" source="890196" target="1939581">
+	<data key="topic">alt.sex</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="922585"/>
+<node id="339571"/>
+<node id="486353"/>
+<node id="483968"/>
+<node id="466784"/>
+<node id="429694"/>
+<node id="486780"/>
+<node id="491911"/>
+<node id="28067"/>
+<node id="488582"/>
+<node id="340200"/>
+<node id="338573"/>
+<node id="485711"/>
+<node id="986279"/>
+<node id="337264"/>
+<node id="633860"/>
+<node id="1326329"/>
+<node id="486091"/>
+<node id="491563"/>
+<node id="600360"/>
+<node id="469225"/>
+<edge id="339571-1326329-net.games.emp" source="339571" target="1326329">
+	<data key="topic">net.games.emp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="486353-337264-net.games.emp" source="486353" target="337264">
+	<data key="topic">net.games.emp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="486353-633860-net.games.emp" source="486353" target="633860">
+	<data key="topic">net.games.emp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="429694-485711-net.games.emp" source="429694" target="485711">
+	<data key="topic">net.games.emp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="429694-1326329-net.games.emp" source="429694" target="1326329">
+	<data key="topic">net.games.emp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28067-483968-net.games.emp" source="28067" target="483968">
+	<data key="topic">net.games.emp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28067-488582-net.games.emp" source="28067" target="488582">
+	<data key="topic">net.games.emp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28067-486091-net.games.emp" source="28067" target="486091">
+	<data key="topic">net.games.emp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338573-922585-net.games.emp" source="338573" target="922585">
+	<data key="topic">net.games.emp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="986279-486780-net.games.emp" source="986279" target="486780">
+	<data key="topic">net.games.emp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="486091-488582-net.games.emp" source="486091" target="488582">
+	<data key="topic">net.games.emp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="491563-466784-net.games.emp" source="491563" target="466784">
+	<data key="topic">net.games.emp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="600360-340200-net.games.emp" source="600360" target="340200">
+	<data key="topic">net.games.emp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="469225-491911-net.games.emp" source="469225" target="491911">
+	<data key="topic">net.games.emp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="469225-485711-net.games.emp" source="469225" target="485711">
+	<data key="topic">net.games.emp</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

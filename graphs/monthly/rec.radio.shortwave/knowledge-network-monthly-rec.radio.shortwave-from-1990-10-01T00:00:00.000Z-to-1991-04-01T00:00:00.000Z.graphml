@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="521064"/>
+<node id="890398"/>
+<node id="1554549"/>
+<node id="367175"/>
+<node id="1279576"/>
+<node id="433796"/>
+<node id="581953"/>
+<node id="583298"/>
+<node id="508702"/>
+<node id="5260"/>
+<node id="358575"/>
+<node id="11039"/>
+<edge id="890398-508702-rec.radio.shortwave" source="890398" target="508702">
+	<data key="topic">rec.radio.shortwave</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="367175-1554549-rec.radio.shortwave" source="367175" target="1554549">
+	<data key="topic">rec.radio.shortwave</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="367175-433796-rec.radio.shortwave" source="367175" target="433796">
+	<data key="topic">rec.radio.shortwave</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="367175-358575-rec.radio.shortwave" source="367175" target="358575">
+	<data key="topic">rec.radio.shortwave</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1279576-1554549-rec.radio.shortwave" source="1279576" target="1554549">
+	<data key="topic">rec.radio.shortwave</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="433796-1554549-rec.radio.shortwave" source="433796" target="1554549">
+	<data key="topic">rec.radio.shortwave</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="433796-367175-rec.radio.shortwave" source="433796" target="367175">
+	<data key="topic">rec.radio.shortwave</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="433796-358575-rec.radio.shortwave" source="433796" target="358575">
+	<data key="topic">rec.radio.shortwave</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="581953-583298-rec.radio.shortwave" source="581953" target="583298">
+	<data key="topic">rec.radio.shortwave</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5260-521064-rec.radio.shortwave" source="5260" target="521064">
+	<data key="topic">rec.radio.shortwave</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="358575-1554549-rec.radio.shortwave" source="358575" target="1554549">
+	<data key="topic">rec.radio.shortwave</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11039-1554549-rec.radio.shortwave" source="11039" target="1554549">
+	<data key="topic">rec.radio.shortwave</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

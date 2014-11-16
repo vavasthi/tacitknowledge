@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="18337"/>
+<node id="482872"/>
+<node id="488727"/>
+<node id="483076"/>
+<node id="482916"/>
+<node id="483794"/>
+<node id="483089"/>
+<node id="2663008"/>
+<node id="459946"/>
+<node id="487721"/>
+<edge id="488727-18337-mod.legal" source="488727" target="18337">
+	<data key="topic">mod.legal</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="483076-482872-mod.legal" source="483076" target="482872">
+	<data key="topic">mod.legal</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="483794-482916-mod.legal" source="483794" target="482916">
+	<data key="topic">mod.legal</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2663008-483089-mod.legal" source="2663008" target="483089">
+	<data key="topic">mod.legal</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459946-18337-mod.legal" source="459946" target="18337">
+	<data key="topic">mod.legal</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="487721-483089-mod.legal" source="487721" target="483089">
+	<data key="topic">mod.legal</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="838446"/>
+<node id="2908656"/>
+<node id="2692747"/>
+<node id="15130"/>
+<node id="617331"/>
+<node id="1006258"/>
+<node id="427290"/>
+<edge id="838446-617331-rec.audio.high-end" source="838446" target="617331">
+	<data key="topic">rec.audio.high-end</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="838446-427290-rec.audio.high-end" source="838446" target="427290">
+	<data key="topic">rec.audio.high-end</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2692747-15130-rec.audio.high-end" source="2692747" target="15130">
+	<data key="topic">rec.audio.high-end</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1006258-2908656-rec.audio.high-end" source="1006258" target="2908656">
+	<data key="topic">rec.audio.high-end</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1006258-15130-rec.audio.high-end" source="1006258" target="15130">
+	<data key="topic">rec.audio.high-end</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

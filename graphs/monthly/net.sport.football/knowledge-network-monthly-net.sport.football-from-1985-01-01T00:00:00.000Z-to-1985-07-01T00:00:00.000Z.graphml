@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="343445"/>
+<node id="337653"/>
+<node id="342741"/>
+<node id="491859"/>
+<node id="1117032"/>
+<node id="342941"/>
+<node id="459709"/>
+<node id="347161"/>
+<node id="338843"/>
+<node id="21537"/>
+<node id="338309"/>
+<node id="342757"/>
+<node id="339176"/>
+<node id="471074"/>
+<node id="339107"/>
+<node id="336995"/>
+<node id="476353"/>
+<node id="340974"/>
+<node id="337392"/>
+<node id="638979"/>
+<node id="344234"/>
+<node id="464971"/>
+<edge id="343445-476353-net.sport.football" source="343445" target="476353">
+	<data key="topic">net.sport.football</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1117032-342757-net.sport.football" source="1117032" target="342757">
+	<data key="topic">net.sport.football</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459709-491859-net.sport.football" source="459709" target="491859">
+	<data key="topic">net.sport.football</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347161-336995-net.sport.football" source="347161" target="336995">
+	<data key="topic">net.sport.football</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338843-342941-net.sport.football" source="338843" target="342941">
+	<data key="topic">net.sport.football</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338843-638979-net.sport.football" source="338843" target="638979">
+	<data key="topic">net.sport.football</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="471074-338309-net.sport.football" source="471074" target="338309">
+	<data key="topic">net.sport.football</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339107-336995-net.sport.football" source="339107" target="336995">
+	<data key="topic">net.sport.football</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339107-344234-net.sport.football" source="339107" target="344234">
+	<data key="topic">net.sport.football</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340974-336995-net.sport.football" source="340974" target="336995">
+	<data key="topic">net.sport.football</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="464971-337653-net.sport.football" source="464971" target="337653">
+	<data key="topic">net.sport.football</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="464971-342741-net.sport.football" source="464971" target="342741">
+	<data key="topic">net.sport.football</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="464971-21537-net.sport.football" source="464971" target="21537">
+	<data key="topic">net.sport.football</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="464971-339176-net.sport.football" source="464971" target="339176">
+	<data key="topic">net.sport.football</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="464971-337392-net.sport.football" source="464971" target="337392">
+	<data key="topic">net.sport.football</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

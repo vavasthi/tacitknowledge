@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="411479"/>
+<node id="400808"/>
+<node id="442056"/>
+<node id="878458"/>
+<node id="349939"/>
+<node id="2121"/>
+<node id="405710"/>
+<edge id="411479-400808-biz.comp.telebit" source="411479" target="400808">
+	<data key="topic">biz.comp.telebit</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="442056-400808-biz.comp.telebit" source="442056" target="400808">
+	<data key="topic">biz.comp.telebit</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="878458-411479-biz.comp.telebit" source="878458" target="411479">
+	<data key="topic">biz.comp.telebit</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="878458-400808-biz.comp.telebit" source="878458" target="400808">
+	<data key="topic">biz.comp.telebit</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="349939-400808-biz.comp.telebit" source="349939" target="400808">
+	<data key="topic">biz.comp.telebit</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="349939-2121-biz.comp.telebit" source="349939" target="2121">
+	<data key="topic">biz.comp.telebit</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2121-400808-biz.comp.telebit" source="2121" target="400808">
+	<data key="topic">biz.comp.telebit</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2121-349939-biz.comp.telebit" source="2121" target="349939">
+	<data key="topic">biz.comp.telebit</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="405710-400808-biz.comp.telebit" source="405710" target="400808">
+	<data key="topic">biz.comp.telebit</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="911549"/>
+<node id="853531"/>
+<node id="1379502"/>
+<node id="14875"/>
+<node id="33085"/>
+<node id="696245"/>
+<node id="508778"/>
+<edge id="911549-33085-rec.ham-radio.swap" source="911549" target="33085">
+	<data key="topic">rec.ham-radio.swap</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14875-853531-rec.ham-radio.swap" source="14875" target="853531">
+	<data key="topic">rec.ham-radio.swap</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="33085-1379502-rec.ham-radio.swap" source="33085" target="1379502">
+	<data key="topic">rec.ham-radio.swap</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696245-508778-rec.ham-radio.swap" source="696245" target="508778">
+	<data key="topic">rec.ham-radio.swap</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

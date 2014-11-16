@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="640509"/>
+<node id="7928"/>
+<node id="640513"/>
+<node id="640516"/>
+<node id="7934"/>
+<node id="224"/>
+<node id="853987"/>
+<edge id="640509-224-bionet.molbio.bio-matrix" source="640509" target="224">
+	<data key="topic">bionet.molbio.bio-matrix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="640516-640513-bionet.molbio.bio-matrix" source="640516" target="640513">
+	<data key="topic">bionet.molbio.bio-matrix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7934-7928-bionet.molbio.bio-matrix" source="7934" target="7928">
+	<data key="topic">bionet.molbio.bio-matrix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="224-640509-bionet.molbio.bio-matrix" source="224" target="640509">
+	<data key="topic">bionet.molbio.bio-matrix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="224-853987-bionet.molbio.bio-matrix" source="224" target="853987">
+	<data key="topic">bionet.molbio.bio-matrix</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

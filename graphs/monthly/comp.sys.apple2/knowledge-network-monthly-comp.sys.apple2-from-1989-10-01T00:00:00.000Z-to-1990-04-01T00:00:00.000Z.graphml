@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2018351"/>
+<node id="8081"/>
+<node id="2900671"/>
+<node id="610587"/>
+<node id="4245"/>
+<node id="612382"/>
+<node id="4758"/>
+<node id="8727"/>
+<node id="4634"/>
+<node id="2901170"/>
+<node id="1395371"/>
+<node id="1789977"/>
+<node id="658858"/>
+<node id="740774"/>
+<node id="380460"/>
+<node id="4912"/>
+<node id="4658"/>
+<node id="179"/>
+<node id="11188"/>
+<node id="612411"/>
+<node id="4661"/>
+<node id="550717"/>
+<node id="1307719"/>
+<node id="1010617"/>
+<node id="436671"/>
+<node id="7099"/>
+<node id="650931"/>
+<node id="1853"/>
+<node id="3261"/>
+<node id="612406"/>
+<node id="537398"/>
+<node id="1619527"/>
+<node id="612426"/>
+<node id="2018365"/>
+<node id="7236"/>
+<node id="1667634"/>
+<node id="352585"/>
+<node id="10066"/>
+<node id="1665257"/>
+<node id="4947"/>
+<node id="1389544"/>
+<node id="6997"/>
+<node id="380242"/>
+<node id="4697"/>
+<node id="550737"/>
+<node id="346"/>
+<node id="612817"/>
+<node id="617300"/>
+<node id="436829"/>
+<node id="867544"/>
+<node id="370527"/>
+<node id="550616"/>
+<node id="608746"/>
+<node id="1665625"/>
+<node id="1619419"/>
+<node id="436966"/>
+<node id="1619420"/>
+<node id="1665630"/>
+<node id="4710"/>
+<node id="7151"/>
+<node id="4721"/>
+<node id="867454"/>
+<node id="612475"/>
+<node id="551933"/>
+<node id="513395"/>
+<node id="612607"/>
+<node id="1879308"/>
+<node id="550898"/>
+<node id="649331"/>
+<node id="1943938"/>
+<node id="360956"/>
+<node id="552695"/>
+<node id="30463"/>
+<node id="423417"/>
+<node id="512520"/>
+<node id="612494"/>
+<node id="907273"/>
+<node id="550672"/>
+<node id="550787"/>
+<node id="550788"/>
+<node id="8718"/>
+<node id="7184"/>
+<node id="701446"/>
+<edge id="8081-4658-comp.sys.apple2" source="8081" target="4658">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="8081-1665625-comp.sys.apple2" source="8081" target="1665625">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="8081-612494-comp.sys.apple2" source="8081" target="612494">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="610587-649331-comp.sys.apple2" source="610587" target="649331">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="612382-4658-comp.sys.apple2" source="612382" target="4658">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="612382-179-comp.sys.apple2" source="612382" target="179">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="612382-11188-comp.sys.apple2" source="612382" target="11188">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="612382-4661-comp.sys.apple2" source="612382" target="4661">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="612382-1853-comp.sys.apple2" source="612382" target="1853">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="612382-7236-comp.sys.apple2" source="612382" target="7236">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="612382-1665257-comp.sys.apple2" source="612382" target="1665257">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="612382-1665625-comp.sys.apple2" source="612382" target="1665625">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="612382-1619419-comp.sys.apple2" source="612382" target="1619419">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="612382-1619420-comp.sys.apple2" source="612382" target="1619420">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="612382-550672-comp.sys.apple2" source="612382" target="550672">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4758-2018351-comp.sys.apple2" source="4758" target="2018351">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4758-1395371-comp.sys.apple2" source="4758" target="1395371">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4758-7099-comp.sys.apple2" source="4758" target="7099">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="8727-1619527-comp.sys.apple2" source="8727" target="1619527">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4634-4245-comp.sys.apple2" source="4634" target="4245">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4634-1789977-comp.sys.apple2" source="4634" target="1789977">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4634-740774-comp.sys.apple2" source="4634" target="740774">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4634-4658-comp.sys.apple2" source="4634" target="4658">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4634-179-comp.sys.apple2" source="4634" target="179">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="4634-11188-comp.sys.apple2" source="4634" target="11188">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="4634-1307719-comp.sys.apple2" source="4634" target="1307719">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4634-1853-comp.sys.apple2" source="4634" target="1853">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="4634-7236-comp.sys.apple2" source="4634" target="7236">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="4634-649331-comp.sys.apple2" source="4634" target="649331">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4634-1943938-comp.sys.apple2" source="4634" target="1943938">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1789977-7236-comp.sys.apple2" source="1789977" target="7236">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="658858-4658-comp.sys.apple2" source="658858" target="4658">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="658858-612426-comp.sys.apple2" source="658858" target="612426">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="658858-6997-comp.sys.apple2" source="658858" target="6997">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="658858-1665625-comp.sys.apple2" source="658858" target="1665625">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="658858-612494-comp.sys.apple2" source="658858" target="612494">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="740774-649331-comp.sys.apple2" source="740774" target="649331">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4658-4245-comp.sys.apple2" source="4658" target="4245">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4658-740774-comp.sys.apple2" source="4658" target="740774">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="4658-179-comp.sys.apple2" source="4658" target="179">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="4658-11188-comp.sys.apple2" source="4658" target="11188">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="4658-1853-comp.sys.apple2" source="4658" target="1853">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="4658-7236-comp.sys.apple2" source="4658" target="7236">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4658-649331-comp.sys.apple2" source="4658" target="649331">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="179-4245-comp.sys.apple2" source="179" target="4245">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="179-740774-comp.sys.apple2" source="179" target="740774">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="179-11188-comp.sys.apple2" source="179" target="11188">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="179-1853-comp.sys.apple2" source="179" target="1853">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="179-7236-comp.sys.apple2" source="179" target="7236">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="179-649331-comp.sys.apple2" source="179" target="649331">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="612411-617300-comp.sys.apple2" source="612411" target="617300">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="550717-612382-comp.sys.apple2" source="550717" target="612382">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="550717-8727-comp.sys.apple2" source="550717" target="8727">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="550717-2901170-comp.sys.apple2" source="550717" target="2901170">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="550717-380460-comp.sys.apple2" source="550717" target="380460">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="550717-4658-comp.sys.apple2" source="550717" target="4658">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="550717-7099-comp.sys.apple2" source="550717" target="7099">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="550717-1853-comp.sys.apple2" source="550717" target="1853">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="550717-4947-comp.sys.apple2" source="550717" target="4947">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="550717-380242-comp.sys.apple2" source="550717" target="380242">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="550717-4697-comp.sys.apple2" source="550717" target="4697">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="550717-608746-comp.sys.apple2" source="550717" target="608746">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="550717-1619419-comp.sys.apple2" source="550717" target="1619419">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="550717-1619420-comp.sys.apple2" source="550717" target="1619420">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="550717-701446-comp.sys.apple2" source="550717" target="701446">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1010617-346-comp.sys.apple2" source="1010617" target="346">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1010617-1665630-comp.sys.apple2" source="1010617" target="1665630">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1010617-513395-comp.sys.apple2" source="1010617" target="513395">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1853-612382-comp.sys.apple2" source="1853" target="612382">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1853-4634-comp.sys.apple2" source="1853" target="4634">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1853-4912-comp.sys.apple2" source="1853" target="4912">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1853-4658-comp.sys.apple2" source="1853" target="4658">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="1853-179-comp.sys.apple2" source="1853" target="179">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1853-4661-comp.sys.apple2" source="1853" target="4661">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1853-550717-comp.sys.apple2" source="1853" target="550717">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1853-7236-comp.sys.apple2" source="1853" target="7236">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1853-4947-comp.sys.apple2" source="1853" target="4947">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1853-612817-comp.sys.apple2" source="1853" target="612817">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1853-1665625-comp.sys.apple2" source="1853" target="1665625">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1853-550898-comp.sys.apple2" source="1853" target="550898">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1853-612494-comp.sys.apple2" source="1853" target="612494">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="3261-179-comp.sys.apple2" source="3261" target="179">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3261-11188-comp.sys.apple2" source="3261" target="11188">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7236-4245-comp.sys.apple2" source="7236" target="4245">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7236-1789977-comp.sys.apple2" source="7236" target="1789977">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7236-1853-comp.sys.apple2" source="7236" target="1853">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="7236-360956-comp.sys.apple2" source="7236" target="360956">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="7236-907273-comp.sys.apple2" source="7236" target="907273">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="352585-436829-comp.sys.apple2" source="352585" target="436829">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10066-1667634-comp.sys.apple2" source="10066" target="1667634">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10066-1665625-comp.sys.apple2" source="10066" target="1665625">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10066-612494-comp.sys.apple2" source="10066" target="612494">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4947-11188-comp.sys.apple2" source="4947" target="11188">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4947-550717-comp.sys.apple2" source="4947" target="550717">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4947-650931-comp.sys.apple2" source="4947" target="650931">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="4947-1853-comp.sys.apple2" source="4947" target="1853">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="4947-1619527-comp.sys.apple2" source="4947" target="1619527">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4947-649331-comp.sys.apple2" source="4947" target="649331">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4947-360956-comp.sys.apple2" source="4947" target="360956">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4947-512520-comp.sys.apple2" source="4947" target="512520">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1389544-1665625-comp.sys.apple2" source="1389544" target="1665625">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1389544-612494-comp.sys.apple2" source="1389544" target="612494">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="6997-370527-comp.sys.apple2" source="6997" target="370527">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="6997-1665625-comp.sys.apple2" source="6997" target="1665625">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="6997-612494-comp.sys.apple2" source="6997" target="612494">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="4697-346-comp.sys.apple2" source="4697" target="346">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4697-1665630-comp.sys.apple2" source="4697" target="1665630">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4697-513395-comp.sys.apple2" source="4697" target="513395">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="550737-436671-comp.sys.apple2" source="550737" target="436671">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="346-1665630-comp.sys.apple2" source="346" target="1665630">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="617300-550616-comp.sys.apple2" source="617300" target="550616">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="867544-650931-comp.sys.apple2" source="867544" target="650931">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="370527-4658-comp.sys.apple2" source="370527" target="4658">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="370527-6997-comp.sys.apple2" source="370527" target="6997">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="370527-1665625-comp.sys.apple2" source="370527" target="1665625">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="370527-612607-comp.sys.apple2" source="370527" target="612607">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="370527-612494-comp.sys.apple2" source="370527" target="612494">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="436966-612607-comp.sys.apple2" source="436966" target="612607">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4710-2900671-comp.sys.apple2" source="4710" target="2900671">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4710-4634-comp.sys.apple2" source="4710" target="4634">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7151-1665625-comp.sys.apple2" source="7151" target="1665625">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7151-612494-comp.sys.apple2" source="7151" target="612494">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4721-4658-comp.sys.apple2" source="4721" target="4658">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4721-179-comp.sys.apple2" source="4721" target="179">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4721-11188-comp.sys.apple2" source="4721" target="11188">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="867454-2900671-comp.sys.apple2" source="867454" target="2900671">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="867454-4634-comp.sys.apple2" source="867454" target="4634">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="551933-612406-comp.sys.apple2" source="551933" target="612406">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="513395-346-comp.sys.apple2" source="513395" target="346">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="513395-1665630-comp.sys.apple2" source="513395" target="1665630">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="612607-4658-comp.sys.apple2" source="612607" target="4658">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1879308-1853-comp.sys.apple2" source="1879308" target="1853">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="360956-11188-comp.sys.apple2" source="360956" target="11188">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="360956-7236-comp.sys.apple2" source="360956" target="7236">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30463-4634-comp.sys.apple2" source="30463" target="4634">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30463-537398-comp.sys.apple2" source="30463" target="537398">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30463-2018365-comp.sys.apple2" source="30463" target="2018365">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30463-617300-comp.sys.apple2" source="30463" target="617300">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30463-550616-comp.sys.apple2" source="30463" target="550616">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30463-550787-comp.sys.apple2" source="30463" target="550787">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="423417-11188-comp.sys.apple2" source="423417" target="11188">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="423417-1619527-comp.sys.apple2" source="423417" target="1619527">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="423417-4721-comp.sys.apple2" source="423417" target="4721">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="423417-649331-comp.sys.apple2" source="423417" target="649331">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="423417-360956-comp.sys.apple2" source="423417" target="360956">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="423417-512520-comp.sys.apple2" source="423417" target="512520">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="512520-11188-comp.sys.apple2" source="512520" target="11188">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="512520-1619527-comp.sys.apple2" source="512520" target="1619527">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="512520-360956-comp.sys.apple2" source="512520" target="360956">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="550672-1853-comp.sys.apple2" source="550672" target="1853">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="550672-617300-comp.sys.apple2" source="550672" target="617300">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="550672-550616-comp.sys.apple2" source="550672" target="550616">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="550672-1943938-comp.sys.apple2" source="550672" target="1943938">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="550788-436829-comp.sys.apple2" source="550788" target="436829">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="8718-612475-comp.sys.apple2" source="8718" target="612475">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="8718-552695-comp.sys.apple2" source="8718" target="552695">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7184-1665625-comp.sys.apple2" source="7184" target="1665625">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7184-612494-comp.sys.apple2" source="7184" target="612494">
+	<data key="topic">comp.sys.apple2</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

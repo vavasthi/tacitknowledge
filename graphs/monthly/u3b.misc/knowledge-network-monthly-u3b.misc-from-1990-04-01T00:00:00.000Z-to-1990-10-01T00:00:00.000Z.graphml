@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="365829"/>
+<node id="16354"/>
+<node id="715916"/>
+<node id="938990"/>
+<node id="3447"/>
+<node id="416847"/>
+<node id="4379"/>
+<node id="11323"/>
+<node id="36814"/>
+<node id="381644"/>
+<node id="380059"/>
+<node id="404074"/>
+<edge id="16354-3447-u3b.misc" source="16354" target="3447">
+	<data key="topic">u3b.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16354-4379-u3b.misc" source="16354" target="4379">
+	<data key="topic">u3b.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3447-4379-u3b.misc" source="3447" target="4379">
+	<data key="topic">u3b.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="416847-715916-u3b.misc" source="416847" target="715916">
+	<data key="topic">u3b.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="416847-380059-u3b.misc" source="416847" target="380059">
+	<data key="topic">u3b.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11323-365829-u3b.misc" source="11323" target="365829">
+	<data key="topic">u3b.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11323-938990-u3b.misc" source="11323" target="938990">
+	<data key="topic">u3b.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36814-715916-u3b.misc" source="36814" target="715916">
+	<data key="topic">u3b.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36814-380059-u3b.misc" source="36814" target="380059">
+	<data key="topic">u3b.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="381644-3447-u3b.misc" source="381644" target="3447">
+	<data key="topic">u3b.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="381644-4379-u3b.misc" source="381644" target="4379">
+	<data key="topic">u3b.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="380059-715916-u3b.misc" source="380059" target="715916">
+	<data key="topic">u3b.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="404074-938990-u3b.misc" source="404074" target="938990">
+	<data key="topic">u3b.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="404074-11323-u3b.misc" source="404074" target="11323">
+	<data key="topic">u3b.misc</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

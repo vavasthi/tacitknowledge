@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="344149"/>
+<node id="635068"/>
+<node id="399346"/>
+<node id="341950"/>
+<node id="483682"/>
+<node id="341923"/>
+<node id="16106"/>
+<node id="337866"/>
+<node id="337577"/>
+<node id="341708"/>
+<node id="342284"/>
+<node id="337323"/>
+<node id="390315"/>
+<edge id="344149-483682-pe.cust.bugs" source="344149" target="483682">
+	<data key="topic">pe.cust.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="344149-16106-pe.cust.bugs" source="344149" target="16106">
+	<data key="topic">pe.cust.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16106-483682-pe.cust.bugs" source="16106" target="483682">
+	<data key="topic">pe.cust.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337577-635068-pe.cust.bugs" source="337577" target="635068">
+	<data key="topic">pe.cust.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337577-399346-pe.cust.bugs" source="337577" target="399346">
+	<data key="topic">pe.cust.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337577-341950-pe.cust.bugs" source="337577" target="341950">
+	<data key="topic">pe.cust.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337577-341923-pe.cust.bugs" source="337577" target="341923">
+	<data key="topic">pe.cust.bugs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="337577-16106-pe.cust.bugs" source="337577" target="16106">
+	<data key="topic">pe.cust.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337577-337866-pe.cust.bugs" source="337577" target="337866">
+	<data key="topic">pe.cust.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337577-341708-pe.cust.bugs" source="337577" target="341708">
+	<data key="topic">pe.cust.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337577-342284-pe.cust.bugs" source="337577" target="342284">
+	<data key="topic">pe.cust.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337577-390315-pe.cust.bugs" source="337577" target="390315">
+	<data key="topic">pe.cust.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="342284-16106-pe.cust.bugs" source="342284" target="16106">
+	<data key="topic">pe.cust.bugs</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

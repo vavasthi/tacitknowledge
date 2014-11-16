@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="400344"/>
+<node id="274"/>
+<node id="2040236"/>
+<node id="400339"/>
+<node id="400274"/>
+<node id="400287"/>
+<node id="218"/>
+<node id="347869"/>
+<node id="400352"/>
+<node id="362205"/>
+<node id="400283"/>
+<node id="224"/>
+<node id="347867"/>
+<node id="400291"/>
+<node id="1684319"/>
+<node id="400354"/>
+<node id="362218"/>
+<node id="362156"/>
+<node id="400312"/>
+<node id="362161"/>
+<node id="400305"/>
+<node id="350465"/>
+<node id="1441841"/>
+<node id="400336"/>
+<node id="400331"/>
+<node id="363851"/>
+<edge id="400344-400274-bionet.molbio.bio-matrix" source="400344" target="400274">
+	<data key="topic">bionet.molbio.bio-matrix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="274-400287-bionet.molbio.bio-matrix" source="274" target="400287">
+	<data key="topic">bionet.molbio.bio-matrix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="274-347869-bionet.molbio.bio-matrix" source="274" target="347869">
+	<data key="topic">bionet.molbio.bio-matrix</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="274-400283-bionet.molbio.bio-matrix" source="274" target="400283">
+	<data key="topic">bionet.molbio.bio-matrix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="274-362156-bionet.molbio.bio-matrix" source="274" target="362156">
+	<data key="topic">bionet.molbio.bio-matrix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="400287-274-bionet.molbio.bio-matrix" source="400287" target="274">
+	<data key="topic">bionet.molbio.bio-matrix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="400287-400274-bionet.molbio.bio-matrix" source="400287" target="400274">
+	<data key="topic">bionet.molbio.bio-matrix</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="400287-218-bionet.molbio.bio-matrix" source="400287" target="218">
+	<data key="topic">bionet.molbio.bio-matrix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="400287-347869-bionet.molbio.bio-matrix" source="400287" target="347869">
+	<data key="topic">bionet.molbio.bio-matrix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="400287-224-bionet.molbio.bio-matrix" source="400287" target="224">
+	<data key="topic">bionet.molbio.bio-matrix</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="400287-347867-bionet.molbio.bio-matrix" source="400287" target="347867">
+	<data key="topic">bionet.molbio.bio-matrix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="400287-362156-bionet.molbio.bio-matrix" source="400287" target="362156">
+	<data key="topic">bionet.molbio.bio-matrix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="400287-1441841-bionet.molbio.bio-matrix" source="400287" target="1441841">
+	<data key="topic">bionet.molbio.bio-matrix</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="218-400344-bionet.molbio.bio-matrix" source="218" target="400344">
+	<data key="topic">bionet.molbio.bio-matrix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="218-274-bionet.molbio.bio-matrix" source="218" target="274">
+	<data key="topic">bionet.molbio.bio-matrix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="218-400274-bionet.molbio.bio-matrix" source="218" target="400274">
+	<data key="topic">bionet.molbio.bio-matrix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="218-400287-bionet.molbio.bio-matrix" source="218" target="400287">
+	<data key="topic">bionet.molbio.bio-matrix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="218-347869-bionet.molbio.bio-matrix" source="218" target="347869">
+	<data key="topic">bionet.molbio.bio-matrix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="218-224-bionet.molbio.bio-matrix" source="218" target="224">
+	<data key="topic">bionet.molbio.bio-matrix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="218-1441841-bionet.molbio.bio-matrix" source="218" target="1441841">
+	<data key="topic">bionet.molbio.bio-matrix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347869-274-bionet.molbio.bio-matrix" source="347869" target="274">
+	<data key="topic">bionet.molbio.bio-matrix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347869-362156-bionet.molbio.bio-matrix" source="347869" target="362156">
+	<data key="topic">bionet.molbio.bio-matrix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="224-274-bionet.molbio.bio-matrix" source="224" target="274">
+	<data key="topic">bionet.molbio.bio-matrix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="224-2040236-bionet.molbio.bio-matrix" source="224" target="2040236">
+	<data key="topic">bionet.molbio.bio-matrix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="224-400274-bionet.molbio.bio-matrix" source="224" target="400274">
+	<data key="topic">bionet.molbio.bio-matrix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="224-400287-bionet.molbio.bio-matrix" source="224" target="400287">
+	<data key="topic">bionet.molbio.bio-matrix</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="224-218-bionet.molbio.bio-matrix" source="224" target="218">
+	<data key="topic">bionet.molbio.bio-matrix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="224-347869-bionet.molbio.bio-matrix" source="224" target="347869">
+	<data key="topic">bionet.molbio.bio-matrix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="224-400352-bionet.molbio.bio-matrix" source="224" target="400352">
+	<data key="topic">bionet.molbio.bio-matrix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="224-362205-bionet.molbio.bio-matrix" source="224" target="362205">
+	<data key="topic">bionet.molbio.bio-matrix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="224-400305-bionet.molbio.bio-matrix" source="224" target="400305">
+	<data key="topic">bionet.molbio.bio-matrix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="224-1441841-bionet.molbio.bio-matrix" source="224" target="1441841">
+	<data key="topic">bionet.molbio.bio-matrix</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="224-400336-bionet.molbio.bio-matrix" source="224" target="400336">
+	<data key="topic">bionet.molbio.bio-matrix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347867-400274-bionet.molbio.bio-matrix" source="347867" target="400274">
+	<data key="topic">bionet.molbio.bio-matrix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347867-400287-bionet.molbio.bio-matrix" source="347867" target="400287">
+	<data key="topic">bionet.molbio.bio-matrix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="400354-400274-bionet.molbio.bio-matrix" source="400354" target="400274">
+	<data key="topic">bionet.molbio.bio-matrix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="400354-400291-bionet.molbio.bio-matrix" source="400354" target="400291">
+	<data key="topic">bionet.molbio.bio-matrix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362218-1684319-bionet.molbio.bio-matrix" source="362218" target="1684319">
+	<data key="topic">bionet.molbio.bio-matrix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="400312-400274-bionet.molbio.bio-matrix" source="400312" target="400274">
+	<data key="topic">bionet.molbio.bio-matrix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="400312-400287-bionet.molbio.bio-matrix" source="400312" target="400287">
+	<data key="topic">bionet.molbio.bio-matrix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="400312-224-bionet.molbio.bio-matrix" source="400312" target="224">
+	<data key="topic">bionet.molbio.bio-matrix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362161-400339-bionet.molbio.bio-matrix" source="362161" target="400339">
+	<data key="topic">bionet.molbio.bio-matrix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350465-400331-bionet.molbio.bio-matrix" source="350465" target="400331">
+	<data key="topic">bionet.molbio.bio-matrix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="363851-400287-bionet.molbio.bio-matrix" source="363851" target="400287">
+	<data key="topic">bionet.molbio.bio-matrix</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

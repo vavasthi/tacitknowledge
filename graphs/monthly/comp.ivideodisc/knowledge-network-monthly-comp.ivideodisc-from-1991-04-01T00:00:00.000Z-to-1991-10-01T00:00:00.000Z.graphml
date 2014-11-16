@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2015167"/>
+<node id="353377"/>
+<node id="368241"/>
+<node id="400420"/>
+<node id="2063690"/>
+<node id="2440"/>
+<node id="1632178"/>
+<node id="356409"/>
+<node id="1028818"/>
+<node id="942417"/>
+<node id="575560"/>
+<edge id="368241-942417-comp.ivideodisc" source="368241" target="942417">
+	<data key="topic">comp.ivideodisc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="400420-2063690-comp.ivideodisc" source="400420" target="2063690">
+	<data key="topic">comp.ivideodisc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2440-575560-comp.ivideodisc" source="2440" target="575560">
+	<data key="topic">comp.ivideodisc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1632178-2015167-comp.ivideodisc" source="1632178" target="2015167">
+	<data key="topic">comp.ivideodisc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="356409-353377-comp.ivideodisc" source="356409" target="353377">
+	<data key="topic">comp.ivideodisc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="356409-1028818-comp.ivideodisc" source="356409" target="1028818">
+	<data key="topic">comp.ivideodisc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1028818-353377-comp.ivideodisc" source="1028818" target="353377">
+	<data key="topic">comp.ivideodisc</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

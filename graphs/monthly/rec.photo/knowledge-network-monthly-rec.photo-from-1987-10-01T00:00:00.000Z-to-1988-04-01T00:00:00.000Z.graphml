@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="394680"/>
+<node id="977520"/>
+<node id="584411"/>
+<node id="460595"/>
+<node id="355172"/>
+<node id="1324291"/>
+<node id="977481"/>
+<node id="14922"/>
+<node id="32650"/>
+<node id="1324443"/>
+<node id="21328"/>
+<edge id="977520-394680-rec.photo" source="977520" target="394680">
+	<data key="topic">rec.photo</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="977520-460595-rec.photo" source="977520" target="460595">
+	<data key="topic">rec.photo</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="977520-977481-rec.photo" source="977520" target="977481">
+	<data key="topic">rec.photo</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="584411-394680-rec.photo" source="584411" target="394680">
+	<data key="topic">rec.photo</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="584411-977481-rec.photo" source="584411" target="977481">
+	<data key="topic">rec.photo</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="584411-32650-rec.photo" source="584411" target="32650">
+	<data key="topic">rec.photo</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="584411-1324443-rec.photo" source="584411" target="1324443">
+	<data key="topic">rec.photo</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="584411-21328-rec.photo" source="584411" target="21328">
+	<data key="topic">rec.photo</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460595-394680-rec.photo" source="460595" target="394680">
+	<data key="topic">rec.photo</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="355172-394680-rec.photo" source="355172" target="394680">
+	<data key="topic">rec.photo</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="355172-584411-rec.photo" source="355172" target="584411">
+	<data key="topic">rec.photo</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="355172-1324291-rec.photo" source="355172" target="1324291">
+	<data key="topic">rec.photo</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="355172-32650-rec.photo" source="355172" target="32650">
+	<data key="topic">rec.photo</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1324291-394680-rec.photo" source="1324291" target="394680">
+	<data key="topic">rec.photo</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1324291-584411-rec.photo" source="1324291" target="584411">
+	<data key="topic">rec.photo</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1324291-32650-rec.photo" source="1324291" target="32650">
+	<data key="topic">rec.photo</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="977481-394680-rec.photo" source="977481" target="394680">
+	<data key="topic">rec.photo</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="977481-584411-rec.photo" source="977481" target="584411">
+	<data key="topic">rec.photo</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="977481-460595-rec.photo" source="977481" target="460595">
+	<data key="topic">rec.photo</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="977481-32650-rec.photo" source="977481" target="32650">
+	<data key="topic">rec.photo</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14922-394680-rec.photo" source="14922" target="394680">
+	<data key="topic">rec.photo</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="32650-394680-rec.photo" source="32650" target="394680">
+	<data key="topic">rec.photo</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1324443-394680-rec.photo" source="1324443" target="394680">
+	<data key="topic">rec.photo</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1324443-32650-rec.photo" source="1324443" target="32650">
+	<data key="topic">rec.photo</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="21328-394680-rec.photo" source="21328" target="394680">
+	<data key="topic">rec.photo</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="21328-32650-rec.photo" source="21328" target="32650">
+	<data key="topic">rec.photo</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="21328-1324443-rec.photo" source="21328" target="1324443">
+	<data key="topic">rec.photo</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

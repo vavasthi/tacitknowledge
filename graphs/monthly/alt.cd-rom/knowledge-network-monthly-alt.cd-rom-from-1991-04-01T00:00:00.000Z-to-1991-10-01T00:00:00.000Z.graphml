@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="351286"/>
+<node id="6612"/>
+<node id="368327"/>
+<node id="14741"/>
+<node id="7254"/>
+<node id="952967"/>
+<node id="423056"/>
+<node id="1294731"/>
+<node id="888232"/>
+<node id="347866"/>
+<edge id="351286-1294731-alt.cd-rom" source="351286" target="1294731">
+	<data key="topic">alt.cd-rom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="6612-7254-alt.cd-rom" source="6612" target="7254">
+	<data key="topic">alt.cd-rom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="6612-952967-alt.cd-rom" source="6612" target="952967">
+	<data key="topic">alt.cd-rom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="6612-888232-alt.cd-rom" source="6612" target="888232">
+	<data key="topic">alt.cd-rom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="368327-6612-alt.cd-rom" source="368327" target="6612">
+	<data key="topic">alt.cd-rom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="368327-7254-alt.cd-rom" source="368327" target="7254">
+	<data key="topic">alt.cd-rom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14741-7254-alt.cd-rom" source="14741" target="7254">
+	<data key="topic">alt.cd-rom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347866-423056-alt.cd-rom" source="347866" target="423056">
+	<data key="topic">alt.cd-rom</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

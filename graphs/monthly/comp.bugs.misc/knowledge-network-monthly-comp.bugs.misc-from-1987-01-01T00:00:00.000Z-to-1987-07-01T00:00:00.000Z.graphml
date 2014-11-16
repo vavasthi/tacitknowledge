@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="469876"/>
+<node id="397234"/>
+<node id="502577"/>
+<node id="730804"/>
+<node id="15518"/>
+<node id="390428"/>
+<node id="467033"/>
+<node id="391419"/>
+<node id="390689"/>
+<node id="1495732"/>
+<node id="1495697"/>
+<node id="16872"/>
+<node id="475969"/>
+<node id="932810"/>
+<node id="16106"/>
+<node id="390384"/>
+<node id="394062"/>
+<node id="456012"/>
+<node id="16239"/>
+<node id="16623"/>
+<node id="16272"/>
+<edge id="397234-390384-comp.bugs.misc" source="397234" target="390384">
+	<data key="topic">comp.bugs.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="397234-16623-comp.bugs.misc" source="397234" target="16623">
+	<data key="topic">comp.bugs.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="502577-932810-comp.bugs.misc" source="502577" target="932810">
+	<data key="topic">comp.bugs.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="502577-390384-comp.bugs.misc" source="502577" target="390384">
+	<data key="topic">comp.bugs.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="502577-16623-comp.bugs.misc" source="502577" target="16623">
+	<data key="topic">comp.bugs.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390428-467033-comp.bugs.misc" source="390428" target="467033">
+	<data key="topic">comp.bugs.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390428-390689-comp.bugs.misc" source="390428" target="390689">
+	<data key="topic">comp.bugs.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390428-16106-comp.bugs.misc" source="390428" target="16106">
+	<data key="topic">comp.bugs.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="467033-16106-comp.bugs.misc" source="467033" target="16106">
+	<data key="topic">comp.bugs.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390689-390428-comp.bugs.misc" source="390689" target="390428">
+	<data key="topic">comp.bugs.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390689-467033-comp.bugs.misc" source="390689" target="467033">
+	<data key="topic">comp.bugs.misc</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="390689-16106-comp.bugs.misc" source="390689" target="16106">
+	<data key="topic">comp.bugs.misc</data>
+	<data key="weight">8</data>
+</edge>
+<edge id="1495732-1495697-comp.bugs.misc" source="1495732" target="1495697">
+	<data key="topic">comp.bugs.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16872-16106-comp.bugs.misc" source="16872" target="16106">
+	<data key="topic">comp.bugs.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="475969-467033-comp.bugs.misc" source="475969" target="467033">
+	<data key="topic">comp.bugs.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="475969-16106-comp.bugs.misc" source="475969" target="16106">
+	<data key="topic">comp.bugs.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="932810-390384-comp.bugs.misc" source="932810" target="390384">
+	<data key="topic">comp.bugs.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="932810-16623-comp.bugs.misc" source="932810" target="16623">
+	<data key="topic">comp.bugs.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16106-467033-comp.bugs.misc" source="16106" target="467033">
+	<data key="topic">comp.bugs.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="16106-390689-comp.bugs.misc" source="16106" target="390689">
+	<data key="topic">comp.bugs.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="394062-391419-comp.bugs.misc" source="394062" target="391419">
+	<data key="topic">comp.bugs.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="456012-730804-comp.bugs.misc" source="456012" target="730804">
+	<data key="topic">comp.bugs.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16239-15518-comp.bugs.misc" source="16239" target="15518">
+	<data key="topic">comp.bugs.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16623-390384-comp.bugs.misc" source="16623" target="390384">
+	<data key="topic">comp.bugs.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16272-469876-comp.bugs.misc" source="16272" target="469876">
+	<data key="topic">comp.bugs.misc</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

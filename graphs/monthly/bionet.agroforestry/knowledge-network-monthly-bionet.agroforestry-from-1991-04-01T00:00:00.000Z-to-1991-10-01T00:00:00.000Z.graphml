@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1601689"/>
+<node id="14770"/>
+<node id="2052061"/>
+<node id="2062445"/>
+<node id="583197"/>
+<node id="8279"/>
+<node id="1028776"/>
+<node id="1526287"/>
+<node id="1819666"/>
+<node id="948516"/>
+<node id="1099454"/>
+<edge id="1601689-2062445-bionet.agroforestry" source="1601689" target="2062445">
+	<data key="topic">bionet.agroforestry</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14770-1526287-bionet.agroforestry" source="14770" target="1526287">
+	<data key="topic">bionet.agroforestry</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="583197-948516-bionet.agroforestry" source="583197" target="948516">
+	<data key="topic">bionet.agroforestry</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1028776-8279-bionet.agroforestry" source="1028776" target="8279">
+	<data key="topic">bionet.agroforestry</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1526287-14770-bionet.agroforestry" source="1526287" target="14770">
+	<data key="topic">bionet.agroforestry</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1526287-2052061-bionet.agroforestry" source="1526287" target="2052061">
+	<data key="topic">bionet.agroforestry</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1526287-583197-bionet.agroforestry" source="1526287" target="583197">
+	<data key="topic">bionet.agroforestry</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1526287-1819666-bionet.agroforestry" source="1526287" target="1819666">
+	<data key="topic">bionet.agroforestry</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1526287-1099454-bionet.agroforestry" source="1526287" target="1099454">
+	<data key="topic">bionet.agroforestry</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1819666-14770-bionet.agroforestry" source="1819666" target="14770">
+	<data key="topic">bionet.agroforestry</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1819666-583197-bionet.agroforestry" source="1819666" target="583197">
+	<data key="topic">bionet.agroforestry</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1819666-1526287-bionet.agroforestry" source="1819666" target="1526287">
+	<data key="topic">bionet.agroforestry</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1819666-1099454-bionet.agroforestry" source="1819666" target="1099454">
+	<data key="topic">bionet.agroforestry</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1099454-1819666-bionet.agroforestry" source="1099454" target="1819666">
+	<data key="topic">bionet.agroforestry</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

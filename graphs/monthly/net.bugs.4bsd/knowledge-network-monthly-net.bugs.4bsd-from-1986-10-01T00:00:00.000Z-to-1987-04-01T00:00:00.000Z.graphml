@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="337265"/>
+<node id="923772"/>
+<node id="465373"/>
+<node id="337978"/>
+<node id="342780"/>
+<node id="923759"/>
+<node id="341766"/>
+<node id="921995"/>
+<node id="18247"/>
+<node id="339107"/>
+<node id="723332"/>
+<node id="454345"/>
+<node id="390315"/>
+<edge id="337265-18247-net.bugs.4bsd" source="337265" target="18247">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="923772-454345-net.bugs.4bsd" source="923772" target="454345">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337978-923759-net.bugs.4bsd" source="337978" target="923759">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341766-921995-net.bugs.4bsd" source="341766" target="921995">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339107-342780-net.bugs.4bsd" source="339107" target="342780">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="723332-465373-net.bugs.4bsd" source="723332" target="465373">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

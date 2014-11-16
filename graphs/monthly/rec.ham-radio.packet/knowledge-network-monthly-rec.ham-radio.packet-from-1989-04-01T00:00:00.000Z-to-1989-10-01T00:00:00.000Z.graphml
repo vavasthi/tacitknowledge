@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1891"/>
+<node id="802527"/>
+<node id="6612"/>
+<node id="553486"/>
+<node id="431844"/>
+<node id="379924"/>
+<node id="16232"/>
+<node id="2265"/>
+<node id="517371"/>
+<node id="496"/>
+<edge id="1891-16232-rec.ham-radio.packet" source="1891" target="16232">
+	<data key="topic">rec.ham-radio.packet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="802527-2265-rec.ham-radio.packet" source="802527" target="2265">
+	<data key="topic">rec.ham-radio.packet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="6612-553486-rec.ham-radio.packet" source="6612" target="553486">
+	<data key="topic">rec.ham-radio.packet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="431844-517371-rec.ham-radio.packet" source="431844" target="517371">
+	<data key="topic">rec.ham-radio.packet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="517371-16232-rec.ham-radio.packet" source="517371" target="16232">
+	<data key="topic">rec.ham-radio.packet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="496-379924-rec.ham-radio.packet" source="496" target="379924">
+	<data key="topic">rec.ham-radio.packet</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

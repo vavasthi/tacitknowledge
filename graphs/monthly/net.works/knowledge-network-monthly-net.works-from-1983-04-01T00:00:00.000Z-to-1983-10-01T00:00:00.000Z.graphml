@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="460213"/>
+<node id="1424066"/>
+<node id="460191"/>
+<node id="459518"/>
+<node id="1424330"/>
+<node id="1424204"/>
+<node id="460153"/>
+<node id="460520"/>
+<node id="1405432"/>
+<node id="459330"/>
+<node id="1424957"/>
+<node id="460590"/>
+<node id="459181"/>
+<node id="1424954"/>
+<node id="1424953"/>
+<node id="561640"/>
+<edge id="460213-460590-net.works" source="460213" target="460590">
+	<data key="topic">net.works</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460191-1424066-net.works" source="460191" target="1424066">
+	<data key="topic">net.works</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460191-1424204-net.works" source="460191" target="1424204">
+	<data key="topic">net.works</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459518-460520-net.works" source="459518" target="460520">
+	<data key="topic">net.works</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1405432-1424330-net.works" source="1405432" target="1424330">
+	<data key="topic">net.works</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459330-1424953-net.works" source="459330" target="1424953">
+	<data key="topic">net.works</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459181-460213-net.works" source="459181" target="460213">
+	<data key="topic">net.works</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1424954-459330-net.works" source="1424954" target="459330">
+	<data key="topic">net.works</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1424954-1424957-net.works" source="1424954" target="1424957">
+	<data key="topic">net.works</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1424954-1424953-net.works" source="1424954" target="1424953">
+	<data key="topic">net.works</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="561640-460153-net.works" source="561640" target="460153">
+	<data key="topic">net.works</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

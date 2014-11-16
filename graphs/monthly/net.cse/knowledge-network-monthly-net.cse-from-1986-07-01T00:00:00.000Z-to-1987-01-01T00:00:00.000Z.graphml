@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1125537"/>
+<node id="16019"/>
+<node id="1125667"/>
+<node id="447762"/>
+<node id="390687"/>
+<node id="928660"/>
+<node id="919316"/>
+<node id="1125424"/>
+<node id="341282"/>
+<node id="347299"/>
+<node id="394927"/>
+<node id="1125532"/>
+<node id="392495"/>
+<node id="920099"/>
+<node id="459946"/>
+<node id="390315"/>
+<node id="461111"/>
+<node id="497846"/>
+<node id="394038"/>
+<node id="481461"/>
+<node id="339901"/>
+<node id="926518"/>
+<node id="396360"/>
+<node id="1096245"/>
+<node id="1125557"/>
+<node id="920135"/>
+<node id="493900"/>
+<node id="924995"/>
+<node id="338134"/>
+<node id="466008"/>
+<node id="338904"/>
+<node id="523217"/>
+<node id="924762"/>
+<node id="483679"/>
+<node id="15582"/>
+<node id="1576679"/>
+<node id="920173"/>
+<node id="392033"/>
+<node id="399855"/>
+<node id="919016"/>
+<node id="1125593"/>
+<node id="1125596"/>
+<node id="919782"/>
+<node id="390506"/>
+<node id="524140"/>
+<node id="484329"/>
+<node id="920162"/>
+<node id="498552"/>
+<node id="927869"/>
+<node id="1507459"/>
+<node id="341246"/>
+<node id="484860"/>
+<node id="390408"/>
+<node id="390403"/>
+<node id="724484"/>
+<node id="391565"/>
+<edge id="1125537-1125532-net.cse" source="1125537" target="1125532">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="447762-928660-net.cse" source="447762" target="928660">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="447762-338904-net.cse" source="447762" target="338904">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="928660-16019-net.cse" source="928660" target="16019">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="928660-447762-net.cse" source="928660" target="447762">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="928660-1125532-net.cse" source="928660" target="1125532">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="928660-920099-net.cse" source="928660" target="920099">
+	<data key="topic">net.cse</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="928660-493900-net.cse" source="928660" target="493900">
+	<data key="topic">net.cse</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="928660-338904-net.cse" source="928660" target="338904">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="928660-15582-net.cse" source="928660" target="15582">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="928660-498552-net.cse" source="928660" target="498552">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="928660-927869-net.cse" source="928660" target="927869">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="928660-390403-net.cse" source="928660" target="390403">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919316-390403-net.cse" source="919316" target="390403">
+	<data key="topic">net.cse</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="341282-16019-net.cse" source="341282" target="16019">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="394927-396360-net.cse" source="394927" target="396360">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="394927-392033-net.cse" source="394927" target="392033">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1125532-1125424-net.cse" source="1125532" target="1125424">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="920099-928660-net.cse" source="920099" target="928660">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="920099-1125532-net.cse" source="920099" target="1125532">
+	<data key="topic">net.cse</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="920099-493900-net.cse" source="920099" target="493900">
+	<data key="topic">net.cse</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="920099-498552-net.cse" source="920099" target="498552">
+	<data key="topic">net.cse</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="920099-927869-net.cse" source="920099" target="927869">
+	<data key="topic">net.cse</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="920099-390403-net.cse" source="920099" target="390403">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390315-1125667-net.cse" source="390315" target="1125667">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390315-392495-net.cse" source="390315" target="392495">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390315-396360-net.cse" source="390315" target="396360">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390315-392033-net.cse" source="390315" target="392033">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="461111-390687-net.cse" source="461111" target="390687">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="461111-1125596-net.cse" source="461111" target="1125596">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="497846-1125532-net.cse" source="497846" target="1125532">
+	<data key="topic">net.cse</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="394038-493900-net.cse" source="394038" target="493900">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="394038-498552-net.cse" source="394038" target="498552">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="396360-392033-net.cse" source="396360" target="392033">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="396360-390403-net.cse" source="396360" target="390403">
+	<data key="topic">net.cse</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="1096245-493900-net.cse" source="1096245" target="493900">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1096245-498552-net.cse" source="1096245" target="498552">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1096245-927869-net.cse" source="1096245" target="927869">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1125557-1125593-net.cse" source="1125557" target="1125593">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="920135-339901-net.cse" source="920135" target="339901">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="493900-1125532-net.cse" source="493900" target="1125532">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="493900-481461-net.cse" source="493900" target="481461">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="493900-390408-net.cse" source="493900" target="390408">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="924995-1125532-net.cse" source="924995" target="1125532">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="924995-390403-net.cse" source="924995" target="390403">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338134-347299-net.cse" source="338134" target="347299">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338134-390403-net.cse" source="338134" target="390403">
+	<data key="topic">net.cse</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="466008-1125667-net.cse" source="466008" target="1125667">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="466008-391565-net.cse" source="466008" target="391565">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338904-928660-net.cse" source="338904" target="928660">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="523217-493900-net.cse" source="523217" target="493900">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="924762-390403-net.cse" source="924762" target="390403">
+	<data key="topic">net.cse</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="483679-919316-net.cse" source="483679" target="919316">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1576679-16019-net.cse" source="1576679" target="16019">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="920173-396360-net.cse" source="920173" target="396360">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="920173-392033-net.cse" source="920173" target="392033">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="920173-390403-net.cse" source="920173" target="390403">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392033-396360-net.cse" source="392033" target="396360">
+	<data key="topic">net.cse</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="392033-390403-net.cse" source="392033" target="390403">
+	<data key="topic">net.cse</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="399855-928660-net.cse" source="399855" target="928660">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="399855-493900-net.cse" source="399855" target="493900">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919016-928660-net.cse" source="919016" target="928660">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919016-15582-net.cse" source="919016" target="15582">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919782-919316-net.cse" source="919782" target="919316">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919782-483679-net.cse" source="919782" target="483679">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390506-928660-net.cse" source="390506" target="928660">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390506-493900-net.cse" source="390506" target="493900">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="524140-919316-net.cse" source="524140" target="919316">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="524140-392495-net.cse" source="524140" target="392495">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="524140-484329-net.cse" source="524140" target="484329">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="484329-919316-net.cse" source="484329" target="919316">
+	<data key="topic">net.cse</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="484329-524140-net.cse" source="484329" target="524140">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="920162-919316-net.cse" source="920162" target="919316">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="498552-394927-net.cse" source="498552" target="394927">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="498552-396360-net.cse" source="498552" target="396360">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="498552-392033-net.cse" source="498552" target="392033">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="927869-493900-net.cse" source="927869" target="493900">
+	<data key="topic">net.cse</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="927869-523217-net.cse" source="927869" target="523217">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="927869-498552-net.cse" source="927869" target="498552">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1507459-459946-net.cse" source="1507459" target="459946">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1507459-926518-net.cse" source="1507459" target="926518">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341246-493900-net.cse" source="341246" target="493900">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341246-498552-net.cse" source="341246" target="498552">
+	<data key="topic">net.cse</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="484860-16019-net.cse" source="484860" target="16019">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390403-1125532-net.cse" source="390403" target="1125532">
+	<data key="topic">net.cse</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="390403-392495-net.cse" source="390403" target="392495">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390403-396360-net.cse" source="390403" target="396360">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390403-924995-net.cse" source="390403" target="924995">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="724484-338134-net.cse" source="724484" target="338134">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="724484-390403-net.cse" source="724484" target="390403">
+	<data key="topic">net.cse</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="391565-1125667-net.cse" source="391565" target="1125667">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391565-459946-net.cse" source="391565" target="459946">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391565-926518-net.cse" source="391565" target="926518">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

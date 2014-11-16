@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="17425"/>
+<node id="19220"/>
+<node id="511668"/>
+<node id="422804"/>
+<node id="32247"/>
+<node id="698403"/>
+<node id="448959"/>
+<node id="363167"/>
+<node id="740823"/>
+<node id="511803"/>
+<node id="740838"/>
+<edge id="17425-698403-comp.os.rsts" source="17425" target="698403">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17425-740838-comp.os.rsts" source="17425" target="740838">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19220-32247-comp.os.rsts" source="19220" target="32247">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19220-698403-comp.os.rsts" source="19220" target="698403">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19220-740838-comp.os.rsts" source="19220" target="740838">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="511668-17425-comp.os.rsts" source="511668" target="17425">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="422804-698403-comp.os.rsts" source="422804" target="698403">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="32247-698403-comp.os.rsts" source="32247" target="698403">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="32247-740838-comp.os.rsts" source="32247" target="740838">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="698403-448959-comp.os.rsts" source="698403" target="448959">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="698403-740838-comp.os.rsts" source="698403" target="740838">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="448959-698403-comp.os.rsts" source="448959" target="698403">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="448959-740823-comp.os.rsts" source="448959" target="740823">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="448959-740838-comp.os.rsts" source="448959" target="740838">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="363167-740838-comp.os.rsts" source="363167" target="740838">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="740823-698403-comp.os.rsts" source="740823" target="698403">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="740823-448959-comp.os.rsts" source="740823" target="448959">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="740838-698403-comp.os.rsts" source="740838" target="698403">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2519541"/>
+<node id="1270616"/>
+<node id="33079"/>
+<node id="35607"/>
+<node id="669668"/>
+<node id="1244"/>
+<node id="29198"/>
+<node id="15774"/>
+<node id="669672"/>
+<node id="509705"/>
+<edge id="1270616-509705-talk.religion.misc" source="1270616" target="509705">
+	<data key="topic">talk.religion.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="33079-669672-talk.religion.misc" source="33079" target="669672">
+	<data key="topic">talk.religion.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="35607-33079-talk.religion.misc" source="35607" target="33079">
+	<data key="topic">talk.religion.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="35607-1244-talk.religion.misc" source="35607" target="1244">
+	<data key="topic">talk.religion.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="35607-29198-talk.religion.misc" source="35607" target="29198">
+	<data key="topic">talk.religion.misc</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="35607-15774-talk.religion.misc" source="35607" target="15774">
+	<data key="topic">talk.religion.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="669668-33079-talk.religion.misc" source="669668" target="33079">
+	<data key="topic">talk.religion.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="669668-1244-talk.religion.misc" source="669668" target="1244">
+	<data key="topic">talk.religion.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="669668-29198-talk.religion.misc" source="669668" target="29198">
+	<data key="topic">talk.religion.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1244-2519541-talk.religion.misc" source="1244" target="2519541">
+	<data key="topic">talk.religion.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1244-33079-talk.religion.misc" source="1244" target="33079">
+	<data key="topic">talk.religion.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1244-35607-talk.religion.misc" source="1244" target="35607">
+	<data key="topic">talk.religion.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1244-29198-talk.religion.misc" source="1244" target="29198">
+	<data key="topic">talk.religion.misc</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="1244-15774-talk.religion.misc" source="1244" target="15774">
+	<data key="topic">talk.religion.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="29198-33079-talk.religion.misc" source="29198" target="33079">
+	<data key="topic">talk.religion.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29198-35607-talk.religion.misc" source="29198" target="35607">
+	<data key="topic">talk.religion.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29198-1244-talk.religion.misc" source="29198" target="1244">
+	<data key="topic">talk.religion.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="29198-15774-talk.religion.misc" source="29198" target="15774">
+	<data key="topic">talk.religion.misc</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="15774-33079-talk.religion.misc" source="15774" target="33079">
+	<data key="topic">talk.religion.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15774-35607-talk.religion.misc" source="15774" target="35607">
+	<data key="topic">talk.religion.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15774-1244-talk.religion.misc" source="15774" target="1244">
+	<data key="topic">talk.religion.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="15774-29198-talk.religion.misc" source="15774" target="29198">
+	<data key="topic">talk.religion.misc</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="669672-33079-talk.religion.misc" source="669672" target="33079">
+	<data key="topic">talk.religion.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="669672-35607-talk.religion.misc" source="669672" target="35607">
+	<data key="topic">talk.religion.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="669672-1244-talk.religion.misc" source="669672" target="1244">
+	<data key="topic">talk.religion.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="669672-29198-talk.religion.misc" source="669672" target="29198">
+	<data key="topic">talk.religion.misc</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="669672-15774-talk.religion.misc" source="669672" target="15774">
+	<data key="topic">talk.religion.misc</data>
+	<data key="weight">2</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="309299"/>
+<node id="150150"/>
+<node id="184540"/>
+<node id="37019"/>
+<node id="37227"/>
+<node id="264352"/>
+<node id="327883"/>
+<edge id="309299-150150-soc.culture.europe" source="309299" target="150150">
+	<data key="topic">soc.culture.europe</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="309299-264352-soc.culture.europe" source="309299" target="264352">
+	<data key="topic">soc.culture.europe</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="184540-327883-soc.culture.europe" source="184540" target="327883">
+	<data key="topic">soc.culture.europe</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37019-327883-soc.culture.europe" source="37019" target="327883">
+	<data key="topic">soc.culture.europe</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37227-327883-soc.culture.europe" source="37227" target="327883">
+	<data key="topic">soc.culture.europe</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="264352-150150-soc.culture.europe" source="264352" target="150150">
+	<data key="topic">soc.culture.europe</data>
+	<data key="weight">2</data>
+</edge>
+</graph>
+</graphml>

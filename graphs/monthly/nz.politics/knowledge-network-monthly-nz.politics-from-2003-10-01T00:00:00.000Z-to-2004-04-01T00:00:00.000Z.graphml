@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="41425"/>
+<node id="238963"/>
+<node id="108916"/>
+<node id="42932"/>
+<node id="132242"/>
+<node id="161845"/>
+<node id="147094"/>
+<node id="179835"/>
+<node id="40922"/>
+<node id="42079"/>
+<node id="170657"/>
+<node id="134220"/>
+<node id="172304"/>
+<edge id="238963-108916-nz.politics" source="238963" target="108916">
+	<data key="topic">nz.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="238963-132242-nz.politics" source="238963" target="132242">
+	<data key="topic">nz.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="238963-40922-nz.politics" source="238963" target="40922">
+	<data key="topic">nz.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="108916-132242-nz.politics" source="108916" target="132242">
+	<data key="topic">nz.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="108916-40922-nz.politics" source="108916" target="40922">
+	<data key="topic">nz.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="40922-41425-nz.politics" source="40922" target="41425">
+	<data key="topic">nz.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="40922-42932-nz.politics" source="40922" target="42932">
+	<data key="topic">nz.politics</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="40922-132242-nz.politics" source="40922" target="132242">
+	<data key="topic">nz.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="40922-161845-nz.politics" source="40922" target="161845">
+	<data key="topic">nz.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="40922-147094-nz.politics" source="40922" target="147094">
+	<data key="topic">nz.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="40922-179835-nz.politics" source="40922" target="179835">
+	<data key="topic">nz.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="40922-42079-nz.politics" source="40922" target="42079">
+	<data key="topic">nz.politics</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="40922-170657-nz.politics" source="40922" target="170657">
+	<data key="topic">nz.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="40922-134220-nz.politics" source="40922" target="134220">
+	<data key="topic">nz.politics</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="40922-172304-nz.politics" source="40922" target="172304">
+	<data key="topic">nz.politics</data>
+	<data key="weight">2</data>
+</edge>
+</graph>
+</graphml>

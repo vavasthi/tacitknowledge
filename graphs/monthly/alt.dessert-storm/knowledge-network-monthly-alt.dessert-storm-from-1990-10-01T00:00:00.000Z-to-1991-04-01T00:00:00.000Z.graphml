@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="376469"/>
+<node id="2403"/>
+<node id="350136"/>
+<node id="375160"/>
+<node id="550480"/>
+<node id="352874"/>
+<node id="2510"/>
+<node id="878900"/>
+<edge id="376469-350136-alt.dessert-storm" source="376469" target="350136">
+	<data key="topic">alt.dessert-storm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="376469-375160-alt.dessert-storm" source="376469" target="375160">
+	<data key="topic">alt.dessert-storm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="376469-878900-alt.dessert-storm" source="376469" target="878900">
+	<data key="topic">alt.dessert-storm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="375160-2403-alt.dessert-storm" source="375160" target="2403">
+	<data key="topic">alt.dessert-storm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="375160-350136-alt.dessert-storm" source="375160" target="350136">
+	<data key="topic">alt.dessert-storm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="375160-878900-alt.dessert-storm" source="375160" target="878900">
+	<data key="topic">alt.dessert-storm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2510-2403-alt.dessert-storm" source="2510" target="2403">
+	<data key="topic">alt.dessert-storm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2510-350136-alt.dessert-storm" source="2510" target="350136">
+	<data key="topic">alt.dessert-storm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2510-878900-alt.dessert-storm" source="2510" target="878900">
+	<data key="topic">alt.dessert-storm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="878900-2403-alt.dessert-storm" source="878900" target="2403">
+	<data key="topic">alt.dessert-storm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="878900-350136-alt.dessert-storm" source="878900" target="350136">
+	<data key="topic">alt.dessert-storm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="878900-550480-alt.dessert-storm" source="878900" target="550480">
+	<data key="topic">alt.dessert-storm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="878900-352874-alt.dessert-storm" source="878900" target="352874">
+	<data key="topic">alt.dessert-storm</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

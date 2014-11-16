@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="388886"/>
+<node id="509288"/>
+<node id="435219"/>
+<node id="519539"/>
+<node id="13799"/>
+<node id="740381"/>
+<node id="700003"/>
+<node id="780532"/>
+<node id="3770"/>
+<node id="549491"/>
+<node id="363657"/>
+<edge id="388886-13799-comp.mail.multi-media" source="388886" target="13799">
+	<data key="topic">comp.mail.multi-media</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="435219-509288-comp.mail.multi-media" source="435219" target="509288">
+	<data key="topic">comp.mail.multi-media</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="435219-3770-comp.mail.multi-media" source="435219" target="3770">
+	<data key="topic">comp.mail.multi-media</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="780532-519539-comp.mail.multi-media" source="780532" target="519539">
+	<data key="topic">comp.mail.multi-media</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="549491-740381-comp.mail.multi-media" source="549491" target="740381">
+	<data key="topic">comp.mail.multi-media</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="363657-740381-comp.mail.multi-media" source="363657" target="740381">
+	<data key="topic">comp.mail.multi-media</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="363657-549491-comp.mail.multi-media" source="363657" target="549491">
+	<data key="topic">comp.mail.multi-media</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

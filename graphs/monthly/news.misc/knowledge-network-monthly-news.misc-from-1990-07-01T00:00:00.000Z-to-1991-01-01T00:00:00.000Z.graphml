@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1305252"/>
+<node id="913"/>
+<node id="377238"/>
+<node id="860447"/>
+<node id="2196"/>
+<node id="386450"/>
+<node id="4378"/>
+<node id="409886"/>
+<node id="348314"/>
+<node id="348453"/>
+<node id="410662"/>
+<node id="573871"/>
+<node id="780973"/>
+<node id="1193"/>
+<node id="388910"/>
+<node id="377776"/>
+<node id="3117"/>
+<node id="377898"/>
+<node id="427435"/>
+<node id="4654"/>
+<node id="6574"/>
+<node id="3761"/>
+<node id="1078465"/>
+<node id="12595"/>
+<node id="564"/>
+<node id="1076"/>
+<node id="10804"/>
+<node id="1224386"/>
+<node id="7989"/>
+<node id="553265"/>
+<node id="2367"/>
+<node id="1728"/>
+<node id="2113"/>
+<node id="442695"/>
+<node id="12230"/>
+<node id="371268"/>
+<node id="1736"/>
+<node id="872646"/>
+<node id="435536"/>
+<node id="780993"/>
+<node id="361162"/>
+<node id="442059"/>
+<node id="1184447"/>
+<node id="359115"/>
+<node id="2130"/>
+<node id="339"/>
+<node id="1876"/>
+<node id="642267"/>
+<node id="358866"/>
+<node id="1457508"/>
+<node id="1880"/>
+<node id="785885"/>
+<node id="409810"/>
+<node id="2650"/>
+<node id="2267"/>
+<node id="363744"/>
+<node id="1886"/>
+<node id="433767"/>
+<node id="2401"/>
+<node id="1002478"/>
+<node id="435942"/>
+<node id="1769"/>
+<node id="1771"/>
+<node id="3691"/>
+<node id="349034"/>
+<node id="4334"/>
+<node id="10607"/>
+<node id="1903"/>
+<node id="1777"/>
+<node id="2035"/>
+<node id="2164"/>
+<node id="3445"/>
+<node id="358899"/>
+<node id="10105"/>
+<node id="435583"/>
+<node id="423295"/>
+<node id="352128"/>
+<node id="15868"/>
+<node id="2812"/>
+<node id="4349"/>
+<node id="1745415"/>
+<node id="611829"/>
+<node id="5890"/>
+<node id="828814"/>
+<node id="2307"/>
+<node id="365191"/>
+<node id="9990"/>
+<node id="7818"/>
+<node id="7691"/>
+<node id="1803"/>
+<node id="608646"/>
+<node id="433801"/>
+<node id="620552"/>
+<edge id="1305252-860447-news.misc" source="1305252" target="860447">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1305252-4349-news.misc" source="1305252" target="4349">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="860447-4349-news.misc" source="860447" target="4349">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2196-371268-news.misc" source="2196" target="371268">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2196-15868-news.misc" source="2196" target="15868">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2196-433801-news.misc" source="2196" target="433801">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="386450-371268-news.misc" source="386450" target="371268">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4378-409886-news.misc" source="4378" target="409886">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4378-2367-news.misc" source="4378" target="2367">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4378-433767-news.misc" source="4378" target="433767">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4378-10607-news.misc" source="4378" target="10607">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348314-6574-news.misc" source="348314" target="6574">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348314-564-news.misc" source="348314" target="564">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348314-785885-news.misc" source="348314" target="785885">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="410662-5890-news.misc" source="410662" target="5890">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="573871-371268-news.misc" source="573871" target="371268">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1193-1305252-news.misc" source="1193" target="1305252">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1193-860447-news.misc" source="1193" target="860447">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1193-1076-news.misc" source="1193" target="1076">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1193-12230-news.misc" source="1193" target="12230">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1193-4349-news.misc" source="1193" target="4349">
+	<data key="topic">news.misc</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="1193-7691-news.misc" source="1193" target="7691">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="377776-433767-news.misc" source="377776" target="433767">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3117-4654-news.misc" source="3117" target="4654">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="377898-2267-news.misc" source="377898" target="2267">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="377898-363744-news.misc" source="377898" target="363744">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="427435-1076-news.misc" source="427435" target="1076">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="427435-12230-news.misc" source="427435" target="12230">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="6574-564-news.misc" source="6574" target="564">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3761-433801-news.misc" source="3761" target="433801">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1078465-409886-news.misc" source="1078465" target="409886">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1076-12230-news.misc" source="1076" target="12230">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10804-386450-news.misc" source="10804" target="386450">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10804-371268-news.misc" source="10804" target="371268">
+	<data key="topic">news.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="10804-15868-news.misc" source="10804" target="15868">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="553265-365191-news.misc" source="553265" target="365191">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2367-409886-news.misc" source="2367" target="409886">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1728-780973-news.misc" source="1728" target="780973">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2113-2035-news.misc" source="2113" target="2035">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="442695-4349-news.misc" source="442695" target="4349">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1736-573871-news.misc" source="1736" target="573871">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1736-371268-news.misc" source="1736" target="371268">
+	<data key="topic">news.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="872646-377238-news.misc" source="872646" target="377238">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="872646-1076-news.misc" source="872646" target="1076">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="435536-388910-news.misc" source="435536" target="388910">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="435536-7989-news.misc" source="435536" target="7989">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="780993-358866-news.misc" source="780993" target="358866">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="780993-2401-news.misc" source="780993" target="2401">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="780993-365191-news.misc" source="780993" target="365191">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="780993-1803-news.misc" source="780993" target="1803">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="442059-377238-news.misc" source="442059" target="377238">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="442059-1076-news.misc" source="442059" target="1076">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1184447-442695-news.misc" source="1184447" target="442695">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1184447-4349-news.misc" source="1184447" target="4349">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="359115-12595-news.misc" source="359115" target="12595">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2130-348453-news.misc" source="2130" target="348453">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2130-361162-news.misc" source="2130" target="361162">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2130-2401-news.misc" source="2130" target="2401">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2130-4334-news.misc" source="2130" target="4334">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339-564-news.misc" source="339" target="564">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339-433767-news.misc" source="339" target="433767">
+	<data key="topic">news.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="339-1002478-news.misc" source="339" target="1002478">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339-10607-news.misc" source="339" target="10607">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339-2307-news.misc" source="339" target="2307">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1876-339-news.misc" source="1876" target="339">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1876-433767-news.misc" source="1876" target="433767">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1876-10607-news.misc" source="1876" target="10607">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="642267-423295-news.misc" source="642267" target="423295">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1880-1193-news.misc" source="1880" target="1193">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1880-4349-news.misc" source="1880" target="4349">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="785885-6574-news.misc" source="785885" target="6574">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="785885-564-news.misc" source="785885" target="564">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="363744-2267-news.misc" source="363744" target="2267">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1886-371268-news.misc" source="1886" target="371268">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1771-1769-news.misc" source="1771" target="1769">
+	<data key="topic">news.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="3691-352128-news.misc" source="3691" target="352128">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="349034-371268-news.misc" source="349034" target="371268">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10607-339-news.misc" source="10607" target="339">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10607-433767-news.misc" source="10607" target="433767">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10607-2812-news.misc" source="10607" target="2812">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10607-611829-news.misc" source="10607" target="611829">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1903-377776-news.misc" source="1903" target="377776">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1903-433767-news.misc" source="1903" target="433767">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1777-371268-news.misc" source="1777" target="371268">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1777-433767-news.misc" source="1777" target="433767">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1777-15868-news.misc" source="1777" target="15868">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1777-5890-news.misc" source="1777" target="5890">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1777-433801-news.misc" source="1777" target="433801">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2164-913-news.misc" source="2164" target="913">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2164-2650-news.misc" source="2164" target="2650">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3445-1457508-news.misc" source="3445" target="1457508">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3445-435942-news.misc" source="3445" target="435942">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="358899-377898-news.misc" source="358899" target="377898">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="358899-2267-news.misc" source="358899" target="2267">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="358899-363744-news.misc" source="358899" target="363744">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10105-2130-news.misc" source="10105" target="2130">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10105-2401-news.misc" source="10105" target="2401">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10105-4334-news.misc" source="10105" target="4334">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="435583-780993-news.misc" source="435583" target="780993">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="435583-365191-news.misc" source="435583" target="365191">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15868-10804-news.misc" source="15868" target="10804">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15868-371268-news.misc" source="15868" target="371268">
+	<data key="topic">news.misc</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="15868-433801-news.misc" source="15868" target="433801">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4349-1193-news.misc" source="4349" target="1193">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5890-371268-news.misc" source="5890" target="371268">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5890-15868-news.misc" source="5890" target="15868">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5890-433801-news.misc" source="5890" target="433801">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="828814-1224386-news.misc" source="828814" target="1224386">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="828814-409810-news.misc" source="828814" target="409810">
+	<data key="topic">news.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="9990-371268-news.misc" source="9990" target="371268">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7818-1745415-news.misc" source="7818" target="1745415">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7691-1076-news.misc" source="7691" target="1076">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7691-12230-news.misc" source="7691" target="12230">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="608646-780973-news.misc" source="608646" target="780973">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="433801-371268-news.misc" source="433801" target="371268">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="433801-15868-news.misc" source="433801" target="15868">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="620552-348453-news.misc" source="620552" target="348453">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="620552-361162-news.misc" source="620552" target="361162">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="620552-2130-news.misc" source="620552" target="2130">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="620552-2401-news.misc" source="620552" target="2401">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="620552-4334-news.misc" source="620552" target="4334">
+	<data key="topic">news.misc</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

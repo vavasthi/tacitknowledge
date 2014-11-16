@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="16106"/>
+<node id="2202"/>
+<node id="338493"/>
+<node id="496633"/>
+<node id="343403"/>
+<edge id="16106-2202-net.religion.jewish" source="16106" target="2202">
+	<data key="topic">net.religion.jewish</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16106-338493-net.religion.jewish" source="16106" target="338493">
+	<data key="topic">net.religion.jewish</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16106-496633-net.religion.jewish" source="16106" target="496633">
+	<data key="topic">net.religion.jewish</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16106-343403-net.religion.jewish" source="16106" target="343403">
+	<data key="topic">net.religion.jewish</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

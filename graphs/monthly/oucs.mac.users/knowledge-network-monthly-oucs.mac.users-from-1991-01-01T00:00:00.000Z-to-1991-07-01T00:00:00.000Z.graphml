@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="418423"/>
+<node id="365970"/>
+<node id="418413"/>
+<node id="1637043"/>
+<node id="1637174"/>
+<edge id="418423-418413-oucs.mac.users" source="418423" target="418413">
+	<data key="topic">oucs.mac.users</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="365970-418423-oucs.mac.users" source="365970" target="418423">
+	<data key="topic">oucs.mac.users</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="365970-418413-oucs.mac.users" source="365970" target="418413">
+	<data key="topic">oucs.mac.users</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="365970-1637043-oucs.mac.users" source="365970" target="1637043">
+	<data key="topic">oucs.mac.users</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="365970-1637174-oucs.mac.users" source="365970" target="1637174">
+	<data key="topic">oucs.mac.users</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

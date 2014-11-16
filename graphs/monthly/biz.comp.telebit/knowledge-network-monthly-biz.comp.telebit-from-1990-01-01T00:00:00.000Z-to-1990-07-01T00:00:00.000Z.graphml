@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="648346"/>
+<node id="422677"/>
+<node id="388562"/>
+<node id="29606"/>
+<node id="365182"/>
+<node id="358909"/>
+<node id="834263"/>
+<node id="1235321"/>
+<edge id="648346-358909-biz.comp.telebit" source="648346" target="358909">
+	<data key="topic">biz.comp.telebit</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="422677-834263-biz.comp.telebit" source="422677" target="834263">
+	<data key="topic">biz.comp.telebit</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29606-422677-biz.comp.telebit" source="29606" target="422677">
+	<data key="topic">biz.comp.telebit</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29606-365182-biz.comp.telebit" source="29606" target="365182">
+	<data key="topic">biz.comp.telebit</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29606-834263-biz.comp.telebit" source="29606" target="834263">
+	<data key="topic">biz.comp.telebit</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="365182-422677-biz.comp.telebit" source="365182" target="422677">
+	<data key="topic">biz.comp.telebit</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="365182-29606-biz.comp.telebit" source="365182" target="29606">
+	<data key="topic">biz.comp.telebit</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="365182-834263-biz.comp.telebit" source="365182" target="834263">
+	<data key="topic">biz.comp.telebit</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1235321-388562-biz.comp.telebit" source="1235321" target="388562">
+	<data key="topic">biz.comp.telebit</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="50164"/>
+<node id="55364"/>
+<node id="41381"/>
+<node id="237607"/>
+<node id="207877"/>
+<node id="42089"/>
+<node id="246320"/>
+<node id="39789"/>
+<node id="42670"/>
+<node id="43086"/>
+<node id="271594"/>
+<node id="37424"/>
+<edge id="50164-246320-sci.med.physics" source="50164" target="246320">
+	<data key="topic">sci.med.physics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="55364-41381-sci.med.physics" source="55364" target="41381">
+	<data key="topic">sci.med.physics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="55364-246320-sci.med.physics" source="55364" target="246320">
+	<data key="topic">sci.med.physics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41381-246320-sci.med.physics" source="41381" target="246320">
+	<data key="topic">sci.med.physics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="237607-246320-sci.med.physics" source="237607" target="246320">
+	<data key="topic">sci.med.physics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="207877-41381-sci.med.physics" source="207877" target="41381">
+	<data key="topic">sci.med.physics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="207877-246320-sci.med.physics" source="207877" target="246320">
+	<data key="topic">sci.med.physics</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="42089-246320-sci.med.physics" source="42089" target="246320">
+	<data key="topic">sci.med.physics</data>
+	<data key="weight">6</data>
+</edge>
+<edge id="246320-55364-sci.med.physics" source="246320" target="55364">
+	<data key="topic">sci.med.physics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="246320-41381-sci.med.physics" source="246320" target="41381">
+	<data key="topic">sci.med.physics</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="246320-207877-sci.med.physics" source="246320" target="207877">
+	<data key="topic">sci.med.physics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="246320-42089-sci.med.physics" source="246320" target="42089">
+	<data key="topic">sci.med.physics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="246320-39789-sci.med.physics" source="246320" target="39789">
+	<data key="topic">sci.med.physics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="39789-246320-sci.med.physics" source="39789" target="246320">
+	<data key="topic">sci.med.physics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="42670-246320-sci.med.physics" source="42670" target="246320">
+	<data key="topic">sci.med.physics</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="42670-39789-sci.med.physics" source="42670" target="39789">
+	<data key="topic">sci.med.physics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="43086-246320-sci.med.physics" source="43086" target="246320">
+	<data key="topic">sci.med.physics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="271594-42089-sci.med.physics" source="271594" target="42089">
+	<data key="topic">sci.med.physics</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="271594-246320-sci.med.physics" source="271594" target="246320">
+	<data key="topic">sci.med.physics</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="37424-246320-sci.med.physics" source="37424" target="246320">
+	<data key="topic">sci.med.physics</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

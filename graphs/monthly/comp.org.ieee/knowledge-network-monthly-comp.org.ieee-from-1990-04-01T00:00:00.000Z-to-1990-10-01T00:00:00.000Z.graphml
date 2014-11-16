@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="642334"/>
+<node id="1456644"/>
+<node id="828474"/>
+<node id="597791"/>
+<node id="3513"/>
+<node id="856049"/>
+<node id="642552"/>
+<node id="1286189"/>
+<node id="856047"/>
+<node id="29445"/>
+<node id="412963"/>
+<node id="781453"/>
+<node id="34376"/>
+<node id="2792"/>
+<node id="557089"/>
+<node id="23211"/>
+<node id="348912"/>
+<node id="436237"/>
+<node id="1716407"/>
+<edge id="642334-1456644-comp.org.ieee" source="642334" target="1456644">
+	<data key="topic">comp.org.ieee</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="642334-828474-comp.org.ieee" source="642334" target="828474">
+	<data key="topic">comp.org.ieee</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="828474-1456644-comp.org.ieee" source="828474" target="1456644">
+	<data key="topic">comp.org.ieee</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="597791-1456644-comp.org.ieee" source="597791" target="1456644">
+	<data key="topic">comp.org.ieee</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="597791-828474-comp.org.ieee" source="597791" target="828474">
+	<data key="topic">comp.org.ieee</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="597791-856049-comp.org.ieee" source="597791" target="856049">
+	<data key="topic">comp.org.ieee</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3513-1716407-comp.org.ieee" source="3513" target="1716407">
+	<data key="topic">comp.org.ieee</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="856049-1456644-comp.org.ieee" source="856049" target="1456644">
+	<data key="topic">comp.org.ieee</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="856049-828474-comp.org.ieee" source="856049" target="828474">
+	<data key="topic">comp.org.ieee</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="856047-412963-comp.org.ieee" source="856047" target="412963">
+	<data key="topic">comp.org.ieee</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29445-1286189-comp.org.ieee" source="29445" target="1286189">
+	<data key="topic">comp.org.ieee</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="34376-2792-comp.org.ieee" source="34376" target="2792">
+	<data key="topic">comp.org.ieee</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23211-781453-comp.org.ieee" source="23211" target="781453">
+	<data key="topic">comp.org.ieee</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348912-642552-comp.org.ieee" source="348912" target="642552">
+	<data key="topic">comp.org.ieee</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="436237-781453-comp.org.ieee" source="436237" target="781453">
+	<data key="topic">comp.org.ieee</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

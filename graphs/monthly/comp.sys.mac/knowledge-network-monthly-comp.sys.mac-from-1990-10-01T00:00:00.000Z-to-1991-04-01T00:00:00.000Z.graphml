@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="26833"/>
+<node id="824797"/>
+<node id="378100"/>
+<node id="1303782"/>
+<node id="7577"/>
+<node id="366783"/>
+<node id="553141"/>
+<node id="355225"/>
+<node id="5571"/>
+<node id="6851"/>
+<node id="5252"/>
+<node id="4388"/>
+<node id="4644"/>
+<node id="1344595"/>
+<node id="437218"/>
+<node id="408333"/>
+<node id="437357"/>
+<node id="404394"/>
+<node id="406154"/>
+<edge id="1303782-4388-comp.sys.mac" source="1303782" target="4388">
+	<data key="topic">comp.sys.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7577-824797-comp.sys.mac" source="7577" target="824797">
+	<data key="topic">comp.sys.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="553141-1344595-comp.sys.mac" source="553141" target="1344595">
+	<data key="topic">comp.sys.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5571-4388-comp.sys.mac" source="5571" target="4388">
+	<data key="topic">comp.sys.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5571-4644-comp.sys.mac" source="5571" target="4644">
+	<data key="topic">comp.sys.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="6851-378100-comp.sys.mac" source="6851" target="378100">
+	<data key="topic">comp.sys.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="6851-355225-comp.sys.mac" source="6851" target="355225">
+	<data key="topic">comp.sys.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5252-26833-comp.sys.mac" source="5252" target="26833">
+	<data key="topic">comp.sys.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="408333-366783-comp.sys.mac" source="408333" target="366783">
+	<data key="topic">comp.sys.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="437357-437218-comp.sys.mac" source="437357" target="437218">
+	<data key="topic">comp.sys.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="404394-4388-comp.sys.mac" source="404394" target="4388">
+	<data key="topic">comp.sys.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="406154-824797-comp.sys.mac" source="406154" target="824797">
+	<data key="topic">comp.sys.mac</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

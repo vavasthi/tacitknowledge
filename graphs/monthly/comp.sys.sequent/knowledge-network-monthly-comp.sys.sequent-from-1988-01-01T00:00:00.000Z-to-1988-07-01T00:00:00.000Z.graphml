@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="30257"/>
+<node id="429860"/>
+<node id="17020"/>
+<node id="533364"/>
+<node id="1586997"/>
+<node id="15582"/>
+<edge id="30257-17020-comp.sys.sequent" source="30257" target="17020">
+	<data key="topic">comp.sys.sequent</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="429860-1586997-comp.sys.sequent" source="429860" target="1586997">
+	<data key="topic">comp.sys.sequent</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17020-30257-comp.sys.sequent" source="17020" target="30257">
+	<data key="topic">comp.sys.sequent</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="533364-1586997-comp.sys.sequent" source="533364" target="1586997">
+	<data key="topic">comp.sys.sequent</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15582-30257-comp.sys.sequent" source="15582" target="30257">
+	<data key="topic">comp.sys.sequent</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15582-17020-comp.sys.sequent" source="15582" target="17020">
+	<data key="topic">comp.sys.sequent</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="482872"/>
+<node id="468951"/>
+<node id="461815"/>
+<node id="632764"/>
+<node id="460054"/>
+<node id="523924"/>
+<node id="1186700"/>
+<node id="623700"/>
+<node id="653046"/>
+<node id="521978"/>
+<node id="632777"/>
+<node id="523908"/>
+<node id="462448"/>
+<node id="341965"/>
+<node id="339311"/>
+<node id="337866"/>
+<node id="461257"/>
+<edge id="460054-482872-net.mail.headers" source="460054" target="482872">
+	<data key="topic">net.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460054-632777-net.mail.headers" source="460054" target="632777">
+	<data key="topic">net.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460054-461257-net.mail.headers" source="460054" target="461257">
+	<data key="topic">net.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1186700-461815-net.mail.headers" source="1186700" target="461815">
+	<data key="topic">net.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="623700-523908-net.mail.headers" source="623700" target="523908">
+	<data key="topic">net.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="653046-521978-net.mail.headers" source="653046" target="521978">
+	<data key="topic">net.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="632777-482872-net.mail.headers" source="632777" target="482872">
+	<data key="topic">net.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="632777-461257-net.mail.headers" source="632777" target="461257">
+	<data key="topic">net.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="462448-468951-net.mail.headers" source="462448" target="468951">
+	<data key="topic">net.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341965-632764-net.mail.headers" source="341965" target="632764">
+	<data key="topic">net.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339311-523924-net.mail.headers" source="339311" target="523924">
+	<data key="topic">net.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-632764-net.mail.headers" source="337866" target="632764">
+	<data key="topic">net.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="461257-482872-net.mail.headers" source="461257" target="482872">
+	<data key="topic">net.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

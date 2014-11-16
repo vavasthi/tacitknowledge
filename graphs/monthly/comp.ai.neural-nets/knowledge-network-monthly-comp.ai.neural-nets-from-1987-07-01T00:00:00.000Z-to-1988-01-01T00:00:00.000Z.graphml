@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="657920"/>
+<node id="1993801"/>
+<node id="738429"/>
+<node id="20986"/>
+<node id="657877"/>
+<node id="1993762"/>
+<node id="1993757"/>
+<node id="1993595"/>
+<node id="25190"/>
+<node id="449281"/>
+<node id="17448"/>
+<node id="430146"/>
+<node id="15945"/>
+<node id="657921"/>
+<node id="585768"/>
+<edge id="1993801-657877-comp.ai.neural-nets" source="1993801" target="657877">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="738429-657877-comp.ai.neural-nets" source="738429" target="657877">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20986-657877-comp.ai.neural-nets" source="20986" target="657877">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1993762-657920-comp.ai.neural-nets" source="1993762" target="657920">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1993757-1993595-comp.ai.neural-nets" source="1993757" target="1993595">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1993595-657921-comp.ai.neural-nets" source="1993595" target="657921">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="25190-657877-comp.ai.neural-nets" source="25190" target="657877">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="449281-657877-comp.ai.neural-nets" source="449281" target="657877">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="449281-17448-comp.ai.neural-nets" source="449281" target="17448">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17448-657877-comp.ai.neural-nets" source="17448" target="657877">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="430146-657921-comp.ai.neural-nets" source="430146" target="657921">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15945-657877-comp.ai.neural-nets" source="15945" target="657877">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15945-17448-comp.ai.neural-nets" source="15945" target="17448">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="585768-1993595-comp.ai.neural-nets" source="585768" target="1993595">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

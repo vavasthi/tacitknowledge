@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="259220"/>
+<node id="199795"/>
+<node id="37011"/>
+<node id="259224"/>
+<node id="265179"/>
+<node id="42849"/>
+<node id="264072"/>
+<node id="37159"/>
+<node id="43975"/>
+<node id="37227"/>
+<node id="266959"/>
+<node id="236013"/>
+<node id="195726"/>
+<edge id="259220-236013-alt.philosophy.objectivism" source="259220" target="236013">
+	<data key="topic">alt.philosophy.objectivism</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="199795-37011-alt.philosophy.objectivism" source="199795" target="37011">
+	<data key="topic">alt.philosophy.objectivism</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="199795-236013-alt.philosophy.objectivism" source="199795" target="236013">
+	<data key="topic">alt.philosophy.objectivism</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="37011-199795-alt.philosophy.objectivism" source="37011" target="199795">
+	<data key="topic">alt.philosophy.objectivism</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37011-236013-alt.philosophy.objectivism" source="37011" target="236013">
+	<data key="topic">alt.philosophy.objectivism</data>
+	<data key="weight">6</data>
+</edge>
+<edge id="37011-195726-alt.philosophy.objectivism" source="37011" target="195726">
+	<data key="topic">alt.philosophy.objectivism</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="259224-37227-alt.philosophy.objectivism" source="259224" target="37227">
+	<data key="topic">alt.philosophy.objectivism</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="259224-236013-alt.philosophy.objectivism" source="259224" target="236013">
+	<data key="topic">alt.philosophy.objectivism</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="265179-236013-alt.philosophy.objectivism" source="265179" target="236013">
+	<data key="topic">alt.philosophy.objectivism</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="42849-199795-alt.philosophy.objectivism" source="42849" target="199795">
+	<data key="topic">alt.philosophy.objectivism</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="42849-37011-alt.philosophy.objectivism" source="42849" target="37011">
+	<data key="topic">alt.philosophy.objectivism</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="42849-236013-alt.philosophy.objectivism" source="42849" target="236013">
+	<data key="topic">alt.philosophy.objectivism</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="264072-37011-alt.philosophy.objectivism" source="264072" target="37011">
+	<data key="topic">alt.philosophy.objectivism</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="264072-236013-alt.philosophy.objectivism" source="264072" target="236013">
+	<data key="topic">alt.philosophy.objectivism</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37159-236013-alt.philosophy.objectivism" source="37159" target="236013">
+	<data key="topic">alt.philosophy.objectivism</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="43975-199795-alt.philosophy.objectivism" source="43975" target="199795">
+	<data key="topic">alt.philosophy.objectivism</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="43975-37011-alt.philosophy.objectivism" source="43975" target="37011">
+	<data key="topic">alt.philosophy.objectivism</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="43975-236013-alt.philosophy.objectivism" source="43975" target="236013">
+	<data key="topic">alt.philosophy.objectivism</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37227-236013-alt.philosophy.objectivism" source="37227" target="236013">
+	<data key="topic">alt.philosophy.objectivism</data>
+	<data key="weight">6</data>
+</edge>
+<edge id="266959-37011-alt.philosophy.objectivism" source="266959" target="37011">
+	<data key="topic">alt.philosophy.objectivism</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="266959-236013-alt.philosophy.objectivism" source="266959" target="236013">
+	<data key="topic">alt.philosophy.objectivism</data>
+	<data key="weight">24</data>
+</edge>
+<edge id="236013-37011-alt.philosophy.objectivism" source="236013" target="37011">
+	<data key="topic">alt.philosophy.objectivism</data>
+	<data key="weight">10</data>
+</edge>
+<edge id="236013-266959-alt.philosophy.objectivism" source="236013" target="266959">
+	<data key="topic">alt.philosophy.objectivism</data>
+	<data key="weight">8</data>
+</edge>
+<edge id="195726-199795-alt.philosophy.objectivism" source="195726" target="199795">
+	<data key="topic">alt.philosophy.objectivism</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="195726-37011-alt.philosophy.objectivism" source="195726" target="37011">
+	<data key="topic">alt.philosophy.objectivism</data>
+	<data key="weight">7</data>
+</edge>
+<edge id="195726-236013-alt.philosophy.objectivism" source="195726" target="236013">
+	<data key="topic">alt.philosophy.objectivism</data>
+	<data key="weight">6</data>
+</edge>
+</graph>
+</graphml>

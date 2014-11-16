@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2283089"/>
+<node id="2220871"/>
+<node id="2278294"/>
+<node id="2216218"/>
+<node id="2193178"/>
+<edge id="2220871-2283089-alt.games.diablo2" source="2220871" target="2283089">
+	<data key="topic">alt.games.diablo2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2220871-2278294-alt.games.diablo2" source="2220871" target="2278294">
+	<data key="topic">alt.games.diablo2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2220871-2216218-alt.games.diablo2" source="2220871" target="2216218">
+	<data key="topic">alt.games.diablo2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2220871-2193178-alt.games.diablo2" source="2220871" target="2193178">
+	<data key="topic">alt.games.diablo2</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

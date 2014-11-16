@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="635386"/>
+<node id="1697289"/>
+<node id="337265"/>
+<node id="483954"/>
+<node id="459806"/>
+<node id="15582"/>
+<node id="473736"/>
+<node id="15846"/>
+<node id="392033"/>
+<node id="18247"/>
+<node id="925065"/>
+<node id="453167"/>
+<node id="391565"/>
+<node id="390506"/>
+<edge id="635386-1697289-comp.edu" source="635386" target="1697289">
+	<data key="topic">comp.edu</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="635386-483954-comp.edu" source="635386" target="483954">
+	<data key="topic">comp.edu</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="635386-459806-comp.edu" source="635386" target="459806">
+	<data key="topic">comp.edu</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="635386-473736-comp.edu" source="635386" target="473736">
+	<data key="topic">comp.edu</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="635386-392033-comp.edu" source="635386" target="392033">
+	<data key="topic">comp.edu</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="635386-925065-comp.edu" source="635386" target="925065">
+	<data key="topic">comp.edu</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="15846-15582-comp.edu" source="15846" target="15582">
+	<data key="topic">comp.edu</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18247-15582-comp.edu" source="18247" target="15582">
+	<data key="topic">comp.edu</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18247-15846-comp.edu" source="18247" target="15846">
+	<data key="topic">comp.edu</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="453167-635386-comp.edu" source="453167" target="635386">
+	<data key="topic">comp.edu</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="453167-1697289-comp.edu" source="453167" target="1697289">
+	<data key="topic">comp.edu</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="453167-483954-comp.edu" source="453167" target="483954">
+	<data key="topic">comp.edu</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="453167-473736-comp.edu" source="453167" target="473736">
+	<data key="topic">comp.edu</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="453167-392033-comp.edu" source="453167" target="392033">
+	<data key="topic">comp.edu</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391565-1697289-comp.edu" source="391565" target="1697289">
+	<data key="topic">comp.edu</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391565-337265-comp.edu" source="391565" target="337265">
+	<data key="topic">comp.edu</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391565-483954-comp.edu" source="391565" target="483954">
+	<data key="topic">comp.edu</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391565-392033-comp.edu" source="391565" target="392033">
+	<data key="topic">comp.edu</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390506-1697289-comp.edu" source="390506" target="1697289">
+	<data key="topic">comp.edu</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390506-483954-comp.edu" source="390506" target="483954">
+	<data key="topic">comp.edu</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390506-392033-comp.edu" source="390506" target="392033">
+	<data key="topic">comp.edu</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

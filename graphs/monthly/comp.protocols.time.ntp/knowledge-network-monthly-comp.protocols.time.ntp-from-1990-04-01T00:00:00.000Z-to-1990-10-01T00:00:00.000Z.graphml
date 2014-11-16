@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="564"/>
+<node id="29270"/>
+<node id="14519"/>
+<node id="2649"/>
+<node id="828594"/>
+<node id="785708"/>
+<node id="781388"/>
+<node id="10723"/>
+<node id="1668"/>
+<node id="2854"/>
+<node id="834282"/>
+<node id="16044"/>
+<node id="10094"/>
+<node id="36814"/>
+<edge id="29270-785708-comp.protocols.time.ntp" source="29270" target="785708">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29270-10723-comp.protocols.time.ntp" source="29270" target="10723">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="828594-14519-comp.protocols.time.ntp" source="828594" target="14519">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="781388-2649-comp.protocols.time.ntp" source="781388" target="2649">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10723-785708-comp.protocols.time.ntp" source="10723" target="785708">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1668-564-comp.protocols.time.ntp" source="1668" target="564">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2854-10094-comp.protocols.time.ntp" source="2854" target="10094">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16044-834282-comp.protocols.time.ntp" source="16044" target="834282">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36814-785708-comp.protocols.time.ntp" source="36814" target="785708">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

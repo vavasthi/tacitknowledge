@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="353127"/>
+<node id="708719"/>
+<node id="507828"/>
+<node id="876026"/>
+<node id="1169480"/>
+<node id="21004"/>
+<node id="6927"/>
+<node id="432154"/>
+<node id="510857"/>
+<edge id="353127-708719-ca.politics" source="353127" target="708719">
+	<data key="topic">ca.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="353127-6927-ca.politics" source="353127" target="6927">
+	<data key="topic">ca.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="353127-432154-ca.politics" source="353127" target="432154">
+	<data key="topic">ca.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="708719-6927-ca.politics" source="708719" target="6927">
+	<data key="topic">ca.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="708719-432154-ca.politics" source="708719" target="432154">
+	<data key="topic">ca.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="507828-432154-ca.politics" source="507828" target="432154">
+	<data key="topic">ca.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="876026-432154-ca.politics" source="876026" target="432154">
+	<data key="topic">ca.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1169480-21004-ca.politics" source="1169480" target="21004">
+	<data key="topic">ca.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1169480-6927-ca.politics" source="1169480" target="6927">
+	<data key="topic">ca.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1169480-432154-ca.politics" source="1169480" target="432154">
+	<data key="topic">ca.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="21004-6927-ca.politics" source="21004" target="6927">
+	<data key="topic">ca.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="21004-432154-ca.politics" source="21004" target="432154">
+	<data key="topic">ca.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="6927-708719-ca.politics" source="6927" target="708719">
+	<data key="topic">ca.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="6927-21004-ca.politics" source="6927" target="21004">
+	<data key="topic">ca.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="6927-432154-ca.politics" source="6927" target="432154">
+	<data key="topic">ca.politics</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="510857-6927-ca.politics" source="510857" target="6927">
+	<data key="topic">ca.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510857-432154-ca.politics" source="510857" target="432154">
+	<data key="topic">ca.politics</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

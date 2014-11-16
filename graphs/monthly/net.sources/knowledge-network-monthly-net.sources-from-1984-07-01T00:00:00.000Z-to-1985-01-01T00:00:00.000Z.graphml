@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="654490"/>
+<node id="625050"/>
+<node id="340629"/>
+<node id="1136289"/>
+<node id="528538"/>
+<node id="625052"/>
+<node id="522902"/>
+<node id="398998"/>
+<node id="635807"/>
+<node id="340125"/>
+<node id="341146"/>
+<node id="18590"/>
+<node id="1070254"/>
+<node id="337563"/>
+<node id="337320"/>
+<node id="338088"/>
+<node id="341416"/>
+<node id="498085"/>
+<node id="460197"/>
+<node id="338338"/>
+<node id="459428"/>
+<node id="336548"/>
+<node id="1135256"/>
+<node id="341923"/>
+<node id="394927"/>
+<node id="523182"/>
+<node id="564900"/>
+<node id="772776"/>
+<node id="460468"/>
+<node id="339377"/>
+<node id="523187"/>
+<node id="337332"/>
+<node id="338355"/>
+<node id="460224"/>
+<node id="564914"/>
+<node id="337341"/>
+<node id="345024"/>
+<node id="459193"/>
+<node id="397754"/>
+<node id="772304"/>
+<node id="341699"/>
+<node id="339407"/>
+<node id="337866"/>
+<node id="337354"/>
+<node id="347596"/>
+<node id="395465"/>
+<node id="567239"/>
+<node id="26833"/>
+<node id="338134"/>
+<node id="338902"/>
+<node id="338389"/>
+<node id="465110"/>
+<node id="337367"/>
+<node id="523477"/>
+<node id="341458"/>
+<node id="522708"/>
+<node id="771552"/>
+<node id="652509"/>
+<node id="2166266"/>
+<node id="652504"/>
+<node id="626392"/>
+<node id="337371"/>
+<node id="488422"/>
+<node id="397796"/>
+<node id="1404894"/>
+<node id="16107"/>
+<node id="490988"/>
+<node id="340213"/>
+<node id="529658"/>
+<node id="624633"/>
+<node id="1405960"/>
+<node id="481522"/>
+<node id="460017"/>
+<node id="344576"/>
+<node id="624627"/>
+<node id="1406218"/>
+<node id="338169"/>
+<node id="653303"/>
+<node id="341766"/>
+<node id="527626"/>
+<node id="340485"/>
+<node id="470534"/>
+<node id="525835"/>
+<node id="1406200"/>
+<node id="463876"/>
+<node id="341249"/>
+<node id="527886"/>
+<node id="390403"/>
+<node id="28424"/>
+<node id="337934"/>
+<node id="653314"/>
+<node id="626696"/>
+<node id="624665"/>
+<node id="653337"/>
+<node id="653340"/>
+<node id="459806"/>
+<node id="624659"/>
+<node id="522269"/>
+<node id="653334"/>
+<node id="522012"/>
+<node id="653079"/>
+<node id="19234"/>
+<node id="337445"/>
+<node id="389928"/>
+<node id="623918"/>
+<node id="472610"/>
+<node id="652592"/>
+<node id="338990"/>
+<node id="337200"/>
+<node id="339760"/>
+<node id="25389"/>
+<node id="339242"/>
+<node id="653094"/>
+<node id="337193"/>
+<node id="631077"/>
+<node id="459817"/>
+<node id="522294"/>
+<node id="525628"/>
+<node id="337719"/>
+<node id="2166038"/>
+<node id="477236"/>
+<node id="341811"/>
+<node id="469568"/>
+<node id="524595"/>
+<node id="523837"/>
+<node id="337978"/>
+<node id="338245"/>
+<node id="467013"/>
+<node id="474437"/>
+<node id="523075"/>
+<node id="522817"/>
+<node id="602447"/>
+<node id="472400"/>
+<node id="2166314"/>
+<node id="29006"/>
+<node id="522825"/>
+<node id="1136191"/>
+<node id="1135679"/>
+<node id="524891"/>
+<node id="339287"/>
+<node id="531036"/>
+<node id="343122"/>
+<node id="338769"/>
+<node id="462432"/>
+<node id="336733"/>
+<node id="344413"/>
+<node id="392800"/>
+<node id="651859"/>
+<node id="625513"/>
+<node id="341861"/>
+<node id="625001"/>
+<node id="343912"/>
+<node id="625006"/>
+<node id="338273"/>
+<node id="683888"/>
+<node id="625005"/>
+<node id="462448"/>
+<node id="524902"/>
+<node id="625018"/>
+<node id="770937"/>
+<node id="652670"/>
+<node id="337265"/>
+<node id="466291"/>
+<node id="341364"/>
+<node id="337278"/>
+<node id="624243"/>
+<node id="630643"/>
+<node id="623990"/>
+<node id="625016"/>
+<node id="341638"/>
+<node id="338311"/>
+<node id="336769"/>
+<node id="6022"/>
+<node id="338308"/>
+<node id="392077"/>
+<node id="461199"/>
+<node id="1135225"/>
+<node id="772225"/>
+<node id="567686"/>
+<node id="1135232"/>
+<node id="565127"/>
+<edge id="654490-522708-net.sources" source="654490" target="522708">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="625050-338245-net.sources" source="625050" target="338245">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340629-623990-net.sources" source="340629" target="623990">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="398998-465110-net.sources" source="398998" target="465110">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="398998-338990-net.sources" source="398998" target="338990">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341146-338902-net.sources" source="341146" target="338902">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18590-651859-net.sources" source="18590" target="651859">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337563-525628-net.sources" source="337563" target="525628">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337320-524891-net.sources" source="337320" target="524891">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338088-460224-net.sources" source="338088" target="460224">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341416-343122-net.sources" source="341416" target="343122">
+	<data key="topic">net.sources</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="338338-2166038-net.sources" source="338338" target="2166038">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338338-477236-net.sources" source="338338" target="477236">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459428-472610-net.sources" source="459428" target="472610">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="564900-337193-net.sources" source="564900" target="337193">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="564900-343912-net.sources" source="564900" target="343912">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339377-390403-net.sources" source="339377" target="390403">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="523187-338134-net.sources" source="523187" target="338134">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="523187-340485-net.sources" source="523187" target="340485">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="523187-523837-net.sources" source="523187" target="523837">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338355-340213-net.sources" source="338355" target="340213">
+	<data key="topic">net.sources</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="564914-460197-net.sources" source="564914" target="460197">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="345024-624665-net.sources" source="345024" target="624665">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="397754-341699-net.sources" source="397754" target="341699">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="772304-1070254-net.sources" source="772304" target="1070254">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="772304-624633-net.sources" source="772304" target="624633">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="772304-625513-net.sources" source="772304" target="625513">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-624665-net.sources" source="337866" target="624665">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-338308-net.sources" source="337866" target="338308">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="395465-6022-net.sources" source="395465" target="6022">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338389-488422-net.sources" source="338389" target="488422">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337367-772776-net.sources" source="337367" target="772776">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="523477-462448-net.sources" source="523477" target="462448">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="523477-466291-net.sources" source="523477" target="466291">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341458-1406218-net.sources" source="341458" target="1406218">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341458-524891-net.sources" source="341458" target="524891">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="771552-772776-net.sources" source="771552" target="772776">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="626392-341364-net.sources" source="626392" target="341364">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337371-16107-net.sources" source="337371" target="16107">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="397796-772776-net.sources" source="397796" target="772776">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="397796-337367-net.sources" source="397796" target="337367">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="397796-625005-net.sources" source="397796" target="625005">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="490988-652592-net.sources" source="490988" target="652592">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340213-459817-net.sources" source="340213" target="459817">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340213-524891-net.sources" source="340213" target="524891">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="529658-343912-net.sources" source="529658" target="343912">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="624633-1070254-net.sources" source="624633" target="1070254">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460017-652504-net.sources" source="460017" target="652504">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460017-770937-net.sources" source="460017" target="770937">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="344576-653334-net.sources" source="344576" target="653334">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="624627-341811-net.sources" source="624627" target="341811">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338169-344413-net.sources" source="338169" target="344413">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="653303-564900-net.sources" source="653303" target="564900">
+	<data key="topic">net.sources</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="653303-337193-net.sources" source="653303" target="337193">
+	<data key="topic">net.sources</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="653303-343912-net.sources" source="653303" target="343912">
+	<data key="topic">net.sources</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="470534-631077-net.sources" source="470534" target="631077">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="525835-343912-net.sources" source="525835" target="343912">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1406200-337341-net.sources" source="1406200" target="337341">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="463876-338273-net.sources" source="463876" target="338273">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341249-1135232-net.sources" source="341249" target="1135232">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="527886-567239-net.sources" source="527886" target="567239">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337934-498085-net.sources" source="337934" target="498085">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337934-337193-net.sources" source="337934" target="337193">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="653314-481522-net.sources" source="653314" target="481522">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="626696-528538-net.sources" source="626696" target="528538">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="626696-338338-net.sources" source="626696" target="338338">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="626696-477236-net.sources" source="626696" target="477236">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459806-567239-net.sources" source="459806" target="567239">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459806-625016-net.sources" source="459806" target="625016">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="624659-338338-net.sources" source="624659" target="338338">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="624659-2166038-net.sources" source="624659" target="2166038">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="624659-624243-net.sources" source="624659" target="624243">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522012-337866-net.sources" source="522012" target="337866">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522012-343912-net.sources" source="522012" target="343912">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="653079-341638-net.sources" source="653079" target="341638">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19234-343912-net.sources" source="19234" target="343912">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="389928-336548-net.sources" source="389928" target="336548">
+	<data key="topic">net.sources</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="623918-394927-net.sources" source="623918" target="394927">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338990-465110-net.sources" source="338990" target="465110">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337200-26833-net.sources" source="337200" target="26833">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337200-340485-net.sources" source="337200" target="340485">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339760-338134-net.sources" source="339760" target="338134">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="25389-527626-net.sources" source="25389" target="527626">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="25389-336769-net.sources" source="25389" target="336769">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339242-459193-net.sources" source="339242" target="459193">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337193-343912-net.sources" source="337193" target="343912">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="631077-2166266-net.sources" source="631077" target="2166266">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522294-1405960-net.sources" source="522294" target="1405960">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337719-654490-net.sources" source="337719" target="654490">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="469568-394927-net.sources" source="469568" target="394927">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="469568-623918-net.sources" source="469568" target="623918">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337978-337332-net.sources" source="337978" target="337332">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="467013-459806-net.sources" source="467013" target="459806">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="467013-625016-net.sources" source="467013" target="625016">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="474437-337445-net.sources" source="474437" target="337445">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="474437-524595-net.sources" source="474437" target="524595">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522817-652509-net.sources" source="522817" target="652509">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522817-522825-net.sources" source="522817" target="522825">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="602447-1136289-net.sources" source="602447" target="1136289">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="472400-653337-net.sources" source="472400" target="653337">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="472400-653094-net.sources" source="472400" target="653094">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2166314-460197-net.sources" source="2166314" target="460197">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-347596-net.sources" source="29006" target="347596">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522825-652509-net.sources" source="522825" target="652509">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1135679-337563-net.sources" source="1135679" target="337563">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339287-344576-net.sources" source="339287" target="344576">
+	<data key="topic">net.sources</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="531036-522902-net.sources" source="531036" target="522902">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338769-344576-net.sources" source="338769" target="344576">
+	<data key="topic">net.sources</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="462432-341766-net.sources" source="462432" target="341766">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="336733-653340-net.sources" source="336733" target="653340">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392800-625052-net.sources" source="392800" target="625052">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341861-635807-net.sources" source="341861" target="635807">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="625001-522269-net.sources" source="625001" target="522269">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="625006-337278-net.sources" source="625006" target="337278">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="462448-466291-net.sources" source="462448" target="466291">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="524902-459806-net.sources" source="524902" target="459806">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="524902-625016-net.sources" source="524902" target="625016">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="625018-28424-net.sources" source="625018" target="28424">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="652670-343912-net.sources" source="652670" target="343912">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337265-338273-net.sources" source="337265" target="338273">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="624243-338338-net.sources" source="624243" target="338338">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="624243-2166038-net.sources" source="624243" target="2166038">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="630643-337866-net.sources" source="630643" target="337866">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="630643-522012-net.sources" source="630643" target="522012">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="623990-1135256-net.sources" source="623990" target="1135256">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="623990-523182-net.sources" source="623990" target="523182">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="623990-1136191-net.sources" source="623990" target="1136191">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341638-653094-net.sources" source="341638" target="653094">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338311-772304-net.sources" source="338311" target="772304">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338311-625513-net.sources" source="338311" target="625513">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338311-683888-net.sources" source="338311" target="683888">
+	<data key="topic">net.sources</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="338308-624665-net.sources" source="338308" target="624665">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392077-523075-net.sources" source="392077" target="523075">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="461199-337866-net.sources" source="461199" target="337866">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="461199-624665-net.sources" source="461199" target="624665">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="461199-338308-net.sources" source="461199" target="338308">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1135225-337866-net.sources" source="1135225" target="337866">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="772225-1404894-net.sources" source="772225" target="1404894">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="567686-337354-net.sources" source="567686" target="337354">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="567686-344413-net.sources" source="567686" target="344413">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="565127-26833-net.sources" source="565127" target="26833">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="565127-625005-net.sources" source="565127" target="625005">
+	<data key="topic">net.sources</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

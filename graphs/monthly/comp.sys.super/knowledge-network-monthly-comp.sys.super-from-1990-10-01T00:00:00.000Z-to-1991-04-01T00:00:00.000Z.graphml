@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="4433"/>
+<node id="348625"/>
+<node id="12310"/>
+<node id="433311"/>
+<node id="422176"/>
+<node id="376505"/>
+<node id="2631703"/>
+<node id="10399"/>
+<node id="2208"/>
+<node id="887923"/>
+<node id="10402"/>
+<node id="10406"/>
+<node id="401250"/>
+<node id="10408"/>
+<node id="1000"/>
+<node id="13611"/>
+<edge id="4433-401250-comp.sys.super" source="4433" target="401250">
+	<data key="topic">comp.sys.super</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348625-422176-comp.sys.super" source="348625" target="422176">
+	<data key="topic">comp.sys.super</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348625-2631703-comp.sys.super" source="348625" target="2631703">
+	<data key="topic">comp.sys.super</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="12310-10402-comp.sys.super" source="12310" target="10402">
+	<data key="topic">comp.sys.super</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="422176-348625-comp.sys.super" source="422176" target="348625">
+	<data key="topic">comp.sys.super</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="422176-2631703-comp.sys.super" source="422176" target="2631703">
+	<data key="topic">comp.sys.super</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="376505-348625-comp.sys.super" source="376505" target="348625">
+	<data key="topic">comp.sys.super</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="376505-422176-comp.sys.super" source="376505" target="422176">
+	<data key="topic">comp.sys.super</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="376505-2631703-comp.sys.super" source="376505" target="2631703">
+	<data key="topic">comp.sys.super</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10399-12310-comp.sys.super" source="10399" target="12310">
+	<data key="topic">comp.sys.super</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10399-10402-comp.sys.super" source="10399" target="10402">
+	<data key="topic">comp.sys.super</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2208-348625-comp.sys.super" source="2208" target="348625">
+	<data key="topic">comp.sys.super</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2208-422176-comp.sys.super" source="2208" target="422176">
+	<data key="topic">comp.sys.super</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2208-2631703-comp.sys.super" source="2208" target="2631703">
+	<data key="topic">comp.sys.super</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10406-433311-comp.sys.super" source="10406" target="433311">
+	<data key="topic">comp.sys.super</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10408-10402-comp.sys.super" source="10408" target="10402">
+	<data key="topic">comp.sys.super</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10408-1000-comp.sys.super" source="10408" target="1000">
+	<data key="topic">comp.sys.super</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="13611-887923-comp.sys.super" source="13611" target="887923">
+	<data key="topic">comp.sys.super</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="8450"/>
+<node id="446245"/>
+<node id="546876"/>
+<node id="348211"/>
+<node id="1601777"/>
+<node id="788769"/>
+<node id="2174"/>
+<node id="10607"/>
+<node id="838820"/>
+<edge id="8450-446245-talk.bizarre" source="8450" target="446245">
+	<data key="topic">talk.bizarre</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348211-1601777-talk.bizarre" source="348211" target="1601777">
+	<data key="topic">talk.bizarre</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348211-788769-talk.bizarre" source="348211" target="788769">
+	<data key="topic">talk.bizarre</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1601777-788769-talk.bizarre" source="1601777" target="788769">
+	<data key="topic">talk.bizarre</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2174-546876-talk.bizarre" source="2174" target="546876">
+	<data key="topic">talk.bizarre</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10607-838820-talk.bizarre" source="10607" target="838820">
+	<data key="topic">talk.bizarre</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="622890"/>
+<node id="399351"/>
+<node id="1311127"/>
+<node id="1090070"/>
+<node id="993913"/>
+<node id="17453"/>
+<edge id="622890-399351-talk.origins" source="622890" target="399351">
+	<data key="topic">talk.origins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="622890-1311127-talk.origins" source="622890" target="1311127">
+	<data key="topic">talk.origins</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="622890-1090070-talk.origins" source="622890" target="1090070">
+	<data key="topic">talk.origins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1311127-622890-talk.origins" source="1311127" target="622890">
+	<data key="topic">talk.origins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1311127-399351-talk.origins" source="1311127" target="399351">
+	<data key="topic">talk.origins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1311127-1090070-talk.origins" source="1311127" target="1090070">
+	<data key="topic">talk.origins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="993913-17453-talk.origins" source="993913" target="17453">
+	<data key="topic">talk.origins</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

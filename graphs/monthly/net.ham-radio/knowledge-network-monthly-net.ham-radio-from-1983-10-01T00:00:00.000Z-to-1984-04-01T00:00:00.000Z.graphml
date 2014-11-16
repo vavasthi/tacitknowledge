@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="532573"/>
+<node id="346673"/>
+<node id="563070"/>
+<node id="463474"/>
+<node id="460864"/>
+<node id="522496"/>
+<node id="346877"/>
+<node id="460383"/>
+<node id="392570"/>
+<node id="459643"/>
+<node id="460697"/>
+<node id="346439"/>
+<node id="459557"/>
+<node id="343170"/>
+<node id="521953"/>
+<node id="525217"/>
+<node id="343146"/>
+<node id="459755"/>
+<node id="463467"/>
+<node id="524584"/>
+<node id="341451"/>
+<edge id="563070-459557-net.ham-radio" source="563070" target="459557">
+	<data key="topic">net.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522496-460864-net.ham-radio" source="522496" target="460864">
+	<data key="topic">net.ham-radio</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="522496-463467-net.ham-radio" source="522496" target="463467">
+	<data key="topic">net.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="346877-525217-net.ham-radio" source="346877" target="525217">
+	<data key="topic">net.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460383-463467-net.ham-radio" source="460383" target="463467">
+	<data key="topic">net.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460383-341451-net.ham-radio" source="460383" target="341451">
+	<data key="topic">net.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459643-524584-net.ham-radio" source="459643" target="524584">
+	<data key="topic">net.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460697-392570-net.ham-radio" source="460697" target="392570">
+	<data key="topic">net.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="346439-343146-net.ham-radio" source="346439" target="343146">
+	<data key="topic">net.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459755-463474-net.ham-radio" source="459755" target="463474">
+	<data key="topic">net.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="463467-460864-net.ham-radio" source="463467" target="460864">
+	<data key="topic">net.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="463467-343170-net.ham-radio" source="463467" target="343170">
+	<data key="topic">net.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="463467-521953-net.ham-radio" source="463467" target="521953">
+	<data key="topic">net.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="524584-532573-net.ham-radio" source="524584" target="532573">
+	<data key="topic">net.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="524584-346673-net.ham-radio" source="524584" target="346673">
+	<data key="topic">net.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="524584-522496-net.ham-radio" source="524584" target="522496">
+	<data key="topic">net.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="524584-459643-net.ham-radio" source="524584" target="459643">
+	<data key="topic">net.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

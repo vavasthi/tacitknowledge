@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="621913"/>
+<node id="1744076"/>
+<node id="640955"/>
+<node id="15447"/>
+<node id="184"/>
+<node id="1744078"/>
+<node id="922"/>
+<node id="348669"/>
+<node id="1454992"/>
+<node id="863378"/>
+<node id="697752"/>
+<node id="348380"/>
+<node id="362662"/>
+<node id="374790"/>
+<node id="1008431"/>
+<node id="559692"/>
+<node id="3429"/>
+<node id="348643"/>
+<node id="1278901"/>
+<node id="854309"/>
+<node id="640963"/>
+<node id="854306"/>
+<node id="543398"/>
+<node id="364236"/>
+<edge id="621913-640955-comp.specification" source="621913" target="640955">
+	<data key="topic">comp.specification</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="621913-922-comp.specification" source="621913" target="922">
+	<data key="topic">comp.specification</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1744076-348669-comp.specification" source="1744076" target="348669">
+	<data key="topic">comp.specification</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15447-348643-comp.specification" source="15447" target="348643">
+	<data key="topic">comp.specification</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="15447-640963-comp.specification" source="15447" target="640963">
+	<data key="topic">comp.specification</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="15447-364236-comp.specification" source="15447" target="364236">
+	<data key="topic">comp.specification</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="184-1008431-comp.specification" source="184" target="1008431">
+	<data key="topic">comp.specification</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1744078-3429-comp.specification" source="1744078" target="3429">
+	<data key="topic">comp.specification</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="922-621913-comp.specification" source="922" target="621913">
+	<data key="topic">comp.specification</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="922-640955-comp.specification" source="922" target="640955">
+	<data key="topic">comp.specification</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="348380-1008431-comp.specification" source="348380" target="1008431">
+	<data key="topic">comp.specification</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362662-640955-comp.specification" source="362662" target="640955">
+	<data key="topic">comp.specification</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362662-348669-comp.specification" source="362662" target="348669">
+	<data key="topic">comp.specification</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="362662-1454992-comp.specification" source="362662" target="1454992">
+	<data key="topic">comp.specification</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362662-863378-comp.specification" source="362662" target="863378">
+	<data key="topic">comp.specification</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="362662-3429-comp.specification" source="362662" target="3429">
+	<data key="topic">comp.specification</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362662-854306-comp.specification" source="362662" target="854306">
+	<data key="topic">comp.specification</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="374790-1008431-comp.specification" source="374790" target="1008431">
+	<data key="topic">comp.specification</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="559692-348380-comp.specification" source="559692" target="348380">
+	<data key="topic">comp.specification</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="559692-1008431-comp.specification" source="559692" target="1008431">
+	<data key="topic">comp.specification</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3429-348669-comp.specification" source="3429" target="348669">
+	<data key="topic">comp.specification</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348643-15447-comp.specification" source="348643" target="15447">
+	<data key="topic">comp.specification</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348643-640963-comp.specification" source="348643" target="640963">
+	<data key="topic">comp.specification</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="640963-640955-comp.specification" source="640963" target="640955">
+	<data key="topic">comp.specification</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="640963-922-comp.specification" source="640963" target="922">
+	<data key="topic">comp.specification</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="854306-854309-comp.specification" source="854306" target="854309">
+	<data key="topic">comp.specification</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="543398-697752-comp.specification" source="543398" target="697752">
+	<data key="topic">comp.specification</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

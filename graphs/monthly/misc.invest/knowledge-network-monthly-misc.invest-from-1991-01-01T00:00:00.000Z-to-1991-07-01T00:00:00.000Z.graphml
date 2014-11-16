@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2867"/>
+<node id="1533924"/>
+<node id="379473"/>
+<node id="404125"/>
+<node id="36862"/>
+<node id="224"/>
+<node id="404103"/>
+<node id="13060"/>
+<node id="5029"/>
+<node id="950217"/>
+<node id="937799"/>
+<node id="5482"/>
+<node id="1174331"/>
+<node id="404107"/>
+<edge id="2867-1174331-misc.invest" source="2867" target="1174331">
+	<data key="topic">misc.invest</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="379473-2867-misc.invest" source="379473" target="2867">
+	<data key="topic">misc.invest</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="379473-1174331-misc.invest" source="379473" target="1174331">
+	<data key="topic">misc.invest</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="404125-404107-misc.invest" source="404125" target="404107">
+	<data key="topic">misc.invest</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36862-2867-misc.invest" source="36862" target="2867">
+	<data key="topic">misc.invest</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36862-1174331-misc.invest" source="36862" target="1174331">
+	<data key="topic">misc.invest</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="224-2867-misc.invest" source="224" target="2867">
+	<data key="topic">misc.invest</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="224-1174331-misc.invest" source="224" target="1174331">
+	<data key="topic">misc.invest</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="404103-404107-misc.invest" source="404103" target="404107">
+	<data key="topic">misc.invest</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="13060-404107-misc.invest" source="13060" target="404107">
+	<data key="topic">misc.invest</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="5029-13060-misc.invest" source="5029" target="13060">
+	<data key="topic">misc.invest</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="5029-404107-misc.invest" source="5029" target="404107">
+	<data key="topic">misc.invest</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="950217-937799-misc.invest" source="950217" target="937799">
+	<data key="topic">misc.invest</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5482-1533924-misc.invest" source="5482" target="1533924">
+	<data key="topic">misc.invest</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

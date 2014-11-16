@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2849"/>
+<node id="4673"/>
+<node id="9990"/>
+<node id="586560"/>
+<node id="353550"/>
+<node id="2812"/>
+<node id="644595"/>
+<node id="1302591"/>
+<edge id="2849-2812-alt.drugs" source="2849" target="2812">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2849-644595-alt.drugs" source="2849" target="644595">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2849-1302591-alt.drugs" source="2849" target="1302591">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4673-2849-alt.drugs" source="4673" target="2849">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4673-2812-alt.drugs" source="4673" target="2812">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4673-644595-alt.drugs" source="4673" target="644595">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="9990-2849-alt.drugs" source="9990" target="2849">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="9990-2812-alt.drugs" source="9990" target="2812">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="9990-644595-alt.drugs" source="9990" target="644595">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="9990-1302591-alt.drugs" source="9990" target="1302591">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="353550-586560-alt.drugs" source="353550" target="586560">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

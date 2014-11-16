@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="26833"/>
+<node id="2082"/>
+<node id="938555"/>
+<node id="781117"/>
+<node id="783709"/>
+<node id="2171"/>
+<node id="837848"/>
+<node id="10157"/>
+<node id="400859"/>
+<node id="385258"/>
+<node id="854129"/>
+<node id="403689"/>
+<edge id="2082-854129-alt.fractals" source="2082" target="854129">
+	<data key="topic">alt.fractals</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2082-403689-alt.fractals" source="2082" target="403689">
+	<data key="topic">alt.fractals</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="781117-2082-alt.fractals" source="781117" target="2082">
+	<data key="topic">alt.fractals</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="781117-854129-alt.fractals" source="781117" target="854129">
+	<data key="topic">alt.fractals</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="781117-403689-alt.fractals" source="781117" target="403689">
+	<data key="topic">alt.fractals</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="783709-385258-alt.fractals" source="783709" target="385258">
+	<data key="topic">alt.fractals</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2171-938555-alt.fractals" source="2171" target="938555">
+	<data key="topic">alt.fractals</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="837848-26833-alt.fractals" source="837848" target="26833">
+	<data key="topic">alt.fractals</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10157-854129-alt.fractals" source="10157" target="854129">
+	<data key="topic">alt.fractals</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10157-403689-alt.fractals" source="10157" target="403689">
+	<data key="topic">alt.fractals</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="400859-10157-alt.fractals" source="400859" target="10157">
+	<data key="topic">alt.fractals</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="400859-854129-alt.fractals" source="400859" target="854129">
+	<data key="topic">alt.fractals</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="400859-403689-alt.fractals" source="400859" target="403689">
+	<data key="topic">alt.fractals</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="403689-854129-alt.fractals" source="403689" target="854129">
+	<data key="topic">alt.fractals</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

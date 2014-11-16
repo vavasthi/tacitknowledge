@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="15462"/>
+<node id="21176"/>
+<node id="818844"/>
+<node id="18553"/>
+<node id="15178"/>
+<node id="963944"/>
+<node id="16816"/>
+<edge id="21176-15462-misc.kids" source="21176" target="15462">
+	<data key="topic">misc.kids</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="818844-15178-misc.kids" source="818844" target="15178">
+	<data key="topic">misc.kids</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="963944-18553-misc.kids" source="963944" target="18553">
+	<data key="topic">misc.kids</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16816-15462-misc.kids" source="16816" target="15462">
+	<data key="topic">misc.kids</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16816-21176-misc.kids" source="16816" target="21176">
+	<data key="topic">misc.kids</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

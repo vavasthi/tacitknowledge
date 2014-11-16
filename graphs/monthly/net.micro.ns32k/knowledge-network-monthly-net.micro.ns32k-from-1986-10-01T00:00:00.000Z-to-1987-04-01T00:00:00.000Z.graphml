@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="510759"/>
+<node id="1125251"/>
+<node id="6022"/>
+<node id="394290"/>
+<node id="919546"/>
+<node id="16987"/>
+<node id="502397"/>
+<node id="1126125"/>
+<node id="920642"/>
+<edge id="1125251-6022-net.micro.ns32k" source="1125251" target="6022">
+	<data key="topic">net.micro.ns32k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16987-510759-net.micro.ns32k" source="16987" target="510759">
+	<data key="topic">net.micro.ns32k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16987-394290-net.micro.ns32k" source="16987" target="394290">
+	<data key="topic">net.micro.ns32k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16987-919546-net.micro.ns32k" source="16987" target="919546">
+	<data key="topic">net.micro.ns32k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16987-502397-net.micro.ns32k" source="16987" target="502397">
+	<data key="topic">net.micro.ns32k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="920642-1126125-net.micro.ns32k" source="920642" target="1126125">
+	<data key="topic">net.micro.ns32k</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

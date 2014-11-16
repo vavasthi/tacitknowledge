@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2829278"/>
+<node id="2829934"/>
+<node id="2829426"/>
+<edge id="2829278-2829426-comp.databases.oracle.server" source="2829278" target="2829426">
+	<data key="topic">comp.databases.oracle.server</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2829934-2829278-comp.databases.oracle.server" source="2829934" target="2829278">
+	<data key="topic">comp.databases.oracle.server</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2829426-2829278-comp.databases.oracle.server" source="2829426" target="2829278">
+	<data key="topic">comp.databases.oracle.server</data>
+	<data key="weight">3</data>
+</edge>
+</graph>
+</graphml>

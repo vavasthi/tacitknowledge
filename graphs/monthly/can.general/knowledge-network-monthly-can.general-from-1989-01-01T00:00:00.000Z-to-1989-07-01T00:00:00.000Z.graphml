@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="707482"/>
+<node id="28308"/>
+<node id="32149"/>
+<node id="347921"/>
+<node id="597791"/>
+<node id="707476"/>
+<node id="749841"/>
+<node id="17436"/>
+<node id="707480"/>
+<node id="5919"/>
+<node id="707478"/>
+<node id="519976"/>
+<node id="520104"/>
+<node id="704809"/>
+<node id="2700111"/>
+<node id="800300"/>
+<node id="739875"/>
+<node id="3500"/>
+<node id="519849"/>
+<node id="704443"/>
+<node id="2162321"/>
+<node id="705338"/>
+<node id="1079"/>
+<node id="20026"/>
+<node id="800310"/>
+<node id="371904"/>
+<node id="27451"/>
+<node id="36795"/>
+<node id="363706"/>
+<node id="702392"/>
+<node id="31423"/>
+<node id="347324"/>
+<node id="7360"/>
+<node id="719692"/>
+<node id="399173"/>
+<node id="519877"/>
+<node id="1682494"/>
+<node id="869193"/>
+<node id="1682493"/>
+<node id="518979"/>
+<node id="694864"/>
+<node id="11719"/>
+<node id="10568"/>
+<node id="1205307"/>
+<node id="17609"/>
+<node id="515022"/>
+<node id="29006"/>
+<node id="801602"/>
+<node id="740806"/>
+<node id="371148"/>
+<node id="549448"/>
+<node id="513112"/>
+<node id="719707"/>
+<node id="698076"/>
+<node id="25810"/>
+<node id="504150"/>
+<node id="749792"/>
+<node id="509023"/>
+<node id="428125"/>
+<node id="29660"/>
+<node id="20063"/>
+<node id="749801"/>
+<node id="31333"/>
+<node id="499683"/>
+<node id="749806"/>
+<node id="36584"/>
+<node id="510320"/>
+<node id="16106"/>
+<node id="512239"/>
+<node id="16623"/>
+<node id="1985935"/>
+<node id="498552"/>
+<node id="405112"/>
+<node id="710780"/>
+<node id="1170433"/>
+<node id="1246082"/>
+<node id="424822"/>
+<node id="510705"/>
+<node id="2812"/>
+<node id="739704"/>
+<node id="749686"/>
+<node id="17537"/>
+<node id="10498"/>
+<node id="554382"/>
+<node id="426242"/>
+<node id="516737"/>
+<node id="749826"/>
+<node id="519950"/>
+<node id="518157"/>
+<node id="641542"/>
+<node id="23311"/>
+<node id="1259390"/>
+<node id="2107760"/>
+<edge id="707482-28308-can.general" source="707482" target="28308">
+	<data key="topic">can.general</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="707482-705338-can.general" source="707482" target="705338">
+	<data key="topic">can.general</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="707482-363706-can.general" source="707482" target="363706">
+	<data key="topic">can.general</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="707482-698076-can.general" source="707482" target="698076">
+	<data key="topic">can.general</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="707482-1170433-can.general" source="707482" target="1170433">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28308-707482-can.general" source="28308" target="707482">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="32149-519976-can.general" source="32149" target="519976">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="32149-520104-can.general" source="32149" target="520104">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347921-519976-can.general" source="347921" target="519976">
+	<data key="topic">can.general</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="347921-520104-can.general" source="347921" target="520104">
+	<data key="topic">can.general</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="347921-2700111-can.general" source="347921" target="2700111">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347921-3500-can.general" source="347921" target="3500">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347921-513112-can.general" source="347921" target="513112">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347921-509023-can.general" source="347921" target="509023">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347921-510320-can.general" source="347921" target="510320">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="707476-707482-can.general" source="707476" target="707482">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="707476-705338-can.general" source="707476" target="705338">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="707476-363706-can.general" source="707476" target="363706">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="707476-698076-can.general" source="707476" target="698076">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17436-16623-can.general" source="17436" target="16623">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="707480-597791-can.general" source="707480" target="597791">
+	<data key="topic">can.general</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="707480-707478-can.general" source="707480" target="707478">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="520104-519976-can.general" source="520104" target="519976">
+	<data key="topic">can.general</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="520104-719707-can.general" source="520104" target="719707">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="520104-29660-can.general" source="520104" target="29660">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="520104-510320-can.general" source="520104" target="510320">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="520104-16623-can.general" source="520104" target="16623">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="520104-554382-can.general" source="520104" target="554382">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="520104-749826-can.general" source="520104" target="749826">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="704809-719707-can.general" source="704809" target="719707">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="739875-520104-can.general" source="739875" target="520104">
+	<data key="topic">can.general</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="739875-29660-can.general" source="739875" target="29660">
+	<data key="topic">can.general</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="739875-499683-can.general" source="739875" target="499683">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="739875-16623-can.general" source="739875" target="16623">
+	<data key="topic">can.general</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="739875-749826-can.general" source="739875" target="749826">
+	<data key="topic">can.general</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="3500-2700111-can.general" source="3500" target="2700111">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3500-513112-can.general" source="3500" target="513112">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3500-509023-can.general" source="3500" target="509023">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="519849-2162321-can.general" source="519849" target="2162321">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="519849-16623-can.general" source="519849" target="16623">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="704443-740806-can.general" source="704443" target="740806">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="704443-710780-can.general" source="704443" target="710780">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2162321-739875-can.general" source="2162321" target="739875">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2162321-16623-can.general" source="2162321" target="16623">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2162321-749826-can.general" source="2162321" target="749826">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="705338-749841-can.general" source="705338" target="749841">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="705338-7360-can.general" source="705338" target="7360">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="705338-749792-can.general" source="705338" target="749792">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="705338-749806-can.general" source="705338" target="749806">
+	<data key="topic">can.general</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1079-749826-can.general" source="1079" target="749826">
+	<data key="topic">can.general</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="20026-800310-can.general" source="20026" target="800310">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20026-399173-can.general" source="20026" target="399173">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20026-498552-can.general" source="20026" target="498552">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20026-424822-can.general" source="20026" target="424822">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="371904-707482-can.general" source="371904" target="707482">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="27451-16106-can.general" source="27451" target="16106">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="27451-641542-can.general" source="27451" target="641542">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36795-519976-can.general" source="36795" target="519976">
+	<data key="topic">can.general</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="36795-520104-can.general" source="36795" target="520104">
+	<data key="topic">can.general</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="36795-17609-can.general" source="36795" target="17609">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36795-510320-can.general" source="36795" target="510320">
+	<data key="topic">can.general</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="36795-516737-can.general" source="36795" target="516737">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36795-518157-can.general" source="36795" target="518157">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="363706-707482-can.general" source="363706" target="707482">
+	<data key="topic">can.general</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="363706-28308-can.general" source="363706" target="28308">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="363706-27451-can.general" source="363706" target="27451">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="363706-1170433-can.general" source="363706" target="1170433">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="702392-749841-can.general" source="702392" target="749841">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="31423-740806-can.general" source="31423" target="740806">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347324-17436-can.general" source="347324" target="17436">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7360-749841-can.general" source="7360" target="749841">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7360-749792-can.general" source="7360" target="749792">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7360-749806-can.general" source="7360" target="749806">
+	<data key="topic">can.general</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="719692-597791-can.general" source="719692" target="597791">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="719692-707480-can.general" source="719692" target="707480">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="519877-10568-can.general" source="519877" target="10568">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1682494-1682493-can.general" source="1682494" target="1682493">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="518979-363706-can.general" source="518979" target="363706">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="518979-698076-can.general" source="518979" target="698076">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="694864-29006-can.general" source="694864" target="29006">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="694864-16106-can.general" source="694864" target="16106">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="694864-519950-can.general" source="694864" target="519950">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11719-869193-can.general" source="11719" target="869193">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11719-25810-can.general" source="11719" target="25810">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11719-1985935-can.general" source="11719" target="1985935">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11719-518157-can.general" source="11719" target="518157">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17609-519976-can.general" source="17609" target="519976">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17609-520104-can.general" source="17609" target="520104">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17609-510320-can.general" source="17609" target="510320">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="515022-5919-can.general" source="515022" target="5919">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="515022-869193-can.general" source="515022" target="869193">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-749841-can.general" source="29006" target="749841">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-740806-can.general" source="29006" target="740806">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-749792-can.general" source="29006" target="749792">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-749801-can.general" source="29006" target="749801">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-749806-can.general" source="29006" target="749806">
+	<data key="topic">can.general</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="29006-424822-can.general" source="29006" target="424822">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="801602-719707-can.general" source="801602" target="719707">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="801602-428125-can.general" source="801602" target="428125">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="801602-554382-can.general" source="801602" target="554382">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="740806-17436-can.general" source="740806" target="17436">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="740806-710780-can.general" source="740806" target="710780">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="740806-424822-can.general" source="740806" target="424822">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="371148-17436-can.general" source="371148" target="17436">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="513112-2700111-can.general" source="513112" target="2700111">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="513112-509023-can.general" source="513112" target="509023">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="719707-17436-can.general" source="719707" target="17436">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="719707-554382-can.general" source="719707" target="554382">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="698076-363706-can.general" source="698076" target="363706">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="749792-749841-can.general" source="749792" target="749841">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="749792-749806-can.general" source="749792" target="749806">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509023-2700111-can.general" source="509023" target="2700111">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29660-16623-can.general" source="29660" target="16623">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29660-749826-can.general" source="29660" target="749826">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20063-707482-can.general" source="20063" target="707482">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20063-371904-can.general" source="20063" target="371904">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="749801-749841-can.general" source="749801" target="749841">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="749801-749792-can.general" source="749801" target="749792">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="749801-749806-can.general" source="749801" target="749806">
+	<data key="topic">can.general</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="31333-869193-can.general" source="31333" target="869193">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="31333-426242-can.general" source="31333" target="426242">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="499683-520104-can.general" source="499683" target="520104">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="499683-739875-can.general" source="499683" target="739875">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="499683-29660-can.general" source="499683" target="29660">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="499683-16623-can.general" source="499683" target="16623">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="499683-749826-can.general" source="499683" target="749826">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="749806-749841-can.general" source="749806" target="749841">
+	<data key="topic">can.general</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="749806-740806-can.general" source="749806" target="740806">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="749806-749792-can.general" source="749806" target="749792">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="749806-710780-can.general" source="749806" target="710780">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36584-707482-can.general" source="36584" target="707482">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36584-28308-can.general" source="36584" target="28308">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510320-519976-can.general" source="510320" target="519976">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510320-520104-can.general" source="510320" target="520104">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16106-749841-can.general" source="16106" target="749841">
+	<data key="topic">can.general</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="16106-17436-can.general" source="16106" target="17436">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16106-704443-can.general" source="16106" target="704443">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16106-1682493-can.general" source="16106" target="1682493">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16106-1205307-can.general" source="16106" target="1205307">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16106-29006-can.general" source="16106" target="29006">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16106-740806-can.general" source="16106" target="740806">
+	<data key="topic">can.general</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="16106-549448-can.general" source="16106" target="549448">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16106-749792-can.general" source="16106" target="749792">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16106-749801-can.general" source="16106" target="749801">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16106-749806-can.general" source="16106" target="749806">
+	<data key="topic">can.general</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="16106-16623-can.general" source="16106" target="16623">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16106-405112-can.general" source="16106" target="405112">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16106-710780-can.general" source="16106" target="710780">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16106-424822-can.general" source="16106" target="424822">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16106-10498-can.general" source="16106" target="10498">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="512239-740806-can.general" source="512239" target="740806">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="512239-710780-can.general" source="512239" target="710780">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16623-749841-can.general" source="16623" target="749841">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16623-29006-can.general" source="16623" target="29006">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16623-749806-can.general" source="16623" target="749806">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16623-16106-can.general" source="16623" target="16106">
+	<data key="topic">can.general</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="405112-749841-can.general" source="405112" target="749841">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="405112-749806-can.general" source="405112" target="749806">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="710780-740806-can.general" source="710780" target="740806">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1170433-707482-can.general" source="1170433" target="707482">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1170433-28308-can.general" source="1170433" target="28308">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1246082-16106-can.general" source="1246082" target="16106">
+	<data key="topic">can.general</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="424822-2700111-can.general" source="424822" target="2700111">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="424822-740806-can.general" source="424822" target="740806">
+	<data key="topic">can.general</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="424822-16106-can.general" source="424822" target="16106">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510705-1682493-can.general" source="510705" target="1682493">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2812-707482-can.general" source="2812" target="707482">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2812-698076-can.general" source="2812" target="698076">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="739704-3500-can.general" source="739704" target="3500">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="739704-23311-can.general" source="739704" target="23311">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="749686-749841-can.general" source="749686" target="749841">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="749686-749806-can.general" source="749686" target="749806">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="749686-16623-can.general" source="749686" target="16623">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17537-16106-can.general" source="17537" target="16106">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17537-641542-can.general" source="17537" target="641542">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10498-17436-can.general" source="10498" target="17436">
+	<data key="topic">can.general</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="10498-16106-can.general" source="10498" target="16106">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="554382-597791-can.general" source="554382" target="597791">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="554382-707480-can.general" source="554382" target="707480">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="554382-707478-can.general" source="554382" target="707478">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="554382-16106-can.general" source="554382" target="16106">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="554382-1246082-can.general" source="554382" target="1246082">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="426242-31333-can.general" source="426242" target="31333">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="516737-11719-can.general" source="516737" target="11719">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="516737-25810-can.general" source="516737" target="25810">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="749826-16623-can.general" source="749826" target="16623">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="519950-29006-can.general" source="519950" target="29006">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="519950-16106-can.general" source="519950" target="16106">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="518157-519976-can.general" source="518157" target="519976">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="518157-520104-can.general" source="518157" target="520104">
+	<data key="topic">can.general</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="518157-869193-can.general" source="518157" target="869193">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="518157-510320-can.general" source="518157" target="510320">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="641542-16106-can.general" source="641542" target="16106">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23311-3500-can.general" source="23311" target="3500">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1259390-800300-can.general" source="1259390" target="800300">
+	<data key="topic">can.general</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1259390-399173-can.general" source="1259390" target="399173">
+	<data key="topic">can.general</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1259390-504150-can.general" source="1259390" target="504150">
+	<data key="topic">can.general</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1259390-498552-can.general" source="1259390" target="498552">
+	<data key="topic">can.general</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1259390-424822-can.general" source="1259390" target="424822">
+	<data key="topic">can.general</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2107760-869193-can.general" source="2107760" target="869193">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2107760-11719-can.general" source="2107760" target="11719">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2107760-1985935-can.general" source="2107760" target="1985935">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2107760-518157-can.general" source="2107760" target="518157">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

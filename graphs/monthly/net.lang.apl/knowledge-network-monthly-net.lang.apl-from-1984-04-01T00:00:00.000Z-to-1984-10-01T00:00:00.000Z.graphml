@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="532634"/>
+<node id="462177"/>
+<node id="1144055"/>
+<node id="919674"/>
+<node id="532641"/>
+<node id="462448"/>
+<node id="651956"/>
+<node id="524885"/>
+<node id="521820"/>
+<node id="525574"/>
+<edge id="532634-462177-net.lang.apl" source="532634" target="462177">
+	<data key="topic">net.lang.apl</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="532634-919674-net.lang.apl" source="532634" target="919674">
+	<data key="topic">net.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="532634-532641-net.lang.apl" source="532634" target="532641">
+	<data key="topic">net.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="532634-462448-net.lang.apl" source="532634" target="462448">
+	<data key="topic">net.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="532634-524885-net.lang.apl" source="532634" target="524885">
+	<data key="topic">net.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="462177-1144055-net.lang.apl" source="462177" target="1144055">
+	<data key="topic">net.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="462177-532641-net.lang.apl" source="462177" target="532641">
+	<data key="topic">net.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="462177-524885-net.lang.apl" source="462177" target="524885">
+	<data key="topic">net.lang.apl</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="462177-521820-net.lang.apl" source="462177" target="521820">
+	<data key="topic">net.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="462448-532641-net.lang.apl" source="462448" target="532641">
+	<data key="topic">net.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="462448-524885-net.lang.apl" source="462448" target="524885">
+	<data key="topic">net.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="651956-525574-net.lang.apl" source="651956" target="525574">
+	<data key="topic">net.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

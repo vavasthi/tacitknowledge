@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="996832"/>
+<node id="3601"/>
+<node id="880253"/>
+<node id="734490"/>
+<node id="3513"/>
+<node id="365184"/>
+<node id="365210"/>
+<node id="404168"/>
+<node id="3555"/>
+<node id="379204"/>
+<node id="435631"/>
+<node id="1444927"/>
+<node id="379183"/>
+<node id="1100252"/>
+<edge id="3601-435631-ba.windows.x" source="3601" target="435631">
+	<data key="topic">ba.windows.x</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="734490-404168-ba.windows.x" source="734490" target="404168">
+	<data key="topic">ba.windows.x</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3513-379183-ba.windows.x" source="3513" target="379183">
+	<data key="topic">ba.windows.x</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="365184-1444927-ba.windows.x" source="365184" target="1444927">
+	<data key="topic">ba.windows.x</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="365210-880253-ba.windows.x" source="365210" target="880253">
+	<data key="topic">ba.windows.x</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3555-996832-ba.windows.x" source="3555" target="996832">
+	<data key="topic">ba.windows.x</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3555-1100252-ba.windows.x" source="3555" target="1100252">
+	<data key="topic">ba.windows.x</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="379204-996832-ba.windows.x" source="379204" target="996832">
+	<data key="topic">ba.windows.x</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1444927-365184-ba.windows.x" source="1444927" target="365184">
+	<data key="topic">ba.windows.x</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

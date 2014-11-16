@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="512024"/>
+<node id="494038"/>
+<node id="1513509"/>
+<node id="391315"/>
+<node id="2481344"/>
+<node id="1122924"/>
+<node id="15836"/>
+<node id="1576679"/>
+<node id="464998"/>
+<node id="466092"/>
+<node id="485612"/>
+<node id="392937"/>
+<node id="460843"/>
+<node id="753024"/>
+<node id="1372749"/>
+<node id="1584068"/>
+<node id="1575044"/>
+<node id="483963"/>
+<node id="340220"/>
+<node id="1124816"/>
+<node id="337229"/>
+<node id="399245"/>
+<node id="2676835"/>
+<node id="487885"/>
+<node id="391433"/>
+<edge id="512024-466092-net.lang.st80" source="512024" target="466092">
+	<data key="topic">net.lang.st80</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="512024-460843-net.lang.st80" source="512024" target="460843">
+	<data key="topic">net.lang.st80</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="494038-391315-net.lang.st80" source="494038" target="391315">
+	<data key="topic">net.lang.st80</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="494038-464998-net.lang.st80" source="494038" target="464998">
+	<data key="topic">net.lang.st80</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="494038-483963-net.lang.st80" source="494038" target="483963">
+	<data key="topic">net.lang.st80</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1513509-1575044-net.lang.st80" source="1513509" target="1575044">
+	<data key="topic">net.lang.st80</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391315-494038-net.lang.st80" source="391315" target="494038">
+	<data key="topic">net.lang.st80</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391315-483963-net.lang.st80" source="391315" target="483963">
+	<data key="topic">net.lang.st80</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="15836-2481344-net.lang.st80" source="15836" target="2481344">
+	<data key="topic">net.lang.st80</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15836-1584068-net.lang.st80" source="15836" target="1584068">
+	<data key="topic">net.lang.st80</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15836-487885-net.lang.st80" source="15836" target="487885">
+	<data key="topic">net.lang.st80</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1576679-1584068-net.lang.st80" source="1576679" target="1584068">
+	<data key="topic">net.lang.st80</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="464998-494038-net.lang.st80" source="464998" target="494038">
+	<data key="topic">net.lang.st80</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="485612-1124816-net.lang.st80" source="485612" target="1124816">
+	<data key="topic">net.lang.st80</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="485612-2676835-net.lang.st80" source="485612" target="2676835">
+	<data key="topic">net.lang.st80</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392937-753024-net.lang.st80" source="392937" target="753024">
+	<data key="topic">net.lang.st80</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460843-466092-net.lang.st80" source="460843" target="466092">
+	<data key="topic">net.lang.st80</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1372749-2676835-net.lang.st80" source="1372749" target="2676835">
+	<data key="topic">net.lang.st80</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340220-1122924-net.lang.st80" source="340220" target="1122924">
+	<data key="topic">net.lang.st80</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1124816-2676835-net.lang.st80" source="1124816" target="2676835">
+	<data key="topic">net.lang.st80</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337229-494038-net.lang.st80" source="337229" target="494038">
+	<data key="topic">net.lang.st80</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337229-464998-net.lang.st80" source="337229" target="464998">
+	<data key="topic">net.lang.st80</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="399245-15836-net.lang.st80" source="399245" target="15836">
+	<data key="topic">net.lang.st80</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="399245-1584068-net.lang.st80" source="399245" target="1584068">
+	<data key="topic">net.lang.st80</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391433-340220-net.lang.st80" source="391433" target="340220">
+	<data key="topic">net.lang.st80</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

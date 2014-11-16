@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2180018"/>
+<node id="2180338"/>
+<node id="2175730"/>
+<node id="2179763"/>
+<node id="2179701"/>
+<node id="2778430"/>
+<node id="2181118"/>
+<node id="172125"/>
+<node id="2181504"/>
+<node id="2786380"/>
+<node id="43429"/>
+<node id="2197381"/>
+<node id="2184071"/>
+<node id="172265"/>
+<node id="2180044"/>
+<node id="163178"/>
+<node id="2205198"/>
+<node id="2181968"/>
+<node id="2199632"/>
+<node id="2175887"/>
+<node id="2176210"/>
+<node id="2179282"/>
+<node id="2175889"/>
+<node id="2179926"/>
+<node id="2177241"/>
+<node id="2189917"/>
+<node id="2800470"/>
+<node id="2182239"/>
+<node id="2302180"/>
+<node id="2786338"/>
+<node id="2182125"/>
+<node id="2175855"/>
+<edge id="2180018-2184071-comp.unix.solaris" source="2180018" target="2184071">
+	<data key="topic">comp.unix.solaris</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2180338-2180018-comp.unix.solaris" source="2180338" target="2180018">
+	<data key="topic">comp.unix.solaris</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2180338-172265-comp.unix.solaris" source="2180338" target="172265">
+	<data key="topic">comp.unix.solaris</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2180338-2175889-comp.unix.solaris" source="2180338" target="2175889">
+	<data key="topic">comp.unix.solaris</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2175730-2180018-comp.unix.solaris" source="2175730" target="2180018">
+	<data key="topic">comp.unix.solaris</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2175730-2179926-comp.unix.solaris" source="2175730" target="2179926">
+	<data key="topic">comp.unix.solaris</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2179763-2180018-comp.unix.solaris" source="2179763" target="2180018">
+	<data key="topic">comp.unix.solaris</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2778430-2180018-comp.unix.solaris" source="2778430" target="2180018">
+	<data key="topic">comp.unix.solaris</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2778430-2177241-comp.unix.solaris" source="2778430" target="2177241">
+	<data key="topic">comp.unix.solaris</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2181118-2180018-comp.unix.solaris" source="2181118" target="2180018">
+	<data key="topic">comp.unix.solaris</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="172125-2179701-comp.unix.solaris" source="172125" target="2179701">
+	<data key="topic">comp.unix.solaris</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2181504-2180018-comp.unix.solaris" source="2181504" target="2180018">
+	<data key="topic">comp.unix.solaris</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2786380-2786338-comp.unix.solaris" source="2786380" target="2786338">
+	<data key="topic">comp.unix.solaris</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="43429-2180018-comp.unix.solaris" source="43429" target="2180018">
+	<data key="topic">comp.unix.solaris</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="43429-2181968-comp.unix.solaris" source="43429" target="2181968">
+	<data key="topic">comp.unix.solaris</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="43429-2175889-comp.unix.solaris" source="43429" target="2175889">
+	<data key="topic">comp.unix.solaris</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="43429-2182125-comp.unix.solaris" source="43429" target="2182125">
+	<data key="topic">comp.unix.solaris</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="43429-2175855-comp.unix.solaris" source="43429" target="2175855">
+	<data key="topic">comp.unix.solaris</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2197381-2302180-comp.unix.solaris" source="2197381" target="2302180">
+	<data key="topic">comp.unix.solaris</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2184071-2180018-comp.unix.solaris" source="2184071" target="2180018">
+	<data key="topic">comp.unix.solaris</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="172265-2180018-comp.unix.solaris" source="172265" target="2180018">
+	<data key="topic">comp.unix.solaris</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="172265-2180338-comp.unix.solaris" source="172265" target="2180338">
+	<data key="topic">comp.unix.solaris</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="172265-2175889-comp.unix.solaris" source="172265" target="2175889">
+	<data key="topic">comp.unix.solaris</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2180044-2180018-comp.unix.solaris" source="2180044" target="2180018">
+	<data key="topic">comp.unix.solaris</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="163178-2179701-comp.unix.solaris" source="163178" target="2179701">
+	<data key="topic">comp.unix.solaris</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2205198-2180018-comp.unix.solaris" source="2205198" target="2180018">
+	<data key="topic">comp.unix.solaris</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2205198-2778430-comp.unix.solaris" source="2205198" target="2778430">
+	<data key="topic">comp.unix.solaris</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2205198-2177241-comp.unix.solaris" source="2205198" target="2177241">
+	<data key="topic">comp.unix.solaris</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2181968-2180018-comp.unix.solaris" source="2181968" target="2180018">
+	<data key="topic">comp.unix.solaris</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2199632-2179701-comp.unix.solaris" source="2199632" target="2179701">
+	<data key="topic">comp.unix.solaris</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2199632-163178-comp.unix.solaris" source="2199632" target="163178">
+	<data key="topic">comp.unix.solaris</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2175887-2180018-comp.unix.solaris" source="2175887" target="2180018">
+	<data key="topic">comp.unix.solaris</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2176210-2180018-comp.unix.solaris" source="2176210" target="2180018">
+	<data key="topic">comp.unix.solaris</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2179282-2180018-comp.unix.solaris" source="2179282" target="2180018">
+	<data key="topic">comp.unix.solaris</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2175889-2180018-comp.unix.solaris" source="2175889" target="2180018">
+	<data key="topic">comp.unix.solaris</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="2175889-2180338-comp.unix.solaris" source="2175889" target="2180338">
+	<data key="topic">comp.unix.solaris</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2175889-2181968-comp.unix.solaris" source="2175889" target="2181968">
+	<data key="topic">comp.unix.solaris</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2175889-2182125-comp.unix.solaris" source="2175889" target="2182125">
+	<data key="topic">comp.unix.solaris</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2179926-2180018-comp.unix.solaris" source="2179926" target="2180018">
+	<data key="topic">comp.unix.solaris</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2177241-2180018-comp.unix.solaris" source="2177241" target="2180018">
+	<data key="topic">comp.unix.solaris</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2177241-2800470-comp.unix.solaris" source="2177241" target="2800470">
+	<data key="topic">comp.unix.solaris</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2189917-2179701-comp.unix.solaris" source="2189917" target="2179701">
+	<data key="topic">comp.unix.solaris</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2189917-163178-comp.unix.solaris" source="2189917" target="163178">
+	<data key="topic">comp.unix.solaris</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2189917-2199632-comp.unix.solaris" source="2189917" target="2199632">
+	<data key="topic">comp.unix.solaris</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2182239-2180018-comp.unix.solaris" source="2182239" target="2180018">
+	<data key="topic">comp.unix.solaris</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2182125-2180018-comp.unix.solaris" source="2182125" target="2180018">
+	<data key="topic">comp.unix.solaris</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2182125-2181968-comp.unix.solaris" source="2182125" target="2181968">
+	<data key="topic">comp.unix.solaris</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2175855-2180018-comp.unix.solaris" source="2175855" target="2180018">
+	<data key="topic">comp.unix.solaris</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2175855-2181968-comp.unix.solaris" source="2175855" target="2181968">
+	<data key="topic">comp.unix.solaris</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2175855-2175889-comp.unix.solaris" source="2175855" target="2175889">
+	<data key="topic">comp.unix.solaris</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2175855-2182125-comp.unix.solaris" source="2175855" target="2182125">
+	<data key="topic">comp.unix.solaris</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

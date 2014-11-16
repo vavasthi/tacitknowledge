@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="393094"/>
+<node id="395223"/>
+<node id="16721"/>
+<node id="390309"/>
+<node id="398981"/>
+<node id="398996"/>
+<node id="36889"/>
+<node id="14922"/>
+<node id="16634"/>
+<node id="1091084"/>
+<node id="398985"/>
+<edge id="393094-398996-news.newsites" source="393094" target="398996">
+	<data key="topic">news.newsites</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16721-1091084-news.newsites" source="16721" target="1091084">
+	<data key="topic">news.newsites</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390309-393094-news.newsites" source="390309" target="393094">
+	<data key="topic">news.newsites</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390309-398996-news.newsites" source="390309" target="398996">
+	<data key="topic">news.newsites</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390309-14922-news.newsites" source="390309" target="14922">
+	<data key="topic">news.newsites</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14922-393094-news.newsites" source="14922" target="393094">
+	<data key="topic">news.newsites</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14922-398996-news.newsites" source="14922" target="398996">
+	<data key="topic">news.newsites</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16634-395223-news.newsites" source="16634" target="395223">
+	<data key="topic">news.newsites</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16634-36889-news.newsites" source="16634" target="36889">
+	<data key="topic">news.newsites</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="398985-398981-news.newsites" source="398985" target="398981">
+	<data key="topic">news.newsites</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

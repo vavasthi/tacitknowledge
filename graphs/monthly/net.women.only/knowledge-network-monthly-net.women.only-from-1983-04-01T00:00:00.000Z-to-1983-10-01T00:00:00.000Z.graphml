@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="461592"/>
+<node id="460544"/>
+<node id="461279"/>
+<node id="459806"/>
+<node id="460038"/>
+<node id="341186"/>
+<node id="564782"/>
+<node id="1424305"/>
+<node id="337220"/>
+<node id="459746"/>
+<node id="459330"/>
+<node id="652098"/>
+<node id="459660"/>
+<edge id="461592-341186-net.women.only" source="461592" target="341186">
+	<data key="topic">net.women.only</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460544-461279-net.women.only" source="460544" target="461279">
+	<data key="topic">net.women.only</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460544-1424305-net.women.only" source="460544" target="1424305">
+	<data key="topic">net.women.only</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="461279-1424305-net.women.only" source="461279" target="1424305">
+	<data key="topic">net.women.only</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459806-1424305-net.women.only" source="459806" target="1424305">
+	<data key="topic">net.women.only</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460038-459330-net.women.only" source="460038" target="459330">
+	<data key="topic">net.women.only</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337220-564782-net.women.only" source="337220" target="564782">
+	<data key="topic">net.women.only</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459746-460038-net.women.only" source="459746" target="460038">
+	<data key="topic">net.women.only</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459746-459330-net.women.only" source="459746" target="459330">
+	<data key="topic">net.women.only</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="652098-459660-net.women.only" source="652098" target="459660">
+	<data key="topic">net.women.only</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

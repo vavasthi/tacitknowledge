@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="367317"/>
+<node id="400360"/>
+<node id="1289095"/>
+<node id="402801"/>
+<node id="378890"/>
+<node id="1961441"/>
+<node id="991"/>
+<edge id="367317-402801-comp.ibm.pc.misc" source="367317" target="402801">
+	<data key="topic">comp.ibm.pc.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="400360-378890-comp.ibm.pc.misc" source="400360" target="378890">
+	<data key="topic">comp.ibm.pc.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1289095-1961441-comp.ibm.pc.misc" source="1289095" target="1961441">
+	<data key="topic">comp.ibm.pc.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="378890-1289095-comp.ibm.pc.misc" source="378890" target="1289095">
+	<data key="topic">comp.ibm.pc.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="378890-1961441-comp.ibm.pc.misc" source="378890" target="1961441">
+	<data key="topic">comp.ibm.pc.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="378890-991-comp.ibm.pc.misc" source="378890" target="991">
+	<data key="topic">comp.ibm.pc.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="991-1289095-comp.ibm.pc.misc" source="991" target="1289095">
+	<data key="topic">comp.ibm.pc.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="991-378890-comp.ibm.pc.misc" source="991" target="378890">
+	<data key="topic">comp.ibm.pc.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="991-1961441-comp.ibm.pc.misc" source="991" target="1961441">
+	<data key="topic">comp.ibm.pc.misc</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

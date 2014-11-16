@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1931981"/>
+<node id="782777"/>
+<node id="1736"/>
+<node id="1454127"/>
+<node id="402432"/>
+<node id="11915"/>
+<node id="640566"/>
+<node id="350491"/>
+<node id="813236"/>
+<edge id="640566-782777-alt.conspiracy" source="640566" target="782777">
+	<data key="topic">alt.conspiracy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="640566-1736-alt.conspiracy" source="640566" target="1736">
+	<data key="topic">alt.conspiracy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="640566-402432-alt.conspiracy" source="640566" target="402432">
+	<data key="topic">alt.conspiracy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="640566-11915-alt.conspiracy" source="640566" target="11915">
+	<data key="topic">alt.conspiracy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="640566-350491-alt.conspiracy" source="640566" target="350491">
+	<data key="topic">alt.conspiracy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="813236-1931981-alt.conspiracy" source="813236" target="1931981">
+	<data key="topic">alt.conspiracy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="813236-782777-alt.conspiracy" source="813236" target="782777">
+	<data key="topic">alt.conspiracy</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="813236-1736-alt.conspiracy" source="813236" target="1736">
+	<data key="topic">alt.conspiracy</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="813236-1454127-alt.conspiracy" source="813236" target="1454127">
+	<data key="topic">alt.conspiracy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="813236-402432-alt.conspiracy" source="813236" target="402432">
+	<data key="topic">alt.conspiracy</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="813236-11915-alt.conspiracy" source="813236" target="11915">
+	<data key="topic">alt.conspiracy</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="813236-640566-alt.conspiracy" source="813236" target="640566">
+	<data key="topic">alt.conspiracy</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="813236-350491-alt.conspiracy" source="813236" target="350491">
+	<data key="topic">alt.conspiracy</data>
+	<data key="weight">2</data>
+</edge>
+</graph>
+</graphml>

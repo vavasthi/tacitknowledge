@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2849"/>
+<node id="338038"/>
+<node id="337154"/>
+<node id="391761"/>
+<node id="15546"/>
+<node id="26314"/>
+<node id="337424"/>
+<node id="339103"/>
+<node id="337919"/>
+<node id="17805"/>
+<node id="392682"/>
+<node id="29006"/>
+<edge id="2849-337154-net.news.stargate" source="2849" target="337154">
+	<data key="topic">net.news.stargate</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2849-29006-net.news.stargate" source="2849" target="29006">
+	<data key="topic">net.news.stargate</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="338038-337154-net.news.stargate" source="338038" target="337154">
+	<data key="topic">net.news.stargate</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338038-339103-net.news.stargate" source="338038" target="339103">
+	<data key="topic">net.news.stargate</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337424-337154-net.news.stargate" source="337424" target="337154">
+	<data key="topic">net.news.stargate</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="337424-29006-net.news.stargate" source="337424" target="29006">
+	<data key="topic">net.news.stargate</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="17805-391761-net.news.stargate" source="17805" target="391761">
+	<data key="topic">net.news.stargate</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17805-15546-net.news.stargate" source="17805" target="15546">
+	<data key="topic">net.news.stargate</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17805-26314-net.news.stargate" source="17805" target="26314">
+	<data key="topic">net.news.stargate</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392682-337154-net.news.stargate" source="392682" target="337154">
+	<data key="topic">net.news.stargate</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="392682-337919-net.news.stargate" source="392682" target="337919">
+	<data key="topic">net.news.stargate</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-2849-net.news.stargate" source="29006" target="2849">
+	<data key="topic">net.news.stargate</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-337154-net.news.stargate" source="29006" target="337154">
+	<data key="topic">net.news.stargate</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="29006-337424-net.news.stargate" source="29006" target="337424">
+	<data key="topic">net.news.stargate</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

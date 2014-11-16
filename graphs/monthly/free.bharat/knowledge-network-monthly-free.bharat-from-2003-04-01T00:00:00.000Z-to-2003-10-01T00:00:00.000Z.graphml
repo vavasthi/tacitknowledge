@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="72822"/>
+<node id="43975"/>
+<node id="37227"/>
+<node id="47693"/>
+<edge id="72822-47693-free.bharat" source="72822" target="47693">
+	<data key="topic">free.bharat</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="43975-72822-free.bharat" source="43975" target="72822">
+	<data key="topic">free.bharat</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="43975-37227-free.bharat" source="43975" target="37227">
+	<data key="topic">free.bharat</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="43975-47693-free.bharat" source="43975" target="47693">
+	<data key="topic">free.bharat</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37227-72822-free.bharat" source="37227" target="72822">
+	<data key="topic">free.bharat</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37227-47693-free.bharat" source="37227" target="47693">
+	<data key="topic">free.bharat</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

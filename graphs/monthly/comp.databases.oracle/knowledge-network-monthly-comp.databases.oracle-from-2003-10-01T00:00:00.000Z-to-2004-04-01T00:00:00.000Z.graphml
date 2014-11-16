@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2852444"/>
+<node id="2860544"/>
+<node id="2280536"/>
+<node id="2861917"/>
+<node id="2865940"/>
+<node id="2866996"/>
+<node id="204769"/>
+<node id="41861"/>
+<node id="149288"/>
+<node id="2861967"/>
+<node id="2177735"/>
+<node id="2188743"/>
+<node id="2862242"/>
+<node id="2176683"/>
+<node id="2859880"/>
+<node id="2869894"/>
+<edge id="2852444-2859880-comp.databases.oracle" source="2852444" target="2859880">
+	<data key="topic">comp.databases.oracle</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2860544-2861917-comp.databases.oracle" source="2860544" target="2861917">
+	<data key="topic">comp.databases.oracle</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2860544-149288-comp.databases.oracle" source="2860544" target="149288">
+	<data key="topic">comp.databases.oracle</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2860544-2861967-comp.databases.oracle" source="2860544" target="2861967">
+	<data key="topic">comp.databases.oracle</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2860544-2859880-comp.databases.oracle" source="2860544" target="2859880">
+	<data key="topic">comp.databases.oracle</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2280536-2859880-comp.databases.oracle" source="2280536" target="2859880">
+	<data key="topic">comp.databases.oracle</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2861917-2860544-comp.databases.oracle" source="2861917" target="2860544">
+	<data key="topic">comp.databases.oracle</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2861917-149288-comp.databases.oracle" source="2861917" target="149288">
+	<data key="topic">comp.databases.oracle</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2861917-2859880-comp.databases.oracle" source="2861917" target="2859880">
+	<data key="topic">comp.databases.oracle</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2866996-2865940-comp.databases.oracle" source="2866996" target="2865940">
+	<data key="topic">comp.databases.oracle</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="204769-2865940-comp.databases.oracle" source="204769" target="2865940">
+	<data key="topic">comp.databases.oracle</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41861-2852444-comp.databases.oracle" source="41861" target="2852444">
+	<data key="topic">comp.databases.oracle</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41861-2862242-comp.databases.oracle" source="41861" target="2862242">
+	<data key="topic">comp.databases.oracle</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41861-2859880-comp.databases.oracle" source="41861" target="2859880">
+	<data key="topic">comp.databases.oracle</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="149288-2860544-comp.databases.oracle" source="149288" target="2860544">
+	<data key="topic">comp.databases.oracle</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="149288-2859880-comp.databases.oracle" source="149288" target="2859880">
+	<data key="topic">comp.databases.oracle</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2861967-2860544-comp.databases.oracle" source="2861967" target="2860544">
+	<data key="topic">comp.databases.oracle</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2861967-2861917-comp.databases.oracle" source="2861967" target="2861917">
+	<data key="topic">comp.databases.oracle</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2861967-149288-comp.databases.oracle" source="2861967" target="149288">
+	<data key="topic">comp.databases.oracle</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2861967-2859880-comp.databases.oracle" source="2861967" target="2859880">
+	<data key="topic">comp.databases.oracle</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2177735-2859880-comp.databases.oracle" source="2177735" target="2859880">
+	<data key="topic">comp.databases.oracle</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2188743-2869894-comp.databases.oracle" source="2188743" target="2869894">
+	<data key="topic">comp.databases.oracle</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2176683-2860544-comp.databases.oracle" source="2176683" target="2860544">
+	<data key="topic">comp.databases.oracle</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2176683-149288-comp.databases.oracle" source="2176683" target="149288">
+	<data key="topic">comp.databases.oracle</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2176683-2859880-comp.databases.oracle" source="2176683" target="2859880">
+	<data key="topic">comp.databases.oracle</data>
+	<data key="weight">2</data>
+</edge>
+</graph>
+</graphml>

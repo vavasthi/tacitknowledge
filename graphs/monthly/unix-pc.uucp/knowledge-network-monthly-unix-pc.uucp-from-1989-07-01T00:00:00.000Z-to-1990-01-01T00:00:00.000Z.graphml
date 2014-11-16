@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="347921"/>
+<node id="30616"/>
+<node id="866011"/>
+<node id="4379"/>
+<node id="711767"/>
+<node id="650005"/>
+<node id="734678"/>
+<node id="16354"/>
+<node id="619689"/>
+<node id="843183"/>
+<node id="1702"/>
+<node id="29606"/>
+<node id="431844"/>
+<node id="705636"/>
+<node id="511467"/>
+<node id="511668"/>
+<node id="697855"/>
+<node id="14134"/>
+<node id="3447"/>
+<node id="576625"/>
+<node id="1206540"/>
+<node id="711857"/>
+<node id="16065"/>
+<node id="442055"/>
+<node id="711695"/>
+<node id="18694"/>
+<node id="720464"/>
+<node id="735118"/>
+<node id="404046"/>
+<node id="2767"/>
+<edge id="347921-866011-unix-pc.uucp" source="347921" target="866011">
+	<data key="topic">unix-pc.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30616-4379-unix-pc.uucp" source="30616" target="4379">
+	<data key="topic">unix-pc.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30616-705636-unix-pc.uucp" source="30616" target="705636">
+	<data key="topic">unix-pc.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4379-705636-unix-pc.uucp" source="4379" target="705636">
+	<data key="topic">unix-pc.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="711767-866011-unix-pc.uucp" source="711767" target="866011">
+	<data key="topic">unix-pc.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="734678-866011-unix-pc.uucp" source="734678" target="866011">
+	<data key="topic">unix-pc.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16354-735118-unix-pc.uucp" source="16354" target="735118">
+	<data key="topic">unix-pc.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="619689-711857-unix-pc.uucp" source="619689" target="711857">
+	<data key="topic">unix-pc.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="619689-18694-unix-pc.uucp" source="619689" target="18694">
+	<data key="topic">unix-pc.uucp</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="619689-720464-unix-pc.uucp" source="619689" target="720464">
+	<data key="topic">unix-pc.uucp</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="843183-3447-unix-pc.uucp" source="843183" target="3447">
+	<data key="topic">unix-pc.uucp</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="843183-18694-unix-pc.uucp" source="843183" target="18694">
+	<data key="topic">unix-pc.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="843183-2767-unix-pc.uucp" source="843183" target="2767">
+	<data key="topic">unix-pc.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1702-711857-unix-pc.uucp" source="1702" target="711857">
+	<data key="topic">unix-pc.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1702-18694-unix-pc.uucp" source="1702" target="18694">
+	<data key="topic">unix-pc.uucp</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1702-720464-unix-pc.uucp" source="1702" target="720464">
+	<data key="topic">unix-pc.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1702-404046-unix-pc.uucp" source="1702" target="404046">
+	<data key="topic">unix-pc.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1702-2767-unix-pc.uucp" source="1702" target="2767">
+	<data key="topic">unix-pc.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29606-711695-unix-pc.uucp" source="29606" target="711695">
+	<data key="topic">unix-pc.uucp</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="431844-843183-unix-pc.uucp" source="431844" target="843183">
+	<data key="topic">unix-pc.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="511467-3447-unix-pc.uucp" source="511467" target="3447">
+	<data key="topic">unix-pc.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="511467-2767-unix-pc.uucp" source="511467" target="2767">
+	<data key="topic">unix-pc.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14134-511668-unix-pc.uucp" source="14134" target="511668">
+	<data key="topic">unix-pc.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14134-697855-unix-pc.uucp" source="14134" target="697855">
+	<data key="topic">unix-pc.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14134-1206540-unix-pc.uucp" source="14134" target="1206540">
+	<data key="topic">unix-pc.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3447-843183-unix-pc.uucp" source="3447" target="843183">
+	<data key="topic">unix-pc.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3447-511467-unix-pc.uucp" source="3447" target="511467">
+	<data key="topic">unix-pc.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3447-18694-unix-pc.uucp" source="3447" target="18694">
+	<data key="topic">unix-pc.uucp</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="3447-2767-unix-pc.uucp" source="3447" target="2767">
+	<data key="topic">unix-pc.uucp</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="576625-650005-unix-pc.uucp" source="576625" target="650005">
+	<data key="topic">unix-pc.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="576625-29606-unix-pc.uucp" source="576625" target="29606">
+	<data key="topic">unix-pc.uucp</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="576625-711695-unix-pc.uucp" source="576625" target="711695">
+	<data key="topic">unix-pc.uucp</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1206540-511668-unix-pc.uucp" source="1206540" target="511668">
+	<data key="topic">unix-pc.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="711857-18694-unix-pc.uucp" source="711857" target="18694">
+	<data key="topic">unix-pc.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16065-3447-unix-pc.uucp" source="16065" target="3447">
+	<data key="topic">unix-pc.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16065-18694-unix-pc.uucp" source="16065" target="18694">
+	<data key="topic">unix-pc.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16065-2767-unix-pc.uucp" source="16065" target="2767">
+	<data key="topic">unix-pc.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="442055-30616-unix-pc.uucp" source="442055" target="30616">
+	<data key="topic">unix-pc.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="442055-511668-unix-pc.uucp" source="442055" target="511668">
+	<data key="topic">unix-pc.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="442055-697855-unix-pc.uucp" source="442055" target="697855">
+	<data key="topic">unix-pc.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="442055-1206540-unix-pc.uucp" source="442055" target="1206540">
+	<data key="topic">unix-pc.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18694-1702-unix-pc.uucp" source="18694" target="1702">
+	<data key="topic">unix-pc.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18694-3447-unix-pc.uucp" source="18694" target="3447">
+	<data key="topic">unix-pc.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18694-711857-unix-pc.uucp" source="18694" target="711857">
+	<data key="topic">unix-pc.uucp</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="18694-720464-unix-pc.uucp" source="18694" target="720464">
+	<data key="topic">unix-pc.uucp</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="18694-2767-unix-pc.uucp" source="18694" target="2767">
+	<data key="topic">unix-pc.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="720464-711857-unix-pc.uucp" source="720464" target="711857">
+	<data key="topic">unix-pc.uucp</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="720464-18694-unix-pc.uucp" source="720464" target="18694">
+	<data key="topic">unix-pc.uucp</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2767-3447-unix-pc.uucp" source="2767" target="3447">
+	<data key="topic">unix-pc.uucp</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2767-16065-unix-pc.uucp" source="2767" target="16065">
+	<data key="topic">unix-pc.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2767-18694-unix-pc.uucp" source="2767" target="18694">
+	<data key="topic">unix-pc.uucp</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

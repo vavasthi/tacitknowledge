@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="605338"/>
+<node id="338456"/>
+<node id="628764"/>
+<node id="527889"/>
+<node id="605235"/>
+<node id="344251"/>
+<node id="474343"/>
+<node id="341160"/>
+<node id="524749"/>
+<node id="771952"/>
+<node id="1069591"/>
+<node id="562530"/>
+<node id="625254"/>
+<node id="336905"/>
+<node id="634853"/>
+<node id="344268"/>
+<edge id="605338-341160-net.sport.hoops" source="605338" target="341160">
+	<data key="topic">net.sport.hoops</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338456-562530-net.sport.hoops" source="338456" target="562530">
+	<data key="topic">net.sport.hoops</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="628764-524749-net.sport.hoops" source="628764" target="524749">
+	<data key="topic">net.sport.hoops</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="628764-625254-net.sport.hoops" source="628764" target="625254">
+	<data key="topic">net.sport.hoops</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="527889-605338-net.sport.hoops" source="527889" target="605338">
+	<data key="topic">net.sport.hoops</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="527889-474343-net.sport.hoops" source="527889" target="474343">
+	<data key="topic">net.sport.hoops</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="527889-562530-net.sport.hoops" source="527889" target="562530">
+	<data key="topic">net.sport.hoops</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="344251-527889-net.sport.hoops" source="344251" target="527889">
+	<data key="topic">net.sport.hoops</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="771952-527889-net.sport.hoops" source="771952" target="527889">
+	<data key="topic">net.sport.hoops</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="771952-344251-net.sport.hoops" source="771952" target="344251">
+	<data key="topic">net.sport.hoops</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1069591-634853-net.sport.hoops" source="1069591" target="634853">
+	<data key="topic">net.sport.hoops</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="625254-524749-net.sport.hoops" source="625254" target="524749">
+	<data key="topic">net.sport.hoops</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="336905-527889-net.sport.hoops" source="336905" target="527889">
+	<data key="topic">net.sport.hoops</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="344268-605235-net.sport.hoops" source="344268" target="605235">
+	<data key="topic">net.sport.hoops</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

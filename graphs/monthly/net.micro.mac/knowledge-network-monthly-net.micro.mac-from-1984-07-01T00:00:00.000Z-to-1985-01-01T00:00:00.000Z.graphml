@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="26833"/>
+<node id="337430"/>
+<node id="340887"/>
+<node id="21140"/>
+<node id="449233"/>
+<node id="773085"/>
+<node id="338208"/>
+<node id="524629"/>
+<node id="339930"/>
+<node id="627543"/>
+<node id="338523"/>
+<node id="1841758"/>
+<node id="338088"/>
+<node id="526251"/>
+<node id="337575"/>
+<node id="339111"/>
+<node id="338210"/>
+<node id="470881"/>
+<node id="652897"/>
+<node id="337200"/>
+<node id="771560"/>
+<node id="653094"/>
+<node id="625319"/>
+<node id="503544"/>
+<node id="21234"/>
+<node id="465271"/>
+<node id="346936"/>
+<node id="340088"/>
+<node id="624242"/>
+<node id="340793"/>
+<node id="337532"/>
+<node id="341819"/>
+<node id="522184"/>
+<node id="601612"/>
+<node id="340680"/>
+<node id="626060"/>
+<node id="337927"/>
+<node id="624715"/>
+<node id="337159"/>
+<node id="523075"/>
+<node id="340291"/>
+<node id="564240"/>
+<node id="17420"/>
+<node id="337354"/>
+<node id="338122"/>
+<node id="624326"/>
+<node id="29006"/>
+<node id="623749"/>
+<edge id="337430-337200-net.micro.mac" source="337430" target="337200">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337430-341819-net.micro.mac" source="337430" target="341819">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340887-524629-net.micro.mac" source="340887" target="524629">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340887-337575-net.micro.mac" source="340887" target="337575">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340887-771560-net.micro.mac" source="340887" target="771560">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="449233-339930-net.micro.mac" source="449233" target="339930">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="449233-340680-net.micro.mac" source="449233" target="340680">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338208-337927-net.micro.mac" source="338208" target="337927">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338523-771560-net.micro.mac" source="338523" target="771560">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1841758-601612-net.micro.mac" source="1841758" target="601612">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="526251-522184-net.micro.mac" source="526251" target="522184">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337575-653094-net.micro.mac" source="337575" target="653094">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339111-771560-net.micro.mac" source="339111" target="771560">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="470881-26833-net.micro.mac" source="470881" target="26833">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337200-26833-net.micro.mac" source="337200" target="26833">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="337200-627543-net.micro.mac" source="337200" target="627543">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337200-771560-net.micro.mac" source="337200" target="771560">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337200-346936-net.micro.mac" source="337200" target="346936">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337200-624242-net.micro.mac" source="337200" target="624242">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="503544-601612-net.micro.mac" source="503544" target="601612">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="21234-652897-net.micro.mac" source="21234" target="652897">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="465271-624715-net.micro.mac" source="465271" target="624715">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="465271-523075-net.micro.mac" source="465271" target="523075">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="346936-771560-net.micro.mac" source="346936" target="771560">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340088-601612-net.micro.mac" source="340088" target="601612">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="624242-771560-net.micro.mac" source="624242" target="771560">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="624242-346936-net.micro.mac" source="624242" target="346936">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="624242-340291-net.micro.mac" source="624242" target="340291">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337532-771560-net.micro.mac" source="337532" target="771560">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337532-522184-net.micro.mac" source="337532" target="522184">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522184-771560-net.micro.mac" source="522184" target="771560">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="601612-26833-net.micro.mac" source="601612" target="26833">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="601612-771560-net.micro.mac" source="601612" target="771560">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="601612-346936-net.micro.mac" source="601612" target="346936">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="626060-26833-net.micro.mac" source="626060" target="26833">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="626060-773085-net.micro.mac" source="626060" target="773085">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337927-338208-net.micro.mac" source="337927" target="338208">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="337927-29006-net.micro.mac" source="337927" target="29006">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="624715-523075-net.micro.mac" source="624715" target="523075">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337159-17420-net.micro.mac" source="337159" target="17420">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340291-771560-net.micro.mac" source="340291" target="771560">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340291-346936-net.micro.mac" source="340291" target="346936">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="564240-624715-net.micro.mac" source="564240" target="624715">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337354-21140-net.micro.mac" source="337354" target="21140">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337354-773085-net.micro.mac" source="337354" target="773085">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337354-338088-net.micro.mac" source="337354" target="338088">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337354-337200-net.micro.mac" source="337354" target="337200">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337354-771560-net.micro.mac" source="337354" target="771560">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337354-653094-net.micro.mac" source="337354" target="653094">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337354-625319-net.micro.mac" source="337354" target="625319">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337354-346936-net.micro.mac" source="337354" target="346936">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337354-340793-net.micro.mac" source="337354" target="340793">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338122-26833-net.micro.mac" source="338122" target="26833">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338122-771560-net.micro.mac" source="338122" target="771560">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338122-346936-net.micro.mac" source="338122" target="346936">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="624326-771560-net.micro.mac" source="624326" target="771560">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="624326-346936-net.micro.mac" source="624326" target="346936">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-340887-net.micro.mac" source="29006" target="340887">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-338208-net.micro.mac" source="29006" target="338208">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-338210-net.micro.mac" source="29006" target="338210">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-771560-net.micro.mac" source="29006" target="771560">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-465271-net.micro.mac" source="29006" target="465271">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-601612-net.micro.mac" source="29006" target="601612">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-337927-net.micro.mac" source="29006" target="337927">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-624715-net.micro.mac" source="29006" target="624715">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-523075-net.micro.mac" source="29006" target="523075">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="623749-337200-net.micro.mac" source="623749" target="337200">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="623749-625319-net.micro.mac" source="623749" target="625319">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="623749-337354-net.micro.mac" source="623749" target="337354">
+	<data key="topic">net.micro.mac</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

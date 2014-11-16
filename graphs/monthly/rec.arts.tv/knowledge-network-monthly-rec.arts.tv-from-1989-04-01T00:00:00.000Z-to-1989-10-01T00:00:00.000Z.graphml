@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="717019"/>
+<node id="512359"/>
+<node id="583564"/>
+<node id="713967"/>
+<node id="2773"/>
+<node id="12389"/>
+<node id="883657"/>
+<node id="705086"/>
+<node id="1163450"/>
+<node id="1117"/>
+<edge id="717019-512359-rec.arts.tv" source="717019" target="512359">
+	<data key="topic">rec.arts.tv</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="717019-713967-rec.arts.tv" source="717019" target="713967">
+	<data key="topic">rec.arts.tv</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="717019-883657-rec.arts.tv" source="717019" target="883657">
+	<data key="topic">rec.arts.tv</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="583564-512359-rec.arts.tv" source="583564" target="512359">
+	<data key="topic">rec.arts.tv</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="583564-713967-rec.arts.tv" source="583564" target="713967">
+	<data key="topic">rec.arts.tv</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="583564-883657-rec.arts.tv" source="583564" target="883657">
+	<data key="topic">rec.arts.tv</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="583564-705086-rec.arts.tv" source="583564" target="705086">
+	<data key="topic">rec.arts.tv</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="583564-1117-rec.arts.tv" source="583564" target="1117">
+	<data key="topic">rec.arts.tv</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="713967-512359-rec.arts.tv" source="713967" target="512359">
+	<data key="topic">rec.arts.tv</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="713967-883657-rec.arts.tv" source="713967" target="883657">
+	<data key="topic">rec.arts.tv</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="713967-705086-rec.arts.tv" source="713967" target="705086">
+	<data key="topic">rec.arts.tv</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="713967-1117-rec.arts.tv" source="713967" target="1117">
+	<data key="topic">rec.arts.tv</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2773-512359-rec.arts.tv" source="2773" target="512359">
+	<data key="topic">rec.arts.tv</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2773-713967-rec.arts.tv" source="2773" target="713967">
+	<data key="topic">rec.arts.tv</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2773-883657-rec.arts.tv" source="2773" target="883657">
+	<data key="topic">rec.arts.tv</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12389-512359-rec.arts.tv" source="12389" target="512359">
+	<data key="topic">rec.arts.tv</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12389-713967-rec.arts.tv" source="12389" target="713967">
+	<data key="topic">rec.arts.tv</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12389-883657-rec.arts.tv" source="12389" target="883657">
+	<data key="topic">rec.arts.tv</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="705086-512359-rec.arts.tv" source="705086" target="512359">
+	<data key="topic">rec.arts.tv</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="705086-713967-rec.arts.tv" source="705086" target="713967">
+	<data key="topic">rec.arts.tv</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="705086-2773-rec.arts.tv" source="705086" target="2773">
+	<data key="topic">rec.arts.tv</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="705086-883657-rec.arts.tv" source="705086" target="883657">
+	<data key="topic">rec.arts.tv</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1163450-512359-rec.arts.tv" source="1163450" target="512359">
+	<data key="topic">rec.arts.tv</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1163450-713967-rec.arts.tv" source="1163450" target="713967">
+	<data key="topic">rec.arts.tv</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1163450-883657-rec.arts.tv" source="1163450" target="883657">
+	<data key="topic">rec.arts.tv</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1117-512359-rec.arts.tv" source="1117" target="512359">
+	<data key="topic">rec.arts.tv</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1117-713967-rec.arts.tv" source="1117" target="713967">
+	<data key="topic">rec.arts.tv</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1117-883657-rec.arts.tv" source="1117" target="883657">
+	<data key="topic">rec.arts.tv</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1117-705086-rec.arts.tv" source="1117" target="705086">
+	<data key="topic">rec.arts.tv</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

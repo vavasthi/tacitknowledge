@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="337814"/>
+<node id="527643"/>
+<node id="337943"/>
+<node id="390290"/>
+<node id="655135"/>
+<node id="626705"/>
+<node id="341146"/>
+<node id="522012"/>
+<node id="562327"/>
+<node id="521881"/>
+<node id="337445"/>
+<node id="19234"/>
+<node id="1408021"/>
+<node id="341029"/>
+<node id="337320"/>
+<node id="523302"/>
+<node id="567083"/>
+<node id="521893"/>
+<node id="339107"/>
+<node id="338990"/>
+<node id="342573"/>
+<node id="341295"/>
+<node id="459181"/>
+<node id="339242"/>
+<node id="464939"/>
+<node id="565543"/>
+<node id="526266"/>
+<node id="456245"/>
+<node id="341816"/>
+<node id="524478"/>
+<node id="524990"/>
+<node id="397105"/>
+<node id="463025"/>
+<node id="462144"/>
+<node id="390207"/>
+<node id="479420"/>
+<node id="528585"/>
+<node id="461767"/>
+<node id="479431"/>
+<node id="1137457"/>
+<node id="346823"/>
+<node id="341697"/>
+<node id="565838"/>
+<node id="338116"/>
+<node id="472400"/>
+<node id="339280"/>
+<node id="337866"/>
+<node id="338134"/>
+<node id="531673"/>
+<node id="527578"/>
+<node id="337367"/>
+<node id="526558"/>
+<node id="565856"/>
+<node id="336733"/>
+<node id="564820"/>
+<node id="341337"/>
+<node id="1406806"/>
+<node id="338917"/>
+<node id="521957"/>
+<node id="459236"/>
+<node id="459632"/>
+<node id="636004"/>
+<node id="526307"/>
+<node id="341098"/>
+<node id="339052"/>
+<node id="960993"/>
+<node id="460152"/>
+<node id="339190"/>
+<node id="623865"/>
+<node id="465271"/>
+<node id="1406599"/>
+<node id="562173"/>
+<node id="472561"/>
+<node id="625010"/>
+<node id="523264"/>
+<node id="1136266"/>
+<node id="33916"/>
+<node id="527221"/>
+<node id="460154"/>
+<node id="341766"/>
+<node id="336769"/>
+<node id="527886"/>
+<node id="524162"/>
+<node id="338830"/>
+<node id="337934"/>
+<node id="461199"/>
+<node id="560258"/>
+<node id="527875"/>
+<node id="526596"/>
+<node id="460812"/>
+<edge id="527643-338134-net.bugs" source="527643" target="338134">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337943-562327-net.bugs" source="337943" target="562327">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337943-390207-net.bugs" source="337943" target="390207">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="655135-1406806-net.bugs" source="655135" target="1406806">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="655135-459236-net.bugs" source="655135" target="459236">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="626705-479420-net.bugs" source="626705" target="479420">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="626705-636004-net.bugs" source="626705" target="636004">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341146-562173-net.bugs" source="341146" target="562173">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522012-336733-net.bugs" source="522012" target="336733">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521881-341816-net.bugs" source="521881" target="341816">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521881-565856-net.bugs" source="521881" target="565856">
+	<data key="topic">net.bugs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="521881-339190-net.bugs" source="521881" target="339190">
+	<data key="topic">net.bugs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="337445-524162-net.bugs" source="337445" target="524162">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341029-390290-net.bugs" source="341029" target="390290">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341029-337320-net.bugs" source="341029" target="337320">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341029-459181-net.bugs" source="341029" target="459181">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341029-636004-net.bugs" source="341029" target="636004">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337320-636004-net.bugs" source="337320" target="636004">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="523302-524478-net.bugs" source="523302" target="524478">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="523302-337866-net.bugs" source="523302" target="337866">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="567083-339242-net.bugs" source="567083" target="339242">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="567083-623865-net.bugs" source="567083" target="623865">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521893-342573-net.bugs" source="521893" target="342573">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339107-341029-net.bugs" source="339107" target="341029">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338990-390290-net.bugs" source="338990" target="390290">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338990-1408021-net.bugs" source="338990" target="1408021">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338990-459181-net.bugs" source="338990" target="459181">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338990-464939-net.bugs" source="338990" target="464939">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338990-337866-net.bugs" source="338990" target="337866">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338990-459632-net.bugs" source="338990" target="459632">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459181-390290-net.bugs" source="459181" target="390290">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339242-623865-net.bugs" source="339242" target="623865">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="464939-390290-net.bugs" source="464939" target="390290">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="565543-341337-net.bugs" source="565543" target="341337">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="565543-336769-net.bugs" source="565543" target="336769">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="526266-337934-net.bugs" source="526266" target="337934">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="456245-390290-net.bugs" source="456245" target="390290">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="456245-1408021-net.bugs" source="456245" target="1408021">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="456245-464939-net.bugs" source="456245" target="464939">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="456245-524990-net.bugs" source="456245" target="524990">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="456245-337866-net.bugs" source="456245" target="337866">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="456245-459632-net.bugs" source="456245" target="459632">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="524990-390290-net.bugs" source="524990" target="390290">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="524990-1408021-net.bugs" source="524990" target="1408021">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="524990-464939-net.bugs" source="524990" target="464939">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="524990-337866-net.bugs" source="524990" target="337866">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="524990-459632-net.bugs" source="524990" target="459632">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="397105-528585-net.bugs" source="397105" target="528585">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="463025-479431-net.bugs" source="463025" target="479431">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="462144-342573-net.bugs" source="462144" target="342573">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="479420-390290-net.bugs" source="479420" target="390290">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="479420-464939-net.bugs" source="479420" target="464939">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="479420-636004-net.bugs" source="479420" target="636004">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="461767-527578-net.bugs" source="461767" target="527578">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1137457-339280-net.bugs" source="1137457" target="339280">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1137457-636004-net.bugs" source="1137457" target="636004">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1137457-1406599-net.bugs" source="1137457" target="1406599">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="346823-390290-net.bugs" source="346823" target="390290">
+	<data key="topic">net.bugs</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="346823-1408021-net.bugs" source="346823" target="1408021">
+	<data key="topic">net.bugs</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="346823-464939-net.bugs" source="346823" target="464939">
+	<data key="topic">net.bugs</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="346823-337866-net.bugs" source="346823" target="337866">
+	<data key="topic">net.bugs</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="346823-459632-net.bugs" source="346823" target="459632">
+	<data key="topic">net.bugs</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="341697-472561-net.bugs" source="341697" target="472561">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="565838-636004-net.bugs" source="565838" target="636004">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338116-460154-net.bugs" source="338116" target="460154">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="472400-625010-net.bugs" source="472400" target="625010">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339280-636004-net.bugs" source="339280" target="636004">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339280-1406599-net.bugs" source="339280" target="1406599">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-390290-net.bugs" source="337866" target="390290">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-19234-net.bugs" source="337866" target="19234">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-1408021-net.bugs" source="337866" target="1408021">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-523302-net.bugs" source="337866" target="523302">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-524478-net.bugs" source="337866" target="524478">
+	<data key="topic">net.bugs</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="337866-397105-net.bugs" source="337866" target="397105">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-528585-net.bugs" source="337866" target="528585">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-339280-net.bugs" source="337866" target="339280">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-526558-net.bugs" source="337866" target="526558">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-636004-net.bugs" source="337866" target="636004">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-1406599-net.bugs" source="337866" target="1406599">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338134-527643-net.bugs" source="338134" target="527643">
+	<data key="topic">net.bugs</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="338134-336769-net.bugs" source="338134" target="336769">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="531673-341337-net.bugs" source="531673" target="341337">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337367-460812-net.bugs" source="337367" target="460812">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="526558-524478-net.bugs" source="526558" target="524478">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="526558-337866-net.bugs" source="526558" target="337866">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="565856-461767-net.bugs" source="565856" target="461767">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="564820-341337-net.bugs" source="564820" target="341337">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="564820-336769-net.bugs" source="564820" target="336769">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341337-390290-net.bugs" source="341337" target="390290">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341337-459181-net.bugs" source="341337" target="459181">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341337-564820-net.bugs" source="341337" target="564820">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341337-460154-net.bugs" source="341337" target="460154">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341337-336769-net.bugs" source="341337" target="336769">
+	<data key="topic">net.bugs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="338917-341295-net.bugs" source="338917" target="341295">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521957-337445-net.bugs" source="521957" target="337445">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521957-524162-net.bugs" source="521957" target="524162">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459632-390290-net.bugs" source="459632" target="390290">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459632-461767-net.bugs" source="459632" target="461767">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459632-565856-net.bugs" source="459632" target="565856">
+	<data key="topic">net.bugs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="526307-336769-net.bugs" source="526307" target="336769">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341098-562327-net.bugs" source="341098" target="562327">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341098-390207-net.bugs" source="341098" target="390207">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="960993-336733-net.bugs" source="960993" target="336733">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460152-565838-net.bugs" source="460152" target="565838">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460152-636004-net.bugs" source="460152" target="636004">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="465271-527221-net.bugs" source="465271" target="527221">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1406599-636004-net.bugs" source="1406599" target="636004">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="562173-337943-net.bugs" source="562173" target="337943">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="523264-336769-net.bugs" source="523264" target="336769">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1136266-460154-net.bugs" source="1136266" target="460154">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="33916-528585-net.bugs" source="33916" target="528585">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460154-341337-net.bugs" source="460154" target="341337">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341766-390290-net.bugs" source="341766" target="390290">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341766-1408021-net.bugs" source="341766" target="1408021">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341766-341029-net.bugs" source="341766" target="341029">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341766-459181-net.bugs" source="341766" target="459181">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341766-464939-net.bugs" source="341766" target="464939">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341766-337866-net.bugs" source="341766" target="337866">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341766-459632-net.bugs" source="341766" target="459632">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="527886-336769-net.bugs" source="527886" target="336769">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="524162-337943-net.bugs" source="524162" target="337943">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="524162-562173-net.bugs" source="524162" target="562173">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338830-562327-net.bugs" source="338830" target="562327">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338830-390207-net.bugs" source="338830" target="390207">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="461199-341146-net.bugs" source="461199" target="341146">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="461199-562173-net.bugs" source="461199" target="562173">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="560258-337445-net.bugs" source="560258" target="337445">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="560258-521957-net.bugs" source="560258" target="521957">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="560258-524162-net.bugs" source="560258" target="524162">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="527875-463025-net.bugs" source="527875" target="463025">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="527875-479431-net.bugs" source="527875" target="479431">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="526596-339052-net.bugs" source="526596" target="339052">
+	<data key="topic">net.bugs</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

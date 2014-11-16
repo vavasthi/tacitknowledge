@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="459736"/>
+<node id="340978"/>
+<node id="338146"/>
+<node id="1839642"/>
+<node id="459330"/>
+<node id="459666"/>
+<node id="459662"/>
+<node id="1424047"/>
+<node id="459738"/>
+<node id="682294"/>
+<node id="2036673"/>
+<edge id="340978-459736-net.garden" source="340978" target="459736">
+	<data key="topic">net.garden</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340978-459662-net.garden" source="340978" target="459662">
+	<data key="topic">net.garden</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340978-459738-net.garden" source="340978" target="459738">
+	<data key="topic">net.garden</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459330-1424047-net.garden" source="459330" target="1424047">
+	<data key="topic">net.garden</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459666-682294-net.garden" source="459666" target="682294">
+	<data key="topic">net.garden</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459738-338146-net.garden" source="459738" target="338146">
+	<data key="topic">net.garden</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2036673-1839642-net.garden" source="2036673" target="1839642">
+	<data key="topic">net.garden</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

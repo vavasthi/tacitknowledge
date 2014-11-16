@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2841356"/>
+<node id="2840235"/>
+<node id="2841290"/>
+<node id="2185478"/>
+<node id="2318536"/>
+<node id="46950"/>
+<node id="2197381"/>
+<node id="167494"/>
+<node id="2193178"/>
+<node id="227611"/>
+<node id="2183753"/>
+<edge id="2840235-2841290-comp.protocols.dicom" source="2840235" target="2841290">
+	<data key="topic">comp.protocols.dicom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2185478-2841290-comp.protocols.dicom" source="2185478" target="2841290">
+	<data key="topic">comp.protocols.dicom</data>
+	<data key="weight">7</data>
+</edge>
+<edge id="2185478-2318536-comp.protocols.dicom" source="2185478" target="2318536">
+	<data key="topic">comp.protocols.dicom</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="2185478-2193178-comp.protocols.dicom" source="2185478" target="2193178">
+	<data key="topic">comp.protocols.dicom</data>
+	<data key="weight">8</data>
+</edge>
+<edge id="2185478-227611-comp.protocols.dicom" source="2185478" target="227611">
+	<data key="topic">comp.protocols.dicom</data>
+	<data key="weight">17</data>
+</edge>
+<edge id="2185478-2183753-comp.protocols.dicom" source="2185478" target="2183753">
+	<data key="topic">comp.protocols.dicom</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="46950-2841356-comp.protocols.dicom" source="46950" target="2841356">
+	<data key="topic">comp.protocols.dicom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="46950-2841290-comp.protocols.dicom" source="46950" target="2841290">
+	<data key="topic">comp.protocols.dicom</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="46950-2185478-comp.protocols.dicom" source="46950" target="2185478">
+	<data key="topic">comp.protocols.dicom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="167494-2841290-comp.protocols.dicom" source="167494" target="2841290">
+	<data key="topic">comp.protocols.dicom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="167494-2185478-comp.protocols.dicom" source="167494" target="2185478">
+	<data key="topic">comp.protocols.dicom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="167494-2197381-comp.protocols.dicom" source="167494" target="2197381">
+	<data key="topic">comp.protocols.dicom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="167494-227611-comp.protocols.dicom" source="167494" target="227611">
+	<data key="topic">comp.protocols.dicom</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="227611-2841290-comp.protocols.dicom" source="227611" target="2841290">
+	<data key="topic">comp.protocols.dicom</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="227611-2185478-comp.protocols.dicom" source="227611" target="2185478">
+	<data key="topic">comp.protocols.dicom</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="227611-2197381-comp.protocols.dicom" source="227611" target="2197381">
+	<data key="topic">comp.protocols.dicom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2183753-2841290-comp.protocols.dicom" source="2183753" target="2841290">
+	<data key="topic">comp.protocols.dicom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2183753-2185478-comp.protocols.dicom" source="2183753" target="2185478">
+	<data key="topic">comp.protocols.dicom</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2183753-2318536-comp.protocols.dicom" source="2183753" target="2318536">
+	<data key="topic">comp.protocols.dicom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2183753-227611-comp.protocols.dicom" source="2183753" target="227611">
+	<data key="topic">comp.protocols.dicom</data>
+	<data key="weight">3</data>
+</edge>
+</graph>
+</graphml>

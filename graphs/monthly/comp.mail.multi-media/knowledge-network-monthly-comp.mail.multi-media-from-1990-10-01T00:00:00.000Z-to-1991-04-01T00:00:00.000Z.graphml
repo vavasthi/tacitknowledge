@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="4216"/>
+<node id="3897"/>
+<node id="454750"/>
+<node id="11197"/>
+<node id="374651"/>
+<node id="1941535"/>
+<node id="400420"/>
+<node id="433729"/>
+<node id="1032"/>
+<node id="13896"/>
+<node id="640687"/>
+<node id="363181"/>
+<node id="363184"/>
+<node id="400429"/>
+<node id="880711"/>
+<node id="361577"/>
+<node id="1197248"/>
+<edge id="4216-1941535-comp.mail.multi-media" source="4216" target="1941535">
+	<data key="topic">comp.mail.multi-media</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="454750-11197-comp.mail.multi-media" source="454750" target="11197">
+	<data key="topic">comp.mail.multi-media</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11197-1941535-comp.mail.multi-media" source="11197" target="1941535">
+	<data key="topic">comp.mail.multi-media</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="374651-1197248-comp.mail.multi-media" source="374651" target="1197248">
+	<data key="topic">comp.mail.multi-media</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="400420-880711-comp.mail.multi-media" source="400420" target="880711">
+	<data key="topic">comp.mail.multi-media</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="433729-13896-comp.mail.multi-media" source="433729" target="13896">
+	<data key="topic">comp.mail.multi-media</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1032-433729-comp.mail.multi-media" source="1032" target="433729">
+	<data key="topic">comp.mail.multi-media</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1032-13896-comp.mail.multi-media" source="1032" target="13896">
+	<data key="topic">comp.mail.multi-media</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="640687-3897-comp.mail.multi-media" source="640687" target="3897">
+	<data key="topic">comp.mail.multi-media</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="363184-363181-comp.mail.multi-media" source="363184" target="363181">
+	<data key="topic">comp.mail.multi-media</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="400429-11197-comp.mail.multi-media" source="400429" target="11197">
+	<data key="topic">comp.mail.multi-media</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="400429-1941535-comp.mail.multi-media" source="400429" target="1941535">
+	<data key="topic">comp.mail.multi-media</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="361577-880711-comp.mail.multi-media" source="361577" target="880711">
+	<data key="topic">comp.mail.multi-media</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

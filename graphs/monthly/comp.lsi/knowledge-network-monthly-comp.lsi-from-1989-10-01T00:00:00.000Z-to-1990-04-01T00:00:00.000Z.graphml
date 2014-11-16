@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="548121"/>
+<node id="867421"/>
+<node id="618331"/>
+<node id="390609"/>
+<node id="5719"/>
+<node id="29977"/>
+<node id="686292"/>
+<node id="802386"/>
+<node id="928"/>
+<node id="1662874"/>
+<node id="553834"/>
+<node id="1352278"/>
+<node id="617899"/>
+<node id="618926"/>
+<node id="876777"/>
+<node id="611824"/>
+<node id="2898053"/>
+<node id="1352281"/>
+<node id="706151"/>
+<node id="714727"/>
+<node id="2143117"/>
+<node id="1352282"/>
+<node id="697211"/>
+<node id="838141"/>
+<node id="865085"/>
+<node id="2143123"/>
+<node id="841728"/>
+<node id="739135"/>
+<node id="540862"/>
+<node id="400820"/>
+<node id="509873"/>
+<node id="610762"/>
+<node id="14787"/>
+<node id="513797"/>
+<node id="865098"/>
+<node id="29006"/>
+<edge id="548121-928-comp.lsi" source="548121" target="928">
+	<data key="topic">comp.lsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="867421-1352278-comp.lsi" source="867421" target="1352278">
+	<data key="topic">comp.lsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="618331-739135-comp.lsi" source="618331" target="739135">
+	<data key="topic">comp.lsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390609-739135-comp.lsi" source="390609" target="739135">
+	<data key="topic">comp.lsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5719-2898053-comp.lsi" source="5719" target="2898053">
+	<data key="topic">comp.lsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29977-706151-comp.lsi" source="29977" target="706151">
+	<data key="topic">comp.lsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29977-509873-comp.lsi" source="29977" target="509873">
+	<data key="topic">comp.lsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="928-802386-comp.lsi" source="928" target="802386">
+	<data key="topic">comp.lsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="553834-686292-comp.lsi" source="553834" target="686292">
+	<data key="topic">comp.lsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="617899-618926-comp.lsi" source="617899" target="618926">
+	<data key="topic">comp.lsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="617899-400820-comp.lsi" source="617899" target="400820">
+	<data key="topic">comp.lsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="618926-400820-comp.lsi" source="618926" target="400820">
+	<data key="topic">comp.lsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="876777-802386-comp.lsi" source="876777" target="802386">
+	<data key="topic">comp.lsi</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="876777-2143123-comp.lsi" source="876777" target="2143123">
+	<data key="topic">comp.lsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="611824-1352281-comp.lsi" source="611824" target="1352281">
+	<data key="topic">comp.lsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="714727-1352281-comp.lsi" source="714727" target="1352281">
+	<data key="topic">comp.lsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2143117-802386-comp.lsi" source="2143117" target="802386">
+	<data key="topic">comp.lsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2143117-610762-comp.lsi" source="2143117" target="610762">
+	<data key="topic">comp.lsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1352282-1352278-comp.lsi" source="1352282" target="1352278">
+	<data key="topic">comp.lsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="697211-611824-comp.lsi" source="697211" target="611824">
+	<data key="topic">comp.lsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="697211-1352281-comp.lsi" source="697211" target="1352281">
+	<data key="topic">comp.lsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="838141-841728-comp.lsi" source="838141" target="841728">
+	<data key="topic">comp.lsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="865085-841728-comp.lsi" source="865085" target="841728">
+	<data key="topic">comp.lsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2143123-802386-comp.lsi" source="2143123" target="802386">
+	<data key="topic">comp.lsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="540862-618926-comp.lsi" source="540862" target="618926">
+	<data key="topic">comp.lsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="540862-400820-comp.lsi" source="540862" target="400820">
+	<data key="topic">comp.lsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509873-29977-comp.lsi" source="509873" target="29977">
+	<data key="topic">comp.lsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509873-1662874-comp.lsi" source="509873" target="1662874">
+	<data key="topic">comp.lsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14787-928-comp.lsi" source="14787" target="928">
+	<data key="topic">comp.lsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14787-513797-comp.lsi" source="14787" target="513797">
+	<data key="topic">comp.lsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="865098-841728-comp.lsi" source="865098" target="841728">
+	<data key="topic">comp.lsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-1352281-comp.lsi" source="29006" target="1352281">
+	<data key="topic">comp.lsi</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

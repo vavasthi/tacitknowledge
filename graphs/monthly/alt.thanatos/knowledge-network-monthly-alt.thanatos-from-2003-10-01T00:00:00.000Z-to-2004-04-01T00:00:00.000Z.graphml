@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="256084"/>
+<node id="258805"/>
+<node id="37019"/>
+<node id="207769"/>
+<node id="209166"/>
+<node id="180701"/>
+<node id="38000"/>
+<edge id="258805-256084-alt.thanatos" source="258805" target="256084">
+	<data key="topic">alt.thanatos</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="258805-37019-alt.thanatos" source="258805" target="37019">
+	<data key="topic">alt.thanatos</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="258805-209166-alt.thanatos" source="258805" target="209166">
+	<data key="topic">alt.thanatos</data>
+	<data key="weight">6</data>
+</edge>
+<edge id="258805-180701-alt.thanatos" source="258805" target="180701">
+	<data key="topic">alt.thanatos</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="258805-38000-alt.thanatos" source="258805" target="38000">
+	<data key="topic">alt.thanatos</data>
+	<data key="weight">6</data>
+</edge>
+<edge id="37019-256084-alt.thanatos" source="37019" target="256084">
+	<data key="topic">alt.thanatos</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37019-258805-alt.thanatos" source="37019" target="258805">
+	<data key="topic">alt.thanatos</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="37019-209166-alt.thanatos" source="37019" target="209166">
+	<data key="topic">alt.thanatos</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="37019-180701-alt.thanatos" source="37019" target="180701">
+	<data key="topic">alt.thanatos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37019-38000-alt.thanatos" source="37019" target="38000">
+	<data key="topic">alt.thanatos</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="209166-256084-alt.thanatos" source="209166" target="256084">
+	<data key="topic">alt.thanatos</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="209166-258805-alt.thanatos" source="209166" target="258805">
+	<data key="topic">alt.thanatos</data>
+	<data key="weight">6</data>
+</edge>
+<edge id="209166-37019-alt.thanatos" source="209166" target="37019">
+	<data key="topic">alt.thanatos</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="209166-207769-alt.thanatos" source="209166" target="207769">
+	<data key="topic">alt.thanatos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="209166-180701-alt.thanatos" source="209166" target="180701">
+	<data key="topic">alt.thanatos</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="209166-38000-alt.thanatos" source="209166" target="38000">
+	<data key="topic">alt.thanatos</data>
+	<data key="weight">7</data>
+</edge>
+<edge id="180701-256084-alt.thanatos" source="180701" target="256084">
+	<data key="topic">alt.thanatos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="180701-258805-alt.thanatos" source="180701" target="258805">
+	<data key="topic">alt.thanatos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="180701-37019-alt.thanatos" source="180701" target="37019">
+	<data key="topic">alt.thanatos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="180701-209166-alt.thanatos" source="180701" target="209166">
+	<data key="topic">alt.thanatos</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="180701-38000-alt.thanatos" source="180701" target="38000">
+	<data key="topic">alt.thanatos</data>
+	<data key="weight">2</data>
+</edge>
+</graph>
+</graphml>

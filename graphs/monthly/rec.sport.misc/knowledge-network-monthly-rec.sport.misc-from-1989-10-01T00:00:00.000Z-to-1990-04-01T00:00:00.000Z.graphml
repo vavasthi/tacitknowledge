@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="611930"/>
+<node id="1391782"/>
+<node id="1818553"/>
+<node id="15318"/>
+<node id="908124"/>
+<node id="552416"/>
+<node id="29977"/>
+<node id="612450"/>
+<node id="875461"/>
+<node id="1796738"/>
+<node id="534179"/>
+<node id="1819095"/>
+<edge id="611930-552416-rec.sport.misc" source="611930" target="552416">
+	<data key="topic">rec.sport.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1391782-908124-rec.sport.misc" source="1391782" target="908124">
+	<data key="topic">rec.sport.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1391782-612450-rec.sport.misc" source="1391782" target="612450">
+	<data key="topic">rec.sport.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="908124-612450-rec.sport.misc" source="908124" target="612450">
+	<data key="topic">rec.sport.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29977-1796738-rec.sport.misc" source="29977" target="1796738">
+	<data key="topic">rec.sport.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="875461-15318-rec.sport.misc" source="875461" target="15318">
+	<data key="topic">rec.sport.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="534179-15318-rec.sport.misc" source="534179" target="15318">
+	<data key="topic">rec.sport.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="534179-875461-rec.sport.misc" source="534179" target="875461">
+	<data key="topic">rec.sport.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1819095-1818553-rec.sport.misc" source="1819095" target="1818553">
+	<data key="topic">rec.sport.misc</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

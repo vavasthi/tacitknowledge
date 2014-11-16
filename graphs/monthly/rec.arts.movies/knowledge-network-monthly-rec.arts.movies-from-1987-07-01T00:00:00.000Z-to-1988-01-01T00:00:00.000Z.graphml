@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="392805"/>
+<node id="15667"/>
+<node id="28115"/>
+<node id="485114"/>
+<node id="465785"/>
+<edge id="392805-465785-rec.arts.movies" source="392805" target="465785">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15667-392805-rec.arts.movies" source="15667" target="392805">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15667-465785-rec.arts.movies" source="15667" target="465785">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28115-392805-rec.arts.movies" source="28115" target="392805">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28115-465785-rec.arts.movies" source="28115" target="465785">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="485114-465785-rec.arts.movies" source="485114" target="465785">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="465785-485114-rec.arts.movies" source="465785" target="485114">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

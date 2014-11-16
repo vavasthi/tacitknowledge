@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="537007"/>
+<node id="35724"/>
+<node id="554356"/>
+<node id="2769255"/>
+<node id="2131392"/>
+<edge id="537007-2769255-apple.aux" source="537007" target="2769255">
+	<data key="topic">apple.aux</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="35724-537007-apple.aux" source="35724" target="537007">
+	<data key="topic">apple.aux</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="35724-2769255-apple.aux" source="35724" target="2769255">
+	<data key="topic">apple.aux</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="35724-2131392-apple.aux" source="35724" target="2131392">
+	<data key="topic">apple.aux</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="554356-537007-apple.aux" source="554356" target="537007">
+	<data key="topic">apple.aux</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="554356-2769255-apple.aux" source="554356" target="2769255">
+	<data key="topic">apple.aux</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="554356-2131392-apple.aux" source="554356" target="2131392">
+	<data key="topic">apple.aux</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2769255-537007-apple.aux" source="2769255" target="537007">
+	<data key="topic">apple.aux</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2131392-537007-apple.aux" source="2131392" target="537007">
+	<data key="topic">apple.aux</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2131392-2769255-apple.aux" source="2131392" target="2769255">
+	<data key="topic">apple.aux</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

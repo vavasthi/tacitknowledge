@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1452952"/>
+<node id="1798987"/>
+<node id="1785481"/>
+<node id="382786"/>
+<node id="11877"/>
+<node id="352080"/>
+<node id="890439"/>
+<node id="878706"/>
+<node id="2351"/>
+<node id="363740"/>
+<edge id="1452952-878706-ca.general" source="1452952" target="878706">
+	<data key="topic">ca.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1798987-890439-ca.general" source="1798987" target="890439">
+	<data key="topic">ca.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1785481-382786-ca.general" source="1785481" target="382786">
+	<data key="topic">ca.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1785481-352080-ca.general" source="1785481" target="352080">
+	<data key="topic">ca.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11877-1452952-ca.general" source="11877" target="1452952">
+	<data key="topic">ca.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11877-878706-ca.general" source="11877" target="878706">
+	<data key="topic">ca.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="352080-382786-ca.general" source="352080" target="382786">
+	<data key="topic">ca.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2351-382786-ca.general" source="2351" target="382786">
+	<data key="topic">ca.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="363740-878706-ca.general" source="363740" target="878706">
+	<data key="topic">ca.general</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

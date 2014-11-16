@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="368022"/>
+<node id="1103113"/>
+<node id="368064"/>
+<node id="361786"/>
+<node id="734934"/>
+<node id="406106"/>
+<node id="583340"/>
+<node id="375489"/>
+<node id="1831"/>
+<node id="426050"/>
+<node id="780749"/>
+<node id="576930"/>
+<node id="1632178"/>
+<node id="361644"/>
+<node id="425834"/>
+<edge id="1103113-1831-rec.audio" source="1103113" target="1831">
+	<data key="topic">rec.audio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="734934-1632178-rec.audio" source="734934" target="1632178">
+	<data key="topic">rec.audio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="734934-425834-rec.audio" source="734934" target="425834">
+	<data key="topic">rec.audio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="375489-583340-rec.audio" source="375489" target="583340">
+	<data key="topic">rec.audio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="780749-426050-rec.audio" source="780749" target="426050">
+	<data key="topic">rec.audio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="576930-368022-rec.audio" source="576930" target="368022">
+	<data key="topic">rec.audio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="576930-368064-rec.audio" source="576930" target="368064">
+	<data key="topic">rec.audio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="576930-406106-rec.audio" source="576930" target="406106">
+	<data key="topic">rec.audio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1632178-425834-rec.audio" source="1632178" target="425834">
+	<data key="topic">rec.audio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="361644-361786-rec.audio" source="361644" target="361786">
+	<data key="topic">rec.audio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="361644-426050-rec.audio" source="361644" target="426050">
+	<data key="topic">rec.audio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="361644-780749-rec.audio" source="361644" target="780749">
+	<data key="topic">rec.audio</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

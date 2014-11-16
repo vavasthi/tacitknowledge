@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="617738"/>
+<node id="549852"/>
+<node id="13033"/>
+<node id="2024024"/>
+<edge id="617738-549852-comp.lang.lisp.franz" source="617738" target="549852">
+	<data key="topic">comp.lang.lisp.franz</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="617738-2024024-comp.lang.lisp.franz" source="617738" target="2024024">
+	<data key="topic">comp.lang.lisp.franz</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="549852-2024024-comp.lang.lisp.franz" source="549852" target="2024024">
+	<data key="topic">comp.lang.lisp.franz</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="13033-617738-comp.lang.lisp.franz" source="13033" target="617738">
+	<data key="topic">comp.lang.lisp.franz</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="13033-549852-comp.lang.lisp.franz" source="13033" target="549852">
+	<data key="topic">comp.lang.lisp.franz</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="13033-2024024-comp.lang.lisp.franz" source="13033" target="2024024">
+	<data key="topic">comp.lang.lisp.franz</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="390790"/>
+<node id="26066"/>
+<node id="668064"/>
+<node id="732303"/>
+<node id="732302"/>
+<node id="19224"/>
+<node id="668019"/>
+<node id="26347"/>
+<node id="449886"/>
+<node id="32876"/>
+<node id="588774"/>
+<node id="667989"/>
+<edge id="390790-19224-rec.pets" source="390790" target="19224">
+	<data key="topic">rec.pets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390790-588774-rec.pets" source="390790" target="588774">
+	<data key="topic">rec.pets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="668064-449886-rec.pets" source="668064" target="449886">
+	<data key="topic">rec.pets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="732303-588774-rec.pets" source="732303" target="588774">
+	<data key="topic">rec.pets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19224-588774-rec.pets" source="19224" target="588774">
+	<data key="topic">rec.pets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="668019-732302-rec.pets" source="668019" target="732302">
+	<data key="topic">rec.pets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="26347-26066-rec.pets" source="26347" target="26066">
+	<data key="topic">rec.pets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="26347-19224-rec.pets" source="26347" target="19224">
+	<data key="topic">rec.pets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="26347-449886-rec.pets" source="26347" target="449886">
+	<data key="topic">rec.pets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="26347-588774-rec.pets" source="26347" target="588774">
+	<data key="topic">rec.pets</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="26347-667989-rec.pets" source="26347" target="667989">
+	<data key="topic">rec.pets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="449886-26066-rec.pets" source="449886" target="26066">
+	<data key="topic">rec.pets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="449886-732302-rec.pets" source="449886" target="732302">
+	<data key="topic">rec.pets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="449886-32876-rec.pets" source="449886" target="32876">
+	<data key="topic">rec.pets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="32876-732302-rec.pets" source="32876" target="732302">
+	<data key="topic">rec.pets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="667989-26066-rec.pets" source="667989" target="26066">
+	<data key="topic">rec.pets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="667989-19224-rec.pets" source="667989" target="19224">
+	<data key="topic">rec.pets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="667989-588774-rec.pets" source="667989" target="588774">
+	<data key="topic">rec.pets</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

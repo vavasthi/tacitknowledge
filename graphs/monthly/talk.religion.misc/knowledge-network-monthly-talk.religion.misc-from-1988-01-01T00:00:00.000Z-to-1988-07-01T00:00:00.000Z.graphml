@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="26897"/>
+<node id="26775"/>
+<node id="25626"/>
+<node id="22845"/>
+<node id="2592283"/>
+<node id="16896"/>
+<node id="849005"/>
+<node id="26883"/>
+<node id="24009"/>
+<node id="15945"/>
+<node id="2089366"/>
+<node id="26638"/>
+<node id="26480"/>
+<edge id="26775-26638-talk.religion.misc" source="26775" target="26638">
+	<data key="topic">talk.religion.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="849005-2592283-talk.religion.misc" source="849005" target="2592283">
+	<data key="topic">talk.religion.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24009-22845-talk.religion.misc" source="24009" target="22845">
+	<data key="topic">talk.religion.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24009-16896-talk.religion.misc" source="24009" target="16896">
+	<data key="topic">talk.religion.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24009-26883-talk.religion.misc" source="24009" target="26883">
+	<data key="topic">talk.religion.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24009-26638-talk.religion.misc" source="24009" target="26638">
+	<data key="topic">talk.religion.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2089366-26775-talk.religion.misc" source="2089366" target="26775">
+	<data key="topic">talk.religion.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2089366-15945-talk.religion.misc" source="2089366" target="15945">
+	<data key="topic">talk.religion.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2089366-26638-talk.religion.misc" source="2089366" target="26638">
+	<data key="topic">talk.religion.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="26480-26897-talk.religion.misc" source="26480" target="26897">
+	<data key="topic">talk.religion.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="26480-25626-talk.religion.misc" source="26480" target="25626">
+	<data key="topic">talk.religion.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="26480-24009-talk.religion.misc" source="26480" target="24009">
+	<data key="topic">talk.religion.misc</data>
+	<data key="weight">2</data>
+</edge>
+</graph>
+</graphml>

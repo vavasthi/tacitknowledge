@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="677291"/>
+<node id="365176"/>
+<node id="28422"/>
+<node id="670928"/>
+<node id="31352"/>
+<node id="510720"/>
+<node id="710115"/>
+<node id="502671"/>
+<node id="30957"/>
+<edge id="28422-510720-rec.games.hack" source="28422" target="510720">
+	<data key="topic">rec.games.hack</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="670928-365176-rec.games.hack" source="670928" target="365176">
+	<data key="topic">rec.games.hack</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="670928-31352-rec.games.hack" source="670928" target="31352">
+	<data key="topic">rec.games.hack</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="670928-502671-rec.games.hack" source="670928" target="502671">
+	<data key="topic">rec.games.hack</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="710115-677291-rec.games.hack" source="710115" target="677291">
+	<data key="topic">rec.games.hack</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30957-365176-rec.games.hack" source="30957" target="365176">
+	<data key="topic">rec.games.hack</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30957-670928-rec.games.hack" source="30957" target="670928">
+	<data key="topic">rec.games.hack</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30957-31352-rec.games.hack" source="30957" target="31352">
+	<data key="topic">rec.games.hack</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30957-502671-rec.games.hack" source="30957" target="502671">
+	<data key="topic">rec.games.hack</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="913"/>
+<node id="1078724"/>
+<node id="2164"/>
+<node id="967"/>
+<node id="1032"/>
+<node id="2650"/>
+<node id="14362"/>
+<node id="833697"/>
+<node id="2256"/>
+<edge id="1078724-967-gnu.emacs.gnus" source="1078724" target="967">
+	<data key="topic">gnu.emacs.gnus</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1078724-2256-gnu.emacs.gnus" source="1078724" target="2256">
+	<data key="topic">gnu.emacs.gnus</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2164-913-gnu.emacs.gnus" source="2164" target="913">
+	<data key="topic">gnu.emacs.gnus</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2164-2650-gnu.emacs.gnus" source="2164" target="2650">
+	<data key="topic">gnu.emacs.gnus</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2164-833697-gnu.emacs.gnus" source="2164" target="833697">
+	<data key="topic">gnu.emacs.gnus</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="967-2256-gnu.emacs.gnus" source="967" target="2256">
+	<data key="topic">gnu.emacs.gnus</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1032-1078724-gnu.emacs.gnus" source="1032" target="1078724">
+	<data key="topic">gnu.emacs.gnus</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1032-967-gnu.emacs.gnus" source="1032" target="967">
+	<data key="topic">gnu.emacs.gnus</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1032-2256-gnu.emacs.gnus" source="1032" target="2256">
+	<data key="topic">gnu.emacs.gnus</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2650-2164-gnu.emacs.gnus" source="2650" target="2164">
+	<data key="topic">gnu.emacs.gnus</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2650-833697-gnu.emacs.gnus" source="2650" target="833697">
+	<data key="topic">gnu.emacs.gnus</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14362-1078724-gnu.emacs.gnus" source="14362" target="1078724">
+	<data key="topic">gnu.emacs.gnus</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14362-1032-gnu.emacs.gnus" source="14362" target="1032">
+	<data key="topic">gnu.emacs.gnus</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2256-967-gnu.emacs.gnus" source="2256" target="967">
+	<data key="topic">gnu.emacs.gnus</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

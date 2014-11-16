@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="515398"/>
+<node id="670313"/>
+<node id="9036"/>
+<node id="1923863"/>
+<node id="35518"/>
+<edge id="515398-9036-rec.games.frp" source="515398" target="9036">
+	<data key="topic">rec.games.frp</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="515398-1923863-rec.games.frp" source="515398" target="1923863">
+	<data key="topic">rec.games.frp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="515398-35518-rec.games.frp" source="515398" target="35518">
+	<data key="topic">rec.games.frp</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="670313-9036-rec.games.frp" source="670313" target="9036">
+	<data key="topic">rec.games.frp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="670313-1923863-rec.games.frp" source="670313" target="1923863">
+	<data key="topic">rec.games.frp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="670313-35518-rec.games.frp" source="670313" target="35518">
+	<data key="topic">rec.games.frp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="9036-35518-rec.games.frp" source="9036" target="35518">
+	<data key="topic">rec.games.frp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1923863-9036-rec.games.frp" source="1923863" target="9036">
+	<data key="topic">rec.games.frp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1923863-35518-rec.games.frp" source="1923863" target="35518">
+	<data key="topic">rec.games.frp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="35518-9036-rec.games.frp" source="35518" target="9036">
+	<data key="topic">rec.games.frp</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

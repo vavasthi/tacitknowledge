@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="17489"/>
+<node id="1161314"/>
+<node id="1839182"/>
+<node id="1101827"/>
+<node id="1161379"/>
+<node id="1102276"/>
+<node id="375921"/>
+<node id="354801"/>
+<node id="347795"/>
+<node id="12547"/>
+<node id="409957"/>
+<node id="422534"/>
+<node id="357857"/>
+<node id="361697"/>
+<node id="1161275"/>
+<node id="358575"/>
+<node id="2126"/>
+<edge id="17489-1161379-rec.travel" source="17489" target="1161379">
+	<data key="topic">rec.travel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1161314-1161379-rec.travel" source="1161314" target="1161379">
+	<data key="topic">rec.travel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1161314-409957-rec.travel" source="1161314" target="409957">
+	<data key="topic">rec.travel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1161314-358575-rec.travel" source="1161314" target="358575">
+	<data key="topic">rec.travel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1839182-1102276-rec.travel" source="1839182" target="1102276">
+	<data key="topic">rec.travel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1101827-1102276-rec.travel" source="1101827" target="1102276">
+	<data key="topic">rec.travel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="354801-17489-rec.travel" source="354801" target="17489">
+	<data key="topic">rec.travel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="354801-1161379-rec.travel" source="354801" target="1161379">
+	<data key="topic">rec.travel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347795-375921-rec.travel" source="347795" target="375921">
+	<data key="topic">rec.travel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12547-1161379-rec.travel" source="12547" target="1161379">
+	<data key="topic">rec.travel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="409957-1161379-rec.travel" source="409957" target="1161379">
+	<data key="topic">rec.travel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="409957-358575-rec.travel" source="409957" target="358575">
+	<data key="topic">rec.travel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="422534-1161379-rec.travel" source="422534" target="1161379">
+	<data key="topic">rec.travel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="422534-409957-rec.travel" source="422534" target="409957">
+	<data key="topic">rec.travel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="422534-358575-rec.travel" source="422534" target="358575">
+	<data key="topic">rec.travel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="357857-1161379-rec.travel" source="357857" target="1161379">
+	<data key="topic">rec.travel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="361697-1161379-rec.travel" source="361697" target="1161379">
+	<data key="topic">rec.travel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1161275-1161379-rec.travel" source="1161275" target="1161379">
+	<data key="topic">rec.travel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="358575-1161379-rec.travel" source="358575" target="1161379">
+	<data key="topic">rec.travel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2126-1161379-rec.travel" source="2126" target="1161379">
+	<data key="topic">rec.travel</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2126-1161275-rec.travel" source="2126" target="1161275">
+	<data key="topic">rec.travel</data>
+	<data key="weight">2</data>
+</edge>
+</graph>
+</graphml>

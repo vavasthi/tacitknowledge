@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="339190"/>
+<node id="459639"/>
+<node id="461192"/>
+<node id="461190"/>
+<node id="459206"/>
+<node id="459238"/>
+<node id="459460"/>
+<node id="459620"/>
+<node id="460161"/>
+<node id="460143"/>
+<node id="344144"/>
+<node id="339760"/>
+<node id="459630"/>
+<node id="461194"/>
+<node id="392683"/>
+<edge id="339190-461190-net.news.adm" source="339190" target="461190">
+	<data key="topic">net.news.adm</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="339190-459206-net.news.adm" source="339190" target="459206">
+	<data key="topic">net.news.adm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339190-344144-net.news.adm" source="339190" target="344144">
+	<data key="topic">net.news.adm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="461190-459639-net.news.adm" source="461190" target="459639">
+	<data key="topic">net.news.adm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="461190-461192-net.news.adm" source="461190" target="461192">
+	<data key="topic">net.news.adm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="461190-344144-net.news.adm" source="461190" target="344144">
+	<data key="topic">net.news.adm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459206-339190-net.news.adm" source="459206" target="339190">
+	<data key="topic">net.news.adm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459206-461190-net.news.adm" source="459206" target="461190">
+	<data key="topic">net.news.adm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459206-344144-net.news.adm" source="459206" target="344144">
+	<data key="topic">net.news.adm</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="459238-459630-net.news.adm" source="459238" target="459630">
+	<data key="topic">net.news.adm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459460-459620-net.news.adm" source="459460" target="459620">
+	<data key="topic">net.news.adm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459460-460143-net.news.adm" source="459460" target="460143">
+	<data key="topic">net.news.adm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459620-460143-net.news.adm" source="459620" target="460143">
+	<data key="topic">net.news.adm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="344144-392683-net.news.adm" source="344144" target="392683">
+	<data key="topic">net.news.adm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339760-460161-net.news.adm" source="339760" target="460161">
+	<data key="topic">net.news.adm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="461194-392683-net.news.adm" source="461194" target="392683">
+	<data key="topic">net.news.adm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392683-344144-net.news.adm" source="392683" target="344144">
+	<data key="topic">net.news.adm</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

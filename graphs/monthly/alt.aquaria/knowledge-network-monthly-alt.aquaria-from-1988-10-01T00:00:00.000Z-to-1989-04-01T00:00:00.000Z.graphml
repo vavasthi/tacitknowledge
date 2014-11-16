@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1979152"/>
+<node id="546876"/>
+<node id="535922"/>
+<node id="514524"/>
+<node id="511642"/>
+<node id="1648503"/>
+<edge id="535922-546876-alt.aquaria" source="535922" target="546876">
+	<data key="topic">alt.aquaria</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="514524-1979152-alt.aquaria" source="514524" target="1979152">
+	<data key="topic">alt.aquaria</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1648503-511642-alt.aquaria" source="1648503" target="511642">
+	<data key="topic">alt.aquaria</data>
+	<data key="weight">2</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="436422"/>
+<node id="1152167"/>
+<node id="1964982"/>
+<node id="1292538"/>
+<node id="2497132"/>
+<node id="1964993"/>
+<node id="1964995"/>
+<edge id="1964982-436422-comp.sys.concurrent" source="1964982" target="436422">
+	<data key="topic">comp.sys.concurrent</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1964982-2497132-comp.sys.concurrent" source="1964982" target="2497132">
+	<data key="topic">comp.sys.concurrent</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1292538-1152167-comp.sys.concurrent" source="1292538" target="1152167">
+	<data key="topic">comp.sys.concurrent</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1964993-2497132-comp.sys.concurrent" source="1964993" target="2497132">
+	<data key="topic">comp.sys.concurrent</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1964995-436422-comp.sys.concurrent" source="1964995" target="436422">
+	<data key="topic">comp.sys.concurrent</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1964995-2497132-comp.sys.concurrent" source="1964995" target="2497132">
+	<data key="topic">comp.sys.concurrent</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

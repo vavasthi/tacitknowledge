@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="462006"/>
+<node id="522129"/>
+<node id="463649"/>
+<node id="463134"/>
+<node id="459709"/>
+<node id="563303"/>
+<node id="337067"/>
+<node id="2037153"/>
+<edge id="463134-463649-net.taxes" source="463134" target="463649">
+	<data key="topic">net.taxes</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459709-462006-net.taxes" source="459709" target="462006">
+	<data key="topic">net.taxes</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="563303-463649-net.taxes" source="563303" target="463649">
+	<data key="topic">net.taxes</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337067-522129-net.taxes" source="337067" target="522129">
+	<data key="topic">net.taxes</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337067-2037153-net.taxes" source="337067" target="2037153">
+	<data key="topic">net.taxes</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2037153-522129-net.taxes" source="2037153" target="522129">
+	<data key="topic">net.taxes</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

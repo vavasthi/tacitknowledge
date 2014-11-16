@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1442242"/>
+<node id="410175"/>
+<node id="351327"/>
+<node id="2060164"/>
+<edge id="1442242-410175-comp.unix.sysv386" source="1442242" target="410175">
+	<data key="topic">comp.unix.sysv386</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1442242-351327-comp.unix.sysv386" source="1442242" target="351327">
+	<data key="topic">comp.unix.sysv386</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1442242-2060164-comp.unix.sysv386" source="1442242" target="2060164">
+	<data key="topic">comp.unix.sysv386</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

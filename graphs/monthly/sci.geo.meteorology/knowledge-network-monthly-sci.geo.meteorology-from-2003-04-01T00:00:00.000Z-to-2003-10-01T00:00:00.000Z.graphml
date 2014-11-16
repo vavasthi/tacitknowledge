@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="94690"/>
+<node id="41477"/>
+<node id="97302"/>
+<node id="95287"/>
+<node id="40456"/>
+<node id="97287"/>
+<node id="95130"/>
+<node id="37019"/>
+<node id="37435"/>
+<node id="95485"/>
+<node id="43247"/>
+<edge id="94690-43247-sci.geo.meteorology" source="94690" target="43247">
+	<data key="topic">sci.geo.meteorology</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41477-97302-sci.geo.meteorology" source="41477" target="97302">
+	<data key="topic">sci.geo.meteorology</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41477-43247-sci.geo.meteorology" source="41477" target="43247">
+	<data key="topic">sci.geo.meteorology</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="97302-41477-sci.geo.meteorology" source="97302" target="41477">
+	<data key="topic">sci.geo.meteorology</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="97302-43247-sci.geo.meteorology" source="97302" target="43247">
+	<data key="topic">sci.geo.meteorology</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="95287-94690-sci.geo.meteorology" source="95287" target="94690">
+	<data key="topic">sci.geo.meteorology</data>
+	<data key="weight">9</data>
+</edge>
+<edge id="95287-37435-sci.geo.meteorology" source="95287" target="37435">
+	<data key="topic">sci.geo.meteorology</data>
+	<data key="weight">9</data>
+</edge>
+<edge id="95287-43247-sci.geo.meteorology" source="95287" target="43247">
+	<data key="topic">sci.geo.meteorology</data>
+	<data key="weight">30</data>
+</edge>
+<edge id="97287-94690-sci.geo.meteorology" source="97287" target="94690">
+	<data key="topic">sci.geo.meteorology</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="97287-95287-sci.geo.meteorology" source="97287" target="95287">
+	<data key="topic">sci.geo.meteorology</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="97287-37435-sci.geo.meteorology" source="97287" target="37435">
+	<data key="topic">sci.geo.meteorology</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="97287-43247-sci.geo.meteorology" source="97287" target="43247">
+	<data key="topic">sci.geo.meteorology</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="95130-94690-sci.geo.meteorology" source="95130" target="94690">
+	<data key="topic">sci.geo.meteorology</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="95130-95287-sci.geo.meteorology" source="95130" target="95287">
+	<data key="topic">sci.geo.meteorology</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="95130-37435-sci.geo.meteorology" source="95130" target="37435">
+	<data key="topic">sci.geo.meteorology</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="95130-43247-sci.geo.meteorology" source="95130" target="43247">
+	<data key="topic">sci.geo.meteorology</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="37019-41477-sci.geo.meteorology" source="37019" target="41477">
+	<data key="topic">sci.geo.meteorology</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37019-97302-sci.geo.meteorology" source="37019" target="97302">
+	<data key="topic">sci.geo.meteorology</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37019-43247-sci.geo.meteorology" source="37019" target="43247">
+	<data key="topic">sci.geo.meteorology</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37435-94690-sci.geo.meteorology" source="37435" target="94690">
+	<data key="topic">sci.geo.meteorology</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="37435-95287-sci.geo.meteorology" source="37435" target="95287">
+	<data key="topic">sci.geo.meteorology</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="37435-43247-sci.geo.meteorology" source="37435" target="43247">
+	<data key="topic">sci.geo.meteorology</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="95485-94690-sci.geo.meteorology" source="95485" target="94690">
+	<data key="topic">sci.geo.meteorology</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="95485-43247-sci.geo.meteorology" source="95485" target="43247">
+	<data key="topic">sci.geo.meteorology</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="43247-94690-sci.geo.meteorology" source="43247" target="94690">
+	<data key="topic">sci.geo.meteorology</data>
+	<data key="weight">12</data>
+</edge>
+<edge id="43247-95287-sci.geo.meteorology" source="43247" target="95287">
+	<data key="topic">sci.geo.meteorology</data>
+	<data key="weight">19</data>
+</edge>
+<edge id="43247-37435-sci.geo.meteorology" source="43247" target="37435">
+	<data key="topic">sci.geo.meteorology</data>
+	<data key="weight">7</data>
+</edge>
+</graph>
+</graphml>

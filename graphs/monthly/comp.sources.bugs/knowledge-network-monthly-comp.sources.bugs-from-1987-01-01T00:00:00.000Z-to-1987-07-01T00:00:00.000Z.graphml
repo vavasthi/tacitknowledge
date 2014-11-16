@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="390455"/>
+<node id="446547"/>
+<node id="447539"/>
+<node id="394420"/>
+<node id="924633"/>
+<node id="10936"/>
+<node id="447602"/>
+<node id="469568"/>
+<node id="1474831"/>
+<node id="394272"/>
+<node id="391840"/>
+<node id="391706"/>
+<node id="1474825"/>
+<node id="427335"/>
+<node id="390438"/>
+<node id="393030"/>
+<node id="16837"/>
+<node id="28837"/>
+<node id="1090678"/>
+<node id="2653573"/>
+<node id="723912"/>
+<node id="20110"/>
+<node id="16879"/>
+<node id="1474521"/>
+<edge id="446547-924633-comp.sources.bugs" source="446547" target="924633">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="447539-390455-comp.sources.bugs" source="447539" target="390455">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="394420-2653573-comp.sources.bugs" source="394420" target="2653573">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10936-427335-comp.sources.bugs" source="10936" target="427335">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1474831-447602-comp.sources.bugs" source="1474831" target="447602">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391840-394272-comp.sources.bugs" source="391840" target="394272">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391706-390438-comp.sources.bugs" source="391706" target="390438">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1474825-1090678-comp.sources.bugs" source="1474825" target="1090678">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="427335-469568-comp.sources.bugs" source="427335" target="469568">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="393030-1474521-comp.sources.bugs" source="393030" target="1474521">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16837-394272-comp.sources.bugs" source="16837" target="394272">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16837-391840-comp.sources.bugs" source="16837" target="391840">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28837-1474521-comp.sources.bugs" source="28837" target="1474521">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="723912-390455-comp.sources.bugs" source="723912" target="390455">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20110-2653573-comp.sources.bugs" source="20110" target="2653573">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16879-2653573-comp.sources.bugs" source="16879" target="2653573">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

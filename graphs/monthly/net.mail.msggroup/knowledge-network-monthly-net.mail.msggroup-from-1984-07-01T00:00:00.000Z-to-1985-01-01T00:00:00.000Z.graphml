@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="337749"/>
+<node id="338738"/>
+<node id="523890"/>
+<node id="624433"/>
+<node id="338208"/>
+<node id="772143"/>
+<node id="623920"/>
+<node id="459632"/>
+<node id="1313757"/>
+<node id="772129"/>
+<node id="631077"/>
+<node id="523915"/>
+<node id="772134"/>
+<edge id="337749-772143-net.mail.msggroup" source="337749" target="772143">
+	<data key="topic">net.mail.msggroup</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337749-623920-net.mail.msggroup" source="337749" target="623920">
+	<data key="topic">net.mail.msggroup</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337749-631077-net.mail.msggroup" source="337749" target="631077">
+	<data key="topic">net.mail.msggroup</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338738-772129-net.mail.msggroup" source="338738" target="772129">
+	<data key="topic">net.mail.msggroup</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="624433-459632-net.mail.msggroup" source="624433" target="459632">
+	<data key="topic">net.mail.msggroup</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="624433-523915-net.mail.msggroup" source="624433" target="523915">
+	<data key="topic">net.mail.msggroup</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338208-772143-net.mail.msggroup" source="338208" target="772143">
+	<data key="topic">net.mail.msggroup</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338208-459632-net.mail.msggroup" source="338208" target="459632">
+	<data key="topic">net.mail.msggroup</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338208-523915-net.mail.msggroup" source="338208" target="523915">
+	<data key="topic">net.mail.msggroup</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="623920-772143-net.mail.msggroup" source="623920" target="772143">
+	<data key="topic">net.mail.msggroup</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="623920-631077-net.mail.msggroup" source="623920" target="631077">
+	<data key="topic">net.mail.msggroup</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459632-523915-net.mail.msggroup" source="459632" target="523915">
+	<data key="topic">net.mail.msggroup</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1313757-523890-net.mail.msggroup" source="1313757" target="523890">
+	<data key="topic">net.mail.msggroup</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="631077-772143-net.mail.msggroup" source="631077" target="772143">
+	<data key="topic">net.mail.msggroup</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="772134-523915-net.mail.msggroup" source="772134" target="523915">
+	<data key="topic">net.mail.msggroup</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="512727"/>
+<node id="983724"/>
+<node id="433716"/>
+<node id="559711"/>
+<node id="697683"/>
+<node id="361049"/>
+<node id="423417"/>
+<edge id="433716-697683-alt.cobol" source="433716" target="697683">
+	<data key="topic">alt.cobol</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="433716-361049-alt.cobol" source="433716" target="361049">
+	<data key="topic">alt.cobol</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="697683-512727-alt.cobol" source="697683" target="512727">
+	<data key="topic">alt.cobol</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="697683-983724-alt.cobol" source="697683" target="983724">
+	<data key="topic">alt.cobol</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="697683-433716-alt.cobol" source="697683" target="433716">
+	<data key="topic">alt.cobol</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="697683-559711-alt.cobol" source="697683" target="559711">
+	<data key="topic">alt.cobol</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="697683-361049-alt.cobol" source="697683" target="361049">
+	<data key="topic">alt.cobol</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="697683-423417-alt.cobol" source="697683" target="423417">
+	<data key="topic">alt.cobol</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

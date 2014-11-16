@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="766060"/>
+<node id="26833"/>
+<node id="1490933"/>
+<node id="1494868"/>
+<node id="347921"/>
+<node id="694864"/>
+<node id="2876013"/>
+<node id="801368"/>
+<node id="28302"/>
+<node id="16623"/>
+<edge id="766060-26833-ont.test" source="766060" target="26833">
+	<data key="topic">ont.test</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1490933-1494868-ont.test" source="1490933" target="1494868">
+	<data key="topic">ont.test</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1490933-28302-ont.test" source="1490933" target="28302">
+	<data key="topic">ont.test</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347921-2876013-ont.test" source="347921" target="2876013">
+	<data key="topic">ont.test</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="694864-1490933-ont.test" source="694864" target="1490933">
+	<data key="topic">ont.test</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="694864-1494868-ont.test" source="694864" target="1494868">
+	<data key="topic">ont.test</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="694864-28302-ont.test" source="694864" target="28302">
+	<data key="topic">ont.test</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="28302-1494868-ont.test" source="28302" target="1494868">
+	<data key="topic">ont.test</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

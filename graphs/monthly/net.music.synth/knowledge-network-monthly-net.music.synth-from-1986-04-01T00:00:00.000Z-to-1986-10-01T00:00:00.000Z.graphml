@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="920031"/>
+<node id="23507"/>
+<node id="1507043"/>
+<node id="397503"/>
+<node id="1133961"/>
+<node id="928053"/>
+<node id="1506697"/>
+<node id="1372780"/>
+<node id="919823"/>
+<node id="1372789"/>
+<node id="494055"/>
+<node id="23110"/>
+<node id="465571"/>
+<node id="1576319"/>
+<node id="982730"/>
+<node id="1582258"/>
+<node id="470188"/>
+<node id="16719"/>
+<node id="525000"/>
+<edge id="23507-1133961-net.music.synth" source="23507" target="1133961">
+	<data key="topic">net.music.synth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1507043-1506697-net.music.synth" source="1507043" target="1506697">
+	<data key="topic">net.music.synth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="397503-525000-net.music.synth" source="397503" target="525000">
+	<data key="topic">net.music.synth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="928053-920031-net.music.synth" source="928053" target="920031">
+	<data key="topic">net.music.synth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1372789-1133961-net.music.synth" source="1372789" target="1133961">
+	<data key="topic">net.music.synth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="494055-397503-net.music.synth" source="494055" target="397503">
+	<data key="topic">net.music.synth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="494055-919823-net.music.synth" source="494055" target="919823">
+	<data key="topic">net.music.synth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="494055-525000-net.music.synth" source="494055" target="525000">
+	<data key="topic">net.music.synth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23110-1372780-net.music.synth" source="23110" target="1372780">
+	<data key="topic">net.music.synth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="465571-397503-net.music.synth" source="465571" target="397503">
+	<data key="topic">net.music.synth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="465571-525000-net.music.synth" source="465571" target="525000">
+	<data key="topic">net.music.synth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1576319-397503-net.music.synth" source="1576319" target="397503">
+	<data key="topic">net.music.synth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1576319-919823-net.music.synth" source="1576319" target="919823">
+	<data key="topic">net.music.synth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1576319-494055-net.music.synth" source="1576319" target="494055">
+	<data key="topic">net.music.synth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1576319-525000-net.music.synth" source="1576319" target="525000">
+	<data key="topic">net.music.synth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="982730-1133961-net.music.synth" source="982730" target="1133961">
+	<data key="topic">net.music.synth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="982730-1372789-net.music.synth" source="982730" target="1372789">
+	<data key="topic">net.music.synth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1582258-1133961-net.music.synth" source="1582258" target="1133961">
+	<data key="topic">net.music.synth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1582258-1372789-net.music.synth" source="1582258" target="1372789">
+	<data key="topic">net.music.synth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1582258-982730-net.music.synth" source="1582258" target="982730">
+	<data key="topic">net.music.synth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="470188-1372780-net.music.synth" source="470188" target="1372780">
+	<data key="topic">net.music.synth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="470188-23110-net.music.synth" source="470188" target="23110">
+	<data key="topic">net.music.synth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16719-494055-net.music.synth" source="16719" target="494055">
+	<data key="topic">net.music.synth</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

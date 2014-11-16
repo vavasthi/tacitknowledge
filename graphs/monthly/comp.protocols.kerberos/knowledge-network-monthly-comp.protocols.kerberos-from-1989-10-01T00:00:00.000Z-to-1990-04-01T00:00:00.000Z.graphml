@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="670235"/>
+<node id="358482"/>
+<node id="5910"/>
+<node id="1400292"/>
+<node id="696541"/>
+<node id="1200556"/>
+<node id="11040"/>
+<node id="1400278"/>
+<node id="2576070"/>
+<node id="2533"/>
+<node id="716334"/>
+<node id="608612"/>
+<node id="1088220"/>
+<node id="1785553"/>
+<node id="1816152"/>
+<node id="610789"/>
+<node id="371435"/>
+<node id="1816142"/>
+<node id="1816141"/>
+<node id="1658689"/>
+<node id="30146"/>
+<node id="548737"/>
+<node id="737604"/>
+<node id="358478"/>
+<node id="11020"/>
+<node id="623046"/>
+<node id="872068"/>
+<edge id="670235-1400292-comp.protocols.kerberos" source="670235" target="1400292">
+	<data key="topic">comp.protocols.kerberos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="358482-696541-comp.protocols.kerberos" source="358482" target="696541">
+	<data key="topic">comp.protocols.kerberos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="358482-1400278-comp.protocols.kerberos" source="358482" target="1400278">
+	<data key="topic">comp.protocols.kerberos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="358482-2533-comp.protocols.kerberos" source="358482" target="2533">
+	<data key="topic">comp.protocols.kerberos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5910-1816152-comp.protocols.kerberos" source="5910" target="1816152">
+	<data key="topic">comp.protocols.kerberos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5910-1658689-comp.protocols.kerberos" source="5910" target="1658689">
+	<data key="topic">comp.protocols.kerberos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1200556-1400278-comp.protocols.kerberos" source="1200556" target="1400278">
+	<data key="topic">comp.protocols.kerberos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11040-1400292-comp.protocols.kerberos" source="11040" target="1400292">
+	<data key="topic">comp.protocols.kerberos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2533-1400278-comp.protocols.kerberos" source="2533" target="1400278">
+	<data key="topic">comp.protocols.kerberos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="716334-1200556-comp.protocols.kerberos" source="716334" target="1200556">
+	<data key="topic">comp.protocols.kerberos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="608612-1400278-comp.protocols.kerberos" source="608612" target="1400278">
+	<data key="topic">comp.protocols.kerberos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1088220-2576070-comp.protocols.kerberos" source="1088220" target="2576070">
+	<data key="topic">comp.protocols.kerberos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1785553-1816141-comp.protocols.kerberos" source="1785553" target="1816141">
+	<data key="topic">comp.protocols.kerberos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="610789-358482-comp.protocols.kerberos" source="610789" target="358482">
+	<data key="topic">comp.protocols.kerberos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="610789-1400278-comp.protocols.kerberos" source="610789" target="1400278">
+	<data key="topic">comp.protocols.kerberos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="371435-1816142-comp.protocols.kerberos" source="371435" target="1816142">
+	<data key="topic">comp.protocols.kerberos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1816142-1400278-comp.protocols.kerberos" source="1816142" target="1400278">
+	<data key="topic">comp.protocols.kerberos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1658689-1816152-comp.protocols.kerberos" source="1658689" target="1816152">
+	<data key="topic">comp.protocols.kerberos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30146-1400278-comp.protocols.kerberos" source="30146" target="1400278">
+	<data key="topic">comp.protocols.kerberos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="548737-1816141-comp.protocols.kerberos" source="548737" target="1816141">
+	<data key="topic">comp.protocols.kerberos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="737604-1816141-comp.protocols.kerberos" source="737604" target="1816141">
+	<data key="topic">comp.protocols.kerberos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="623046-1200556-comp.protocols.kerberos" source="623046" target="1200556">
+	<data key="topic">comp.protocols.kerberos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="623046-1400278-comp.protocols.kerberos" source="623046" target="1400278">
+	<data key="topic">comp.protocols.kerberos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="872068-358478-comp.protocols.kerberos" source="872068" target="358478">
+	<data key="topic">comp.protocols.kerberos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="872068-11020-comp.protocols.kerberos" source="872068" target="11020">
+	<data key="topic">comp.protocols.kerberos</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

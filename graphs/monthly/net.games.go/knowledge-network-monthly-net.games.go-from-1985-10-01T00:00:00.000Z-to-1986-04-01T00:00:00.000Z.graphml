@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="338738"/>
+<node id="475506"/>
+<node id="539455"/>
+<node id="22072"/>
+<node id="497457"/>
+<node id="2482803"/>
+<node id="486239"/>
+<node id="980019"/>
+<node id="452153"/>
+<node id="638968"/>
+<node id="391515"/>
+<node id="980018"/>
+<node id="471400"/>
+<node id="2715746"/>
+<node id="600360"/>
+<edge id="22072-486239-net.games.go" source="22072" target="486239">
+	<data key="topic">net.games.go</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="497457-539455-net.games.go" source="497457" target="539455">
+	<data key="topic">net.games.go</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2482803-497457-net.games.go" source="2482803" target="497457">
+	<data key="topic">net.games.go</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2482803-980019-net.games.go" source="2482803" target="980019">
+	<data key="topic">net.games.go</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2482803-2715746-net.games.go" source="2482803" target="2715746">
+	<data key="topic">net.games.go</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="486239-475506-net.games.go" source="486239" target="475506">
+	<data key="topic">net.games.go</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="980019-475506-net.games.go" source="980019" target="475506">
+	<data key="topic">net.games.go</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="980019-497457-net.games.go" source="980019" target="497457">
+	<data key="topic">net.games.go</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="452153-980018-net.games.go" source="452153" target="980018">
+	<data key="topic">net.games.go</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="638968-338738-net.games.go" source="638968" target="338738">
+	<data key="topic">net.games.go</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391515-338738-net.games.go" source="391515" target="338738">
+	<data key="topic">net.games.go</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="471400-338738-net.games.go" source="471400" target="338738">
+	<data key="topic">net.games.go</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="471400-391515-net.games.go" source="471400" target="391515">
+	<data key="topic">net.games.go</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="600360-497457-net.games.go" source="600360" target="497457">
+	<data key="topic">net.games.go</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="600360-980019-net.games.go" source="600360" target="980019">
+	<data key="topic">net.games.go</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="600360-2715746-net.games.go" source="600360" target="2715746">
+	<data key="topic">net.games.go</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

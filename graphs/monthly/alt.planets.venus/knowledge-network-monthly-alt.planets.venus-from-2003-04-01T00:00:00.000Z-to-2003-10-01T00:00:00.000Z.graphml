@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="38465"/>
+<node id="86675"/>
+<node id="179602"/>
+<node id="91399"/>
+<node id="51487"/>
+<edge id="38465-86675-alt.planets.venus" source="38465" target="86675">
+	<data key="topic">alt.planets.venus</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="38465-91399-alt.planets.venus" source="38465" target="91399">
+	<data key="topic">alt.planets.venus</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="86675-38465-alt.planets.venus" source="86675" target="38465">
+	<data key="topic">alt.planets.venus</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="86675-91399-alt.planets.venus" source="86675" target="91399">
+	<data key="topic">alt.planets.venus</data>
+	<data key="weight">6</data>
+</edge>
+<edge id="86675-51487-alt.planets.venus" source="86675" target="51487">
+	<data key="topic">alt.planets.venus</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="91399-86675-alt.planets.venus" source="91399" target="86675">
+	<data key="topic">alt.planets.venus</data>
+	<data key="weight">15</data>
+</edge>
+<edge id="91399-179602-alt.planets.venus" source="91399" target="179602">
+	<data key="topic">alt.planets.venus</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="91399-51487-alt.planets.venus" source="91399" target="51487">
+	<data key="topic">alt.planets.venus</data>
+	<data key="weight">3</data>
+</edge>
+</graph>
+</graphml>

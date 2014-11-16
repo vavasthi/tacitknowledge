@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1996415"/>
+<node id="2742988"/>
+<node id="1996413"/>
+<node id="660304"/>
+<node id="456187"/>
+<node id="15533"/>
+<node id="3374"/>
+<node id="587303"/>
+<node id="660310"/>
+<edge id="1996413-1996415-comp.sys.m68k.pc" source="1996413" target="1996415">
+	<data key="topic">comp.sys.m68k.pc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="660304-660310-comp.sys.m68k.pc" source="660304" target="660310">
+	<data key="topic">comp.sys.m68k.pc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15533-587303-comp.sys.m68k.pc" source="15533" target="587303">
+	<data key="topic">comp.sys.m68k.pc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3374-2742988-comp.sys.m68k.pc" source="3374" target="2742988">
+	<data key="topic">comp.sys.m68k.pc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3374-456187-comp.sys.m68k.pc" source="3374" target="456187">
+	<data key="topic">comp.sys.m68k.pc</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

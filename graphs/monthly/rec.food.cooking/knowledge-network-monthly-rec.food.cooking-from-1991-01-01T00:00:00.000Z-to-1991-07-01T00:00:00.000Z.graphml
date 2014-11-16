@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1798540"/>
+<node id="10899"/>
+<node id="3429"/>
+<node id="936108"/>
+<node id="14791"/>
+<node id="15049"/>
+<node id="374638"/>
+<node id="534179"/>
+<node id="375983"/>
+<node id="8574"/>
+<edge id="1798540-14791-rec.food.cooking" source="1798540" target="14791">
+	<data key="topic">rec.food.cooking</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10899-14791-rec.food.cooking" source="10899" target="14791">
+	<data key="topic">rec.food.cooking</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3429-1798540-rec.food.cooking" source="3429" target="1798540">
+	<data key="topic">rec.food.cooking</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3429-14791-rec.food.cooking" source="3429" target="14791">
+	<data key="topic">rec.food.cooking</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="936108-375983-rec.food.cooking" source="936108" target="375983">
+	<data key="topic">rec.food.cooking</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="936108-8574-rec.food.cooking" source="936108" target="8574">
+	<data key="topic">rec.food.cooking</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15049-534179-rec.food.cooking" source="15049" target="534179">
+	<data key="topic">rec.food.cooking</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="374638-534179-rec.food.cooking" source="374638" target="534179">
+	<data key="topic">rec.food.cooking</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="8574-375983-rec.food.cooking" source="8574" target="375983">
+	<data key="topic">rec.food.cooking</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

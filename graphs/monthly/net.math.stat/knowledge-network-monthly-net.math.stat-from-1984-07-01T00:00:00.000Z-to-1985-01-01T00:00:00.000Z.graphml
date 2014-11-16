@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="337430"/>
+<node id="625690"/>
+<node id="627321"/>
+<node id="527643"/>
+<node id="561180"/>
+<node id="490545"/>
+<node id="399485"/>
+<node id="527575"/>
+<node id="654903"/>
+<node id="339142"/>
+<node id="2169378"/>
+<node id="775280"/>
+<node id="6022"/>
+<node id="666574"/>
+<node id="604258"/>
+<node id="338029"/>
+<node id="472458"/>
+<edge id="337430-6022-net.math.stat" source="337430" target="6022">
+	<data key="topic">net.math.stat</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="561180-338029-net.math.stat" source="561180" target="338029">
+	<data key="topic">net.math.stat</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="490545-625690-net.math.stat" source="490545" target="625690">
+	<data key="topic">net.math.stat</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="527575-2169378-net.math.stat" source="527575" target="2169378">
+	<data key="topic">net.math.stat</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="654903-399485-net.math.stat" source="654903" target="399485">
+	<data key="topic">net.math.stat</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339142-6022-net.math.stat" source="339142" target="6022">
+	<data key="topic">net.math.stat</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="666574-775280-net.math.stat" source="666574" target="775280">
+	<data key="topic">net.math.stat</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="604258-627321-net.math.stat" source="604258" target="627321">
+	<data key="topic">net.math.stat</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="604258-6022-net.math.stat" source="604258" target="6022">
+	<data key="topic">net.math.stat</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="472458-6022-net.math.stat" source="472458" target="6022">
+	<data key="topic">net.math.stat</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

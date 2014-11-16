@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="814317"/>
+<node id="1011071"/>
+<node id="1011519"/>
+<node id="1011517"/>
+<node id="622878"/>
+<node id="862506"/>
+<node id="1011515"/>
+<node id="709410"/>
+<node id="1208111"/>
+<node id="10479"/>
+<node id="501914"/>
+<edge id="814317-501914-alt.fishing" source="814317" target="501914">
+	<data key="topic">alt.fishing</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1011519-1011071-alt.fishing" source="1011519" target="1011071">
+	<data key="topic">alt.fishing</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="622878-1208111-alt.fishing" source="622878" target="1208111">
+	<data key="topic">alt.fishing</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="862506-1011515-alt.fishing" source="862506" target="1011515">
+	<data key="topic">alt.fishing</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="709410-1011517-alt.fishing" source="709410" target="1011517">
+	<data key="topic">alt.fishing</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10479-1011071-alt.fishing" source="10479" target="1011071">
+	<data key="topic">alt.fishing</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

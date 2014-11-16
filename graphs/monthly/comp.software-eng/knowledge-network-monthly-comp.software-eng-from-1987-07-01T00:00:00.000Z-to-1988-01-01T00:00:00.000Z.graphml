@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1994351"/>
+<node id="15505"/>
+<node id="451991"/>
+<node id="456919"/>
+<node id="661401"/>
+<node id="16019"/>
+<node id="448159"/>
+<node id="1016148"/>
+<node id="1994403"/>
+<node id="545432"/>
+<node id="17953"/>
+<node id="15203"/>
+<node id="28899"/>
+<node id="16163"/>
+<node id="17189"/>
+<node id="1474515"/>
+<node id="446753"/>
+<node id="15719"/>
+<node id="1486175"/>
+<node id="453167"/>
+<node id="15595"/>
+<node id="1994326"/>
+<node id="501097"/>
+<node id="17841"/>
+<node id="18226"/>
+<node id="1139"/>
+<node id="454646"/>
+<node id="338420"/>
+<node id="15993"/>
+<node id="457472"/>
+<node id="21437"/>
+<node id="35966"/>
+<node id="31680"/>
+<node id="344584"/>
+<node id="16387"/>
+<node id="16068"/>
+<node id="584140"/>
+<node id="1994425"/>
+<node id="722305"/>
+<node id="657794"/>
+<node id="24269"/>
+<node id="26125"/>
+<node id="666824"/>
+<node id="29006"/>
+<node id="658376"/>
+<node id="598408"/>
+<edge id="1994351-1016148-comp.software-eng" source="1994351" target="1016148">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="1994351-446753-comp.software-eng" source="1994351" target="446753">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="1994351-1486175-comp.software-eng" source="1994351" target="1486175">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1994351-1139-comp.software-eng" source="1994351" target="1139">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1994351-344584-comp.software-eng" source="1994351" target="344584">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="1994351-1994425-comp.software-eng" source="1994351" target="1994425">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1994351-666824-comp.software-eng" source="1994351" target="666824">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="15505-1994351-comp.software-eng" source="15505" target="1994351">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15505-1016148-comp.software-eng" source="15505" target="1016148">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15505-446753-comp.software-eng" source="15505" target="446753">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15505-1139-comp.software-eng" source="15505" target="1139">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15505-344584-comp.software-eng" source="15505" target="344584">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15505-24269-comp.software-eng" source="15505" target="24269">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15505-666824-comp.software-eng" source="15505" target="666824">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="451991-1016148-comp.software-eng" source="451991" target="1016148">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="451991-446753-comp.software-eng" source="451991" target="446753">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="451991-1139-comp.software-eng" source="451991" target="1139">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="451991-344584-comp.software-eng" source="451991" target="344584">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="451991-666824-comp.software-eng" source="451991" target="666824">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="456919-1016148-comp.software-eng" source="456919" target="1016148">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="456919-446753-comp.software-eng" source="456919" target="446753">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="456919-1139-comp.software-eng" source="456919" target="1139">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="456919-344584-comp.software-eng" source="456919" target="344584">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="456919-666824-comp.software-eng" source="456919" target="666824">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="448159-1016148-comp.software-eng" source="448159" target="1016148">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="448159-666824-comp.software-eng" source="448159" target="666824">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1994403-17189-comp.software-eng" source="1994403" target="17189">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="545432-1994351-comp.software-eng" source="545432" target="1994351">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="545432-1016148-comp.software-eng" source="545432" target="1016148">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="545432-446753-comp.software-eng" source="545432" target="446753">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="545432-1486175-comp.software-eng" source="545432" target="1486175">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="545432-344584-comp.software-eng" source="545432" target="344584">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="545432-666824-comp.software-eng" source="545432" target="666824">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17953-1994351-comp.software-eng" source="17953" target="1994351">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17953-15203-comp.software-eng" source="17953" target="15203">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17953-15719-comp.software-eng" source="17953" target="15719">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17953-454646-comp.software-eng" source="17953" target="454646">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28899-16163-comp.software-eng" source="28899" target="16163">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1474515-1016148-comp.software-eng" source="1474515" target="1016148">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1474515-666824-comp.software-eng" source="1474515" target="666824">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="446753-1994351-comp.software-eng" source="446753" target="1994351">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="446753-1016148-comp.software-eng" source="446753" target="1016148">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="446753-1139-comp.software-eng" source="446753" target="1139">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="446753-344584-comp.software-eng" source="446753" target="344584">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="446753-666824-comp.software-eng" source="446753" target="666824">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="15719-1994351-comp.software-eng" source="15719" target="1994351">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15719-15203-comp.software-eng" source="15719" target="15203">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15719-454646-comp.software-eng" source="15719" target="454646">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1486175-1016148-comp.software-eng" source="1486175" target="1016148">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1486175-446753-comp.software-eng" source="1486175" target="446753">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1486175-344584-comp.software-eng" source="1486175" target="344584">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1486175-666824-comp.software-eng" source="1486175" target="666824">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="453167-16163-comp.software-eng" source="453167" target="16163">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="453167-584140-comp.software-eng" source="453167" target="584140">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15595-1994351-comp.software-eng" source="15595" target="1994351">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="15595-1016148-comp.software-eng" source="15595" target="1016148">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="15595-446753-comp.software-eng" source="15595" target="446753">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="15595-1139-comp.software-eng" source="15595" target="1139">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="15595-344584-comp.software-eng" source="15595" target="344584">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="15595-666824-comp.software-eng" source="15595" target="666824">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="1994326-1016148-comp.software-eng" source="1994326" target="1016148">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1994326-446753-comp.software-eng" source="1994326" target="446753">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1994326-1486175-comp.software-eng" source="1994326" target="1486175">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1994326-344584-comp.software-eng" source="1994326" target="344584">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1994326-666824-comp.software-eng" source="1994326" target="666824">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="501097-1016148-comp.software-eng" source="501097" target="1016148">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="501097-666824-comp.software-eng" source="501097" target="666824">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17841-1994425-comp.software-eng" source="17841" target="1994425">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18226-1016148-comp.software-eng" source="18226" target="1016148">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="18226-446753-comp.software-eng" source="18226" target="446753">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18226-1486175-comp.software-eng" source="18226" target="1486175">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18226-344584-comp.software-eng" source="18226" target="344584">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18226-666824-comp.software-eng" source="18226" target="666824">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1139-1994351-comp.software-eng" source="1139" target="1994351">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1139-661401-comp.software-eng" source="1139" target="661401">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1139-1016148-comp.software-eng" source="1139" target="1016148">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="1139-446753-comp.software-eng" source="1139" target="446753">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1139-344584-comp.software-eng" source="1139" target="344584">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="1139-666824-comp.software-eng" source="1139" target="666824">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="454646-1016148-comp.software-eng" source="454646" target="1016148">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="454646-666824-comp.software-eng" source="454646" target="666824">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338420-1016148-comp.software-eng" source="338420" target="1016148">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338420-666824-comp.software-eng" source="338420" target="666824">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15993-1016148-comp.software-eng" source="15993" target="1016148">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15993-666824-comp.software-eng" source="15993" target="666824">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="457472-17189-comp.software-eng" source="457472" target="17189">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="21437-722305-comp.software-eng" source="21437" target="722305">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="35966-16019-comp.software-eng" source="35966" target="16019">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="35966-17189-comp.software-eng" source="35966" target="17189">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="31680-722305-comp.software-eng" source="31680" target="722305">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16387-1016148-comp.software-eng" source="16387" target="1016148">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16387-666824-comp.software-eng" source="16387" target="666824">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16068-1994403-comp.software-eng" source="16068" target="1994403">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16068-17189-comp.software-eng" source="16068" target="17189">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="584140-16163-comp.software-eng" source="584140" target="16163">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1994425-1016148-comp.software-eng" source="1994425" target="1016148">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1994425-446753-comp.software-eng" source="1994425" target="446753">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1994425-344584-comp.software-eng" source="1994425" target="344584">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1994425-666824-comp.software-eng" source="1994425" target="666824">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="657794-1994403-comp.software-eng" source="657794" target="1994403">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="657794-446753-comp.software-eng" source="657794" target="446753">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="26125-451991-comp.software-eng" source="26125" target="451991">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="26125-1016148-comp.software-eng" source="26125" target="1016148">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="26125-446753-comp.software-eng" source="26125" target="446753">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="26125-1139-comp.software-eng" source="26125" target="1139">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="26125-344584-comp.software-eng" source="26125" target="344584">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="26125-666824-comp.software-eng" source="26125" target="666824">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="29006-1016148-comp.software-eng" source="29006" target="1016148">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-666824-comp.software-eng" source="29006" target="666824">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="658376-17189-comp.software-eng" source="658376" target="17189">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="658376-35966-comp.software-eng" source="658376" target="35966">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="598408-1016148-comp.software-eng" source="598408" target="1016148">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="598408-666824-comp.software-eng" source="598408" target="666824">
+	<data key="topic">comp.software-eng</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

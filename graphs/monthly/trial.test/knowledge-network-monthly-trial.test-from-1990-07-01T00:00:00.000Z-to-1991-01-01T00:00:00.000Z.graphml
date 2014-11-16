@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1590329"/>
+<node id="11540"/>
+<node id="780882"/>
+<node id="2812"/>
+<node id="11868"/>
+<node id="1185071"/>
+<node id="1590328"/>
+<edge id="1590329-1590328-trial.test" source="1590329" target="1590328">
+	<data key="topic">trial.test</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11540-780882-trial.test" source="11540" target="780882">
+	<data key="topic">trial.test</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11540-11868-trial.test" source="11540" target="11868">
+	<data key="topic">trial.test</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11540-1185071-trial.test" source="11540" target="1185071">
+	<data key="topic">trial.test</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="780882-11540-trial.test" source="780882" target="11540">
+	<data key="topic">trial.test</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="780882-11868-trial.test" source="780882" target="11868">
+	<data key="topic">trial.test</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="780882-1185071-trial.test" source="780882" target="1185071">
+	<data key="topic">trial.test</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2812-11540-trial.test" source="2812" target="11540">
+	<data key="topic">trial.test</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2812-780882-trial.test" source="2812" target="780882">
+	<data key="topic">trial.test</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2812-1185071-trial.test" source="2812" target="1185071">
+	<data key="topic">trial.test</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1185071-11868-trial.test" source="1185071" target="11868">
+	<data key="topic">trial.test</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

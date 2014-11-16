@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="19831"/>
+<node id="338334"/>
+<node id="337917"/>
+<node id="523198"/>
+<node id="429694"/>
+<node id="623571"/>
+<node id="338425"/>
+<node id="341467"/>
+<node id="600343"/>
+<node id="338342"/>
+<node id="391398"/>
+<node id="338311"/>
+<node id="339975"/>
+<node id="485711"/>
+<node id="337264"/>
+<node id="633860"/>
+<node id="337200"/>
+<node id="524172"/>
+<node id="465579"/>
+<node id="600360"/>
+<edge id="19831-338334-net.games.emp" source="19831" target="338334">
+	<data key="topic">net.games.emp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19831-338342-net.games.emp" source="19831" target="338342">
+	<data key="topic">net.games.emp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19831-337264-net.games.emp" source="19831" target="337264">
+	<data key="topic">net.games.emp</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="19831-633860-net.games.emp" source="19831" target="633860">
+	<data key="topic">net.games.emp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338334-338342-net.games.emp" source="338334" target="338342">
+	<data key="topic">net.games.emp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338334-337264-net.games.emp" source="338334" target="337264">
+	<data key="topic">net.games.emp</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="429694-523198-net.games.emp" source="429694" target="523198">
+	<data key="topic">net.games.emp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338425-485711-net.games.emp" source="338425" target="485711">
+	<data key="topic">net.games.emp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341467-623571-net.games.emp" source="341467" target="623571">
+	<data key="topic">net.games.emp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341467-391398-net.games.emp" source="341467" target="391398">
+	<data key="topic">net.games.emp</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="341467-524172-net.games.emp" source="341467" target="524172">
+	<data key="topic">net.games.emp</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="600343-523198-net.games.emp" source="600343" target="523198">
+	<data key="topic">net.games.emp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="600343-429694-net.games.emp" source="600343" target="429694">
+	<data key="topic">net.games.emp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="600343-391398-net.games.emp" source="600343" target="391398">
+	<data key="topic">net.games.emp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338342-338334-net.games.emp" source="338342" target="338334">
+	<data key="topic">net.games.emp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338342-337264-net.games.emp" source="338342" target="337264">
+	<data key="topic">net.games.emp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391398-523198-net.games.emp" source="391398" target="523198">
+	<data key="topic">net.games.emp</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="391398-429694-net.games.emp" source="391398" target="429694">
+	<data key="topic">net.games.emp</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="338311-338334-net.games.emp" source="338311" target="338334">
+	<data key="topic">net.games.emp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338311-338342-net.games.emp" source="338311" target="338342">
+	<data key="topic">net.games.emp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338311-337264-net.games.emp" source="338311" target="337264">
+	<data key="topic">net.games.emp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339975-429694-net.games.emp" source="339975" target="429694">
+	<data key="topic">net.games.emp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="633860-337264-net.games.emp" source="633860" target="337264">
+	<data key="topic">net.games.emp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337200-337917-net.games.emp" source="337200" target="337917">
+	<data key="topic">net.games.emp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="524172-391398-net.games.emp" source="524172" target="391398">
+	<data key="topic">net.games.emp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="465579-338334-net.games.emp" source="465579" target="338334">
+	<data key="topic">net.games.emp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="465579-337264-net.games.emp" source="465579" target="337264">
+	<data key="topic">net.games.emp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="600360-523198-net.games.emp" source="600360" target="523198">
+	<data key="topic">net.games.emp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="600360-429694-net.games.emp" source="600360" target="429694">
+	<data key="topic">net.games.emp</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

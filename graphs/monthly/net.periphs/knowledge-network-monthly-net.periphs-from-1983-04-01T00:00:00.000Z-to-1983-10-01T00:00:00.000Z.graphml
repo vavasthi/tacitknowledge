@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="460023"/>
+<node id="459941"/>
+<node id="563309"/>
+<node id="563312"/>
+<node id="562961"/>
+<node id="485612"/>
+<node id="29006"/>
+<node id="560855"/>
+<node id="563304"/>
+<edge id="563309-460023-net.periphs" source="563309" target="460023">
+	<data key="topic">net.periphs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="562961-459941-net.periphs" source="562961" target="459941">
+	<data key="topic">net.periphs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="485612-560855-net.periphs" source="485612" target="560855">
+	<data key="topic">net.periphs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="563304-563312-net.periphs" source="563304" target="563312">
+	<data key="topic">net.periphs</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

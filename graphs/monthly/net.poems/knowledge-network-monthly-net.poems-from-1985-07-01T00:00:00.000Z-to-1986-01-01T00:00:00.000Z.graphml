@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="19730"/>
+<node id="978108"/>
+<node id="399698"/>
+<node id="337790"/>
+<node id="1365198"/>
+<node id="485695"/>
+<node id="920373"/>
+<node id="338970"/>
+<node id="338171"/>
+<node id="2015167"/>
+<node id="465089"/>
+<node id="340675"/>
+<node id="339950"/>
+<node id="467376"/>
+<node id="464334"/>
+<node id="980581"/>
+<node id="337577"/>
+<node id="464971"/>
+<edge id="978108-467376-net.poems" source="978108" target="467376">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="399698-1365198-net.poems" source="399698" target="1365198">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337790-2015167-net.poems" source="337790" target="2015167">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="485695-980581-net.poems" source="485695" target="980581">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="920373-339950-net.poems" source="920373" target="339950">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338171-464971-net.poems" source="338171" target="464971">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="465089-340675-net.poems" source="465089" target="340675">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="464334-19730-net.poems" source="464334" target="19730">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337577-338970-net.poems" source="337577" target="338970">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="460855"/>
+<node id="2037419"/>
+<node id="564382"/>
+<node id="1439108"/>
+<node id="459186"/>
+<node id="564307"/>
+<node id="1439306"/>
+<node id="563670"/>
+<node id="681816"/>
+<node id="1439062"/>
+<node id="1135252"/>
+<node id="463557"/>
+<node id="459748"/>
+<node id="1439316"/>
+<node id="563684"/>
+<node id="485612"/>
+<node id="566086"/>
+<edge id="460855-566086-net.micro.pc" source="460855" target="566086">
+	<data key="topic">net.micro.pc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1439108-1439062-net.micro.pc" source="1439108" target="1439062">
+	<data key="topic">net.micro.pc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459186-1439306-net.micro.pc" source="459186" target="1439306">
+	<data key="topic">net.micro.pc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="564307-1439316-net.micro.pc" source="564307" target="1439316">
+	<data key="topic">net.micro.pc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="563670-681816-net.micro.pc" source="563670" target="681816">
+	<data key="topic">net.micro.pc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="563670-563684-net.micro.pc" source="563670" target="563684">
+	<data key="topic">net.micro.pc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1135252-2037419-net.micro.pc" source="1135252" target="2037419">
+	<data key="topic">net.micro.pc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1135252-463557-net.micro.pc" source="1135252" target="463557">
+	<data key="topic">net.micro.pc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1135252-459748-net.micro.pc" source="1135252" target="459748">
+	<data key="topic">net.micro.pc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="485612-564382-net.micro.pc" source="485612" target="564382">
+	<data key="topic">net.micro.pc</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

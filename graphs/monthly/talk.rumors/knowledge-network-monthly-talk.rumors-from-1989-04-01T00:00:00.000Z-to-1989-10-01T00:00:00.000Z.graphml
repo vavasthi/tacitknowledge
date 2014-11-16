@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="618010"/>
+<node id="621472"/>
+<node id="507665"/>
+<node id="29977"/>
+<node id="720291"/>
+<node id="720305"/>
+<node id="709778"/>
+<node id="611829"/>
+<node id="720312"/>
+<node id="698981"/>
+<node id="709414"/>
+<edge id="618010-29977-talk.rumors" source="618010" target="29977">
+	<data key="topic">talk.rumors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="618010-611829-talk.rumors" source="618010" target="611829">
+	<data key="topic">talk.rumors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="618010-709414-talk.rumors" source="618010" target="709414">
+	<data key="topic">talk.rumors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="621472-29977-talk.rumors" source="621472" target="29977">
+	<data key="topic">talk.rumors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="621472-720291-talk.rumors" source="621472" target="720291">
+	<data key="topic">talk.rumors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="621472-709414-talk.rumors" source="621472" target="709414">
+	<data key="topic">talk.rumors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="507665-621472-talk.rumors" source="507665" target="621472">
+	<data key="topic">talk.rumors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="507665-29977-talk.rumors" source="507665" target="29977">
+	<data key="topic">talk.rumors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="507665-720291-talk.rumors" source="507665" target="720291">
+	<data key="topic">talk.rumors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="507665-720305-talk.rumors" source="507665" target="720305">
+	<data key="topic">talk.rumors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="507665-709414-talk.rumors" source="507665" target="709414">
+	<data key="topic">talk.rumors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="29977-720291-talk.rumors" source="29977" target="720291">
+	<data key="topic">talk.rumors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29977-720305-talk.rumors" source="29977" target="720305">
+	<data key="topic">talk.rumors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29977-709778-talk.rumors" source="29977" target="709778">
+	<data key="topic">talk.rumors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29977-611829-talk.rumors" source="29977" target="611829">
+	<data key="topic">talk.rumors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29977-720312-talk.rumors" source="29977" target="720312">
+	<data key="topic">talk.rumors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29977-709414-talk.rumors" source="29977" target="709414">
+	<data key="topic">talk.rumors</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="720291-29977-talk.rumors" source="720291" target="29977">
+	<data key="topic">talk.rumors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="720291-709414-talk.rumors" source="720291" target="709414">
+	<data key="topic">talk.rumors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="709778-29977-talk.rumors" source="709778" target="29977">
+	<data key="topic">talk.rumors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="709778-720312-talk.rumors" source="709778" target="720312">
+	<data key="topic">talk.rumors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="709778-709414-talk.rumors" source="709778" target="709414">
+	<data key="topic">talk.rumors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="611829-29977-talk.rumors" source="611829" target="29977">
+	<data key="topic">talk.rumors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="611829-709414-talk.rumors" source="611829" target="709414">
+	<data key="topic">talk.rumors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="698981-507665-talk.rumors" source="698981" target="507665">
+	<data key="topic">talk.rumors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="698981-29977-talk.rumors" source="698981" target="29977">
+	<data key="topic">talk.rumors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="698981-709414-talk.rumors" source="698981" target="709414">
+	<data key="topic">talk.rumors</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

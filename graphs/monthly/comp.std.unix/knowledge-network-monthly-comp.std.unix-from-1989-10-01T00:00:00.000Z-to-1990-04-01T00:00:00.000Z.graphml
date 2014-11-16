@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1005088"/>
+<node id="618010"/>
+<node id="28946"/>
+<node id="617243"/>
+<node id="617246"/>
+<node id="617245"/>
+<node id="4634"/>
+<node id="709650"/>
+<node id="3230"/>
+<node id="611736"/>
+<node id="999984"/>
+<node id="12712"/>
+<node id="557089"/>
+<node id="11050"/>
+<node id="442026"/>
+<node id="701630"/>
+<node id="398400"/>
+<node id="647992"/>
+<node id="608696"/>
+<node id="2113"/>
+<node id="1664571"/>
+<node id="29006"/>
+<node id="359115"/>
+<node id="1614314"/>
+<node id="349784"/>
+<node id="33750"/>
+<node id="1393763"/>
+<node id="429787"/>
+<node id="6623"/>
+<node id="1614311"/>
+<node id="509288"/>
+<node id="618606"/>
+<node id="696685"/>
+<node id="1003498"/>
+<node id="618980"/>
+<node id="510326"/>
+<node id="379128"/>
+<node id="549118"/>
+<node id="2678"/>
+<node id="10615"/>
+<node id="365696"/>
+<node id="608502"/>
+<node id="20221"/>
+<node id="429689"/>
+<node id="2514778"/>
+<node id="364795"/>
+<node id="15618"/>
+<node id="501894"/>
+<node id="828041"/>
+<node id="697989"/>
+<edge id="618010-549118-comp.std.unix" source="618010" target="549118">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28946-2113-comp.std.unix" source="28946" target="2113">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28946-618980-comp.std.unix" source="28946" target="618980">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28946-15618-comp.std.unix" source="28946" target="15618">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="617243-1614314-comp.std.unix" source="617243" target="1614314">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4634-617246-comp.std.unix" source="4634" target="617246">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="4634-617245-comp.std.unix" source="4634" target="617245">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="4634-608502-comp.std.unix" source="4634" target="608502">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12712-442026-comp.std.unix" source="12712" target="442026">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="557089-617246-comp.std.unix" source="557089" target="617246">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11050-6623-comp.std.unix" source="11050" target="6623">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="11050-429689-comp.std.unix" source="11050" target="429689">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11050-501894-comp.std.unix" source="11050" target="501894">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="701630-1005088-comp.std.unix" source="701630" target="1005088">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="701630-3230-comp.std.unix" source="701630" target="3230">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="701630-611736-comp.std.unix" source="701630" target="611736">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="701630-398400-comp.std.unix" source="701630" target="398400">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="701630-429689-comp.std.unix" source="701630" target="429689">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="701630-501894-comp.std.unix" source="701630" target="501894">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="398400-3230-comp.std.unix" source="398400" target="3230">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="398400-701630-comp.std.unix" source="398400" target="701630">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="29006-617246-comp.std.unix" source="29006" target="617246">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-429689-comp.std.unix" source="29006" target="429689">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="29006-501894-comp.std.unix" source="29006" target="501894">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="359115-2514778-comp.std.unix" source="359115" target="2514778">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="429787-501894-comp.std.unix" source="429787" target="501894">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1614311-999984-comp.std.unix" source="1614311" target="999984">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1614311-608696-comp.std.unix" source="1614311" target="608696">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1614311-349784-comp.std.unix" source="1614311" target="349784">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1614311-1393763-comp.std.unix" source="1614311" target="1393763">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1614311-608502-comp.std.unix" source="1614311" target="608502">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="618606-3230-comp.std.unix" source="618606" target="3230">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="618606-701630-comp.std.unix" source="618606" target="701630">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="618606-429689-comp.std.unix" source="618606" target="429689">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696685-617246-comp.std.unix" source="696685" target="617246">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="618980-647992-comp.std.unix" source="618980" target="647992">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="618980-2113-comp.std.unix" source="618980" target="2113">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="618980-379128-comp.std.unix" source="618980" target="379128">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="618980-429689-comp.std.unix" source="618980" target="429689">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="618980-15618-comp.std.unix" source="618980" target="15618">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510326-1005088-comp.std.unix" source="510326" target="1005088">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510326-701630-comp.std.unix" source="510326" target="701630">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="510326-429689-comp.std.unix" source="510326" target="429689">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20221-549118-comp.std.unix" source="20221" target="549118">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="429689-1005088-comp.std.unix" source="429689" target="1005088">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="429689-709650-comp.std.unix" source="429689" target="709650">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="429689-3230-comp.std.unix" source="429689" target="3230">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="429689-999984-comp.std.unix" source="429689" target="999984">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="429689-442026-comp.std.unix" source="429689" target="442026">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="429689-701630-comp.std.unix" source="429689" target="701630">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="429689-398400-comp.std.unix" source="429689" target="398400">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="429689-647992-comp.std.unix" source="429689" target="647992">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="429689-1664571-comp.std.unix" source="429689" target="1664571">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="429689-349784-comp.std.unix" source="429689" target="349784">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="429689-33750-comp.std.unix" source="429689" target="33750">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="429689-509288-comp.std.unix" source="429689" target="509288">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="429689-2678-comp.std.unix" source="429689" target="2678">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="429689-10615-comp.std.unix" source="429689" target="10615">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="429689-365696-comp.std.unix" source="429689" target="365696">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="429689-501894-comp.std.unix" source="429689" target="501894">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="429689-828041-comp.std.unix" source="429689" target="828041">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="364795-10615-comp.std.unix" source="364795" target="10615">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15618-2113-comp.std.unix" source="15618" target="2113">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="501894-3230-comp.std.unix" source="501894" target="3230">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="501894-701630-comp.std.unix" source="501894" target="701630">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="501894-398400-comp.std.unix" source="501894" target="398400">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="501894-429689-comp.std.unix" source="501894" target="429689">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">6</data>
+</edge>
+<edge id="697989-1614311-comp.std.unix" source="697989" target="1614311">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

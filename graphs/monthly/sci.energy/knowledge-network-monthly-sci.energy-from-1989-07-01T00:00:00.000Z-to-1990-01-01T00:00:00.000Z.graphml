@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="307"/>
+<node id="7315"/>
+<node id="513797"/>
+<node id="812288"/>
+<node id="445505"/>
+<node id="540831"/>
+<node id="701997"/>
+<node id="426960"/>
+<node id="1099454"/>
+<node id="10974"/>
+<node id="357868"/>
+<node id="614663"/>
+<edge id="307-445505-sci.energy" source="307" target="445505">
+	<data key="topic">sci.energy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7315-445505-sci.energy" source="7315" target="445505">
+	<data key="topic">sci.energy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7315-1099454-sci.energy" source="7315" target="1099454">
+	<data key="topic">sci.energy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="513797-445505-sci.energy" source="513797" target="445505">
+	<data key="topic">sci.energy</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="513797-426960-sci.energy" source="513797" target="426960">
+	<data key="topic">sci.energy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="513797-1099454-sci.energy" source="513797" target="1099454">
+	<data key="topic">sci.energy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="445505-307-sci.energy" source="445505" target="307">
+	<data key="topic">sci.energy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="445505-7315-sci.energy" source="445505" target="7315">
+	<data key="topic">sci.energy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="445505-426960-sci.energy" source="445505" target="426960">
+	<data key="topic">sci.energy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="445505-1099454-sci.energy" source="445505" target="1099454">
+	<data key="topic">sci.energy</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="540831-445505-sci.energy" source="540831" target="445505">
+	<data key="topic">sci.energy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="540831-1099454-sci.energy" source="540831" target="1099454">
+	<data key="topic">sci.energy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="701997-307-sci.energy" source="701997" target="307">
+	<data key="topic">sci.energy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="701997-445505-sci.energy" source="701997" target="445505">
+	<data key="topic">sci.energy</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="426960-445505-sci.energy" source="426960" target="445505">
+	<data key="topic">sci.energy</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="426960-1099454-sci.energy" source="426960" target="1099454">
+	<data key="topic">sci.energy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1099454-445505-sci.energy" source="1099454" target="445505">
+	<data key="topic">sci.energy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10974-445505-sci.energy" source="10974" target="445505">
+	<data key="topic">sci.energy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="357868-445505-sci.energy" source="357868" target="445505">
+	<data key="topic">sci.energy</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="357868-426960-sci.energy" source="357868" target="426960">
+	<data key="topic">sci.energy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="357868-1099454-sci.energy" source="357868" target="1099454">
+	<data key="topic">sci.energy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="614663-445505-sci.energy" source="614663" target="445505">
+	<data key="topic">sci.energy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="614663-426960-sci.energy" source="614663" target="426960">
+	<data key="topic">sci.energy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="614663-1099454-sci.energy" source="614663" target="1099454">
+	<data key="topic">sci.energy</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

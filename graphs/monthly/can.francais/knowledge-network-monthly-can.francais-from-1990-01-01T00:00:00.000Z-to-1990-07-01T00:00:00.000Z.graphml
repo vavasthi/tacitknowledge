@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="611450"/>
+<node id="620509"/>
+<node id="586306"/>
+<node id="620516"/>
+<node id="2812"/>
+<node id="557828"/>
+<node id="546357"/>
+<edge id="611450-586306-can.francais" source="611450" target="586306">
+	<data key="topic">can.francais</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="611450-620516-can.francais" source="611450" target="620516">
+	<data key="topic">can.francais</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="611450-2812-can.francais" source="611450" target="2812">
+	<data key="topic">can.francais</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="611450-546357-can.francais" source="611450" target="546357">
+	<data key="topic">can.francais</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="620509-586306-can.francais" source="620509" target="586306">
+	<data key="topic">can.francais</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="620509-2812-can.francais" source="620509" target="2812">
+	<data key="topic">can.francais</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="620509-557828-can.francais" source="620509" target="557828">
+	<data key="topic">can.francais</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="620509-546357-can.francais" source="620509" target="546357">
+	<data key="topic">can.francais</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="586306-2812-can.francais" source="586306" target="2812">
+	<data key="topic">can.francais</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="586306-557828-can.francais" source="586306" target="557828">
+	<data key="topic">can.francais</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="586306-546357-can.francais" source="586306" target="546357">
+	<data key="topic">can.francais</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2812-620509-can.francais" source="2812" target="620509">
+	<data key="topic">can.francais</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2812-586306-can.francais" source="2812" target="586306">
+	<data key="topic">can.francais</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2812-557828-can.francais" source="2812" target="557828">
+	<data key="topic">can.francais</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2812-546357-can.francais" source="2812" target="546357">
+	<data key="topic">can.francais</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="557828-2812-can.francais" source="557828" target="2812">
+	<data key="topic">can.francais</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="557828-546357-can.francais" source="557828" target="546357">
+	<data key="topic">can.francais</data>
+	<data key="weight">2</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="148659"/>
+<node id="37042"/>
+<node id="139441"/>
+<node id="131671"/>
+<node id="135541"/>
+<node id="112474"/>
+<node id="138329"/>
+<node id="43484"/>
+<node id="89315"/>
+<node id="134183"/>
+<node id="151368"/>
+<node id="37227"/>
+<node id="150767"/>
+<edge id="37042-148659-misc.invest.stocks" source="37042" target="148659">
+	<data key="topic">misc.invest.stocks</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="139441-138329-misc.invest.stocks" source="139441" target="138329">
+	<data key="topic">misc.invest.stocks</data>
+	<data key="weight">8</data>
+</edge>
+<edge id="131671-135541-misc.invest.stocks" source="131671" target="135541">
+	<data key="topic">misc.invest.stocks</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="131671-43484-misc.invest.stocks" source="131671" target="43484">
+	<data key="topic">misc.invest.stocks</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="135541-131671-misc.invest.stocks" source="135541" target="131671">
+	<data key="topic">misc.invest.stocks</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="112474-151368-misc.invest.stocks" source="112474" target="151368">
+	<data key="topic">misc.invest.stocks</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="112474-150767-misc.invest.stocks" source="112474" target="150767">
+	<data key="topic">misc.invest.stocks</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="138329-148659-misc.invest.stocks" source="138329" target="148659">
+	<data key="topic">misc.invest.stocks</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="138329-131671-misc.invest.stocks" source="138329" target="131671">
+	<data key="topic">misc.invest.stocks</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="138329-112474-misc.invest.stocks" source="138329" target="112474">
+	<data key="topic">misc.invest.stocks</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="89315-131671-misc.invest.stocks" source="89315" target="131671">
+	<data key="topic">misc.invest.stocks</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="134183-148659-misc.invest.stocks" source="134183" target="148659">
+	<data key="topic">misc.invest.stocks</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37227-148659-misc.invest.stocks" source="37227" target="148659">
+	<data key="topic">misc.invest.stocks</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="37227-131671-misc.invest.stocks" source="37227" target="131671">
+	<data key="topic">misc.invest.stocks</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

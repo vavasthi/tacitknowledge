@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="400056"/>
+<node id="341458"/>
+<node id="24439"/>
+<node id="362746"/>
+<node id="20063"/>
+<node id="400025"/>
+<node id="924657"/>
+<node id="447623"/>
+<node id="399976"/>
+<node id="400006"/>
+<node id="400001"/>
+<node id="24905"/>
+<node id="399984"/>
+<node id="399981"/>
+<node id="391120"/>
+<node id="452171"/>
+<node id="400012"/>
+<edge id="362746-400001-ont.singles" source="362746" target="400001">
+	<data key="topic">ont.singles</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362746-452171-ont.singles" source="362746" target="452171">
+	<data key="topic">ont.singles</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20063-400056-ont.singles" source="20063" target="400056">
+	<data key="topic">ont.singles</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="20063-399976-ont.singles" source="20063" target="399976">
+	<data key="topic">ont.singles</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="20063-400001-ont.singles" source="20063" target="400001">
+	<data key="topic">ont.singles</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="400025-400001-ont.singles" source="400025" target="400001">
+	<data key="topic">ont.singles</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="924657-400001-ont.singles" source="924657" target="400001">
+	<data key="topic">ont.singles</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="924657-452171-ont.singles" source="924657" target="452171">
+	<data key="topic">ont.singles</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="447623-924657-ont.singles" source="447623" target="924657">
+	<data key="topic">ont.singles</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="447623-400001-ont.singles" source="447623" target="400001">
+	<data key="topic">ont.singles</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="447623-452171-ont.singles" source="447623" target="452171">
+	<data key="topic">ont.singles</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="400006-400056-ont.singles" source="400006" target="400056">
+	<data key="topic">ont.singles</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="400006-399976-ont.singles" source="400006" target="399976">
+	<data key="topic">ont.singles</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="400006-400001-ont.singles" source="400006" target="400001">
+	<data key="topic">ont.singles</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="24905-341458-ont.singles" source="24905" target="341458">
+	<data key="topic">ont.singles</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24905-24439-ont.singles" source="24905" target="24439">
+	<data key="topic">ont.singles</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24905-400025-ont.singles" source="24905" target="400025">
+	<data key="topic">ont.singles</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24905-399981-ont.singles" source="24905" target="399981">
+	<data key="topic">ont.singles</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="399984-400056-ont.singles" source="399984" target="400056">
+	<data key="topic">ont.singles</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="399984-20063-ont.singles" source="399984" target="20063">
+	<data key="topic">ont.singles</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="399984-399976-ont.singles" source="399984" target="399976">
+	<data key="topic">ont.singles</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="399984-400001-ont.singles" source="399984" target="400001">
+	<data key="topic">ont.singles</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="399981-400025-ont.singles" source="399981" target="400025">
+	<data key="topic">ont.singles</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="452171-400001-ont.singles" source="452171" target="400001">
+	<data key="topic">ont.singles</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="400012-399976-ont.singles" source="400012" target="399976">
+	<data key="topic">ont.singles</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="400012-400001-ont.singles" source="400012" target="400001">
+	<data key="topic">ont.singles</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="400012-391120-ont.singles" source="400012" target="391120">
+	<data key="topic">ont.singles</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="509048"/>
+<node id="1077121"/>
+<node id="1191924"/>
+<node id="1191922"/>
+<node id="1191914"/>
+<node id="696455"/>
+<node id="498123"/>
+<node id="707784"/>
+<node id="1191920"/>
+<edge id="509048-707784-bionet.population-bio" source="509048" target="707784">
+	<data key="topic">bionet.population-bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1077121-696455-bionet.population-bio" source="1077121" target="696455">
+	<data key="topic">bionet.population-bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1077121-1191920-bionet.population-bio" source="1077121" target="1191920">
+	<data key="topic">bionet.population-bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1191922-1191914-bionet.population-bio" source="1191922" target="1191914">
+	<data key="topic">bionet.population-bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="498123-1191924-bionet.population-bio" source="498123" target="1191924">
+	<data key="topic">bionet.population-bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1191920-696455-bionet.population-bio" source="1191920" target="696455">
+	<data key="topic">bionet.population-bio</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

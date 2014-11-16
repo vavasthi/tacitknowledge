@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="682793"/>
+<node id="459285"/>
+<node id="337943"/>
+<node id="341458"/>
+<node id="461331"/>
+<node id="476157"/>
+<node id="463725"/>
+<node id="29006"/>
+<node id="339100"/>
+<edge id="682793-459285-net.research" source="682793" target="459285">
+	<data key="topic">net.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="682793-29006-net.research" source="682793" target="29006">
+	<data key="topic">net.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459285-29006-net.research" source="459285" target="29006">
+	<data key="topic">net.research</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="337943-459285-net.research" source="337943" target="459285">
+	<data key="topic">net.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337943-29006-net.research" source="337943" target="29006">
+	<data key="topic">net.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="461331-476157-net.research" source="461331" target="476157">
+	<data key="topic">net.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="463725-459285-net.research" source="463725" target="459285">
+	<data key="topic">net.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-459285-net.research" source="29006" target="459285">
+	<data key="topic">net.research</data>
+	<data key="weight">6</data>
+</edge>
+<edge id="339100-459285-net.research" source="339100" target="459285">
+	<data key="topic">net.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339100-341458-net.research" source="339100" target="341458">
+	<data key="topic">net.research</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

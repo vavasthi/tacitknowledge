@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="499793"/>
+<node id="16156"/>
+<node id="23309"/>
+<node id="454217"/>
+<node id="429689"/>
+<node id="589127"/>
+<edge id="499793-454217-comp.std.unix" source="499793" target="454217">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16156-499793-comp.std.unix" source="16156" target="499793">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16156-454217-comp.std.unix" source="16156" target="454217">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="429689-499793-comp.std.unix" source="429689" target="499793">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="429689-16156-comp.std.unix" source="429689" target="16156">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="429689-23309-comp.std.unix" source="429689" target="23309">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="429689-454217-comp.std.unix" source="429689" target="454217">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="429689-589127-comp.std.unix" source="429689" target="589127">
+	<data key="topic">comp.std.unix</data>
+	<data key="weight">2</data>
+</edge>
+</graph>
+</graphml>

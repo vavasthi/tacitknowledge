@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="287685"/>
+<node id="37042"/>
+<node id="287606"/>
+<node id="287703"/>
+<node id="284274"/>
+<node id="167961"/>
+<node id="70208"/>
+<node id="38000"/>
+<edge id="287685-287606-alt.religion.clergy" source="287685" target="287606">
+	<data key="topic">alt.religion.clergy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="287685-284274-alt.religion.clergy" source="287685" target="284274">
+	<data key="topic">alt.religion.clergy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37042-167961-alt.religion.clergy" source="37042" target="167961">
+	<data key="topic">alt.religion.clergy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="287606-284274-alt.religion.clergy" source="287606" target="284274">
+	<data key="topic">alt.religion.clergy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="287703-287606-alt.religion.clergy" source="287703" target="287606">
+	<data key="topic">alt.religion.clergy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="287703-284274-alt.religion.clergy" source="287703" target="284274">
+	<data key="topic">alt.religion.clergy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="167961-38000-alt.religion.clergy" source="167961" target="38000">
+	<data key="topic">alt.religion.clergy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="70208-167961-alt.religion.clergy" source="70208" target="167961">
+	<data key="topic">alt.religion.clergy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="38000-167961-alt.religion.clergy" source="38000" target="167961">
+	<data key="topic">alt.religion.clergy</data>
+	<data key="weight">3</data>
+</edge>
+</graph>
+</graphml>

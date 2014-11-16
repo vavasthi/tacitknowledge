@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="38673"/>
+<node id="303954"/>
+<node id="137301"/>
+<node id="217467"/>
+<node id="218208"/>
+<node id="302716"/>
+<node id="303717"/>
+<node id="234082"/>
+<node id="43588"/>
+<node id="41224"/>
+<node id="303949"/>
+<node id="43820"/>
+<node id="14960"/>
+<node id="99951"/>
+<edge id="137301-43588-comp.ai.philosophy" source="137301" target="43588">
+	<data key="topic">comp.ai.philosophy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="137301-41224-comp.ai.philosophy" source="137301" target="41224">
+	<data key="topic">comp.ai.philosophy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="217467-38673-comp.ai.philosophy" source="217467" target="38673">
+	<data key="topic">comp.ai.philosophy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="217467-218208-comp.ai.philosophy" source="217467" target="218208">
+	<data key="topic">comp.ai.philosophy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="302716-303717-comp.ai.philosophy" source="302716" target="303717">
+	<data key="topic">comp.ai.philosophy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="302716-43588-comp.ai.philosophy" source="302716" target="43588">
+	<data key="topic">comp.ai.philosophy</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="302716-41224-comp.ai.philosophy" source="302716" target="41224">
+	<data key="topic">comp.ai.philosophy</data>
+	<data key="weight">7</data>
+</edge>
+<edge id="302716-303949-comp.ai.philosophy" source="302716" target="303949">
+	<data key="topic">comp.ai.philosophy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="234082-41224-comp.ai.philosophy" source="234082" target="41224">
+	<data key="topic">comp.ai.philosophy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="43588-41224-comp.ai.philosophy" source="43588" target="41224">
+	<data key="topic">comp.ai.philosophy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41224-303954-comp.ai.philosophy" source="41224" target="303954">
+	<data key="topic">comp.ai.philosophy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41224-137301-comp.ai.philosophy" source="41224" target="137301">
+	<data key="topic">comp.ai.philosophy</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="41224-302716-comp.ai.philosophy" source="41224" target="302716">
+	<data key="topic">comp.ai.philosophy</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="41224-303717-comp.ai.philosophy" source="41224" target="303717">
+	<data key="topic">comp.ai.philosophy</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="41224-234082-comp.ai.philosophy" source="41224" target="234082">
+	<data key="topic">comp.ai.philosophy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41224-43588-comp.ai.philosophy" source="41224" target="43588">
+	<data key="topic">comp.ai.philosophy</data>
+	<data key="weight">11</data>
+</edge>
+<edge id="41224-303949-comp.ai.philosophy" source="41224" target="303949">
+	<data key="topic">comp.ai.philosophy</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="41224-43820-comp.ai.philosophy" source="41224" target="43820">
+	<data key="topic">comp.ai.philosophy</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="41224-99951-comp.ai.philosophy" source="41224" target="99951">
+	<data key="topic">comp.ai.philosophy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="303949-303717-comp.ai.philosophy" source="303949" target="303717">
+	<data key="topic">comp.ai.philosophy</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="303949-43588-comp.ai.philosophy" source="303949" target="43588">
+	<data key="topic">comp.ai.philosophy</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="303949-41224-comp.ai.philosophy" source="303949" target="41224">
+	<data key="topic">comp.ai.philosophy</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="43820-137301-comp.ai.philosophy" source="43820" target="137301">
+	<data key="topic">comp.ai.philosophy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="43820-43588-comp.ai.philosophy" source="43820" target="43588">
+	<data key="topic">comp.ai.philosophy</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="43820-41224-comp.ai.philosophy" source="43820" target="41224">
+	<data key="topic">comp.ai.philosophy</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="14960-302716-comp.ai.philosophy" source="14960" target="302716">
+	<data key="topic">comp.ai.philosophy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14960-43588-comp.ai.philosophy" source="14960" target="43588">
+	<data key="topic">comp.ai.philosophy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14960-41224-comp.ai.philosophy" source="14960" target="41224">
+	<data key="topic">comp.ai.philosophy</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="14960-303949-comp.ai.philosophy" source="14960" target="303949">
+	<data key="topic">comp.ai.philosophy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="99951-43588-comp.ai.philosophy" source="99951" target="43588">
+	<data key="topic">comp.ai.philosophy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="99951-41224-comp.ai.philosophy" source="99951" target="41224">
+	<data key="topic">comp.ai.philosophy</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="99951-43820-comp.ai.philosophy" source="99951" target="43820">
+	<data key="topic">comp.ai.philosophy</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

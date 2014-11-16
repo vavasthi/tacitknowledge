@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="918239"/>
+<node id="918234"/>
+<node id="15130"/>
+<node id="2908662"/>
+<node id="617331"/>
+<node id="1006258"/>
+<node id="2908659"/>
+<node id="427290"/>
+<node id="838446"/>
+<node id="2908656"/>
+<node id="2692747"/>
+<node id="15114"/>
+<node id="609158"/>
+<node id="918243"/>
+<edge id="918239-15130-rec.audio.high-end" source="918239" target="15130">
+	<data key="topic">rec.audio.high-end</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="918239-15114-rec.audio.high-end" source="918239" target="15114">
+	<data key="topic">rec.audio.high-end</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="918239-609158-rec.audio.high-end" source="918239" target="609158">
+	<data key="topic">rec.audio.high-end</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="918234-918239-rec.audio.high-end" source="918234" target="918239">
+	<data key="topic">rec.audio.high-end</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="918234-15130-rec.audio.high-end" source="918234" target="15130">
+	<data key="topic">rec.audio.high-end</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="918234-2908662-rec.audio.high-end" source="918234" target="2908662">
+	<data key="topic">rec.audio.high-end</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="918234-427290-rec.audio.high-end" source="918234" target="427290">
+	<data key="topic">rec.audio.high-end</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="918234-609158-rec.audio.high-end" source="918234" target="609158">
+	<data key="topic">rec.audio.high-end</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="918234-918243-rec.audio.high-end" source="918234" target="918243">
+	<data key="topic">rec.audio.high-end</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="617331-427290-rec.audio.high-end" source="617331" target="427290">
+	<data key="topic">rec.audio.high-end</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="617331-838446-rec.audio.high-end" source="617331" target="838446">
+	<data key="topic">rec.audio.high-end</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1006258-15130-rec.audio.high-end" source="1006258" target="15130">
+	<data key="topic">rec.audio.high-end</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1006258-2908656-rec.audio.high-end" source="1006258" target="2908656">
+	<data key="topic">rec.audio.high-end</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2908659-918243-rec.audio.high-end" source="2908659" target="918243">
+	<data key="topic">rec.audio.high-end</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="838446-617331-rec.audio.high-end" source="838446" target="617331">
+	<data key="topic">rec.audio.high-end</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="838446-427290-rec.audio.high-end" source="838446" target="427290">
+	<data key="topic">rec.audio.high-end</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="838446-15114-rec.audio.high-end" source="838446" target="15114">
+	<data key="topic">rec.audio.high-end</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2692747-15130-rec.audio.high-end" source="2692747" target="15130">
+	<data key="topic">rec.audio.high-end</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="609158-15130-rec.audio.high-end" source="609158" target="15130">
+	<data key="topic">rec.audio.high-end</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

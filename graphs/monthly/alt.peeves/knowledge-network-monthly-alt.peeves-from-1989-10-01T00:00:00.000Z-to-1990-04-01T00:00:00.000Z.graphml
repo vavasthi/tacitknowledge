@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="812158"/>
+<node id="621563"/>
+<node id="875497"/>
+<node id="3767"/>
+<node id="348846"/>
+<node id="29006"/>
+<node id="533318"/>
+<edge id="621563-3767-alt.peeves" source="621563" target="3767">
+	<data key="topic">alt.peeves</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="875497-533318-alt.peeves" source="875497" target="533318">
+	<data key="topic">alt.peeves</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348846-812158-alt.peeves" source="348846" target="812158">
+	<data key="topic">alt.peeves</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-348846-alt.peeves" source="29006" target="348846">
+	<data key="topic">alt.peeves</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

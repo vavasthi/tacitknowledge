@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="477272"/>
+<node id="394456"/>
+<node id="926749"/>
+<node id="1510758"/>
+<node id="1016091"/>
+<node id="448017"/>
+<node id="1129384"/>
+<node id="426129"/>
+<node id="918682"/>
+<node id="486353"/>
+<node id="483473"/>
+<node id="488160"/>
+<node id="391709"/>
+<node id="1124457"/>
+<node id="337376"/>
+<node id="475292"/>
+<node id="18590"/>
+<node id="1130385"/>
+<node id="466149"/>
+<node id="1510740"/>
+<node id="390563"/>
+<node id="919783"/>
+<node id="926759"/>
+<node id="16879"/>
+<node id="337260"/>
+<node id="1510298"/>
+<node id="390315"/>
+<node id="1122434"/>
+<node id="15667"/>
+<node id="509174"/>
+<node id="337265"/>
+<node id="495219"/>
+<node id="472881"/>
+<node id="455551"/>
+<node id="1121866"/>
+<node id="399485"/>
+<node id="926518"/>
+<node id="497787"/>
+<node id="467321"/>
+<node id="395782"/>
+<node id="1506420"/>
+<node id="1509427"/>
+<node id="564368"/>
+<node id="923464"/>
+<node id="337167"/>
+<edge id="477272-466149-net.bio" source="477272" target="466149">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="477272-923464-net.bio" source="477272" target="923464">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="926749-918682-net.bio" source="926749" target="918682">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="926749-495219-net.bio" source="926749" target="495219">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="926749-926518-net.bio" source="926749" target="926518">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1510758-1506420-net.bio" source="1510758" target="1506420">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="918682-926749-net.bio" source="918682" target="926749">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="918682-1129384-net.bio" source="918682" target="1129384">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="918682-495219-net.bio" source="918682" target="495219">
+	<data key="topic">net.bio</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="918682-926518-net.bio" source="918682" target="926518">
+	<data key="topic">net.bio</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="486353-1016091-net.bio" source="486353" target="1016091">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="486353-337376-net.bio" source="486353" target="337376">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="486353-390563-net.bio" source="486353" target="390563">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="483473-918682-net.bio" source="483473" target="918682">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="483473-495219-net.bio" source="483473" target="495219">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="488160-394456-net.bio" source="488160" target="394456">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391709-1510740-net.bio" source="391709" target="1510740">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1124457-426129-net.bio" source="1124457" target="426129">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337376-1016091-net.bio" source="337376" target="1016091">
+	<data key="topic">net.bio</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="337376-486353-net.bio" source="337376" target="486353">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337376-390563-net.bio" source="337376" target="390563">
+	<data key="topic">net.bio</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="18590-16879-net.bio" source="18590" target="16879">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18590-1506420-net.bio" source="18590" target="1506420">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18590-923464-net.bio" source="18590" target="923464">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="466149-923464-net.bio" source="466149" target="923464">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390563-1016091-net.bio" source="390563" target="1016091">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390563-918682-net.bio" source="390563" target="918682">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390563-483473-net.bio" source="390563" target="483473">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390563-495219-net.bio" source="390563" target="495219">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390563-395782-net.bio" source="390563" target="395782">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919783-1129384-net.bio" source="919783" target="1129384">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="926759-1016091-net.bio" source="926759" target="1016091">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="926759-390563-net.bio" source="926759" target="390563">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="926759-472881-net.bio" source="926759" target="472881">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337260-1130385-net.bio" source="337260" target="1130385">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337260-1509427-net.bio" source="337260" target="1509427">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1510298-1016091-net.bio" source="1510298" target="1016091">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1510298-390563-net.bio" source="1510298" target="390563">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390315-448017-net.bio" source="390315" target="448017">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390315-337376-net.bio" source="390315" target="337376">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390315-390563-net.bio" source="390315" target="390563">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1122434-1510740-net.bio" source="1122434" target="1510740">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1122434-1506420-net.bio" source="1122434" target="1506420">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15667-926749-net.bio" source="15667" target="926749">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15667-918682-net.bio" source="15667" target="918682">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15667-926518-net.bio" source="15667" target="926518">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509174-475292-net.bio" source="509174" target="475292">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337265-394456-net.bio" source="337265" target="394456">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="455551-467321-net.bio" source="455551" target="467321">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="455551-1506420-net.bio" source="455551" target="1506420">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1121866-1016091-net.bio" source="1121866" target="1016091">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1121866-390563-net.bio" source="1121866" target="390563">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="399485-1129384-net.bio" source="399485" target="1129384">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="926518-918682-net.bio" source="926518" target="918682">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="926518-495219-net.bio" source="926518" target="495219">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="497787-1016091-net.bio" source="497787" target="1016091">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="497787-390563-net.bio" source="497787" target="390563">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="467321-1506420-net.bio" source="467321" target="1506420">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="395782-918682-net.bio" source="395782" target="918682">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="395782-483473-net.bio" source="395782" target="483473">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="395782-495219-net.bio" source="395782" target="495219">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="395782-1506420-net.bio" source="395782" target="1506420">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="564368-15667-net.bio" source="564368" target="15667">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337167-1016091-net.bio" source="337167" target="1016091">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337167-390563-net.bio" source="337167" target="390563">
+	<data key="topic">net.bio</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

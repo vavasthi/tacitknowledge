@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="622890"/>
+<node id="12547"/>
+<node id="35621"/>
+<node id="583197"/>
+<node id="889849"/>
+<node id="935210"/>
+<node id="12425"/>
+<node id="17453"/>
+<node id="583062"/>
+<node id="12862"/>
+<node id="1527754"/>
+<node id="128"/>
+<edge id="622890-17453-misc.headlines" source="622890" target="17453">
+	<data key="topic">misc.headlines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12547-622890-misc.headlines" source="12547" target="622890">
+	<data key="topic">misc.headlines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12547-17453-misc.headlines" source="12547" target="17453">
+	<data key="topic">misc.headlines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="35621-12425-misc.headlines" source="35621" target="12425">
+	<data key="topic">misc.headlines</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="35621-583062-misc.headlines" source="35621" target="583062">
+	<data key="topic">misc.headlines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="35621-128-misc.headlines" source="35621" target="128">
+	<data key="topic">misc.headlines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="583197-17453-misc.headlines" source="583197" target="17453">
+	<data key="topic">misc.headlines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12425-583062-misc.headlines" source="12425" target="583062">
+	<data key="topic">misc.headlines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12425-128-misc.headlines" source="12425" target="128">
+	<data key="topic">misc.headlines</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="12862-889849-misc.headlines" source="12862" target="889849">
+	<data key="topic">misc.headlines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1527754-17453-misc.headlines" source="1527754" target="17453">
+	<data key="topic">misc.headlines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="128-935210-misc.headlines" source="128" target="935210">
+	<data key="topic">misc.headlines</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

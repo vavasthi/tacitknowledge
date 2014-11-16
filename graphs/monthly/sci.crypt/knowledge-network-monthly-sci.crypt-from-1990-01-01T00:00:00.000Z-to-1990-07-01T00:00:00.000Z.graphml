@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="882"/>
+<node id="1206"/>
+<node id="4634"/>
+<node id="541461"/>
+<node id="1350378"/>
+<node id="623032"/>
+<node id="928"/>
+<node id="367080"/>
+<node id="751215"/>
+<node id="355841"/>
+<node id="348846"/>
+<node id="2024629"/>
+<node id="549572"/>
+<node id="2024214"/>
+<node id="552230"/>
+<edge id="4634-1350378-sci.crypt" source="4634" target="1350378">
+	<data key="topic">sci.crypt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4634-549572-sci.crypt" source="4634" target="549572">
+	<data key="topic">sci.crypt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="541461-751215-sci.crypt" source="541461" target="751215">
+	<data key="topic">sci.crypt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="541461-552230-sci.crypt" source="541461" target="552230">
+	<data key="topic">sci.crypt</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1350378-549572-sci.crypt" source="1350378" target="549572">
+	<data key="topic">sci.crypt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="623032-882-sci.crypt" source="623032" target="882">
+	<data key="topic">sci.crypt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="623032-1206-sci.crypt" source="623032" target="1206">
+	<data key="topic">sci.crypt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="623032-355841-sci.crypt" source="623032" target="355841">
+	<data key="topic">sci.crypt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="623032-348846-sci.crypt" source="623032" target="348846">
+	<data key="topic">sci.crypt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="928-367080-sci.crypt" source="928" target="367080">
+	<data key="topic">sci.crypt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="751215-541461-sci.crypt" source="751215" target="541461">
+	<data key="topic">sci.crypt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="751215-552230-sci.crypt" source="751215" target="552230">
+	<data key="topic">sci.crypt</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="348846-882-sci.crypt" source="348846" target="882">
+	<data key="topic">sci.crypt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348846-1206-sci.crypt" source="348846" target="1206">
+	<data key="topic">sci.crypt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2024629-541461-sci.crypt" source="2024629" target="541461">
+	<data key="topic">sci.crypt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2024629-552230-sci.crypt" source="2024629" target="552230">
+	<data key="topic">sci.crypt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2024214-541461-sci.crypt" source="2024214" target="541461">
+	<data key="topic">sci.crypt</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2024214-751215-sci.crypt" source="2024214" target="751215">
+	<data key="topic">sci.crypt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2024214-552230-sci.crypt" source="2024214" target="552230">
+	<data key="topic">sci.crypt</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

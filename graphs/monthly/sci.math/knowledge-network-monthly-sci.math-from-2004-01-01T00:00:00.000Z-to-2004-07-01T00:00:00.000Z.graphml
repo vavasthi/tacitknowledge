@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2321143"/>
+<node id="2180981"/>
+<node id="2312379"/>
+<node id="2870325"/>
+<node id="2188615"/>
+<node id="2872068"/>
+<node id="2313611"/>
+<node id="2322442"/>
+<node id="225391"/>
+<node id="2329102"/>
+<node id="2326734"/>
+<node id="331254"/>
+<node id="2304146"/>
+<node id="2180188"/>
+<node id="215673"/>
+<node id="2323615"/>
+<node id="243458"/>
+<node id="181831"/>
+<node id="2318440"/>
+<node id="2315750"/>
+<node id="2870317"/>
+<node id="134220"/>
+<node id="2305963"/>
+<node id="2316841"/>
+<node id="2230574"/>
+<edge id="2321143-2312379-sci.math" source="2321143" target="2312379">
+	<data key="topic">sci.math</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2321143-2180188-sci.math" source="2321143" target="2180188">
+	<data key="topic">sci.math</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2321143-2315750-sci.math" source="2321143" target="2315750">
+	<data key="topic">sci.math</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2180981-2304146-sci.math" source="2180981" target="2304146">
+	<data key="topic">sci.math</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2180981-2180188-sci.math" source="2180981" target="2180188">
+	<data key="topic">sci.math</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2180981-2315750-sci.math" source="2180981" target="2315750">
+	<data key="topic">sci.math</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2180981-2316841-sci.math" source="2180981" target="2316841">
+	<data key="topic">sci.math</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2312379-2321143-sci.math" source="2312379" target="2321143">
+	<data key="topic">sci.math</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2312379-2180188-sci.math" source="2312379" target="2180188">
+	<data key="topic">sci.math</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2312379-2315750-sci.math" source="2312379" target="2315750">
+	<data key="topic">sci.math</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2870325-243458-sci.math" source="2870325" target="243458">
+	<data key="topic">sci.math</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2188615-181831-sci.math" source="2188615" target="181831">
+	<data key="topic">sci.math</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2188615-134220-sci.math" source="2188615" target="134220">
+	<data key="topic">sci.math</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2188615-2305963-sci.math" source="2188615" target="2305963">
+	<data key="topic">sci.math</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2872068-215673-sci.math" source="2872068" target="215673">
+	<data key="topic">sci.math</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2872068-243458-sci.math" source="2872068" target="243458">
+	<data key="topic">sci.math</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2313611-2321143-sci.math" source="2313611" target="2321143">
+	<data key="topic">sci.math</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="2313611-2312379-sci.math" source="2313611" target="2312379">
+	<data key="topic">sci.math</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2313611-2180188-sci.math" source="2313611" target="2180188">
+	<data key="topic">sci.math</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2313611-2318440-sci.math" source="2313611" target="2318440">
+	<data key="topic">sci.math</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2313611-2315750-sci.math" source="2313611" target="2315750">
+	<data key="topic">sci.math</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2322442-2180188-sci.math" source="2322442" target="2180188">
+	<data key="topic">sci.math</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2322442-2315750-sci.math" source="2322442" target="2315750">
+	<data key="topic">sci.math</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2322442-2316841-sci.math" source="2322442" target="2316841">
+	<data key="topic">sci.math</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="225391-2305963-sci.math" source="225391" target="2305963">
+	<data key="topic">sci.math</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2326734-2180188-sci.math" source="2326734" target="2180188">
+	<data key="topic">sci.math</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2326734-2315750-sci.math" source="2326734" target="2315750">
+	<data key="topic">sci.math</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="331254-2321143-sci.math" source="331254" target="2321143">
+	<data key="topic">sci.math</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="331254-2312379-sci.math" source="331254" target="2312379">
+	<data key="topic">sci.math</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="331254-2313611-sci.math" source="331254" target="2313611">
+	<data key="topic">sci.math</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="331254-2180188-sci.math" source="331254" target="2180188">
+	<data key="topic">sci.math</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="331254-2315750-sci.math" source="331254" target="2315750">
+	<data key="topic">sci.math</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2304146-2180981-sci.math" source="2304146" target="2180981">
+	<data key="topic">sci.math</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2304146-2180188-sci.math" source="2304146" target="2180188">
+	<data key="topic">sci.math</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2304146-2315750-sci.math" source="2304146" target="2315750">
+	<data key="topic">sci.math</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2304146-2316841-sci.math" source="2304146" target="2316841">
+	<data key="topic">sci.math</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2180188-2321143-sci.math" source="2180188" target="2321143">
+	<data key="topic">sci.math</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2180188-2312379-sci.math" source="2180188" target="2312379">
+	<data key="topic">sci.math</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2180188-2313611-sci.math" source="2180188" target="2313611">
+	<data key="topic">sci.math</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2180188-2329102-sci.math" source="2180188" target="2329102">
+	<data key="topic">sci.math</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2180188-2315750-sci.math" source="2180188" target="2315750">
+	<data key="topic">sci.math</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="2180188-2316841-sci.math" source="2180188" target="2316841">
+	<data key="topic">sci.math</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="215673-2872068-sci.math" source="215673" target="2872068">
+	<data key="topic">sci.math</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="215673-243458-sci.math" source="215673" target="243458">
+	<data key="topic">sci.math</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2323615-2329102-sci.math" source="2323615" target="2329102">
+	<data key="topic">sci.math</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2323615-2180188-sci.math" source="2323615" target="2180188">
+	<data key="topic">sci.math</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2323615-2315750-sci.math" source="2323615" target="2315750">
+	<data key="topic">sci.math</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="181831-134220-sci.math" source="181831" target="134220">
+	<data key="topic">sci.math</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="181831-2305963-sci.math" source="181831" target="2305963">
+	<data key="topic">sci.math</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2318440-2321143-sci.math" source="2318440" target="2321143">
+	<data key="topic">sci.math</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2318440-2312379-sci.math" source="2318440" target="2312379">
+	<data key="topic">sci.math</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2318440-2313611-sci.math" source="2318440" target="2313611">
+	<data key="topic">sci.math</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2318440-2180188-sci.math" source="2318440" target="2180188">
+	<data key="topic">sci.math</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2318440-2315750-sci.math" source="2318440" target="2315750">
+	<data key="topic">sci.math</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2870317-243458-sci.math" source="2870317" target="243458">
+	<data key="topic">sci.math</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="134220-2305963-sci.math" source="134220" target="2305963">
+	<data key="topic">sci.math</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2230574-2180188-sci.math" source="2230574" target="2180188">
+	<data key="topic">sci.math</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2230574-2315750-sci.math" source="2230574" target="2315750">
+	<data key="topic">sci.math</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

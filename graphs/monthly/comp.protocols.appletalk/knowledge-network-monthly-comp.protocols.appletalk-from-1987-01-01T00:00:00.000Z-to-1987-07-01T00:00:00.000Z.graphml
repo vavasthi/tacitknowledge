@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="395653"/>
+<node id="454726"/>
+<node id="390055"/>
+<node id="395046"/>
+<node id="729977"/>
+<node id="451745"/>
+<node id="1480305"/>
+<node id="18568"/>
+<node id="395858"/>
+<node id="1480297"/>
+<node id="340539"/>
+<node id="1480298"/>
+<edge id="395653-454726-comp.protocols.appletalk" source="395653" target="454726">
+	<data key="topic">comp.protocols.appletalk</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="395653-395858-comp.protocols.appletalk" source="395653" target="395858">
+	<data key="topic">comp.protocols.appletalk</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="395653-340539-comp.protocols.appletalk" source="395653" target="340539">
+	<data key="topic">comp.protocols.appletalk</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390055-1480298-comp.protocols.appletalk" source="390055" target="1480298">
+	<data key="topic">comp.protocols.appletalk</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="729977-395046-comp.protocols.appletalk" source="729977" target="395046">
+	<data key="topic">comp.protocols.appletalk</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="729977-451745-comp.protocols.appletalk" source="729977" target="451745">
+	<data key="topic">comp.protocols.appletalk</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="451745-395046-comp.protocols.appletalk" source="451745" target="395046">
+	<data key="topic">comp.protocols.appletalk</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1480305-1480297-comp.protocols.appletalk" source="1480305" target="1480297">
+	<data key="topic">comp.protocols.appletalk</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18568-454726-comp.protocols.appletalk" source="18568" target="454726">
+	<data key="topic">comp.protocols.appletalk</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18568-395858-comp.protocols.appletalk" source="18568" target="395858">
+	<data key="topic">comp.protocols.appletalk</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18568-340539-comp.protocols.appletalk" source="18568" target="340539">
+	<data key="topic">comp.protocols.appletalk</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="395858-454726-comp.protocols.appletalk" source="395858" target="454726">
+	<data key="topic">comp.protocols.appletalk</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340539-454726-comp.protocols.appletalk" source="340539" target="454726">
+	<data key="topic">comp.protocols.appletalk</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340539-395858-comp.protocols.appletalk" source="340539" target="395858">
+	<data key="topic">comp.protocols.appletalk</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

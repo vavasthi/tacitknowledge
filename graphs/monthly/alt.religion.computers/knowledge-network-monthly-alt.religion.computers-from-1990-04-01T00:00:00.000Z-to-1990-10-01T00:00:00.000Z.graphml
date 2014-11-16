@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1280100"/>
+<node id="339"/>
+<node id="1139"/>
+<node id="352439"/>
+<node id="645598"/>
+<node id="832538"/>
+<node id="557536"/>
+<node id="380094"/>
+<node id="858518"/>
+<node id="13019"/>
+<node id="614838"/>
+<node id="548759"/>
+<node id="1728"/>
+<node id="855123"/>
+<node id="859789"/>
+<node id="2150"/>
+<node id="1457439"/>
+<edge id="339-1139-alt.religion.computers" source="339" target="1139">
+	<data key="topic">alt.religion.computers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339-352439-alt.religion.computers" source="339" target="352439">
+	<data key="topic">alt.religion.computers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339-380094-alt.religion.computers" source="339" target="380094">
+	<data key="topic">alt.religion.computers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339-548759-alt.religion.computers" source="339" target="548759">
+	<data key="topic">alt.religion.computers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="645598-614838-alt.religion.computers" source="645598" target="614838">
+	<data key="topic">alt.religion.computers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="645598-855123-alt.religion.computers" source="645598" target="855123">
+	<data key="topic">alt.religion.computers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="557536-13019-alt.religion.computers" source="557536" target="13019">
+	<data key="topic">alt.religion.computers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="557536-859789-alt.religion.computers" source="557536" target="859789">
+	<data key="topic">alt.religion.computers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="858518-614838-alt.religion.computers" source="858518" target="614838">
+	<data key="topic">alt.religion.computers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="858518-855123-alt.religion.computers" source="858518" target="855123">
+	<data key="topic">alt.religion.computers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1728-1280100-alt.religion.computers" source="1728" target="1280100">
+	<data key="topic">alt.religion.computers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="855123-614838-alt.religion.computers" source="855123" target="614838">
+	<data key="topic">alt.religion.computers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2150-832538-alt.religion.computers" source="2150" target="832538">
+	<data key="topic">alt.religion.computers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2150-1457439-alt.religion.computers" source="2150" target="1457439">
+	<data key="topic">alt.religion.computers</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

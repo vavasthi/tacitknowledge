@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="941803"/>
+<node id="366801"/>
+<node id="375748"/>
+<node id="2871"/>
+<node id="375966"/>
+<node id="376061"/>
+<node id="2104492"/>
+<node id="376543"/>
+<node id="360730"/>
+<node id="2073780"/>
+<node id="361162"/>
+<node id="351579"/>
+<edge id="941803-2073780-news.software.anu-news" source="941803" target="2073780">
+	<data key="topic">news.software.anu-news</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="375748-2871-news.software.anu-news" source="375748" target="2871">
+	<data key="topic">news.software.anu-news</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="375966-375748-news.software.anu-news" source="375966" target="375748">
+	<data key="topic">news.software.anu-news</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="375966-2871-news.software.anu-news" source="375966" target="2871">
+	<data key="topic">news.software.anu-news</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="376061-375748-news.software.anu-news" source="376061" target="375748">
+	<data key="topic">news.software.anu-news</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="376061-2871-news.software.anu-news" source="376061" target="2871">
+	<data key="topic">news.software.anu-news</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="376061-375966-news.software.anu-news" source="376061" target="375966">
+	<data key="topic">news.software.anu-news</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="376061-2104492-news.software.anu-news" source="376061" target="2104492">
+	<data key="topic">news.software.anu-news</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="376543-361162-news.software.anu-news" source="376543" target="361162">
+	<data key="topic">news.software.anu-news</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="360730-2073780-news.software.anu-news" source="360730" target="2073780">
+	<data key="topic">news.software.anu-news</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="351579-366801-news.software.anu-news" source="351579" target="366801">
+	<data key="topic">news.software.anu-news</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

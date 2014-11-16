@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="371960"/>
+<node id="372242"/>
+<node id="365905"/>
+<node id="353492"/>
+<node id="1525346"/>
+<node id="1232902"/>
+<node id="349939"/>
+<node id="11896"/>
+<node id="357854"/>
+<node id="423931"/>
+<node id="363706"/>
+<node id="350105"/>
+<node id="11519"/>
+<node id="364261"/>
+<node id="716751"/>
+<node id="372195"/>
+<node id="11336"/>
+<node id="360"/>
+<node id="1232924"/>
+<node id="11691"/>
+<node id="756481"/>
+<node id="3277"/>
+<node id="359115"/>
+<edge id="1525346-1232902-fido.unix" source="1525346" target="1232902">
+	<data key="topic">fido.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1525346-716751-fido.unix" source="1525346" target="716751">
+	<data key="topic">fido.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1232902-716751-fido.unix" source="1232902" target="716751">
+	<data key="topic">fido.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1232902-359115-fido.unix" source="1232902" target="359115">
+	<data key="topic">fido.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="349939-371960-fido.unix" source="349939" target="371960">
+	<data key="topic">fido.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="349939-372242-fido.unix" source="349939" target="372242">
+	<data key="topic">fido.unix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="349939-365905-fido.unix" source="349939" target="365905">
+	<data key="topic">fido.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="349939-353492-fido.unix" source="349939" target="353492">
+	<data key="topic">fido.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="349939-11896-fido.unix" source="349939" target="11896">
+	<data key="topic">fido.unix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="349939-357854-fido.unix" source="349939" target="357854">
+	<data key="topic">fido.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="349939-423931-fido.unix" source="349939" target="423931">
+	<data key="topic">fido.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="349939-363706-fido.unix" source="349939" target="363706">
+	<data key="topic">fido.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="349939-350105-fido.unix" source="349939" target="350105">
+	<data key="topic">fido.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="349939-11519-fido.unix" source="349939" target="11519">
+	<data key="topic">fido.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="349939-364261-fido.unix" source="349939" target="364261">
+	<data key="topic">fido.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="349939-372195-fido.unix" source="349939" target="372195">
+	<data key="topic">fido.unix</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="349939-11336-fido.unix" source="349939" target="11336">
+	<data key="topic">fido.unix</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="349939-360-fido.unix" source="349939" target="360">
+	<data key="topic">fido.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="349939-1232924-fido.unix" source="349939" target="1232924">
+	<data key="topic">fido.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="349939-11691-fido.unix" source="349939" target="11691">
+	<data key="topic">fido.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="349939-756481-fido.unix" source="349939" target="756481">
+	<data key="topic">fido.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="349939-3277-fido.unix" source="349939" target="3277">
+	<data key="topic">fido.unix</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="11336-1232902-fido.unix" source="11336" target="1232902">
+	<data key="topic">fido.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11336-349939-fido.unix" source="11336" target="349939">
+	<data key="topic">fido.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11336-359115-fido.unix" source="11336" target="359115">
+	<data key="topic">fido.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11691-372242-fido.unix" source="11691" target="372242">
+	<data key="topic">fido.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11691-349939-fido.unix" source="11691" target="349939">
+	<data key="topic">fido.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3277-364261-fido.unix" source="3277" target="364261">
+	<data key="topic">fido.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3277-372195-fido.unix" source="3277" target="372195">
+	<data key="topic">fido.unix</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

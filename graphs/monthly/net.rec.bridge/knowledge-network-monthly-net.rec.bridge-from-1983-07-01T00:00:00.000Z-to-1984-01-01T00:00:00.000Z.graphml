@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="461331"/>
+<node id="2038694"/>
+<node id="459806"/>
+<node id="564691"/>
+<node id="459293"/>
+<node id="341146"/>
+<node id="463452"/>
+<node id="459994"/>
+<node id="459366"/>
+<node id="461860"/>
+<node id="459428"/>
+<node id="1147989"/>
+<node id="339107"/>
+<node id="460336"/>
+<node id="460464"/>
+<node id="460843"/>
+<node id="566439"/>
+<node id="30008"/>
+<node id="459197"/>
+<node id="459709"/>
+<node id="533069"/>
+<node id="459330"/>
+<node id="533072"/>
+<node id="336909"/>
+<node id="562631"/>
+<edge id="461331-463452-net.rec.bridge" source="461331" target="463452">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459806-459428-net.rec.bridge" source="459806" target="459428">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="564691-461860-net.rec.bridge" source="564691" target="461860">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="564691-460336-net.rec.bridge" source="564691" target="460336">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="564691-459197-net.rec.bridge" source="564691" target="459197">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459293-460336-net.rec.bridge" source="459293" target="460336">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459293-459197-net.rec.bridge" source="459293" target="459197">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459293-562631-net.rec.bridge" source="459293" target="562631">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341146-459994-net.rec.bridge" source="341146" target="459994">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="463452-460336-net.rec.bridge" source="463452" target="460336">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459994-341146-net.rec.bridge" source="459994" target="341146">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459994-30008-net.rec.bridge" source="459994" target="30008">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459994-459709-net.rec.bridge" source="459994" target="459709">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="459994-336909-net.rec.bridge" source="459994" target="336909">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="461860-460336-net.rec.bridge" source="461860" target="460336">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="461860-459197-net.rec.bridge" source="461860" target="459197">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459428-460336-net.rec.bridge" source="459428" target="460336">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459428-459330-net.rec.bridge" source="459428" target="459330">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1147989-459366-net.rec.bridge" source="1147989" target="459366">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339107-459994-net.rec.bridge" source="339107" target="459994">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460464-460336-net.rec.bridge" source="460464" target="460336">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460464-459330-net.rec.bridge" source="460464" target="459330">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460843-461331-net.rec.bridge" source="460843" target="461331">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460843-463452-net.rec.bridge" source="460843" target="463452">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="566439-459330-net.rec.bridge" source="566439" target="459330">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459197-460336-net.rec.bridge" source="459197" target="460336">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459709-2038694-net.rec.bridge" source="459709" target="2038694">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="459709-459366-net.rec.bridge" source="459709" target="459366">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="459709-460336-net.rec.bridge" source="459709" target="460336">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="459709-459197-net.rec.bridge" source="459709" target="459197">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459709-533069-net.rec.bridge" source="459709" target="533069">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="459709-533072-net.rec.bridge" source="459709" target="533072">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459709-336909-net.rec.bridge" source="459709" target="336909">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">9</data>
+</edge>
+<edge id="459330-461860-net.rec.bridge" source="459330" target="461860">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459330-460336-net.rec.bridge" source="459330" target="460336">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="459330-459197-net.rec.bridge" source="459330" target="459197">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="562631-460336-net.rec.bridge" source="562631" target="460336">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="562631-459197-net.rec.bridge" source="562631" target="459197">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="562631-459330-net.rec.bridge" source="562631" target="459330">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

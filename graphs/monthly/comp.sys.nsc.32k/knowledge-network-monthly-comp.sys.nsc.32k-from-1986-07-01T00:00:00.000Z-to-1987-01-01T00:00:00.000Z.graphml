@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="925632"/>
+<node id="20947"/>
+<node id="929561"/>
+<node id="464273"/>
+<node id="16681"/>
+<node id="929569"/>
+<edge id="925632-464273-comp.sys.nsc.32k" source="925632" target="464273">
+	<data key="topic">comp.sys.nsc.32k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20947-464273-comp.sys.nsc.32k" source="20947" target="464273">
+	<data key="topic">comp.sys.nsc.32k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20947-16681-comp.sys.nsc.32k" source="20947" target="16681">
+	<data key="topic">comp.sys.nsc.32k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="929561-925632-comp.sys.nsc.32k" source="929561" target="925632">
+	<data key="topic">comp.sys.nsc.32k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="929561-464273-comp.sys.nsc.32k" source="929561" target="464273">
+	<data key="topic">comp.sys.nsc.32k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16681-464273-comp.sys.nsc.32k" source="16681" target="464273">
+	<data key="topic">comp.sys.nsc.32k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="929569-925632-comp.sys.nsc.32k" source="929569" target="925632">
+	<data key="topic">comp.sys.nsc.32k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="929569-464273-comp.sys.nsc.32k" source="929569" target="464273">
+	<data key="topic">comp.sys.nsc.32k</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

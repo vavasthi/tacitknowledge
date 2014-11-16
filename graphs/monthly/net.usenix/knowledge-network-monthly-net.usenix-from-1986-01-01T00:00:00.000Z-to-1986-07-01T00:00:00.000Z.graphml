@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="337719"/>
+<node id="2719389"/>
+<node id="469119"/>
+<node id="480959"/>
+<node id="392633"/>
+<node id="28415"/>
+<node id="485402"/>
+<node id="489146"/>
+<node id="31008"/>
+<node id="932975"/>
+<node id="399843"/>
+<node id="346243"/>
+<node id="924074"/>
+<node id="1575488"/>
+<node id="1511328"/>
+<node id="1627928"/>
+<edge id="2719389-480959-net.usenix" source="2719389" target="480959">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="469119-485402-net.usenix" source="469119" target="485402">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="469119-932975-net.usenix" source="469119" target="932975">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392633-932975-net.usenix" source="392633" target="932975">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28415-337719-net.usenix" source="28415" target="337719">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="489146-932975-net.usenix" source="489146" target="932975">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="31008-469119-net.usenix" source="31008" target="469119">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="31008-485402-net.usenix" source="31008" target="485402">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="31008-932975-net.usenix" source="31008" target="932975">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="346243-337719-net.usenix" source="346243" target="337719">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="346243-28415-net.usenix" source="346243" target="28415">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="924074-489146-net.usenix" source="924074" target="489146">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="924074-932975-net.usenix" source="924074" target="932975">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1511328-932975-net.usenix" source="1511328" target="932975">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1627928-399843-net.usenix" source="1627928" target="399843">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1627928-1575488-net.usenix" source="1627928" target="1575488">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

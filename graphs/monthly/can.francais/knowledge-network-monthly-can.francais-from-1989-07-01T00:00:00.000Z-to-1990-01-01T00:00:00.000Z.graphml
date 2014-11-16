@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="853070"/>
+<node id="719707"/>
+<node id="845311"/>
+<node id="737562"/>
+<node id="2884"/>
+<node id="521589"/>
+<node id="875066"/>
+<node id="875068"/>
+<node id="1361124"/>
+<node id="2151918"/>
+<node id="874964"/>
+<edge id="719707-875068-can.francais" source="719707" target="875068">
+	<data key="topic">can.francais</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="845311-737562-can.francais" source="845311" target="737562">
+	<data key="topic">can.francais</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2884-875068-can.francais" source="2884" target="875068">
+	<data key="topic">can.francais</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521589-853070-can.francais" source="521589" target="853070">
+	<data key="topic">can.francais</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="521589-1361124-can.francais" source="521589" target="1361124">
+	<data key="topic">can.francais</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="521589-2151918-can.francais" source="521589" target="2151918">
+	<data key="topic">can.francais</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521589-874964-can.francais" source="521589" target="874964">
+	<data key="topic">can.francais</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="875066-2884-can.francais" source="875066" target="2884">
+	<data key="topic">can.francais</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="875066-875068-can.francais" source="875066" target="875068">
+	<data key="topic">can.francais</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1361124-853070-can.francais" source="1361124" target="853070">
+	<data key="topic">can.francais</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

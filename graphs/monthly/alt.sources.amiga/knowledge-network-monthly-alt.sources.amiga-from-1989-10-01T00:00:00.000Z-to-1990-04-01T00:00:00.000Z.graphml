@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="26833"/>
+<node id="554650"/>
+<node id="420534"/>
+<node id="347921"/>
+<node id="712541"/>
+<node id="2807"/>
+<node id="698545"/>
+<node id="515901"/>
+<node id="2781"/>
+<node id="2849"/>
+<node id="1356082"/>
+<node id="8074"/>
+<node id="578311"/>
+<node id="847075"/>
+<edge id="554650-698545-alt.sources.amiga" source="554650" target="698545">
+	<data key="topic">alt.sources.amiga</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="554650-2781-alt.sources.amiga" source="554650" target="2781">
+	<data key="topic">alt.sources.amiga</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347921-712541-alt.sources.amiga" source="347921" target="712541">
+	<data key="topic">alt.sources.amiga</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347921-2849-alt.sources.amiga" source="347921" target="2849">
+	<data key="topic">alt.sources.amiga</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="712541-26833-alt.sources.amiga" source="712541" target="26833">
+	<data key="topic">alt.sources.amiga</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="712541-2849-alt.sources.amiga" source="712541" target="2849">
+	<data key="topic">alt.sources.amiga</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="515901-1356082-alt.sources.amiga" source="515901" target="1356082">
+	<data key="topic">alt.sources.amiga</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2849-712541-alt.sources.amiga" source="2849" target="712541">
+	<data key="topic">alt.sources.amiga</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="8074-2807-alt.sources.amiga" source="8074" target="2807">
+	<data key="topic">alt.sources.amiga</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="8074-1356082-alt.sources.amiga" source="8074" target="1356082">
+	<data key="topic">alt.sources.amiga</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="578311-420534-alt.sources.amiga" source="578311" target="420534">
+	<data key="topic">alt.sources.amiga</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="847075-1356082-alt.sources.amiga" source="847075" target="1356082">
+	<data key="topic">alt.sources.amiga</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

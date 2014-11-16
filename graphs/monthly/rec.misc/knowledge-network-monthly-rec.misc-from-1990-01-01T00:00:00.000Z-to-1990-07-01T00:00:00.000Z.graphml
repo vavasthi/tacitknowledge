@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1391782"/>
+<node id="848560"/>
+<node id="908124"/>
+<node id="610639"/>
+<node id="28889"/>
+<node id="612450"/>
+<node id="651412"/>
+<node id="1617332"/>
+<node id="1889352"/>
+<node id="33727"/>
+<node id="347915"/>
+<node id="509881"/>
+<edge id="1391782-908124-rec.misc" source="1391782" target="908124">
+	<data key="topic">rec.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1391782-612450-rec.misc" source="1391782" target="612450">
+	<data key="topic">rec.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="848560-1617332-rec.misc" source="848560" target="1617332">
+	<data key="topic">rec.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="848560-1889352-rec.misc" source="848560" target="1889352">
+	<data key="topic">rec.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="908124-612450-rec.misc" source="908124" target="612450">
+	<data key="topic">rec.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="610639-1617332-rec.misc" source="610639" target="1617332">
+	<data key="topic">rec.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="610639-33727-rec.misc" source="610639" target="33727">
+	<data key="topic">rec.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28889-610639-rec.misc" source="28889" target="610639">
+	<data key="topic">rec.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28889-1617332-rec.misc" source="28889" target="1617332">
+	<data key="topic">rec.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28889-33727-rec.misc" source="28889" target="33727">
+	<data key="topic">rec.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1889352-1617332-rec.misc" source="1889352" target="1617332">
+	<data key="topic">rec.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="33727-1617332-rec.misc" source="33727" target="1617332">
+	<data key="topic">rec.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347915-651412-rec.misc" source="347915" target="651412">
+	<data key="topic">rec.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509881-1617332-rec.misc" source="509881" target="1617332">
+	<data key="topic">rec.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509881-33727-rec.misc" source="509881" target="33727">
+	<data key="topic">rec.misc</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="425623"/>
+<node id="1441863"/>
+<node id="1148098"/>
+<node id="1441832"/>
+<node id="1895723"/>
+<node id="400287"/>
+<node id="218"/>
+<node id="32510"/>
+<node id="347867"/>
+<node id="1225140"/>
+<node id="1441813"/>
+<node id="14791"/>
+<node id="406753"/>
+<node id="268"/>
+<node id="8494"/>
+<node id="1441820"/>
+<node id="361612"/>
+<node id="272"/>
+<node id="363851"/>
+<edge id="425623-1441832-bionet.molbio.evolution" source="425623" target="1441832">
+	<data key="topic">bionet.molbio.evolution</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1148098-425623-bionet.molbio.evolution" source="1148098" target="425623">
+	<data key="topic">bionet.molbio.evolution</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1148098-1441832-bionet.molbio.evolution" source="1148098" target="1441832">
+	<data key="topic">bionet.molbio.evolution</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="1148098-32510-bionet.molbio.evolution" source="1148098" target="32510">
+	<data key="topic">bionet.molbio.evolution</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1148098-363851-bionet.molbio.evolution" source="1148098" target="363851">
+	<data key="topic">bionet.molbio.evolution</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1895723-268-bionet.molbio.evolution" source="1895723" target="268">
+	<data key="topic">bionet.molbio.evolution</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="400287-8494-bionet.molbio.evolution" source="400287" target="8494">
+	<data key="topic">bionet.molbio.evolution</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="400287-272-bionet.molbio.evolution" source="400287" target="272">
+	<data key="topic">bionet.molbio.evolution</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="218-1225140-bionet.molbio.evolution" source="218" target="1225140">
+	<data key="topic">bionet.molbio.evolution</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="32510-425623-bionet.molbio.evolution" source="32510" target="425623">
+	<data key="topic">bionet.molbio.evolution</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="32510-1441832-bionet.molbio.evolution" source="32510" target="1441832">
+	<data key="topic">bionet.molbio.evolution</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="32510-268-bionet.molbio.evolution" source="32510" target="268">
+	<data key="topic">bionet.molbio.evolution</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347867-425623-bionet.molbio.evolution" source="347867" target="425623">
+	<data key="topic">bionet.molbio.evolution</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347867-1441832-bionet.molbio.evolution" source="347867" target="1441832">
+	<data key="topic">bionet.molbio.evolution</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347867-32510-bionet.molbio.evolution" source="347867" target="32510">
+	<data key="topic">bionet.molbio.evolution</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1441813-425623-bionet.molbio.evolution" source="1441813" target="425623">
+	<data key="topic">bionet.molbio.evolution</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1441813-1441832-bionet.molbio.evolution" source="1441813" target="1441832">
+	<data key="topic">bionet.molbio.evolution</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14791-361612-bionet.molbio.evolution" source="14791" target="361612">
+	<data key="topic">bionet.molbio.evolution</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="406753-1441863-bionet.molbio.evolution" source="406753" target="1441863">
+	<data key="topic">bionet.molbio.evolution</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1441820-1441832-bionet.molbio.evolution" source="1441820" target="1441832">
+	<data key="topic">bionet.molbio.evolution</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1441820-363851-bionet.molbio.evolution" source="1441820" target="363851">
+	<data key="topic">bionet.molbio.evolution</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="272-8494-bionet.molbio.evolution" source="272" target="8494">
+	<data key="topic">bionet.molbio.evolution</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="363851-1441832-bionet.molbio.evolution" source="363851" target="1441832">
+	<data key="topic">bionet.molbio.evolution</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="363851-1441820-bionet.molbio.evolution" source="363851" target="1441820">
+	<data key="topic">bionet.molbio.evolution</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

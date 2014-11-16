@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="340598"/>
+<node id="391992"/>
+<node id="399797"/>
+<node id="451283"/>
+<node id="392305"/>
+<node id="922076"/>
+<node id="723860"/>
+<node id="455871"/>
+<node id="919318"/>
+<node id="18301"/>
+<node id="390438"/>
+<node id="920751"/>
+<node id="391045"/>
+<node id="17870"/>
+<node id="920737"/>
+<node id="493770"/>
+<node id="920642"/>
+<edge id="391992-18301-comp.os.cpm" source="391992" target="18301">
+	<data key="topic">comp.os.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="399797-17870-comp.os.cpm" source="399797" target="17870">
+	<data key="topic">comp.os.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="399797-920737-comp.os.cpm" source="399797" target="920737">
+	<data key="topic">comp.os.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="451283-340598-comp.os.cpm" source="451283" target="340598">
+	<data key="topic">comp.os.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="451283-723860-comp.os.cpm" source="451283" target="723860">
+	<data key="topic">comp.os.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="451283-919318-comp.os.cpm" source="451283" target="919318">
+	<data key="topic">comp.os.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392305-920737-comp.os.cpm" source="392305" target="920737">
+	<data key="topic">comp.os.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="455871-920737-comp.os.cpm" source="455871" target="920737">
+	<data key="topic">comp.os.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919318-340598-comp.os.cpm" source="919318" target="340598">
+	<data key="topic">comp.os.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919318-922076-comp.os.cpm" source="919318" target="922076">
+	<data key="topic">comp.os.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390438-340598-comp.os.cpm" source="390438" target="340598">
+	<data key="topic">comp.os.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391045-920751-comp.os.cpm" source="391045" target="920751">
+	<data key="topic">comp.os.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="493770-18301-comp.os.cpm" source="493770" target="18301">
+	<data key="topic">comp.os.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="920642-18301-comp.os.cpm" source="920642" target="18301">
+	<data key="topic">comp.os.cpm</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

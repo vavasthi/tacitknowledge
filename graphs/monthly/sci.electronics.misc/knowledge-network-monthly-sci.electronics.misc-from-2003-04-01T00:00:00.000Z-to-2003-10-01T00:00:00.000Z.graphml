@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="91154"/>
+<node id="89473"/>
+<node id="39304"/>
+<node id="42586"/>
+<node id="92220"/>
+<node id="46316"/>
+<node id="89499"/>
+<node id="89262"/>
+<node id="37424"/>
+<edge id="91154-89262-sci.electronics.misc" source="91154" target="89262">
+	<data key="topic">sci.electronics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="89473-89262-sci.electronics.misc" source="89473" target="89262">
+	<data key="topic">sci.electronics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="39304-46316-sci.electronics.misc" source="39304" target="46316">
+	<data key="topic">sci.electronics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="39304-89262-sci.electronics.misc" source="39304" target="89262">
+	<data key="topic">sci.electronics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="42586-89262-sci.electronics.misc" source="42586" target="89262">
+	<data key="topic">sci.electronics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="92220-89262-sci.electronics.misc" source="92220" target="89262">
+	<data key="topic">sci.electronics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="46316-89262-sci.electronics.misc" source="46316" target="89262">
+	<data key="topic">sci.electronics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="89499-89262-sci.electronics.misc" source="89499" target="89262">
+	<data key="topic">sci.electronics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37424-89262-sci.electronics.misc" source="37424" target="89262">
+	<data key="topic">sci.electronics.misc</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="54177"/>
+<node id="59329"/>
+<node id="43125"/>
+<node id="57159"/>
+<node id="37001"/>
+<node id="60204"/>
+<edge id="57159-54177-alt.conspiracy.jfk" source="57159" target="54177">
+	<data key="topic">alt.conspiracy.jfk</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="57159-59329-alt.conspiracy.jfk" source="57159" target="59329">
+	<data key="topic">alt.conspiracy.jfk</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="57159-43125-alt.conspiracy.jfk" source="57159" target="43125">
+	<data key="topic">alt.conspiracy.jfk</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="57159-37001-alt.conspiracy.jfk" source="57159" target="37001">
+	<data key="topic">alt.conspiracy.jfk</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="57159-60204-alt.conspiracy.jfk" source="57159" target="60204">
+	<data key="topic">alt.conspiracy.jfk</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="60204-54177-alt.conspiracy.jfk" source="60204" target="54177">
+	<data key="topic">alt.conspiracy.jfk</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="60204-59329-alt.conspiracy.jfk" source="60204" target="59329">
+	<data key="topic">alt.conspiracy.jfk</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="60204-43125-alt.conspiracy.jfk" source="60204" target="43125">
+	<data key="topic">alt.conspiracy.jfk</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="60204-37001-alt.conspiracy.jfk" source="60204" target="37001">
+	<data key="topic">alt.conspiracy.jfk</data>
+	<data key="weight">4</data>
+</edge>
+</graph>
+</graphml>

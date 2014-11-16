@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1727115"/>
+<node id="1882445"/>
+<node id="840926"/>
+<node id="1457604"/>
+<node id="414847"/>
+<node id="857138"/>
+<node id="613610"/>
+<node id="801486"/>
+<node id="640745"/>
+<node id="1891"/>
+<node id="30759"/>
+<node id="374222"/>
+<node id="645985"/>
+<node id="14925"/>
+<edge id="1457604-1882445-comp.sys.ti" source="1457604" target="1882445">
+	<data key="topic">comp.sys.ti</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="414847-1727115-comp.sys.ti" source="414847" target="1727115">
+	<data key="topic">comp.sys.ti</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="414847-801486-comp.sys.ti" source="414847" target="801486">
+	<data key="topic">comp.sys.ti</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="414847-14925-comp.sys.ti" source="414847" target="14925">
+	<data key="topic">comp.sys.ti</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="613610-414847-comp.sys.ti" source="613610" target="414847">
+	<data key="topic">comp.sys.ti</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="613610-801486-comp.sys.ti" source="613610" target="801486">
+	<data key="topic">comp.sys.ti</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="640745-1727115-comp.sys.ti" source="640745" target="1727115">
+	<data key="topic">comp.sys.ti</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="640745-414847-comp.sys.ti" source="640745" target="414847">
+	<data key="topic">comp.sys.ti</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="640745-857138-comp.sys.ti" source="640745" target="857138">
+	<data key="topic">comp.sys.ti</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="640745-14925-comp.sys.ti" source="640745" target="14925">
+	<data key="topic">comp.sys.ti</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1891-374222-comp.sys.ti" source="1891" target="374222">
+	<data key="topic">comp.sys.ti</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30759-840926-comp.sys.ti" source="30759" target="840926">
+	<data key="topic">comp.sys.ti</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="645985-1727115-comp.sys.ti" source="645985" target="1727115">
+	<data key="topic">comp.sys.ti</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="993118"/>
+<node id="1615483"/>
+<node id="613019"/>
+<node id="550460"/>
+<node id="550461"/>
+<node id="550464"/>
+<node id="4552"/>
+<node id="1611746"/>
+<node id="514733"/>
+<node id="404236"/>
+<node id="550455"/>
+<node id="613016"/>
+<edge id="1615483-4552-comp.sys.ti.explorer" source="1615483" target="4552">
+	<data key="topic">comp.sys.ti.explorer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="550461-550460-comp.sys.ti.explorer" source="550461" target="550460">
+	<data key="topic">comp.sys.ti.explorer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="550464-550455-comp.sys.ti.explorer" source="550464" target="550455">
+	<data key="topic">comp.sys.ti.explorer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1611746-993118-comp.sys.ti.explorer" source="1611746" target="993118">
+	<data key="topic">comp.sys.ti.explorer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="514733-613019-comp.sys.ti.explorer" source="514733" target="613019">
+	<data key="topic">comp.sys.ti.explorer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="613016-404236-comp.sys.ti.explorer" source="613016" target="404236">
+	<data key="topic">comp.sys.ti.explorer</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="409431"/>
+<node id="20438"/>
+<node id="762590"/>
+<node id="504736"/>
+<node id="18400"/>
+<edge id="409431-762590-soc.culture.celtic" source="409431" target="762590">
+	<data key="topic">soc.culture.celtic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20438-409431-soc.culture.celtic" source="20438" target="409431">
+	<data key="topic">soc.culture.celtic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="762590-409431-soc.culture.celtic" source="762590" target="409431">
+	<data key="topic">soc.culture.celtic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="504736-409431-soc.culture.celtic" source="504736" target="409431">
+	<data key="topic">soc.culture.celtic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18400-409431-soc.culture.celtic" source="18400" target="409431">
+	<data key="topic">soc.culture.celtic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18400-762590-soc.culture.celtic" source="18400" target="762590">
+	<data key="topic">soc.culture.celtic</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

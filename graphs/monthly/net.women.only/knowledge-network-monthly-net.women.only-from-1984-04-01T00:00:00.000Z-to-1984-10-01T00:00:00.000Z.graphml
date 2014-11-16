@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="652482"/>
+<node id="459980"/>
+<node id="338044"/>
+<node id="336299"/>
+<node id="1136959"/>
+<edge id="652482-336299-net.women.only" source="652482" target="336299">
+	<data key="topic">net.women.only</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1136959-459980-net.women.only" source="1136959" target="459980">
+	<data key="topic">net.women.only</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1136959-338044-net.women.only" source="1136959" target="338044">
+	<data key="topic">net.women.only</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

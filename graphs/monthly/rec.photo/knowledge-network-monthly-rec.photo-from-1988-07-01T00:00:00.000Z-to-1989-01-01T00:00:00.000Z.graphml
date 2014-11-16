@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="17537"/>
+<node id="541433"/>
+<node id="679849"/>
+<node id="431126"/>
+<node id="658973"/>
+<node id="453311"/>
+<node id="503552"/>
+<node id="611429"/>
+<node id="29006"/>
+<node id="454380"/>
+<node id="500505"/>
+<edge id="17537-611429-rec.photo" source="17537" target="611429">
+	<data key="topic">rec.photo</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="541433-454380-rec.photo" source="541433" target="454380">
+	<data key="topic">rec.photo</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="679849-454380-rec.photo" source="679849" target="454380">
+	<data key="topic">rec.photo</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="431126-679849-rec.photo" source="431126" target="679849">
+	<data key="topic">rec.photo</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="658973-453311-rec.photo" source="658973" target="453311">
+	<data key="topic">rec.photo</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="658973-611429-rec.photo" source="658973" target="611429">
+	<data key="topic">rec.photo</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="453311-611429-rec.photo" source="453311" target="611429">
+	<data key="topic">rec.photo</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="503552-453311-rec.photo" source="503552" target="453311">
+	<data key="topic">rec.photo</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="503552-611429-rec.photo" source="503552" target="611429">
+	<data key="topic">rec.photo</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-454380-rec.photo" source="29006" target="454380">
+	<data key="topic">rec.photo</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="500505-611429-rec.photo" source="500505" target="611429">
+	<data key="topic">rec.photo</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

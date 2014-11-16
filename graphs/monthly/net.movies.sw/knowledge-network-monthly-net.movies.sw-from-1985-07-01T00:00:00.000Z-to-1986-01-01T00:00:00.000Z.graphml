@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="26833"/>
+<node id="340437"/>
+<node id="472054"/>
+<node id="472959"/>
+<node id="446781"/>
+<node id="896594"/>
+<node id="391833"/>
+<node id="466907"/>
+<node id="463834"/>
+<node id="341320"/>
+<node id="464848"/>
+<node id="893029"/>
+<node id="468974"/>
+<node id="341706"/>
+<edge id="340437-391833-net.movies.sw" source="340437" target="391833">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340437-466907-net.movies.sw" source="340437" target="466907">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340437-341320-net.movies.sw" source="340437" target="341320">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340437-464848-net.movies.sw" source="340437" target="464848">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="896594-472054-net.movies.sw" source="896594" target="472054">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="896594-446781-net.movies.sw" source="896594" target="446781">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391833-26833-net.movies.sw" source="391833" target="26833">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391833-472054-net.movies.sw" source="391833" target="472054">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391833-463834-net.movies.sw" source="391833" target="463834">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391833-341320-net.movies.sw" source="391833" target="341320">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391833-893029-net.movies.sw" source="391833" target="893029">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="466907-391833-net.movies.sw" source="466907" target="391833">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="466907-341320-net.movies.sw" source="466907" target="341320">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="466907-464848-net.movies.sw" source="466907" target="464848">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="464848-391833-net.movies.sw" source="464848" target="391833">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="464848-341320-net.movies.sw" source="464848" target="341320">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="468974-472959-net.movies.sw" source="468974" target="472959">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="468974-341320-net.movies.sw" source="468974" target="341320">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341706-472054-net.movies.sw" source="341706" target="472054">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

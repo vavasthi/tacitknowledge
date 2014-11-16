@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="464088"/>
+<node id="522548"/>
+<node id="526589"/>
+<node id="639869"/>
+<node id="466323"/>
+<node id="604927"/>
+<node id="1626690"/>
+<node id="339207"/>
+<node id="338114"/>
+<node id="469378"/>
+<node id="460097"/>
+<node id="625967"/>
+<node id="341582"/>
+<node id="521711"/>
+<node id="464716"/>
+<node id="17870"/>
+<edge id="464088-1626690-net.eunice" source="464088" target="1626690">
+	<data key="topic">net.eunice</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522548-466323-net.eunice" source="522548" target="466323">
+	<data key="topic">net.eunice</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522548-464716-net.eunice" source="522548" target="464716">
+	<data key="topic">net.eunice</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="526589-460097-net.eunice" source="526589" target="460097">
+	<data key="topic">net.eunice</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="639869-339207-net.eunice" source="639869" target="339207">
+	<data key="topic">net.eunice</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="466323-464716-net.eunice" source="466323" target="464716">
+	<data key="topic">net.eunice</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="604927-639869-net.eunice" source="604927" target="639869">
+	<data key="topic">net.eunice</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="604927-339207-net.eunice" source="604927" target="339207">
+	<data key="topic">net.eunice</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338114-639869-net.eunice" source="338114" target="639869">
+	<data key="topic">net.eunice</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338114-604927-net.eunice" source="338114" target="604927">
+	<data key="topic">net.eunice</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338114-339207-net.eunice" source="338114" target="339207">
+	<data key="topic">net.eunice</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="625967-522548-net.eunice" source="625967" target="522548">
+	<data key="topic">net.eunice</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341582-466323-net.eunice" source="341582" target="466323">
+	<data key="topic">net.eunice</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521711-339207-net.eunice" source="521711" target="339207">
+	<data key="topic">net.eunice</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="464716-466323-net.eunice" source="464716" target="466323">
+	<data key="topic">net.eunice</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17870-469378-net.eunice" source="17870" target="469378">
+	<data key="topic">net.eunice</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

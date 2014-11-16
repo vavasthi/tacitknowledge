@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="513399"/>
+<node id="2155603"/>
+<node id="918174"/>
+<node id="750228"/>
+<node id="509307"/>
+<node id="515322"/>
+<node id="22112"/>
+<node id="2096481"/>
+<node id="367048"/>
+<node id="2156259"/>
+<node id="348450"/>
+<node id="1674654"/>
+<node id="739652"/>
+<node id="30415"/>
+<node id="510857"/>
+<edge id="513399-30415-soc.college" source="513399" target="30415">
+	<data key="topic">soc.college</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2155603-739652-soc.college" source="2155603" target="739652">
+	<data key="topic">soc.college</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="918174-30415-soc.college" source="918174" target="30415">
+	<data key="topic">soc.college</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="367048-1674654-soc.college" source="367048" target="1674654">
+	<data key="topic">soc.college</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348450-509307-soc.college" source="348450" target="509307">
+	<data key="topic">soc.college</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="348450-22112-soc.college" source="348450" target="22112">
+	<data key="topic">soc.college</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510857-2156259-soc.college" source="510857" target="2156259">
+	<data key="topic">soc.college</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1053985"/>
+<node id="464088"/>
+<node id="338389"/>
+<node id="890781"/>
+<node id="485223"/>
+<node id="339207"/>
+<node id="477716"/>
+<node id="604927"/>
+<node id="342573"/>
+<node id="17870"/>
+<node id="16879"/>
+<edge id="1053985-604927-net.eunice" source="1053985" target="604927">
+	<data key="topic">net.eunice</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="464088-890781-net.eunice" source="464088" target="890781">
+	<data key="topic">net.eunice</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338389-604927-net.eunice" source="338389" target="604927">
+	<data key="topic">net.eunice</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339207-342573-net.eunice" source="339207" target="342573">
+	<data key="topic">net.eunice</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339207-16879-net.eunice" source="339207" target="16879">
+	<data key="topic">net.eunice</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="477716-485223-net.eunice" source="477716" target="485223">
+	<data key="topic">net.eunice</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="342573-16879-net.eunice" source="342573" target="16879">
+	<data key="topic">net.eunice</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17870-1053985-net.eunice" source="17870" target="1053985">
+	<data key="topic">net.eunice</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

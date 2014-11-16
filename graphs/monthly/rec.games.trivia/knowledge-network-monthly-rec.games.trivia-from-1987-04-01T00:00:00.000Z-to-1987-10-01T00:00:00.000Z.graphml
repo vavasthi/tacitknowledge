@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="15667"/>
+<node id="2741260"/>
+<node id="26055"/>
+<node id="17448"/>
+<node id="27273"/>
+<node id="17327"/>
+<edge id="15667-27273-rec.games.trivia" source="15667" target="27273">
+	<data key="topic">rec.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15667-17327-rec.games.trivia" source="15667" target="17327">
+	<data key="topic">rec.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17448-2741260-rec.games.trivia" source="17448" target="2741260">
+	<data key="topic">rec.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17448-26055-rec.games.trivia" source="17448" target="26055">
+	<data key="topic">rec.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17448-27273-rec.games.trivia" source="17448" target="27273">
+	<data key="topic">rec.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17327-27273-rec.games.trivia" source="17327" target="27273">
+	<data key="topic">rec.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

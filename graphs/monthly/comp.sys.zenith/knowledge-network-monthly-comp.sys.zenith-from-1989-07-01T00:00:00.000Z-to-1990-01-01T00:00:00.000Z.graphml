@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="5843"/>
+<node id="701433"/>
+<node id="1358567"/>
+<node id="511668"/>
+<node id="867227"/>
+<node id="1355086"/>
+<node id="509853"/>
+<node id="515901"/>
+<node id="613043"/>
+<node id="365434"/>
+<node id="363481"/>
+<node id="10753"/>
+<node id="1078357"/>
+<node id="853257"/>
+<node id="511073"/>
+<node id="1395744"/>
+<node id="394318"/>
+<node id="794241"/>
+<node id="496"/>
+<node id="701574"/>
+<edge id="5843-701433-comp.sys.zenith" source="5843" target="701433">
+	<data key="topic">comp.sys.zenith</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5843-509853-comp.sys.zenith" source="5843" target="509853">
+	<data key="topic">comp.sys.zenith</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5843-511073-comp.sys.zenith" source="5843" target="511073">
+	<data key="topic">comp.sys.zenith</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="701433-511073-comp.sys.zenith" source="701433" target="511073">
+	<data key="topic">comp.sys.zenith</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="511668-1395744-comp.sys.zenith" source="511668" target="1395744">
+	<data key="topic">comp.sys.zenith</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509853-701433-comp.sys.zenith" source="509853" target="701433">
+	<data key="topic">comp.sys.zenith</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509853-511073-comp.sys.zenith" source="509853" target="511073">
+	<data key="topic">comp.sys.zenith</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="515901-794241-comp.sys.zenith" source="515901" target="794241">
+	<data key="topic">comp.sys.zenith</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="613043-1355086-comp.sys.zenith" source="613043" target="1355086">
+	<data key="topic">comp.sys.zenith</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="613043-1078357-comp.sys.zenith" source="613043" target="1078357">
+	<data key="topic">comp.sys.zenith</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="363481-1358567-comp.sys.zenith" source="363481" target="1358567">
+	<data key="topic">comp.sys.zenith</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="853257-10753-comp.sys.zenith" source="853257" target="10753">
+	<data key="topic">comp.sys.zenith</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="511073-867227-comp.sys.zenith" source="511073" target="867227">
+	<data key="topic">comp.sys.zenith</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="394318-1395744-comp.sys.zenith" source="394318" target="1395744">
+	<data key="topic">comp.sys.zenith</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="394318-701574-comp.sys.zenith" source="394318" target="701574">
+	<data key="topic">comp.sys.zenith</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="496-511073-comp.sys.zenith" source="496" target="511073">
+	<data key="topic">comp.sys.zenith</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="701574-365434-comp.sys.zenith" source="701574" target="365434">
+	<data key="topic">comp.sys.zenith</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="701574-794241-comp.sys.zenith" source="701574" target="794241">
+	<data key="topic">comp.sys.zenith</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

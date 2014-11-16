@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1495336"/>
+<node id="1869118"/>
+<node id="390104"/>
+<node id="390078"/>
+<node id="1869025"/>
+<node id="1868946"/>
+<node id="394154"/>
+<edge id="1495336-394154-mod.protocols.tcp-ip" source="1495336" target="394154">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1869118-1869025-mod.protocols.tcp-ip" source="1869118" target="1869025">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390078-390104-mod.protocols.tcp-ip" source="390078" target="390104">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

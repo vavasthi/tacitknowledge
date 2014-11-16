@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="511607"/>
+<node id="36436"/>
+<node id="613053"/>
+<node id="751070"/>
+<node id="21527"/>
+<node id="402463"/>
+<node id="697909"/>
+<node id="1163473"/>
+<node id="710863"/>
+<node id="1702"/>
+<node id="16903"/>
+<node id="696077"/>
+<node id="427536"/>
+<node id="670950"/>
+<edge id="36436-710863-talk.politics.soviet" source="36436" target="710863">
+	<data key="topic">talk.politics.soviet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="613053-511607-talk.politics.soviet" source="613053" target="511607">
+	<data key="topic">talk.politics.soviet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="402463-751070-talk.politics.soviet" source="402463" target="751070">
+	<data key="topic">talk.politics.soviet</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="402463-16903-talk.politics.soviet" source="402463" target="16903">
+	<data key="topic">talk.politics.soviet</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="697909-751070-talk.politics.soviet" source="697909" target="751070">
+	<data key="topic">talk.politics.soviet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="697909-16903-talk.politics.soviet" source="697909" target="16903">
+	<data key="topic">talk.politics.soviet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1163473-710863-talk.politics.soviet" source="1163473" target="710863">
+	<data key="topic">talk.politics.soviet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1163473-696077-talk.politics.soviet" source="1163473" target="696077">
+	<data key="topic">talk.politics.soviet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="710863-21527-talk.politics.soviet" source="710863" target="21527">
+	<data key="topic">talk.politics.soviet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1702-1163473-talk.politics.soviet" source="1702" target="1163473">
+	<data key="topic">talk.politics.soviet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1702-710863-talk.politics.soviet" source="1702" target="710863">
+	<data key="topic">talk.politics.soviet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16903-511607-talk.politics.soviet" source="16903" target="511607">
+	<data key="topic">talk.politics.soviet</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="16903-670950-talk.politics.soviet" source="16903" target="670950">
+	<data key="topic">talk.politics.soviet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696077-511607-talk.politics.soviet" source="696077" target="511607">
+	<data key="topic">talk.politics.soviet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696077-1163473-talk.politics.soviet" source="696077" target="1163473">
+	<data key="topic">talk.politics.soviet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="427536-511607-talk.politics.soviet" source="427536" target="511607">
+	<data key="topic">talk.politics.soviet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="670950-710863-talk.politics.soviet" source="670950" target="710863">
+	<data key="topic">talk.politics.soviet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="670950-16903-talk.politics.soviet" source="670950" target="16903">
+	<data key="topic">talk.politics.soviet</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

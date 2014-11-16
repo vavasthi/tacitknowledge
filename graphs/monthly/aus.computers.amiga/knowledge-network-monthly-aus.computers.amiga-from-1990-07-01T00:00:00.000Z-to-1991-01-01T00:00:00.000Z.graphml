@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="859389"/>
+<node id="441617"/>
+<node id="2361"/>
+<node id="554643"/>
+<node id="407390"/>
+<node id="784822"/>
+<node id="648297"/>
+<node id="1461461"/>
+<node id="8068"/>
+<node id="369314"/>
+<node id="837003"/>
+<node id="9006"/>
+<node id="8271"/>
+<node id="8303"/>
+<node id="383147"/>
+<edge id="859389-2361-aus.computers.amiga" source="859389" target="2361">
+	<data key="topic">aus.computers.amiga</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="859389-1461461-aus.computers.amiga" source="859389" target="1461461">
+	<data key="topic">aus.computers.amiga</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2361-1461461-aus.computers.amiga" source="2361" target="1461461">
+	<data key="topic">aus.computers.amiga</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2361-369314-aus.computers.amiga" source="2361" target="369314">
+	<data key="topic">aus.computers.amiga</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2361-383147-aus.computers.amiga" source="2361" target="383147">
+	<data key="topic">aus.computers.amiga</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="554643-2361-aus.computers.amiga" source="554643" target="2361">
+	<data key="topic">aus.computers.amiga</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="554643-369314-aus.computers.amiga" source="554643" target="369314">
+	<data key="topic">aus.computers.amiga</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="554643-383147-aus.computers.amiga" source="554643" target="383147">
+	<data key="topic">aus.computers.amiga</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="407390-9006-aus.computers.amiga" source="407390" target="9006">
+	<data key="topic">aus.computers.amiga</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="8068-441617-aus.computers.amiga" source="8068" target="441617">
+	<data key="topic">aus.computers.amiga</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="837003-648297-aus.computers.amiga" source="837003" target="648297">
+	<data key="topic">aus.computers.amiga</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="9006-784822-aus.computers.amiga" source="9006" target="784822">
+	<data key="topic">aus.computers.amiga</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="8271-9006-aus.computers.amiga" source="8271" target="9006">
+	<data key="topic">aus.computers.amiga</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="8303-648297-aus.computers.amiga" source="8303" target="648297">
+	<data key="topic">aus.computers.amiga</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="393720"/>
+<node id="919358"/>
+<node id="337265"/>
+<node id="466386"/>
+<node id="919384"/>
+<node id="337376"/>
+<node id="340192"/>
+<node id="919350"/>
+<node id="340378"/>
+<node id="919348"/>
+<node id="15582"/>
+<node id="454393"/>
+<node id="473736"/>
+<node id="459304"/>
+<node id="16099"/>
+<node id="1125018"/>
+<node id="451436"/>
+<node id="919362"/>
+<edge id="393720-919350-net.lan" source="393720" target="919350">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="393720-919348-net.lan" source="393720" target="919348">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="393720-473736-net.lan" source="393720" target="473736">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919358-919348-net.lan" source="919358" target="919348">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919358-473736-net.lan" source="919358" target="473736">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="466386-454393-net.lan" source="466386" target="454393">
+	<data key="topic">net.lan</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="337376-337265-net.lan" source="337376" target="337265">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337376-919350-net.lan" source="337376" target="919350">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337376-919348-net.lan" source="337376" target="919348">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337376-473736-net.lan" source="337376" target="473736">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337376-1125018-net.lan" source="337376" target="1125018">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340192-15582-net.lan" source="340192" target="15582">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919350-919348-net.lan" source="919350" target="919348">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919350-473736-net.lan" source="919350" target="473736">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340378-337376-net.lan" source="340378" target="337376">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459304-15582-net.lan" source="459304" target="15582">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16099-466386-net.lan" source="16099" target="466386">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16099-454393-net.lan" source="16099" target="454393">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="451436-919384-net.lan" source="451436" target="919384">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919362-466386-net.lan" source="919362" target="466386">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919362-454393-net.lan" source="919362" target="454393">
+	<data key="topic">net.lan</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

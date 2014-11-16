@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="418519"/>
+<node id="339"/>
+<node id="388503"/>
+<node id="358866"/>
+<node id="388562"/>
+<node id="24278"/>
+<node id="4379"/>
+<node id="388250"/>
+<node id="945811"/>
+<node id="387161"/>
+<node id="11108"/>
+<node id="366055"/>
+<node id="950313"/>
+<node id="372910"/>
+<node id="372905"/>
+<node id="416425"/>
+<node id="405801"/>
+<node id="1161028"/>
+<node id="364478"/>
+<node id="1741891"/>
+<node id="359739"/>
+<node id="380166"/>
+<node id="358021"/>
+<node id="365384"/>
+<node id="1159349"/>
+<node id="699137"/>
+<node id="2628324"/>
+<node id="386255"/>
+<node id="417355"/>
+<node id="937476"/>
+<node id="1298303"/>
+<node id="574087"/>
+<edge id="339-359739-comp.unix.large" source="339" target="359739">
+	<data key="topic">comp.unix.large</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="388503-1161028-comp.unix.large" source="388503" target="1161028">
+	<data key="topic">comp.unix.large</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="388503-365384-comp.unix.large" source="388503" target="365384">
+	<data key="topic">comp.unix.large</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="388562-339-comp.unix.large" source="388562" target="339">
+	<data key="topic">comp.unix.large</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="388562-359739-comp.unix.large" source="388562" target="359739">
+	<data key="topic">comp.unix.large</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24278-574087-comp.unix.large" source="24278" target="574087">
+	<data key="topic">comp.unix.large</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4379-2628324-comp.unix.large" source="4379" target="2628324">
+	<data key="topic">comp.unix.large</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="388250-416425-comp.unix.large" source="388250" target="416425">
+	<data key="topic">comp.unix.large</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="945811-339-comp.unix.large" source="945811" target="339">
+	<data key="topic">comp.unix.large</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="945811-388562-comp.unix.large" source="945811" target="388562">
+	<data key="topic">comp.unix.large</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="945811-359739-comp.unix.large" source="945811" target="359739">
+	<data key="topic">comp.unix.large</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="387161-1741891-comp.unix.large" source="387161" target="1741891">
+	<data key="topic">comp.unix.large</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11108-372910-comp.unix.large" source="11108" target="372910">
+	<data key="topic">comp.unix.large</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="366055-364478-comp.unix.large" source="366055" target="364478">
+	<data key="topic">comp.unix.large</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="366055-937476-comp.unix.large" source="366055" target="937476">
+	<data key="topic">comp.unix.large</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="950313-405801-comp.unix.large" source="950313" target="405801">
+	<data key="topic">comp.unix.large</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="372905-366055-comp.unix.large" source="372905" target="366055">
+	<data key="topic">comp.unix.large</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="372905-364478-comp.unix.large" source="372905" target="364478">
+	<data key="topic">comp.unix.large</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="372905-937476-comp.unix.large" source="372905" target="937476">
+	<data key="topic">comp.unix.large</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="364478-937476-comp.unix.large" source="364478" target="937476">
+	<data key="topic">comp.unix.large</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="380166-418519-comp.unix.large" source="380166" target="418519">
+	<data key="topic">comp.unix.large</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="380166-358866-comp.unix.large" source="380166" target="358866">
+	<data key="topic">comp.unix.large</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="358021-418519-comp.unix.large" source="358021" target="418519">
+	<data key="topic">comp.unix.large</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="358021-380166-comp.unix.large" source="358021" target="380166">
+	<data key="topic">comp.unix.large</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="365384-1161028-comp.unix.large" source="365384" target="1161028">
+	<data key="topic">comp.unix.large</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1159349-388503-comp.unix.large" source="1159349" target="388503">
+	<data key="topic">comp.unix.large</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1159349-699137-comp.unix.large" source="1159349" target="699137">
+	<data key="topic">comp.unix.large</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="699137-388503-comp.unix.large" source="699137" target="388503">
+	<data key="topic">comp.unix.large</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="386255-388503-comp.unix.large" source="386255" target="388503">
+	<data key="topic">comp.unix.large</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="386255-1161028-comp.unix.large" source="386255" target="1161028">
+	<data key="topic">comp.unix.large</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="386255-365384-comp.unix.large" source="386255" target="365384">
+	<data key="topic">comp.unix.large</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="417355-1298303-comp.unix.large" source="417355" target="1298303">
+	<data key="topic">comp.unix.large</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

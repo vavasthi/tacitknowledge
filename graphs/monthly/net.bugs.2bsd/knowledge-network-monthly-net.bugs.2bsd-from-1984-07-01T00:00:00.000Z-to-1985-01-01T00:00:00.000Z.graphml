@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="26833"/>
+<node id="531036"/>
+<node id="337428"/>
+<node id="339486"/>
+<node id="478495"/>
+<node id="469145"/>
+<node id="459304"/>
+<node id="457644"/>
+<node id="339190"/>
+<node id="1438664"/>
+<node id="493365"/>
+<node id="486707"/>
+<node id="653105"/>
+<node id="18683"/>
+<node id="392570"/>
+<node id="339772"/>
+<node id="342844"/>
+<node id="625528"/>
+<node id="337927"/>
+<node id="524101"/>
+<node id="342273"/>
+<node id="2169448"/>
+<node id="337998"/>
+<node id="560258"/>
+<node id="17420"/>
+<node id="339914"/>
+<edge id="337428-342273-net.bugs.2bsd" source="337428" target="342273">
+	<data key="topic">net.bugs.2bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339486-26833-net.bugs.2bsd" source="339486" target="26833">
+	<data key="topic">net.bugs.2bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339486-2169448-net.bugs.2bsd" source="339486" target="2169448">
+	<data key="topic">net.bugs.2bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="478495-524101-net.bugs.2bsd" source="478495" target="524101">
+	<data key="topic">net.bugs.2bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="469145-457644-net.bugs.2bsd" source="469145" target="457644">
+	<data key="topic">net.bugs.2bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459304-524101-net.bugs.2bsd" source="459304" target="524101">
+	<data key="topic">net.bugs.2bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339190-339772-net.bugs.2bsd" source="339190" target="339772">
+	<data key="topic">net.bugs.2bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1438664-339772-net.bugs.2bsd" source="1438664" target="339772">
+	<data key="topic">net.bugs.2bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="493365-342844-net.bugs.2bsd" source="493365" target="342844">
+	<data key="topic">net.bugs.2bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="486707-337998-net.bugs.2bsd" source="486707" target="337998">
+	<data key="topic">net.bugs.2bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="653105-17420-net.bugs.2bsd" source="653105" target="17420">
+	<data key="topic">net.bugs.2bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18683-339486-net.bugs.2bsd" source="18683" target="339486">
+	<data key="topic">net.bugs.2bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392570-1438664-net.bugs.2bsd" source="392570" target="1438664">
+	<data key="topic">net.bugs.2bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392570-339772-net.bugs.2bsd" source="392570" target="339772">
+	<data key="topic">net.bugs.2bsd</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="342844-339914-net.bugs.2bsd" source="342844" target="339914">
+	<data key="topic">net.bugs.2bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="625528-531036-net.bugs.2bsd" source="625528" target="531036">
+	<data key="topic">net.bugs.2bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337927-469145-net.bugs.2bsd" source="337927" target="469145">
+	<data key="topic">net.bugs.2bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337927-457644-net.bugs.2bsd" source="337927" target="457644">
+	<data key="topic">net.bugs.2bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="560258-524101-net.bugs.2bsd" source="560258" target="524101">
+	<data key="topic">net.bugs.2bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339914-342844-net.bugs.2bsd" source="339914" target="342844">
+	<data key="topic">net.bugs.2bsd</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

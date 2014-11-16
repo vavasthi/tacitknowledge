@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="816253"/>
+<node id="1197635"/>
+<node id="1267075"/>
+<node id="427347"/>
+<node id="368594"/>
+<node id="511412"/>
+<node id="1267080"/>
+<node id="1683553"/>
+<node id="1394096"/>
+<node id="741970"/>
+<node id="32413"/>
+<node id="21311"/>
+<node id="500314"/>
+<node id="540760"/>
+<node id="510472"/>
+<node id="2770761"/>
+<node id="32390"/>
+<node id="1514624"/>
+<edge id="816253-32390-rec.music.synth" source="816253" target="32390">
+	<data key="topic">rec.music.synth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1197635-32390-rec.music.synth" source="1197635" target="32390">
+	<data key="topic">rec.music.synth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="368594-427347-rec.music.synth" source="368594" target="427347">
+	<data key="topic">rec.music.synth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="511412-1267075-rec.music.synth" source="511412" target="1267075">
+	<data key="topic">rec.music.synth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1267080-1267075-rec.music.synth" source="1267080" target="1267075">
+	<data key="topic">rec.music.synth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1267080-511412-rec.music.synth" source="1267080" target="511412">
+	<data key="topic">rec.music.synth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1683553-1394096-rec.music.synth" source="1683553" target="1394096">
+	<data key="topic">rec.music.synth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="741970-1267075-rec.music.synth" source="741970" target="1267075">
+	<data key="topic">rec.music.synth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="32413-540760-rec.music.synth" source="32413" target="540760">
+	<data key="topic">rec.music.synth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="21311-427347-rec.music.synth" source="21311" target="427347">
+	<data key="topic">rec.music.synth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="21311-368594-rec.music.synth" source="21311" target="368594">
+	<data key="topic">rec.music.synth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="500314-1683553-rec.music.synth" source="500314" target="1683553">
+	<data key="topic">rec.music.synth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="500314-1394096-rec.music.synth" source="500314" target="1394096">
+	<data key="topic">rec.music.synth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510472-427347-rec.music.synth" source="510472" target="427347">
+	<data key="topic">rec.music.synth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510472-368594-rec.music.synth" source="510472" target="368594">
+	<data key="topic">rec.music.synth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1514624-2770761-rec.music.synth" source="1514624" target="2770761">
+	<data key="topic">rec.music.synth</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

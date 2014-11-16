@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="815376"/>
+<node id="818992"/>
+<node id="949"/>
+<node id="507422"/>
+<node id="584899"/>
+<node id="429355"/>
+<node id="5919"/>
+<edge id="815376-429355-news.stargate" source="815376" target="429355">
+	<data key="topic">news.stargate</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="818992-815376-news.stargate" source="818992" target="815376">
+	<data key="topic">news.stargate</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="818992-429355-news.stargate" source="818992" target="429355">
+	<data key="topic">news.stargate</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="818992-5919-news.stargate" source="818992" target="5919">
+	<data key="topic">news.stargate</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="949-429355-news.stargate" source="949" target="429355">
+	<data key="topic">news.stargate</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="507422-584899-news.stargate" source="507422" target="584899">
+	<data key="topic">news.stargate</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="507422-429355-news.stargate" source="507422" target="429355">
+	<data key="topic">news.stargate</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="584899-429355-news.stargate" source="584899" target="429355">
+	<data key="topic">news.stargate</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5919-815376-news.stargate" source="5919" target="815376">
+	<data key="topic">news.stargate</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5919-429355-news.stargate" source="5919" target="429355">
+	<data key="topic">news.stargate</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

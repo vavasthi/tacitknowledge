@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="113"/>
+<node id="676794"/>
+<node id="1962703"/>
+<node id="347906"/>
+<node id="4392"/>
+<node id="4824"/>
+<node id="363405"/>
+<edge id="113-676794-comp.unix.questions" source="113" target="676794">
+	<data key="topic">comp.unix.questions</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4392-1962703-comp.unix.questions" source="4392" target="1962703">
+	<data key="topic">comp.unix.questions</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4392-347906-comp.unix.questions" source="4392" target="347906">
+	<data key="topic">comp.unix.questions</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4392-4824-comp.unix.questions" source="4392" target="4824">
+	<data key="topic">comp.unix.questions</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4392-363405-comp.unix.questions" source="4392" target="363405">
+	<data key="topic">comp.unix.questions</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

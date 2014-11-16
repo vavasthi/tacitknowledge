@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2256852"/>
+<node id="2190833"/>
+<node id="2189844"/>
+<node id="2176566"/>
+<node id="2238005"/>
+<node id="2190871"/>
+<node id="2245494"/>
+<node id="2180154"/>
+<node id="2193690"/>
+<node id="2190201"/>
+<node id="2833298"/>
+<node id="2833016"/>
+<node id="2832983"/>
+<node id="172125"/>
+<node id="2184641"/>
+<node id="2190435"/>
+<node id="2175782"/>
+<node id="2833104"/>
+<node id="293124"/>
+<node id="2833320"/>
+<node id="225391"/>
+<node id="2833191"/>
+<node id="68720"/>
+<node id="2833382"/>
+<edge id="2190833-2190871-comp.lang.fortran" source="2190833" target="2190871">
+	<data key="topic">comp.lang.fortran</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2190833-2190201-comp.lang.fortran" source="2190833" target="2190201">
+	<data key="topic">comp.lang.fortran</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2190833-2190435-comp.lang.fortran" source="2190833" target="2190435">
+	<data key="topic">comp.lang.fortran</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2189844-2256852-comp.lang.fortran" source="2189844" target="2256852">
+	<data key="topic">comp.lang.fortran</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2176566-2833298-comp.lang.fortran" source="2176566" target="2833298">
+	<data key="topic">comp.lang.fortran</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2238005-293124-comp.lang.fortran" source="2238005" target="293124">
+	<data key="topic">comp.lang.fortran</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2190871-2190201-comp.lang.fortran" source="2190871" target="2190201">
+	<data key="topic">comp.lang.fortran</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2245494-2832983-comp.lang.fortran" source="2245494" target="2832983">
+	<data key="topic">comp.lang.fortran</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2193690-2833298-comp.lang.fortran" source="2193690" target="2833298">
+	<data key="topic">comp.lang.fortran</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2190201-2190871-comp.lang.fortran" source="2190201" target="2190871">
+	<data key="topic">comp.lang.fortran</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2833298-2193690-comp.lang.fortran" source="2833298" target="2193690">
+	<data key="topic">comp.lang.fortran</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2833016-2832983-comp.lang.fortran" source="2833016" target="2832983">
+	<data key="topic">comp.lang.fortran</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="172125-2190201-comp.lang.fortran" source="172125" target="2190201">
+	<data key="topic">comp.lang.fortran</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2184641-2175782-comp.lang.fortran" source="2184641" target="2175782">
+	<data key="topic">comp.lang.fortran</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2190435-2190871-comp.lang.fortran" source="2190435" target="2190871">
+	<data key="topic">comp.lang.fortran</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2190435-2190201-comp.lang.fortran" source="2190435" target="2190201">
+	<data key="topic">comp.lang.fortran</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2190435-2833298-comp.lang.fortran" source="2190435" target="2833298">
+	<data key="topic">comp.lang.fortran</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2175782-2180154-comp.lang.fortran" source="2175782" target="2180154">
+	<data key="topic">comp.lang.fortran</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2175782-2832983-comp.lang.fortran" source="2175782" target="2832983">
+	<data key="topic">comp.lang.fortran</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2175782-293124-comp.lang.fortran" source="2175782" target="293124">
+	<data key="topic">comp.lang.fortran</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2175782-68720-comp.lang.fortran" source="2175782" target="68720">
+	<data key="topic">comp.lang.fortran</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2833104-2832983-comp.lang.fortran" source="2833104" target="2832983">
+	<data key="topic">comp.lang.fortran</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2833320-2832983-comp.lang.fortran" source="2833320" target="2832983">
+	<data key="topic">comp.lang.fortran</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2833320-2175782-comp.lang.fortran" source="2833320" target="2175782">
+	<data key="topic">comp.lang.fortran</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="225391-2190201-comp.lang.fortran" source="225391" target="2190201">
+	<data key="topic">comp.lang.fortran</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="225391-2833298-comp.lang.fortran" source="225391" target="2833298">
+	<data key="topic">comp.lang.fortran</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="225391-2190435-comp.lang.fortran" source="225391" target="2190435">
+	<data key="topic">comp.lang.fortran</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2833191-2832983-comp.lang.fortran" source="2833191" target="2832983">
+	<data key="topic">comp.lang.fortran</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="68720-2180154-comp.lang.fortran" source="68720" target="2180154">
+	<data key="topic">comp.lang.fortran</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="68720-2175782-comp.lang.fortran" source="68720" target="2175782">
+	<data key="topic">comp.lang.fortran</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="68720-293124-comp.lang.fortran" source="68720" target="293124">
+	<data key="topic">comp.lang.fortran</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2833382-2832983-comp.lang.fortran" source="2833382" target="2832983">
+	<data key="topic">comp.lang.fortran</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

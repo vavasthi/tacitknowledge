@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="15667"/>
+<node id="392727"/>
+<node id="923451"/>
+<node id="1125029"/>
+<node id="919443"/>
+<node id="394748"/>
+<node id="1125037"/>
+<node id="1091344"/>
+<node id="28225"/>
+<node id="669324"/>
+<node id="340552"/>
+<node id="475780"/>
+<node id="338126"/>
+<node id="1121178"/>
+<node id="337199"/>
+<node id="919364"/>
+<node id="1125024"/>
+<node id="390315"/>
+<node id="399370"/>
+<node id="919394"/>
+<edge id="15667-394748-net.poems" source="15667" target="394748">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392727-394748-net.poems" source="392727" target="394748">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="923451-1125029-net.poems" source="923451" target="1125029">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="923451-28225-net.poems" source="923451" target="28225">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1125037-1125024-net.poems" source="1125037" target="1125024">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28225-1125029-net.poems" source="28225" target="1125029">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="669324-338126-net.poems" source="669324" target="338126">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340552-394748-net.poems" source="340552" target="394748">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="475780-394748-net.poems" source="475780" target="394748">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1121178-394748-net.poems" source="1121178" target="394748">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337199-919443-net.poems" source="337199" target="919443">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390315-1091344-net.poems" source="390315" target="1091344">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="399370-392727-net.poems" source="399370" target="392727">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="399370-394748-net.poems" source="399370" target="394748">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919394-919364-net.poems" source="919394" target="919364">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

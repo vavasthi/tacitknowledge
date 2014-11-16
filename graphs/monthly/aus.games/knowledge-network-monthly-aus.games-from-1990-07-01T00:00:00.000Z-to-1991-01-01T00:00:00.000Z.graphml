@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="13394"/>
+<node id="358328"/>
+<node id="349874"/>
+<node id="1220870"/>
+<node id="1174871"/>
+<node id="8490"/>
+<node id="8363"/>
+<node id="1516524"/>
+<node id="365899"/>
+<edge id="13394-1220870-aus.games" source="13394" target="1220870">
+	<data key="topic">aus.games</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="349874-1516524-aus.games" source="349874" target="1516524">
+	<data key="topic">aus.games</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1174871-358328-aus.games" source="1174871" target="358328">
+	<data key="topic">aus.games</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1174871-1516524-aus.games" source="1174871" target="1516524">
+	<data key="topic">aus.games</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="8490-8363-aus.games" source="8490" target="8363">
+	<data key="topic">aus.games</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="365899-1516524-aus.games" source="365899" target="1516524">
+	<data key="topic">aus.games</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

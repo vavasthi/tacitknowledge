@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="205603"/>
+<node id="2176369"/>
+<node id="2188615"/>
+<node id="2237920"/>
+<node id="2238077"/>
+<node id="217853"/>
+<node id="2245438"/>
+<edge id="205603-2188615-comp.lang.c-programming" source="205603" target="2188615">
+	<data key="topic">comp.lang.c-programming</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="205603-2238077-comp.lang.c-programming" source="205603" target="2238077">
+	<data key="topic">comp.lang.c-programming</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="205603-217853-comp.lang.c-programming" source="205603" target="217853">
+	<data key="topic">comp.lang.c-programming</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2176369-2237920-comp.lang.c-programming" source="2176369" target="2237920">
+	<data key="topic">comp.lang.c-programming</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2188615-2238077-comp.lang.c-programming" source="2188615" target="2238077">
+	<data key="topic">comp.lang.c-programming</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2238077-2188615-comp.lang.c-programming" source="2238077" target="2188615">
+	<data key="topic">comp.lang.c-programming</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2238077-217853-comp.lang.c-programming" source="2238077" target="217853">
+	<data key="topic">comp.lang.c-programming</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="217853-2188615-comp.lang.c-programming" source="217853" target="2188615">
+	<data key="topic">comp.lang.c-programming</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="217853-2238077-comp.lang.c-programming" source="217853" target="2238077">
+	<data key="topic">comp.lang.c-programming</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2245438-2188615-comp.lang.c-programming" source="2245438" target="2188615">
+	<data key="topic">comp.lang.c-programming</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2245438-2238077-comp.lang.c-programming" source="2245438" target="2238077">
+	<data key="topic">comp.lang.c-programming</data>
+	<data key="weight">2</data>
+</edge>
+</graph>
+</graphml>

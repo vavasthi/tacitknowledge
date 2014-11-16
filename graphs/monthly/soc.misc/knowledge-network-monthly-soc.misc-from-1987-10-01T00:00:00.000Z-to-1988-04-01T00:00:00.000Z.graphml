@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="15667"/>
+<node id="307"/>
+<node id="764250"/>
+<node id="21188"/>
+<node id="15462"/>
+<node id="18694"/>
+<node id="30871"/>
+<node id="21176"/>
+<node id="31914"/>
+<node id="18090"/>
+<node id="16816"/>
+<edge id="15667-307-soc.misc" source="15667" target="307">
+	<data key="topic">soc.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15667-31914-soc.misc" source="15667" target="31914">
+	<data key="topic">soc.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="764250-18694-soc.misc" source="764250" target="18694">
+	<data key="topic">soc.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="21188-18694-soc.misc" source="21188" target="18694">
+	<data key="topic">soc.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30871-764250-soc.misc" source="30871" target="764250">
+	<data key="topic">soc.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30871-18694-soc.misc" source="30871" target="18694">
+	<data key="topic">soc.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="21176-15462-soc.misc" source="21176" target="15462">
+	<data key="topic">soc.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18090-18694-soc.misc" source="18090" target="18694">
+	<data key="topic">soc.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16816-15462-soc.misc" source="16816" target="15462">
+	<data key="topic">soc.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16816-21176-soc.misc" source="16816" target="21176">
+	<data key="topic">soc.misc</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

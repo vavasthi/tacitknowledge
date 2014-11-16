@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="454775"/>
+<node id="459128"/>
+<node id="469876"/>
+<node id="925691"/>
+<node id="1131018"/>
+<node id="25562"/>
+<node id="922805"/>
+<node id="393596"/>
+<node id="671480"/>
+<node id="1121680"/>
+<node id="390438"/>
+<node id="921711"/>
+<node id="488966"/>
+<node id="934733"/>
+<node id="920718"/>
+<node id="394659"/>
+<node id="925867"/>
+<node id="337700"/>
+<node id="398882"/>
+<node id="488272"/>
+<node id="1131033"/>
+<node id="923461"/>
+<node id="1129278"/>
+<edge id="469876-454775-net.followup" source="469876" target="454775">
+	<data key="topic">net.followup</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="925691-922805-net.followup" source="925691" target="922805">
+	<data key="topic">net.followup</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="925691-925867-net.followup" source="925691" target="925867">
+	<data key="topic">net.followup</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1131018-394659-net.followup" source="1131018" target="394659">
+	<data key="topic">net.followup</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="25562-1121680-net.followup" source="25562" target="1121680">
+	<data key="topic">net.followup</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="25562-1131033-net.followup" source="25562" target="1131033">
+	<data key="topic">net.followup</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390438-921711-net.followup" source="390438" target="921711">
+	<data key="topic">net.followup</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="488966-1129278-net.followup" source="488966" target="1129278">
+	<data key="topic">net.followup</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="934733-390438-net.followup" source="934733" target="390438">
+	<data key="topic">net.followup</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="934733-921711-net.followup" source="934733" target="921711">
+	<data key="topic">net.followup</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="920718-459128-net.followup" source="920718" target="459128">
+	<data key="topic">net.followup</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337700-393596-net.followup" source="337700" target="393596">
+	<data key="topic">net.followup</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337700-1121680-net.followup" source="337700" target="1121680">
+	<data key="topic">net.followup</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="398882-921711-net.followup" source="398882" target="921711">
+	<data key="topic">net.followup</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="488272-921711-net.followup" source="488272" target="921711">
+	<data key="topic">net.followup</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1131033-459128-net.followup" source="1131033" target="459128">
+	<data key="topic">net.followup</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1131033-393596-net.followup" source="1131033" target="393596">
+	<data key="topic">net.followup</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1131033-671480-net.followup" source="1131033" target="671480">
+	<data key="topic">net.followup</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1131033-1121680-net.followup" source="1131033" target="1121680">
+	<data key="topic">net.followup</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="923461-1131018-net.followup" source="923461" target="1131018">
+	<data key="topic">net.followup</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="923461-394659-net.followup" source="923461" target="394659">
+	<data key="topic">net.followup</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

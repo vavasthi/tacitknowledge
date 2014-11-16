@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="19253"/>
+<node id="389921"/>
+<node id="26390"/>
+<node id="514675"/>
+<node id="1312611"/>
+<node id="2026746"/>
+<node id="389546"/>
+<node id="24221"/>
+<node id="585927"/>
+<edge id="19253-389921-comp.mail.sendmail" source="19253" target="389921">
+	<data key="topic">comp.mail.sendmail</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="389921-19253-comp.mail.sendmail" source="389921" target="19253">
+	<data key="topic">comp.mail.sendmail</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="26390-389546-comp.mail.sendmail" source="26390" target="389546">
+	<data key="topic">comp.mail.sendmail</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="514675-24221-comp.mail.sendmail" source="514675" target="24221">
+	<data key="topic">comp.mail.sendmail</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2026746-19253-comp.mail.sendmail" source="2026746" target="19253">
+	<data key="topic">comp.mail.sendmail</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="585927-1312611-comp.mail.sendmail" source="585927" target="1312611">
+	<data key="topic">comp.mail.sendmail</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

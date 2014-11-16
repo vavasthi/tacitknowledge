@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="489112"/>
+<node id="339091"/>
+<node id="456360"/>
+<node id="489125"/>
+<node id="459428"/>
+<node id="340385"/>
+<node id="340653"/>
+<node id="471214"/>
+<node id="489133"/>
+<node id="471210"/>
+<node id="656805"/>
+<node id="920737"/>
+<node id="489144"/>
+<node id="982208"/>
+<node id="16052"/>
+<node id="489141"/>
+<node id="484030"/>
+<node id="497341"/>
+<node id="447420"/>
+<node id="489146"/>
+<node id="489145"/>
+<node id="396998"/>
+<node id="928459"/>
+<node id="489154"/>
+<node id="486849"/>
+<node id="2485676"/>
+<node id="982209"/>
+<node id="338134"/>
+<node id="26833"/>
+<node id="2663674"/>
+<node id="337367"/>
+<node id="337106"/>
+<node id="18134"/>
+<node id="1692385"/>
+<node id="1576935"/>
+<node id="920273"/>
+<node id="1376470"/>
+<node id="465647"/>
+<node id="487146"/>
+<node id="486121"/>
+<node id="1137924"/>
+<node id="488692"/>
+<node id="479730"/>
+<node id="525301"/>
+<node id="470522"/>
+<node id="2717922"/>
+<node id="2717928"/>
+<node id="3092"/>
+<node id="2669120"/>
+<node id="1626146"/>
+<node id="344351"/>
+<node id="338458"/>
+<node id="978964"/>
+<node id="469529"/>
+<node id="1126163"/>
+<node id="2669121"/>
+<node id="989733"/>
+<node id="20013"/>
+<node id="464940"/>
+<node id="920099"/>
+<node id="525093"/>
+<node id="482858"/>
+<node id="338997"/>
+<node id="337717"/>
+<node id="484405"/>
+<node id="484147"/>
+<node id="449073"/>
+<node id="340532"/>
+<node id="983353"/>
+<node id="1131340"/>
+<node id="485181"/>
+<node id="337210"/>
+<node id="977740"/>
+<node id="346436"/>
+<node id="1574975"/>
+<node id="497488"/>
+<node id="502602"/>
+<node id="16985"/>
+<node id="340064"/>
+<node id="338527"/>
+<node id="338535"/>
+<node id="471139"/>
+<node id="602213"/>
+<node id="602215"/>
+<node id="482168"/>
+<node id="486775"/>
+<node id="466294"/>
+<node id="483189"/>
+<node id="392305"/>
+<node id="1329027"/>
+<node id="469120"/>
+<node id="19068"/>
+<node id="488584"/>
+<node id="22403"/>
+<node id="1025412"/>
+<node id="340619"/>
+<node id="2483819"/>
+<edge id="489112-497488-net.micro.cpm" source="489112" target="497488">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="489112-483189-net.micro.cpm" source="489112" target="483189">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="456360-482858-net.micro.cpm" source="456360" target="482858">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="456360-483189-net.micro.cpm" source="456360" target="483189">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340385-459428-net.micro.cpm" source="340385" target="459428">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="656805-337717-net.micro.cpm" source="656805" target="337717">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="982208-466294-net.micro.cpm" source="982208" target="466294">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16052-488584-net.micro.cpm" source="16052" target="488584">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="484030-989733-net.micro.cpm" source="484030" target="989733">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="497341-982208-net.micro.cpm" source="497341" target="982208">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="497341-2663674-net.micro.cpm" source="497341" target="2663674">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="447420-340653-net.micro.cpm" source="447420" target="340653">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="396998-982208-net.micro.cpm" source="396998" target="982208">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="396998-497341-net.micro.cpm" source="396998" target="497341">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="396998-2663674-net.micro.cpm" source="396998" target="2663674">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="928459-920737-net.micro.cpm" source="928459" target="920737">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="486849-471214-net.micro.cpm" source="486849" target="471214">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="982209-525093-net.micro.cpm" source="982209" target="525093">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338134-16052-net.micro.cpm" source="338134" target="16052">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338134-488584-net.micro.cpm" source="338134" target="488584">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337106-489146-net.micro.cpm" source="337106" target="489146">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337106-337367-net.micro.cpm" source="337106" target="337367">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="920273-484147-net.micro.cpm" source="920273" target="484147">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="465647-489125-net.micro.cpm" source="465647" target="489125">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="465647-340532-net.micro.cpm" source="465647" target="340532">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="487146-339091-net.micro.cpm" source="487146" target="339091">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="487146-489141-net.micro.cpm" source="487146" target="489141">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="487146-18134-net.micro.cpm" source="487146" target="18134">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="487146-16985-net.micro.cpm" source="487146" target="16985">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="488692-337210-net.micro.cpm" source="488692" target="337210">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="470522-982208-net.micro.cpm" source="470522" target="982208">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="470522-489145-net.micro.cpm" source="470522" target="489145">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="470522-2717922-net.micro.cpm" source="470522" target="2717922">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="470522-338458-net.micro.cpm" source="470522" target="338458">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1626146-2669121-net.micro.cpm" source="1626146" target="2669121">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="344351-486775-net.micro.cpm" source="344351" target="486775">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338458-489145-net.micro.cpm" source="338458" target="489145">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="978964-459428-net.micro.cpm" source="978964" target="459428">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="469529-489154-net.micro.cpm" source="469529" target="489154">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="469529-479730-net.micro.cpm" source="469529" target="479730">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="469529-484405-net.micro.cpm" source="469529" target="484405">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20013-3092-net.micro.cpm" source="20013" target="3092">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="464940-26833-net.micro.cpm" source="464940" target="26833">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="920099-489133-net.micro.cpm" source="920099" target="489133">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="920099-1692385-net.micro.cpm" source="920099" target="1692385">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338997-486121-net.micro.cpm" source="338997" target="486121">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="484405-489146-net.micro.cpm" source="484405" target="489146">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="484405-489154-net.micro.cpm" source="484405" target="489154">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="484405-337106-net.micro.cpm" source="484405" target="337106">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="484405-479730-net.micro.cpm" source="484405" target="479730">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="484405-469529-net.micro.cpm" source="484405" target="469529">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="484405-602213-net.micro.cpm" source="484405" target="602213">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="484405-483189-net.micro.cpm" source="484405" target="483189">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="484405-1329027-net.micro.cpm" source="484405" target="1329027">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="449073-392305-net.micro.cpm" source="449073" target="392305">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="983353-459428-net.micro.cpm" source="983353" target="459428">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1131340-2717928-net.micro.cpm" source="1131340" target="2717928">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="485181-1329027-net.micro.cpm" source="485181" target="1329027">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="346436-982208-net.micro.cpm" source="346436" target="982208">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="346436-497341-net.micro.cpm" source="346436" target="497341">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="346436-396998-net.micro.cpm" source="346436" target="396998">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="346436-2663674-net.micro.cpm" source="346436" target="2663674">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1574975-486121-net.micro.cpm" source="1574975" target="486121">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="502602-977740-net.micro.cpm" source="502602" target="977740">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340064-2485676-net.micro.cpm" source="340064" target="2485676">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340064-602215-net.micro.cpm" source="340064" target="602215">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338527-16985-net.micro.cpm" source="338527" target="16985">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338535-2669120-net.micro.cpm" source="338535" target="2669120">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338535-485181-net.micro.cpm" source="338535" target="485181">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338535-1329027-net.micro.cpm" source="338535" target="1329027">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="471139-489154-net.micro.cpm" source="471139" target="489154">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="471139-1025412-net.micro.cpm" source="471139" target="1025412">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="482168-489146-net.micro.cpm" source="482168" target="489146">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="466294-982208-net.micro.cpm" source="466294" target="982208">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="466294-2663674-net.micro.cpm" source="466294" target="2663674">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="469120-1137924-net.micro.cpm" source="469120" target="1137924">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19068-2717928-net.micro.cpm" source="19068" target="2717928">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="19068-1131340-net.micro.cpm" source="19068" target="1131340">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="22403-525301-net.micro.cpm" source="22403" target="525301">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340619-471210-net.micro.cpm" source="340619" target="471210">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340619-1576935-net.micro.cpm" source="340619" target="1576935">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340619-1126163-net.micro.cpm" source="340619" target="1126163">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340619-497488-net.micro.cpm" source="340619" target="497488">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2483819-1376470-net.micro.cpm" source="2483819" target="1376470">
+	<data key="topic">net.micro.cpm</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

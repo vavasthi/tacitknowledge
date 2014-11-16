@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="461495"/>
+<node id="565146"/>
+<node id="565138"/>
+<node id="960724"/>
+<node id="1145776"/>
+<node id="459609"/>
+<node id="1145967"/>
+<node id="460388"/>
+<node id="459330"/>
+<node id="566992"/>
+<node id="346448"/>
+<node id="565507"/>
+<node id="339113"/>
+<edge id="461495-565507-net.wines" source="461495" target="565507">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="565146-565138-net.wines" source="565146" target="565138">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="960724-566992-net.wines" source="960724" target="566992">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="960724-346448-net.wines" source="960724" target="346448">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459609-565507-net.wines" source="459609" target="565507">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1145967-566992-net.wines" source="1145967" target="566992">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1145967-346448-net.wines" source="1145967" target="346448">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460388-339113-net.wines" source="460388" target="339113">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459330-1145776-net.wines" source="459330" target="1145776">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="346448-566992-net.wines" source="346448" target="566992">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="401048"/>
+<node id="403094"/>
+<node id="938142"/>
+<node id="2755261"/>
+<node id="363027"/>
+<node id="350749"/>
+<node id="1107629"/>
+<node id="949140"/>
+<node id="3230"/>
+<node id="423578"/>
+<node id="362395"/>
+<node id="1822107"/>
+<node id="1222549"/>
+<node id="348963"/>
+<node id="359726"/>
+<node id="350125"/>
+<node id="351152"/>
+<node id="361648"/>
+<node id="1821713"/>
+<node id="364970"/>
+<node id="1804952"/>
+<node id="356779"/>
+<node id="13489"/>
+<node id="358581"/>
+<node id="362936"/>
+<node id="1151172"/>
+<node id="364855"/>
+<node id="443315"/>
+<node id="580798"/>
+<node id="348862"/>
+<node id="416832"/>
+<node id="949688"/>
+<node id="958003"/>
+<node id="403130"/>
+<node id="362952"/>
+<node id="351300"/>
+<node id="15691"/>
+<node id="376143"/>
+<node id="351305"/>
+<node id="1151168"/>
+<node id="3410"/>
+<node id="339"/>
+<node id="360791"/>
+<node id="2065388"/>
+<node id="7254"/>
+<node id="983"/>
+<node id="361044"/>
+<node id="376531"/>
+<node id="380627"/>
+<node id="351315"/>
+<node id="1640815"/>
+<node id="2065384"/>
+<node id="581458"/>
+<node id="361312"/>
+<node id="351327"/>
+<node id="11868"/>
+<node id="350566"/>
+<node id="1031152"/>
+<node id="366055"/>
+<node id="5476"/>
+<node id="367335"/>
+<node id="2150"/>
+<node id="353377"/>
+<node id="863848"/>
+<node id="3823"/>
+<node id="1291613"/>
+<node id="353013"/>
+<node id="3443"/>
+<node id="2064778"/>
+<node id="366964"/>
+<node id="350707"/>
+<node id="378878"/>
+<node id="358910"/>
+<node id="949367"/>
+<node id="15868"/>
+<node id="373503"/>
+<node id="877303"/>
+<node id="348537"/>
+<node id="365945"/>
+<node id="351483"/>
+<node id="378630"/>
+<node id="372486"/>
+<node id="1108337"/>
+<node id="417031"/>
+<node id="358533"/>
+<node id="915340"/>
+<node id="378883"/>
+<node id="2312"/>
+<node id="417026"/>
+<node id="958090"/>
+<node id="376718"/>
+<node id="8074"/>
+<node id="8587"/>
+<node id="422156"/>
+<node id="362763"/>
+<edge id="2755261-983-comp.os.misc" source="2755261" target="983">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2755261-348537-comp.os.misc" source="2755261" target="348537">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2755261-365945-comp.os.misc" source="2755261" target="365945">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="363027-366964-comp.os.misc" source="363027" target="366964">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="363027-358533-comp.os.misc" source="363027" target="358533">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1107629-366964-comp.os.misc" source="1107629" target="366964">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="949140-351300-comp.os.misc" source="949140" target="351300">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3230-1222549-comp.os.misc" source="3230" target="1222549">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3230-359726-comp.os.misc" source="3230" target="359726">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3230-8587-comp.os.misc" source="3230" target="8587">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="423578-7254-comp.os.misc" source="423578" target="7254">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="423578-353377-comp.os.misc" source="423578" target="353377">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="362395-366964-comp.os.misc" source="362395" target="366964">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1822107-417031-comp.os.misc" source="1822107" target="417031">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1222549-359726-comp.os.misc" source="1222549" target="359726">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348963-351300-comp.os.misc" source="348963" target="351300">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348963-339-comp.os.misc" source="348963" target="339">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348963-351327-comp.os.misc" source="348963" target="351327">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348963-2150-comp.os.misc" source="348963" target="2150">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348963-8074-comp.os.misc" source="348963" target="8074">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="359726-1222549-comp.os.misc" source="359726" target="1222549">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350125-350749-comp.os.misc" source="350125" target="350749">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="350125-15868-comp.os.misc" source="350125" target="15868">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="350125-417026-comp.os.misc" source="350125" target="417026">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="351152-348537-comp.os.misc" source="351152" target="348537">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="351152-365945-comp.os.misc" source="351152" target="365945">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="351152-915340-comp.os.misc" source="351152" target="915340">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="361648-2064778-comp.os.misc" source="361648" target="2064778">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="361648-358910-comp.os.misc" source="361648" target="358910">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="361648-348537-comp.os.misc" source="361648" target="348537">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="361648-365945-comp.os.misc" source="361648" target="365945">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1821713-1804952-comp.os.misc" source="1821713" target="1804952">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="364970-348537-comp.os.misc" source="364970" target="348537">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="364970-365945-comp.os.misc" source="364970" target="365945">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="13489-1291613-comp.os.misc" source="13489" target="1291613">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1151172-364855-comp.os.misc" source="1151172" target="364855">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="348862-1821713-comp.os.misc" source="348862" target="1821713">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348862-1804952-comp.os.misc" source="348862" target="1804952">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="416832-351300-comp.os.misc" source="416832" target="351300">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="416832-339-comp.os.misc" source="416832" target="339">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="416832-348537-comp.os.misc" source="416832" target="348537">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="416832-365945-comp.os.misc" source="416832" target="365945">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="949688-353377-comp.os.misc" source="949688" target="353377">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="958003-359726-comp.os.misc" source="958003" target="359726">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="403130-378630-comp.os.misc" source="403130" target="378630">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362952-339-comp.os.misc" source="362952" target="339">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="351300-339-comp.os.misc" source="351300" target="339">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="351300-983-comp.os.misc" source="351300" target="983">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="351300-351327-comp.os.misc" source="351300" target="351327">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="351300-11868-comp.os.misc" source="351300" target="11868">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="351300-2150-comp.os.misc" source="351300" target="2150">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="351300-348537-comp.os.misc" source="351300" target="348537">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="351300-365945-comp.os.misc" source="351300" target="365945">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="351300-8074-comp.os.misc" source="351300" target="8074">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="351300-8587-comp.os.misc" source="351300" target="8587">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15691-401048-comp.os.misc" source="15691" target="401048">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15691-362936-comp.os.misc" source="15691" target="362936">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15691-1151168-comp.os.misc" source="15691" target="1151168">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15691-11868-comp.os.misc" source="15691" target="11868">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15691-351483-comp.os.misc" source="15691" target="351483">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="376143-350749-comp.os.misc" source="376143" target="350749">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="351305-351327-comp.os.misc" source="351305" target="351327">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="351305-8074-comp.os.misc" source="351305" target="8074">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3410-350125-comp.os.misc" source="3410" target="350125">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3410-15868-comp.os.misc" source="3410" target="15868">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3410-417026-comp.os.misc" source="3410" target="417026">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339-949140-comp.os.misc" source="339" target="949140">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339-356779-comp.os.misc" source="339" target="356779">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339-443315-comp.os.misc" source="339" target="443315">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339-362952-comp.os.misc" source="339" target="362952">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">9</data>
+</edge>
+<edge id="339-351300-comp.os.misc" source="339" target="351300">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="339-2065384-comp.os.misc" source="339" target="2065384">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339-361312-comp.os.misc" source="339" target="361312">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339-351327-comp.os.misc" source="339" target="351327">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="339-366055-comp.os.misc" source="339" target="366055">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339-2150-comp.os.misc" source="339" target="2150">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339-2064778-comp.os.misc" source="339" target="2064778">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339-378878-comp.os.misc" source="339" target="378878">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339-358910-comp.os.misc" source="339" target="358910">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339-348537-comp.os.misc" source="339" target="348537">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">8</data>
+</edge>
+<edge id="339-365945-comp.os.misc" source="339" target="365945">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="339-378883-comp.os.misc" source="339" target="378883">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339-376718-comp.os.misc" source="339" target="376718">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339-8074-comp.os.misc" source="339" target="8074">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="339-8587-comp.os.misc" source="339" target="8587">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2065388-359726-comp.os.misc" source="2065388" target="359726">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7254-423578-comp.os.misc" source="7254" target="423578">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7254-353377-comp.os.misc" source="7254" target="353377">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="983-348537-comp.os.misc" source="983" target="348537">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="983-365945-comp.os.misc" source="983" target="365945">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="361044-358581-comp.os.misc" source="361044" target="358581">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="351315-351327-comp.os.misc" source="351315" target="351327">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="351315-8074-comp.os.misc" source="351315" target="8074">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1640815-353377-comp.os.misc" source="1640815" target="353377">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1640815-372486-comp.os.misc" source="1640815" target="372486">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2065384-351300-comp.os.misc" source="2065384" target="351300">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2065384-348537-comp.os.misc" source="2065384" target="348537">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="581458-351300-comp.os.misc" source="581458" target="351300">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="581458-8587-comp.os.misc" source="581458" target="8587">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="361312-351300-comp.os.misc" source="361312" target="351300">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="361312-2065384-comp.os.misc" source="361312" target="2065384">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="361312-366055-comp.os.misc" source="361312" target="366055">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="361312-348537-comp.os.misc" source="361312" target="348537">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="351327-356779-comp.os.misc" source="351327" target="356779">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="351327-8074-comp.os.misc" source="351327" target="8074">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11868-364970-comp.os.misc" source="11868" target="364970">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11868-348537-comp.os.misc" source="11868" target="348537">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11868-365945-comp.os.misc" source="11868" target="365945">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350566-2755261-comp.os.misc" source="350566" target="2755261">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350566-983-comp.os.misc" source="350566" target="983">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350566-348537-comp.os.misc" source="350566" target="348537">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="366055-351300-comp.os.misc" source="366055" target="351300">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="366055-2065384-comp.os.misc" source="366055" target="2065384">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="366055-348537-comp.os.misc" source="366055" target="348537">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="5476-949140-comp.os.misc" source="5476" target="949140">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5476-351300-comp.os.misc" source="5476" target="351300">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5476-348537-comp.os.misc" source="5476" target="348537">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="367335-378630-comp.os.misc" source="367335" target="378630">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2150-356779-comp.os.misc" source="2150" target="356779">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2150-351300-comp.os.misc" source="2150" target="351300">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2150-339-comp.os.misc" source="2150" target="339">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2150-351327-comp.os.misc" source="2150" target="351327">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2150-8074-comp.os.misc" source="2150" target="8074">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="863848-949140-comp.os.misc" source="863848" target="949140">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="863848-351300-comp.os.misc" source="863848" target="351300">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="863848-348537-comp.os.misc" source="863848" target="348537">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3823-423578-comp.os.misc" source="3823" target="423578">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="3823-7254-comp.os.misc" source="3823" target="7254">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="353013-350749-comp.os.misc" source="353013" target="350749">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="353013-350125-comp.os.misc" source="353013" target="350125">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="353013-15868-comp.os.misc" source="353013" target="15868">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="353013-417026-comp.os.misc" source="353013" target="417026">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3443-376531-comp.os.misc" source="3443" target="376531">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2064778-358910-comp.os.misc" source="2064778" target="358910">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2064778-348537-comp.os.misc" source="2064778" target="348537">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2064778-365945-comp.os.misc" source="2064778" target="365945">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350707-350749-comp.os.misc" source="350707" target="350749">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="378878-443315-comp.os.misc" source="378878" target="443315">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="378878-378883-comp.os.misc" source="378878" target="378883">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="378878-376718-comp.os.misc" source="378878" target="376718">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="358910-348537-comp.os.misc" source="358910" target="348537">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="358910-365945-comp.os.misc" source="358910" target="365945">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="949367-3230-comp.os.misc" source="949367" target="3230">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="949367-359726-comp.os.misc" source="949367" target="359726">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15868-350749-comp.os.misc" source="15868" target="350749">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15868-350125-comp.os.misc" source="15868" target="350125">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="15868-417026-comp.os.misc" source="15868" target="417026">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="373503-949140-comp.os.misc" source="373503" target="949140">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="877303-358581-comp.os.misc" source="877303" target="358581">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348537-949140-comp.os.misc" source="348537" target="949140">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348537-351300-comp.os.misc" source="348537" target="351300">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="348537-339-comp.os.misc" source="348537" target="339">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="348537-360791-comp.os.misc" source="348537" target="360791">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="348537-983-comp.os.misc" source="348537" target="983">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348537-380627-comp.os.misc" source="348537" target="380627">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348537-2065384-comp.os.misc" source="348537" target="2065384">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348537-365945-comp.os.misc" source="348537" target="365945">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="348537-422156-comp.os.misc" source="348537" target="422156">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="351483-362952-comp.os.misc" source="351483" target="362952">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="351483-339-comp.os.misc" source="351483" target="339">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="351483-8587-comp.os.misc" source="351483" target="8587">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="372486-353377-comp.os.misc" source="372486" target="353377">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1108337-580798-comp.os.misc" source="1108337" target="580798">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1108337-378630-comp.os.misc" source="1108337" target="378630">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="358533-366964-comp.os.misc" source="358533" target="366964">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="915340-348537-comp.os.misc" source="915340" target="348537">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="915340-365945-comp.os.misc" source="915340" target="365945">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="378883-403094-comp.os.misc" source="378883" target="403094">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="378883-938142-comp.os.misc" source="378883" target="938142">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="378883-443315-comp.os.misc" source="378883" target="443315">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="378883-376718-comp.os.misc" source="378883" target="376718">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2312-339-comp.os.misc" source="2312" target="339">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2312-378878-comp.os.misc" source="2312" target="378878">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2312-378883-comp.os.misc" source="2312" target="378883">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="417026-350749-comp.os.misc" source="417026" target="350749">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="417026-350125-comp.os.misc" source="417026" target="350125">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="417026-376143-comp.os.misc" source="417026" target="376143">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="958090-350749-comp.os.misc" source="958090" target="350749">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="8074-356779-comp.os.misc" source="8074" target="356779">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="8074-351327-comp.os.misc" source="8074" target="351327">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="8587-362952-comp.os.misc" source="8587" target="362952">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="8587-339-comp.os.misc" source="8587" target="339">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="362763-339-comp.os.misc" source="362763" target="339">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362763-348537-comp.os.misc" source="362763" target="348537">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362763-365945-comp.os.misc" source="362763" target="365945">
+	<data key="topic">comp.os.misc</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="368822"/>
+<node id="559418"/>
+<node id="511668"/>
+<node id="1175"/>
+<node id="30398"/>
+<node id="864365"/>
+<node id="1010606"/>
+<node id="385256"/>
+<node id="649867"/>
+<node id="14885"/>
+<node id="611280"/>
+<node id="611567"/>
+<node id="1879132"/>
+<edge id="368822-611567-sci.research" source="368822" target="611567">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="559418-611280-sci.research" source="559418" target="611280">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="511668-30398-sci.research" source="511668" target="30398">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1175-14885-sci.research" source="1175" target="14885">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30398-864365-sci.research" source="30398" target="864365">
+	<data key="topic">sci.research</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="30398-1010606-sci.research" source="30398" target="1010606">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1010606-30398-sci.research" source="1010606" target="30398">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1010606-864365-sci.research" source="1010606" target="864365">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="385256-1879132-sci.research" source="385256" target="1879132">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="649867-30398-sci.research" source="649867" target="30398">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="649867-864365-sci.research" source="649867" target="864365">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

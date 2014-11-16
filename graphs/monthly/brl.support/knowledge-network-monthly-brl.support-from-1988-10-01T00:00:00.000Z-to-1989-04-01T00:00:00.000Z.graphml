@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="4634"/>
+<node id="534851"/>
+<node id="519357"/>
+<node id="713511"/>
+<node id="509884"/>
+<node id="510971"/>
+<edge id="713511-4634-brl.support" source="713511" target="4634">
+	<data key="topic">brl.support</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="713511-534851-brl.support" source="713511" target="534851">
+	<data key="topic">brl.support</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="713511-519357-brl.support" source="713511" target="519357">
+	<data key="topic">brl.support</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="713511-509884-brl.support" source="713511" target="509884">
+	<data key="topic">brl.support</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="713511-510971-brl.support" source="713511" target="510971">
+	<data key="topic">brl.support</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="349269"/>
+<node id="442646"/>
+<node id="917338"/>
+<node id="29270"/>
+<node id="14295"/>
+<node id="612063"/>
+<node id="435485"/>
+<node id="7197"/>
+<node id="611669"/>
+<node id="549208"/>
+<node id="915949"/>
+<node id="556715"/>
+<node id="411235"/>
+<node id="11117"/>
+<node id="428908"/>
+<node id="377141"/>
+<node id="564"/>
+<node id="621563"/>
+<node id="2101"/>
+<node id="549118"/>
+<node id="551475"/>
+<node id="875383"/>
+<node id="433852"/>
+<node id="365049"/>
+<node id="520185"/>
+<node id="802740"/>
+<node id="16065"/>
+<node id="504583"/>
+<node id="1617019"/>
+<node id="10820"/>
+<node id="2119"/>
+<node id="1671935"/>
+<node id="1803"/>
+<node id="1009285"/>
+<node id="557828"/>
+<node id="783814"/>
+<edge id="442646-7197-news.software.nntp" source="442646" target="7197">
+	<data key="topic">news.software.nntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="442646-10820-news.software.nntp" source="442646" target="10820">
+	<data key="topic">news.software.nntp</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="917338-411235-news.software.nntp" source="917338" target="411235">
+	<data key="topic">news.software.nntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29270-915949-news.software.nntp" source="29270" target="915949">
+	<data key="topic">news.software.nntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29270-564-news.software.nntp" source="29270" target="564">
+	<data key="topic">news.software.nntp</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="14295-2101-news.software.nntp" source="14295" target="2101">
+	<data key="topic">news.software.nntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="612063-556715-news.software.nntp" source="612063" target="556715">
+	<data key="topic">news.software.nntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="435485-551475-news.software.nntp" source="435485" target="551475">
+	<data key="topic">news.software.nntp</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="7197-442646-news.software.nntp" source="7197" target="442646">
+	<data key="topic">news.software.nntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7197-10820-news.software.nntp" source="7197" target="10820">
+	<data key="topic">news.software.nntp</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="611669-365049-news.software.nntp" source="611669" target="365049">
+	<data key="topic">news.software.nntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="611669-783814-news.software.nntp" source="611669" target="783814">
+	<data key="topic">news.software.nntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="549208-1617019-news.software.nntp" source="549208" target="1617019">
+	<data key="topic">news.software.nntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="915949-564-news.software.nntp" source="915949" target="564">
+	<data key="topic">news.software.nntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="428908-875383-news.software.nntp" source="428908" target="875383">
+	<data key="topic">news.software.nntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="564-915949-news.software.nntp" source="564" target="915949">
+	<data key="topic">news.software.nntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="564-520185-news.software.nntp" source="564" target="520185">
+	<data key="topic">news.software.nntp</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="564-2119-news.software.nntp" source="564" target="2119">
+	<data key="topic">news.software.nntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="621563-14295-news.software.nntp" source="621563" target="14295">
+	<data key="topic">news.software.nntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="621563-2101-news.software.nntp" source="621563" target="2101">
+	<data key="topic">news.software.nntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2101-7197-news.software.nntp" source="2101" target="7197">
+	<data key="topic">news.software.nntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="549118-11117-news.software.nntp" source="549118" target="11117">
+	<data key="topic">news.software.nntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="551475-435485-news.software.nntp" source="551475" target="435485">
+	<data key="topic">news.software.nntp</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="520185-564-news.software.nntp" source="520185" target="564">
+	<data key="topic">news.software.nntp</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="520185-2119-news.software.nntp" source="520185" target="2119">
+	<data key="topic">news.software.nntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16065-377141-news.software.nntp" source="16065" target="377141">
+	<data key="topic">news.software.nntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16065-802740-news.software.nntp" source="16065" target="802740">
+	<data key="topic">news.software.nntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="504583-428908-news.software.nntp" source="504583" target="428908">
+	<data key="topic">news.software.nntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="504583-1617019-news.software.nntp" source="504583" target="1617019">
+	<data key="topic">news.software.nntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="504583-1671935-news.software.nntp" source="504583" target="1671935">
+	<data key="topic">news.software.nntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="504583-1009285-news.software.nntp" source="504583" target="1009285">
+	<data key="topic">news.software.nntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10820-7197-news.software.nntp" source="10820" target="7197">
+	<data key="topic">news.software.nntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2119-564-news.software.nntp" source="2119" target="564">
+	<data key="topic">news.software.nntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2119-520185-news.software.nntp" source="2119" target="520185">
+	<data key="topic">news.software.nntp</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1803-377141-news.software.nntp" source="1803" target="377141">
+	<data key="topic">news.software.nntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="557828-349269-news.software.nntp" source="557828" target="349269">
+	<data key="topic">news.software.nntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="783814-365049-news.software.nntp" source="783814" target="365049">
+	<data key="topic">news.software.nntp</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

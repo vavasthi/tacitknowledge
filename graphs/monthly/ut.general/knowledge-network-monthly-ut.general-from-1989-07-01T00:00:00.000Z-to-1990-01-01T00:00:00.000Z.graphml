@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="26833"/>
+<node id="26258"/>
+<node id="363706"/>
+<node id="7454"/>
+<node id="7360"/>
+<node id="2337"/>
+<node id="608528"/>
+<node id="442882"/>
+<node id="521584"/>
+<node id="434384"/>
+<node id="2538701"/>
+<node id="2688867"/>
+<node id="710887"/>
+<node id="29006"/>
+<node id="707528"/>
+<node id="708744"/>
+<node id="552007"/>
+<edge id="363706-2538701-ut.general" source="363706" target="2538701">
+	<data key="topic">ut.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7454-363706-ut.general" source="7454" target="363706">
+	<data key="topic">ut.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7454-2538701-ut.general" source="7454" target="2538701">
+	<data key="topic">ut.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7360-2688867-ut.general" source="7360" target="2688867">
+	<data key="topic">ut.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="608528-26833-ut.general" source="608528" target="26833">
+	<data key="topic">ut.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="442882-2538701-ut.general" source="442882" target="2538701">
+	<data key="topic">ut.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="434384-710887-ut.general" source="434384" target="710887">
+	<data key="topic">ut.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-26258-ut.general" source="29006" target="26258">
+	<data key="topic">ut.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="707528-521584-ut.general" source="707528" target="521584">
+	<data key="topic">ut.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="708744-2337-ut.general" source="708744" target="2337">
+	<data key="topic">ut.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="708744-552007-ut.general" source="708744" target="552007">
+	<data key="topic">ut.general</data>
+	<data key="weight">2</data>
+</edge>
+</graph>
+</graphml>

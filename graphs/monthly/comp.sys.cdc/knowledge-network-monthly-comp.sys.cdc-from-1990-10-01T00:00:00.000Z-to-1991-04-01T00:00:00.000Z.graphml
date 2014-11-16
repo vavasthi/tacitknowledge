@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="7348"/>
+<node id="358899"/>
+<node id="401250"/>
+<node id="880933"/>
+<node id="2267"/>
+<node id="363744"/>
+<node id="377898"/>
+<node id="356666"/>
+<edge id="7348-2267-comp.sys.cdc" source="7348" target="2267">
+	<data key="topic">comp.sys.cdc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7348-363744-comp.sys.cdc" source="7348" target="363744">
+	<data key="topic">comp.sys.cdc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7348-377898-comp.sys.cdc" source="7348" target="377898">
+	<data key="topic">comp.sys.cdc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="358899-2267-comp.sys.cdc" source="358899" target="2267">
+	<data key="topic">comp.sys.cdc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="358899-363744-comp.sys.cdc" source="358899" target="363744">
+	<data key="topic">comp.sys.cdc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="358899-377898-comp.sys.cdc" source="358899" target="377898">
+	<data key="topic">comp.sys.cdc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="880933-401250-comp.sys.cdc" source="880933" target="401250">
+	<data key="topic">comp.sys.cdc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="363744-2267-comp.sys.cdc" source="363744" target="2267">
+	<data key="topic">comp.sys.cdc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="377898-2267-comp.sys.cdc" source="377898" target="2267">
+	<data key="topic">comp.sys.cdc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="377898-363744-comp.sys.cdc" source="377898" target="363744">
+	<data key="topic">comp.sys.cdc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="356666-2267-comp.sys.cdc" source="356666" target="2267">
+	<data key="topic">comp.sys.cdc</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

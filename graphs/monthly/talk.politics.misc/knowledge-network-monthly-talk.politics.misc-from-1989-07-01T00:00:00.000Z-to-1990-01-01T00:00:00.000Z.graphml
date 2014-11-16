@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="852800"/>
+<node id="15318"/>
+<node id="876348"/>
+<node id="736157"/>
+<node id="621874"/>
+<node id="402463"/>
+<node id="709268"/>
+<node id="838520"/>
+<node id="511642"/>
+<node id="2539545"/>
+<node id="432154"/>
+<node id="35945"/>
+<node id="513392"/>
+<node id="608612"/>
+<node id="852802"/>
+<node id="6927"/>
+<node id="496"/>
+<edge id="15318-876348-talk.politics.misc" source="15318" target="876348">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="736157-876348-talk.politics.misc" source="736157" target="876348">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="621874-876348-talk.politics.misc" source="621874" target="876348">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="709268-838520-talk.politics.misc" source="709268" target="838520">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2539545-876348-talk.politics.misc" source="2539545" target="876348">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2539545-608612-talk.politics.misc" source="2539545" target="608612">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="513392-432154-talk.politics.misc" source="513392" target="432154">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="513392-6927-talk.politics.misc" source="513392" target="6927">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="608612-876348-talk.politics.misc" source="608612" target="876348">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="852802-852800-talk.politics.misc" source="852802" target="852800">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="852802-402463-talk.politics.misc" source="852802" target="402463">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="852802-511642-talk.politics.misc" source="852802" target="511642">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="496-35945-talk.politics.misc" source="496" target="35945">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

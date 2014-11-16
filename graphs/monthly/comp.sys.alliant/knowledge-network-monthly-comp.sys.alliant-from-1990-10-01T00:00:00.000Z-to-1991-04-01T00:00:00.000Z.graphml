@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2050367"/>
+<node id="3027"/>
+<node id="352968"/>
+<node id="349863"/>
+<node id="2150"/>
+<node id="434079"/>
+<node id="1033014"/>
+<node id="643059"/>
+<node id="887607"/>
+<edge id="349863-1033014-comp.sys.alliant" source="349863" target="1033014">
+	<data key="topic">comp.sys.alliant</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2150-3027-comp.sys.alliant" source="2150" target="3027">
+	<data key="topic">comp.sys.alliant</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2150-434079-comp.sys.alliant" source="2150" target="434079">
+	<data key="topic">comp.sys.alliant</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="434079-3027-comp.sys.alliant" source="434079" target="3027">
+	<data key="topic">comp.sys.alliant</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1033014-352968-comp.sys.alliant" source="1033014" target="352968">
+	<data key="topic">comp.sys.alliant</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="643059-2050367-comp.sys.alliant" source="643059" target="2050367">
+	<data key="topic">comp.sys.alliant</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="887607-3027-comp.sys.alliant" source="887607" target="3027">
+	<data key="topic">comp.sys.alliant</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="887607-434079-comp.sys.alliant" source="887607" target="434079">
+	<data key="topic">comp.sys.alliant</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

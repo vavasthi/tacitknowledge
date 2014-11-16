@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="698076"/>
+<node id="719692"/>
+<node id="26035"/>
+<node id="552555"/>
+<node id="814032"/>
+<node id="783408"/>
+<node id="1205307"/>
+<node id="548660"/>
+<node id="698629"/>
+<edge id="698076-719692-rec.autos" source="698076" target="719692">
+	<data key="topic">rec.autos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="698076-1205307-rec.autos" source="698076" target="1205307">
+	<data key="topic">rec.autos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="719692-698076-rec.autos" source="719692" target="698076">
+	<data key="topic">rec.autos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="719692-1205307-rec.autos" source="719692" target="1205307">
+	<data key="topic">rec.autos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="26035-552555-rec.autos" source="26035" target="552555">
+	<data key="topic">rec.autos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="552555-814032-rec.autos" source="552555" target="814032">
+	<data key="topic">rec.autos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="548660-814032-rec.autos" source="548660" target="814032">
+	<data key="topic">rec.autos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="698629-719692-rec.autos" source="698629" target="719692">
+	<data key="topic">rec.autos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="698629-783408-rec.autos" source="698629" target="783408">
+	<data key="topic">rec.autos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="698629-1205307-rec.autos" source="698629" target="1205307">
+	<data key="topic">rec.autos</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

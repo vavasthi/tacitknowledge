@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1225320"/>
+<node id="406289"/>
+<node id="362526"/>
+<node id="1225323"/>
+<node id="1225324"/>
+<node id="603"/>
+<node id="605"/>
+<node id="608"/>
+<node id="535721"/>
+<node id="610"/>
+<node id="363624"/>
+<node id="7780"/>
+<node id="383015"/>
+<node id="6693"/>
+<node id="854186"/>
+<node id="358690"/>
+<node id="1215768"/>
+<node id="1554641"/>
+<node id="1515232"/>
+<node id="1215770"/>
+<node id="378409"/>
+<node id="784167"/>
+<node id="7087"/>
+<node id="354546"/>
+<node id="400692"/>
+<node id="6841"/>
+<node id="819766"/>
+<node id="348159"/>
+<node id="783729"/>
+<node id="368250"/>
+<node id="381946"/>
+<node id="419003"/>
+<node id="1554636"/>
+<node id="432825"/>
+<node id="2752"/>
+<node id="1778492"/>
+<node id="877389"/>
+<node id="1225335"/>
+<node id="1930105"/>
+<node id="6983"/>
+<node id="422913"/>
+<node id="1778494"/>
+<node id="382286"/>
+<node id="858886"/>
+<node id="362512"/>
+<node id="1225337"/>
+<node id="3276"/>
+<edge id="1225323-1225324-comp.binaries.mac" source="1225323" target="1225324">
+	<data key="topic">comp.binaries.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7780-854186-comp.binaries.mac" source="7780" target="854186">
+	<data key="topic">comp.binaries.mac</data>
+	<data key="weight">6</data>
+</edge>
+<edge id="1215768-1215770-comp.binaries.mac" source="1215768" target="1215770">
+	<data key="topic">comp.binaries.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1778492-1778494-comp.binaries.mac" source="1778492" target="1778494">
+	<data key="topic">comp.binaries.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1225337-1225335-comp.binaries.mac" source="1225337" target="1225335">
+	<data key="topic">comp.binaries.mac</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

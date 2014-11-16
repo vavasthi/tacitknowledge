@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="509430"/>
+<node id="509424"/>
+<node id="506863"/>
+<node id="30042"/>
+<node id="21470"/>
+<node id="2094946"/>
+<node id="671078"/>
+<edge id="509430-509424-sci.philosophy.meta" source="509430" target="509424">
+	<data key="topic">sci.philosophy.meta</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509430-506863-sci.philosophy.meta" source="509430" target="506863">
+	<data key="topic">sci.philosophy.meta</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509430-30042-sci.philosophy.meta" source="509430" target="30042">
+	<data key="topic">sci.philosophy.meta</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509430-21470-sci.philosophy.meta" source="509430" target="21470">
+	<data key="topic">sci.philosophy.meta</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509430-2094946-sci.philosophy.meta" source="509430" target="2094946">
+	<data key="topic">sci.philosophy.meta</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509430-671078-sci.philosophy.meta" source="509430" target="671078">
+	<data key="topic">sci.philosophy.meta</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

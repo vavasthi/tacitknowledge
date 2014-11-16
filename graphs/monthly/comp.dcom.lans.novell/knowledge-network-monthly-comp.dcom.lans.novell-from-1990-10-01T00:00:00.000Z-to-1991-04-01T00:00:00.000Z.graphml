@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2690"/>
+<node id="358328"/>
+<node id="358616"/>
+<node id="379975"/>
+<node id="2044381"/>
+<node id="1487604"/>
+<node id="405727"/>
+<node id="10798"/>
+<node id="399"/>
+<node id="376076"/>
+<edge id="2690-10798-comp.dcom.lans.novell" source="2690" target="10798">
+	<data key="topic">comp.dcom.lans.novell</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="358328-10798-comp.dcom.lans.novell" source="358328" target="10798">
+	<data key="topic">comp.dcom.lans.novell</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="358328-399-comp.dcom.lans.novell" source="358328" target="399">
+	<data key="topic">comp.dcom.lans.novell</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="358616-1487604-comp.dcom.lans.novell" source="358616" target="1487604">
+	<data key="topic">comp.dcom.lans.novell</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="379975-358616-comp.dcom.lans.novell" source="379975" target="358616">
+	<data key="topic">comp.dcom.lans.novell</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="379975-1487604-comp.dcom.lans.novell" source="379975" target="1487604">
+	<data key="topic">comp.dcom.lans.novell</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2044381-10798-comp.dcom.lans.novell" source="2044381" target="10798">
+	<data key="topic">comp.dcom.lans.novell</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="405727-358616-comp.dcom.lans.novell" source="405727" target="358616">
+	<data key="topic">comp.dcom.lans.novell</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="405727-1487604-comp.dcom.lans.novell" source="405727" target="1487604">
+	<data key="topic">comp.dcom.lans.novell</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="399-10798-comp.dcom.lans.novell" source="399" target="10798">
+	<data key="topic">comp.dcom.lans.novell</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="376076-2690-comp.dcom.lans.novell" source="376076" target="2690">
+	<data key="topic">comp.dcom.lans.novell</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="376076-10798-comp.dcom.lans.novell" source="376076" target="10798">
+	<data key="topic">comp.dcom.lans.novell</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

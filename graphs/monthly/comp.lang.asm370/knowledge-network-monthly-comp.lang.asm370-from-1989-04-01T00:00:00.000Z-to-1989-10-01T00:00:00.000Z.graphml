@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="875423"/>
+<node id="1462"/>
+<node id="706144"/>
+<node id="1213004"/>
+<node id="1486445"/>
+<node id="14171"/>
+<node id="429981"/>
+<node id="512382"/>
+<node id="619923"/>
+<node id="611192"/>
+<node id="1213005"/>
+<node id="2138720"/>
+<node id="1213009"/>
+<node id="3588"/>
+<node id="706150"/>
+<edge id="1462-1486445-comp.lang.asm370" source="1462" target="1486445">
+	<data key="topic">comp.lang.asm370</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1462-3588-comp.lang.asm370" source="1462" target="3588">
+	<data key="topic">comp.lang.asm370</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14171-1486445-comp.lang.asm370" source="14171" target="1486445">
+	<data key="topic">comp.lang.asm370</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14171-3588-comp.lang.asm370" source="14171" target="3588">
+	<data key="topic">comp.lang.asm370</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="429981-875423-comp.lang.asm370" source="429981" target="875423">
+	<data key="topic">comp.lang.asm370</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="512382-1213004-comp.lang.asm370" source="512382" target="1213004">
+	<data key="topic">comp.lang.asm370</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="512382-1213009-comp.lang.asm370" source="512382" target="1213009">
+	<data key="topic">comp.lang.asm370</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="619923-706144-comp.lang.asm370" source="619923" target="706144">
+	<data key="topic">comp.lang.asm370</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="611192-2138720-comp.lang.asm370" source="611192" target="2138720">
+	<data key="topic">comp.lang.asm370</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1213005-706150-comp.lang.asm370" source="1213005" target="706150">
+	<data key="topic">comp.lang.asm370</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1213009-1213004-comp.lang.asm370" source="1213009" target="1213004">
+	<data key="topic">comp.lang.asm370</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3588-1486445-comp.lang.asm370" source="3588" target="1486445">
+	<data key="topic">comp.lang.asm370</data>
+	<data key="weight">2</data>
+</edge>
+</graph>
+</graphml>

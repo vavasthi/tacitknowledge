@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="350136"/>
+<node id="416133"/>
+<node id="2042702"/>
+<node id="374448"/>
+<node id="1217930"/>
+<edge id="350136-374448-visix.news.xcons.xpert" source="350136" target="374448">
+	<data key="topic">visix.news.xcons.xpert</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="416133-350136-visix.news.xcons.xpert" source="416133" target="350136">
+	<data key="topic">visix.news.xcons.xpert</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="416133-374448-visix.news.xcons.xpert" source="416133" target="374448">
+	<data key="topic">visix.news.xcons.xpert</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1217930-2042702-visix.news.xcons.xpert" source="1217930" target="2042702">
+	<data key="topic">visix.news.xcons.xpert</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

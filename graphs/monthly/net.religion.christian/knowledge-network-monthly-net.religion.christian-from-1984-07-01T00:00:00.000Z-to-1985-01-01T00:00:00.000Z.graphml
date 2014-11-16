@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="459351"/>
+<node id="626204"/>
+<node id="623571"/>
+<node id="344986"/>
+<node id="340057"/>
+<node id="339323"/>
+<node id="341255"/>
+<node id="340545"/>
+<node id="345124"/>
+<node id="625967"/>
+<node id="346243"/>
+<node id="527329"/>
+<node id="462544"/>
+<node id="340846"/>
+<node id="629220"/>
+<node id="628707"/>
+<node id="26220"/>
+<node id="338188"/>
+<node id="459946"/>
+<node id="337036"/>
+<node id="20272"/>
+<node id="624039"/>
+<edge id="623571-626204-net.religion.christian" source="623571" target="626204">
+	<data key="topic">net.religion.christian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="344986-340057-net.religion.christian" source="344986" target="340057">
+	<data key="topic">net.religion.christian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="344986-527329-net.religion.christian" source="344986" target="527329">
+	<data key="topic">net.religion.christian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="344986-462544-net.religion.christian" source="344986" target="462544">
+	<data key="topic">net.religion.christian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339323-527329-net.religion.christian" source="339323" target="527329">
+	<data key="topic">net.religion.christian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339323-462544-net.religion.christian" source="339323" target="462544">
+	<data key="topic">net.religion.christian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341255-340846-net.religion.christian" source="341255" target="340846">
+	<data key="topic">net.religion.christian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340545-345124-net.religion.christian" source="340545" target="345124">
+	<data key="topic">net.religion.christian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="625967-346243-net.religion.christian" source="625967" target="346243">
+	<data key="topic">net.religion.christian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="462544-527329-net.religion.christian" source="462544" target="527329">
+	<data key="topic">net.religion.christian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="462544-338188-net.religion.christian" source="462544" target="338188">
+	<data key="topic">net.religion.christian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="462544-337036-net.religion.christian" source="462544" target="337036">
+	<data key="topic">net.religion.christian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="629220-459351-net.religion.christian" source="629220" target="459351">
+	<data key="topic">net.religion.christian</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="338188-626204-net.religion.christian" source="338188" target="626204">
+	<data key="topic">net.religion.christian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459946-26220-net.religion.christian" source="459946" target="26220">
+	<data key="topic">net.religion.christian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20272-628707-net.religion.christian" source="20272" target="628707">
+	<data key="topic">net.religion.christian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="624039-340545-net.religion.christian" source="624039" target="340545">
+	<data key="topic">net.religion.christian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="624039-345124-net.religion.christian" source="624039" target="345124">
+	<data key="topic">net.religion.christian</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

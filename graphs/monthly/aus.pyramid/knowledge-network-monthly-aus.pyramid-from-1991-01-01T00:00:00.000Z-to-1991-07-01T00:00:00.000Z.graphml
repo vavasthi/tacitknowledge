@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="360934"/>
+<node id="401461"/>
+<node id="349790"/>
+<node id="11050"/>
+<node id="352490"/>
+<node id="371756"/>
+<node id="437562"/>
+<edge id="360934-11050-aus.pyramid" source="360934" target="11050">
+	<data key="topic">aus.pyramid</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="360934-352490-aus.pyramid" source="360934" target="352490">
+	<data key="topic">aus.pyramid</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="360934-437562-aus.pyramid" source="360934" target="437562">
+	<data key="topic">aus.pyramid</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="349790-401461-aus.pyramid" source="349790" target="401461">
+	<data key="topic">aus.pyramid</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11050-352490-aus.pyramid" source="11050" target="352490">
+	<data key="topic">aus.pyramid</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11050-437562-aus.pyramid" source="11050" target="437562">
+	<data key="topic">aus.pyramid</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="371756-401461-aus.pyramid" source="371756" target="401461">
+	<data key="topic">aus.pyramid</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="437562-352490-aus.pyramid" source="437562" target="352490">
+	<data key="topic">aus.pyramid</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

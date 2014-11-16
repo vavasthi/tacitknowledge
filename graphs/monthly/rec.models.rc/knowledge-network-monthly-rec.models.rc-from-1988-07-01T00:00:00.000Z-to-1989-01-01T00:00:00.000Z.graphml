@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="521428"/>
+<node id="533421"/>
+<node id="28184"/>
+<node id="536353"/>
+<node id="19129"/>
+<node id="14842"/>
+<node id="14922"/>
+<node id="15419"/>
+<node id="28558"/>
+<node id="512795"/>
+<node id="29920"/>
+<node id="727589"/>
+<edge id="521428-536353-rec.models.rc" source="521428" target="536353">
+	<data key="topic">rec.models.rc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521428-14922-rec.models.rc" source="521428" target="14922">
+	<data key="topic">rec.models.rc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="533421-536353-rec.models.rc" source="533421" target="536353">
+	<data key="topic">rec.models.rc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="533421-19129-rec.models.rc" source="533421" target="19129">
+	<data key="topic">rec.models.rc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="533421-14922-rec.models.rc" source="533421" target="14922">
+	<data key="topic">rec.models.rc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28184-521428-rec.models.rc" source="28184" target="521428">
+	<data key="topic">rec.models.rc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28184-536353-rec.models.rc" source="28184" target="536353">
+	<data key="topic">rec.models.rc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="28184-14922-rec.models.rc" source="28184" target="14922">
+	<data key="topic">rec.models.rc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19129-536353-rec.models.rc" source="19129" target="536353">
+	<data key="topic">rec.models.rc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19129-14922-rec.models.rc" source="19129" target="14922">
+	<data key="topic">rec.models.rc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14842-536353-rec.models.rc" source="14842" target="536353">
+	<data key="topic">rec.models.rc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14922-536353-rec.models.rc" source="14922" target="536353">
+	<data key="topic">rec.models.rc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28558-15419-rec.models.rc" source="28558" target="15419">
+	<data key="topic">rec.models.rc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="512795-536353-rec.models.rc" source="512795" target="536353">
+	<data key="topic">rec.models.rc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29920-15419-rec.models.rc" source="29920" target="15419">
+	<data key="topic">rec.models.rc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="727589-533421-rec.models.rc" source="727589" target="533421">
+	<data key="topic">rec.models.rc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="727589-536353-rec.models.rc" source="727589" target="536353">
+	<data key="topic">rec.models.rc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="727589-19129-rec.models.rc" source="727589" target="19129">
+	<data key="topic">rec.models.rc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="727589-14922-rec.models.rc" source="727589" target="14922">
+	<data key="topic">rec.models.rc</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

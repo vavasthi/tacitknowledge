@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1500854"/>
+<node id="589245"/>
+<node id="390689"/>
+<node id="1502527"/>
+<node id="1550941"/>
+<node id="1550940"/>
+<node id="29006"/>
+<edge id="1500854-1550940-comp.bugs.2bsd" source="1500854" target="1550940">
+	<data key="topic">comp.bugs.2bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390689-1550940-comp.bugs.2bsd" source="390689" target="1550940">
+	<data key="topic">comp.bugs.2bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1502527-589245-comp.bugs.2bsd" source="1502527" target="589245">
+	<data key="topic">comp.bugs.2bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1550941-589245-comp.bugs.2bsd" source="1550941" target="589245">
+	<data key="topic">comp.bugs.2bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-589245-comp.bugs.2bsd" source="29006" target="589245">
+	<data key="topic">comp.bugs.2bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-1502527-comp.bugs.2bsd" source="29006" target="1502527">
+	<data key="topic">comp.bugs.2bsd</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

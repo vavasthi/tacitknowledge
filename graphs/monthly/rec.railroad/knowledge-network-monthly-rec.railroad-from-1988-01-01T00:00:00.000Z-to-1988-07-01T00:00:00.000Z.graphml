@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="17682"/>
+<node id="24712"/>
+<node id="750276"/>
+<node id="2025989"/>
+<edge id="17682-24712-rec.railroad" source="17682" target="24712">
+	<data key="topic">rec.railroad</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17682-2025989-rec.railroad" source="17682" target="2025989">
+	<data key="topic">rec.railroad</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="750276-17682-rec.railroad" source="750276" target="17682">
+	<data key="topic">rec.railroad</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="750276-24712-rec.railroad" source="750276" target="24712">
+	<data key="topic">rec.railroad</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="750276-2025989-rec.railroad" source="750276" target="2025989">
+	<data key="topic">rec.railroad</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2025989-24712-rec.railroad" source="2025989" target="24712">
+	<data key="topic">rec.railroad</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

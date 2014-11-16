@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="459128"/>
+<node id="635099"/>
+<node id="925691"/>
+<node id="1132839"/>
+<node id="1134375"/>
+<node id="395005"/>
+<node id="343807"/>
+<node id="1134027"/>
+<node id="396827"/>
+<node id="475292"/>
+<node id="989076"/>
+<node id="497787"/>
+<node id="7071"/>
+<node id="393030"/>
+<node id="1134965"/>
+<node id="391681"/>
+<node id="1134238"/>
+<edge id="459128-7071-net.origins" source="459128" target="7071">
+	<data key="topic">net.origins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="635099-395005-net.origins" source="635099" target="395005">
+	<data key="topic">net.origins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="635099-1134965-net.origins" source="635099" target="1134965">
+	<data key="topic">net.origins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="925691-343807-net.origins" source="925691" target="343807">
+	<data key="topic">net.origins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="925691-1134965-net.origins" source="925691" target="1134965">
+	<data key="topic">net.origins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1132839-343807-net.origins" source="1132839" target="343807">
+	<data key="topic">net.origins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1132839-1134965-net.origins" source="1132839" target="1134965">
+	<data key="topic">net.origins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1134375-989076-net.origins" source="1134375" target="989076">
+	<data key="topic">net.origins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1134375-393030-net.origins" source="1134375" target="393030">
+	<data key="topic">net.origins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="343807-1134965-net.origins" source="343807" target="1134965">
+	<data key="topic">net.origins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1134027-343807-net.origins" source="1134027" target="343807">
+	<data key="topic">net.origins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1134027-1134965-net.origins" source="1134027" target="1134965">
+	<data key="topic">net.origins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="396827-393030-net.origins" source="396827" target="393030">
+	<data key="topic">net.origins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="396827-1134238-net.origins" source="396827" target="1134238">
+	<data key="topic">net.origins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="475292-497787-net.origins" source="475292" target="497787">
+	<data key="topic">net.origins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1134965-635099-net.origins" source="1134965" target="635099">
+	<data key="topic">net.origins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1134965-395005-net.origins" source="1134965" target="395005">
+	<data key="topic">net.origins</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="391681-393030-net.origins" source="391681" target="393030">
+	<data key="topic">net.origins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391681-1134238-net.origins" source="391681" target="1134238">
+	<data key="topic">net.origins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1134238-393030-net.origins" source="1134238" target="393030">
+	<data key="topic">net.origins</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

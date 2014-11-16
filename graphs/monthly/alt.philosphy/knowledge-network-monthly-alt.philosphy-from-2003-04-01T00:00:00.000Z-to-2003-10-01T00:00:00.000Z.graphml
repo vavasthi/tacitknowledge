@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="58418"/>
+<node id="37029"/>
+<node id="40922"/>
+<node id="42188"/>
+<node id="41517"/>
+<node id="37552"/>
+<node id="37424"/>
+<edge id="37029-41517-alt.philosphy" source="37029" target="41517">
+	<data key="topic">alt.philosphy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="40922-42188-alt.philosphy" source="40922" target="42188">
+	<data key="topic">alt.philosphy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="40922-41517-alt.philosphy" source="40922" target="41517">
+	<data key="topic">alt.philosphy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41517-40922-alt.philosphy" source="41517" target="40922">
+	<data key="topic">alt.philosphy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41517-42188-alt.philosphy" source="41517" target="42188">
+	<data key="topic">alt.philosphy</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37552-58418-alt.philosphy" source="37552" target="58418">
+	<data key="topic">alt.philosphy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37552-37424-alt.philosphy" source="37552" target="37424">
+	<data key="topic">alt.philosphy</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

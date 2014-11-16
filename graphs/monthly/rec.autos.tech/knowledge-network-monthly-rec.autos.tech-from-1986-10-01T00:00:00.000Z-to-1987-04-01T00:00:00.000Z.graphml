@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="399943"/>
+<node id="19220"/>
+<node id="1545381"/>
+<node id="391042"/>
+<node id="28748"/>
+<node id="919012"/>
+<node id="1134221"/>
+<edge id="399943-919012-rec.autos.tech" source="399943" target="919012">
+	<data key="topic">rec.autos.tech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19220-919012-rec.autos.tech" source="19220" target="919012">
+	<data key="topic">rec.autos.tech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391042-1545381-rec.autos.tech" source="391042" target="1545381">
+	<data key="topic">rec.autos.tech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28748-399943-rec.autos.tech" source="28748" target="399943">
+	<data key="topic">rec.autos.tech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28748-919012-rec.autos.tech" source="28748" target="919012">
+	<data key="topic">rec.autos.tech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1134221-1545381-rec.autos.tech" source="1134221" target="1545381">
+	<data key="topic">rec.autos.tech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1134221-391042-rec.autos.tech" source="1134221" target="391042">
+	<data key="topic">rec.autos.tech</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

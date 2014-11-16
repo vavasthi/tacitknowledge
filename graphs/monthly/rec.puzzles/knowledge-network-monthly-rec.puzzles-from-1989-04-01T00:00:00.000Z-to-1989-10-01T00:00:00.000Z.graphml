@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="866653"/>
+<node id="1206884"/>
+<node id="510166"/>
+<node id="609292"/>
+<node id="393251"/>
+<node id="375069"/>
+<node id="1244"/>
+<node id="697413"/>
+<edge id="1206884-866653-rec.puzzles" source="1206884" target="866653">
+	<data key="topic">rec.puzzles</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510166-866653-rec.puzzles" source="510166" target="866653">
+	<data key="topic">rec.puzzles</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="609292-866653-rec.puzzles" source="609292" target="866653">
+	<data key="topic">rec.puzzles</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="393251-866653-rec.puzzles" source="393251" target="866653">
+	<data key="topic">rec.puzzles</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="375069-866653-rec.puzzles" source="375069" target="866653">
+	<data key="topic">rec.puzzles</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="375069-510166-rec.puzzles" source="375069" target="510166">
+	<data key="topic">rec.puzzles</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1244-866653-rec.puzzles" source="1244" target="866653">
+	<data key="topic">rec.puzzles</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="697413-866653-rec.puzzles" source="697413" target="866653">
+	<data key="topic">rec.puzzles</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

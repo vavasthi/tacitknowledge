@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1036352"/>
+<node id="882"/>
+<node id="908205"/>
+<node id="7236"/>
+<node id="350274"/>
+<node id="1880595"/>
+<node id="15440"/>
+<node id="669734"/>
+<edge id="1036352-1880595-comp.theory.dynamic-sys" source="1036352" target="1880595">
+	<data key="topic">comp.theory.dynamic-sys</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="882-908205-comp.theory.dynamic-sys" source="882" target="908205">
+	<data key="topic">comp.theory.dynamic-sys</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="882-7236-comp.theory.dynamic-sys" source="882" target="7236">
+	<data key="topic">comp.theory.dynamic-sys</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7236-908205-comp.theory.dynamic-sys" source="7236" target="908205">
+	<data key="topic">comp.theory.dynamic-sys</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350274-15440-comp.theory.dynamic-sys" source="350274" target="15440">
+	<data key="topic">comp.theory.dynamic-sys</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350274-669734-comp.theory.dynamic-sys" source="350274" target="669734">
+	<data key="topic">comp.theory.dynamic-sys</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15440-669734-comp.theory.dynamic-sys" source="15440" target="669734">
+	<data key="topic">comp.theory.dynamic-sys</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

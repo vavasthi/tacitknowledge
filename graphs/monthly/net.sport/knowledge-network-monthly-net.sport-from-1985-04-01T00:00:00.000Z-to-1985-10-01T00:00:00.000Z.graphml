@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1063858"/>
+<node id="342757"/>
+<node id="481141"/>
+<node id="466803"/>
+<node id="336995"/>
+<node id="344259"/>
+<node id="605092"/>
+<node id="336735"/>
+<node id="341818"/>
+<edge id="1063858-336995-net.sport" source="1063858" target="336995">
+	<data key="topic">net.sport</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1063858-336735-net.sport" source="1063858" target="336735">
+	<data key="topic">net.sport</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="342757-344259-net.sport" source="342757" target="344259">
+	<data key="topic">net.sport</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="342757-605092-net.sport" source="342757" target="605092">
+	<data key="topic">net.sport</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="481141-336995-net.sport" source="481141" target="336995">
+	<data key="topic">net.sport</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="336995-1063858-net.sport" source="336995" target="1063858">
+	<data key="topic">net.sport</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="336995-336735-net.sport" source="336995" target="336735">
+	<data key="topic">net.sport</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="605092-344259-net.sport" source="605092" target="344259">
+	<data key="topic">net.sport</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341818-344259-net.sport" source="341818" target="344259">
+	<data key="topic">net.sport</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341818-605092-net.sport" source="341818" target="605092">
+	<data key="topic">net.sport</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

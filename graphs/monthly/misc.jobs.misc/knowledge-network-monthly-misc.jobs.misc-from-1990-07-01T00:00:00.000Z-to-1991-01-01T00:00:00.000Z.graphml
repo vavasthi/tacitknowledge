@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="374582"/>
+<node id="17489"/>
+<node id="11313"/>
+<node id="3445"/>
+<node id="834377"/>
+<node id="780448"/>
+<node id="791068"/>
+<node id="557444"/>
+<node id="833409"/>
+<node id="833442"/>
+<node id="833234"/>
+<node id="833460"/>
+<edge id="17489-833442-misc.jobs.misc" source="17489" target="833442">
+	<data key="topic">misc.jobs.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3445-374582-misc.jobs.misc" source="3445" target="374582">
+	<data key="topic">misc.jobs.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="780448-833442-misc.jobs.misc" source="780448" target="833442">
+	<data key="topic">misc.jobs.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="791068-780448-misc.jobs.misc" source="791068" target="780448">
+	<data key="topic">misc.jobs.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="791068-833442-misc.jobs.misc" source="791068" target="833442">
+	<data key="topic">misc.jobs.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="557444-834377-misc.jobs.misc" source="557444" target="834377">
+	<data key="topic">misc.jobs.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="833409-17489-misc.jobs.misc" source="833409" target="17489">
+	<data key="topic">misc.jobs.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="833409-833442-misc.jobs.misc" source="833409" target="833442">
+	<data key="topic">misc.jobs.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="833234-11313-misc.jobs.misc" source="833234" target="11313">
+	<data key="topic">misc.jobs.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="833460-833442-misc.jobs.misc" source="833460" target="833442">
+	<data key="topic">misc.jobs.misc</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

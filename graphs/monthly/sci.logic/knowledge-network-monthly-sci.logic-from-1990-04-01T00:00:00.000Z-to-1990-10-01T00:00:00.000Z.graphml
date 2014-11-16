@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="621913"/>
+<node id="15447"/>
+<node id="1731747"/>
+<node id="832950"/>
+<node id="1301963"/>
+<node id="622996"/>
+<node id="7551"/>
+<node id="378406"/>
+<node id="994224"/>
+<node id="10946"/>
+<node id="4580"/>
+<node id="553836"/>
+<node id="29445"/>
+<node id="831595"/>
+<node id="994215"/>
+<node id="608961"/>
+<node id="994211"/>
+<node id="610247"/>
+<edge id="621913-7551-sci.logic" source="621913" target="7551">
+	<data key="topic">sci.logic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15447-10946-sci.logic" source="15447" target="10946">
+	<data key="topic">sci.logic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15447-831595-sci.logic" source="15447" target="831595">
+	<data key="topic">sci.logic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15447-994215-sci.logic" source="15447" target="994215">
+	<data key="topic">sci.logic</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="15447-610247-sci.logic" source="15447" target="610247">
+	<data key="topic">sci.logic</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="1731747-621913-sci.logic" source="1731747" target="621913">
+	<data key="topic">sci.logic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1731747-7551-sci.logic" source="1731747" target="7551">
+	<data key="topic">sci.logic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="832950-15447-sci.logic" source="832950" target="15447">
+	<data key="topic">sci.logic</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="832950-831595-sci.logic" source="832950" target="831595">
+	<data key="topic">sci.logic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="832950-610247-sci.logic" source="832950" target="610247">
+	<data key="topic">sci.logic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1301963-7551-sci.logic" source="1301963" target="7551">
+	<data key="topic">sci.logic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="994224-15447-sci.logic" source="994224" target="15447">
+	<data key="topic">sci.logic</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="994224-994215-sci.logic" source="994224" target="994215">
+	<data key="topic">sci.logic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="994224-610247-sci.logic" source="994224" target="610247">
+	<data key="topic">sci.logic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10946-15447-sci.logic" source="10946" target="15447">
+	<data key="topic">sci.logic</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="10946-994215-sci.logic" source="10946" target="994215">
+	<data key="topic">sci.logic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10946-610247-sci.logic" source="10946" target="610247">
+	<data key="topic">sci.logic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4580-15447-sci.logic" source="4580" target="15447">
+	<data key="topic">sci.logic</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="4580-994215-sci.logic" source="4580" target="994215">
+	<data key="topic">sci.logic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4580-610247-sci.logic" source="4580" target="610247">
+	<data key="topic">sci.logic</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="553836-622996-sci.logic" source="553836" target="622996">
+	<data key="topic">sci.logic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29445-15447-sci.logic" source="29445" target="15447">
+	<data key="topic">sci.logic</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="29445-831595-sci.logic" source="29445" target="831595">
+	<data key="topic">sci.logic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29445-610247-sci.logic" source="29445" target="610247">
+	<data key="topic">sci.logic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="831595-15447-sci.logic" source="831595" target="15447">
+	<data key="topic">sci.logic</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="831595-610247-sci.logic" source="831595" target="610247">
+	<data key="topic">sci.logic</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="608961-15447-sci.logic" source="608961" target="15447">
+	<data key="topic">sci.logic</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="608961-831595-sci.logic" source="608961" target="831595">
+	<data key="topic">sci.logic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="608961-610247-sci.logic" source="608961" target="610247">
+	<data key="topic">sci.logic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="994211-15447-sci.logic" source="994211" target="15447">
+	<data key="topic">sci.logic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="994211-10946-sci.logic" source="994211" target="10946">
+	<data key="topic">sci.logic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="610247-15447-sci.logic" source="610247" target="15447">
+	<data key="topic">sci.logic</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="610247-994215-sci.logic" source="610247" target="994215">
+	<data key="topic">sci.logic</data>
+	<data key="weight">2</data>
+</edge>
+</graph>
+</graphml>

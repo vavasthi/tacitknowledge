@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="359030"/>
+<node id="1557286"/>
+<node id="359410"/>
+<node id="811865"/>
+<node id="958298"/>
+<node id="1109130"/>
+<node id="949743"/>
+<node id="13955"/>
+<node id="1160278"/>
+<node id="352132"/>
+<node id="1742643"/>
+<node id="360554"/>
+<node id="424908"/>
+<node id="424905"/>
+<node id="360332"/>
+<node id="946882"/>
+<edge id="359030-1109130-comp.lang.icon" source="359030" target="1109130">
+	<data key="topic">comp.lang.icon</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1557286-1742643-comp.lang.icon" source="1557286" target="1742643">
+	<data key="topic">comp.lang.icon</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="359410-352132-comp.lang.icon" source="359410" target="352132">
+	<data key="topic">comp.lang.icon</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="949743-360332-comp.lang.icon" source="949743" target="360332">
+	<data key="topic">comp.lang.icon</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="13955-352132-comp.lang.icon" source="13955" target="352132">
+	<data key="topic">comp.lang.icon</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="352132-958298-comp.lang.icon" source="352132" target="958298">
+	<data key="topic">comp.lang.icon</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="352132-1160278-comp.lang.icon" source="352132" target="1160278">
+	<data key="topic">comp.lang.icon</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="352132-424908-comp.lang.icon" source="352132" target="424908">
+	<data key="topic">comp.lang.icon</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="352132-424905-comp.lang.icon" source="352132" target="424905">
+	<data key="topic">comp.lang.icon</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="352132-946882-comp.lang.icon" source="352132" target="946882">
+	<data key="topic">comp.lang.icon</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="360554-811865-comp.lang.icon" source="360554" target="811865">
+	<data key="topic">comp.lang.icon</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

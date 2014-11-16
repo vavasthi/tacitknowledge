@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="509077"/>
+<node id="3447"/>
+<node id="2007045"/>
+<node id="710705"/>
+<node id="711857"/>
+<node id="2652"/>
+<node id="17213"/>
+<node id="696685"/>
+<node id="3242"/>
+<node id="409936"/>
+<node id="559618"/>
+<node id="509932"/>
+<node id="434378"/>
+<node id="614119"/>
+<edge id="2007045-409936-comp.sys.tahoe" source="2007045" target="409936">
+	<data key="topic">comp.sys.tahoe</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="710705-614119-comp.sys.tahoe" source="710705" target="614119">
+	<data key="topic">comp.sys.tahoe</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="711857-3447-comp.sys.tahoe" source="711857" target="3447">
+	<data key="topic">comp.sys.tahoe</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2652-509077-comp.sys.tahoe" source="2652" target="509077">
+	<data key="topic">comp.sys.tahoe</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2652-696685-comp.sys.tahoe" source="2652" target="696685">
+	<data key="topic">comp.sys.tahoe</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2652-509932-comp.sys.tahoe" source="2652" target="509932">
+	<data key="topic">comp.sys.tahoe</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17213-2007045-comp.sys.tahoe" source="17213" target="2007045">
+	<data key="topic">comp.sys.tahoe</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17213-3242-comp.sys.tahoe" source="17213" target="3242">
+	<data key="topic">comp.sys.tahoe</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17213-409936-comp.sys.tahoe" source="17213" target="409936">
+	<data key="topic">comp.sys.tahoe</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17213-434378-comp.sys.tahoe" source="17213" target="434378">
+	<data key="topic">comp.sys.tahoe</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696685-509077-comp.sys.tahoe" source="696685" target="509077">
+	<data key="topic">comp.sys.tahoe</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="696685-2652-comp.sys.tahoe" source="696685" target="2652">
+	<data key="topic">comp.sys.tahoe</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696685-3242-comp.sys.tahoe" source="696685" target="3242">
+	<data key="topic">comp.sys.tahoe</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696685-509932-comp.sys.tahoe" source="696685" target="509932">
+	<data key="topic">comp.sys.tahoe</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="3242-509077-comp.sys.tahoe" source="3242" target="509077">
+	<data key="topic">comp.sys.tahoe</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="3242-2652-comp.sys.tahoe" source="3242" target="2652">
+	<data key="topic">comp.sys.tahoe</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="3242-696685-comp.sys.tahoe" source="3242" target="696685">
+	<data key="topic">comp.sys.tahoe</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="3242-509932-comp.sys.tahoe" source="3242" target="509932">
+	<data key="topic">comp.sys.tahoe</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="3242-434378-comp.sys.tahoe" source="3242" target="434378">
+	<data key="topic">comp.sys.tahoe</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="409936-559618-comp.sys.tahoe" source="409936" target="559618">
+	<data key="topic">comp.sys.tahoe</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

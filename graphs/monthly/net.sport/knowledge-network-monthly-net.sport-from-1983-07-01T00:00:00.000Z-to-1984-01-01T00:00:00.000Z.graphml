@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="339190"/>
+<node id="338997"/>
+<node id="337245"/>
+<node id="336735"/>
+<node id="341375"/>
+<node id="462748"/>
+<node id="459738"/>
+<node id="462375"/>
+<node id="565322"/>
+<node id="459588"/>
+<node id="339107"/>
+<node id="460449"/>
+<node id="460526"/>
+<node id="459946"/>
+<node id="459881"/>
+<edge id="339190-341375-net.sport" source="339190" target="341375">
+	<data key="topic">net.sport</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339190-339107-net.sport" source="339190" target="339107">
+	<data key="topic">net.sport</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338997-336735-net.sport" source="338997" target="336735">
+	<data key="topic">net.sport</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337245-460526-net.sport" source="337245" target="460526">
+	<data key="topic">net.sport</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459738-336735-net.sport" source="459738" target="336735">
+	<data key="topic">net.sport</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="462375-462748-net.sport" source="462375" target="462748">
+	<data key="topic">net.sport</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="565322-341375-net.sport" source="565322" target="341375">
+	<data key="topic">net.sport</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459588-336735-net.sport" source="459588" target="336735">
+	<data key="topic">net.sport</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339107-341375-net.sport" source="339107" target="341375">
+	<data key="topic">net.sport</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460449-341375-net.sport" source="460449" target="341375">
+	<data key="topic">net.sport</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459946-339190-net.sport" source="459946" target="339190">
+	<data key="topic">net.sport</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459946-341375-net.sport" source="459946" target="341375">
+	<data key="topic">net.sport</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459946-339107-net.sport" source="459946" target="339107">
+	<data key="topic">net.sport</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459881-341375-net.sport" source="459881" target="341375">
+	<data key="topic">net.sport</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459881-339107-net.sport" source="459881" target="339107">
+	<data key="topic">net.sport</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="28899"/>
+<node id="1482341"/>
+<node id="398694"/>
+<node id="398691"/>
+<node id="391681"/>
+<node id="398689"/>
+<node id="393183"/>
+<node id="667811"/>
+<node id="1496352"/>
+<node id="923560"/>
+<node id="20094"/>
+<node id="340220"/>
+<edge id="1482341-667811-comp.lang.forth" source="1482341" target="667811">
+	<data key="topic">comp.lang.forth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391681-1496352-comp.lang.forth" source="391681" target="1496352">
+	<data key="topic">comp.lang.forth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="398689-398691-comp.lang.forth" source="398689" target="398691">
+	<data key="topic">comp.lang.forth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="393183-28899-comp.lang.forth" source="393183" target="28899">
+	<data key="topic">comp.lang.forth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="393183-923560-comp.lang.forth" source="393183" target="923560">
+	<data key="topic">comp.lang.forth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="667811-20094-comp.lang.forth" source="667811" target="20094">
+	<data key="topic">comp.lang.forth</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340220-398694-comp.lang.forth" source="340220" target="398694">
+	<data key="topic">comp.lang.forth</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

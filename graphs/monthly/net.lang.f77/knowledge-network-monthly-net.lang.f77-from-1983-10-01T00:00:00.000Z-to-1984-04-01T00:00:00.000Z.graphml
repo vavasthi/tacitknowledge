@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="338134"/>
+<node id="461366"/>
+<node id="523889"/>
+<node id="571345"/>
+<node id="526545"/>
+<node id="599444"/>
+<node id="462330"/>
+<node id="562808"/>
+<node id="685833"/>
+<node id="524037"/>
+<node id="339428"/>
+<node id="339107"/>
+<node id="522895"/>
+<node id="530435"/>
+<node id="337866"/>
+<node id="525000"/>
+<edge id="338134-530435-net.lang.f77" source="338134" target="530435">
+	<data key="topic">net.lang.f77</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="461366-685833-net.lang.f77" source="461366" target="685833">
+	<data key="topic">net.lang.f77</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="523889-524037-net.lang.f77" source="523889" target="524037">
+	<data key="topic">net.lang.f77</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="526545-530435-net.lang.f77" source="526545" target="530435">
+	<data key="topic">net.lang.f77</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="599444-339428-net.lang.f77" source="599444" target="339428">
+	<data key="topic">net.lang.f77</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="562808-530435-net.lang.f77" source="562808" target="530435">
+	<data key="topic">net.lang.f77</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339107-339428-net.lang.f77" source="339107" target="339428">
+	<data key="topic">net.lang.f77</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339107-525000-net.lang.f77" source="339107" target="525000">
+	<data key="topic">net.lang.f77</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522895-571345-net.lang.f77" source="522895" target="571345">
+	<data key="topic">net.lang.f77</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522895-525000-net.lang.f77" source="522895" target="525000">
+	<data key="topic">net.lang.f77</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-571345-net.lang.f77" source="337866" target="571345">
+	<data key="topic">net.lang.f77</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

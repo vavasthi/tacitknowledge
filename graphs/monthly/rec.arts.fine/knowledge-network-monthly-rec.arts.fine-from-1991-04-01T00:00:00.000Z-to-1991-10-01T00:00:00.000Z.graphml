@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="339"/>
+<node id="349713"/>
+<node id="361663"/>
+<node id="350458"/>
+<node id="7712"/>
+<node id="7136"/>
+<node id="347803"/>
+<node id="945583"/>
+<node id="355908"/>
+<node id="12201"/>
+<node id="377357"/>
+<node id="377391"/>
+<node id="352107"/>
+<edge id="339-349713-rec.arts.fine" source="339" target="349713">
+	<data key="topic">rec.arts.fine</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339-355908-rec.arts.fine" source="339" target="355908">
+	<data key="topic">rec.arts.fine</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="349713-355908-rec.arts.fine" source="349713" target="355908">
+	<data key="topic">rec.arts.fine</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="361663-355908-rec.arts.fine" source="361663" target="355908">
+	<data key="topic">rec.arts.fine</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7712-349713-rec.arts.fine" source="7712" target="349713">
+	<data key="topic">rec.arts.fine</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7712-7136-rec.arts.fine" source="7712" target="7136">
+	<data key="topic">rec.arts.fine</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7712-945583-rec.arts.fine" source="7712" target="945583">
+	<data key="topic">rec.arts.fine</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7712-355908-rec.arts.fine" source="7712" target="355908">
+	<data key="topic">rec.arts.fine</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347803-349713-rec.arts.fine" source="347803" target="349713">
+	<data key="topic">rec.arts.fine</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347803-7136-rec.arts.fine" source="347803" target="7136">
+	<data key="topic">rec.arts.fine</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347803-355908-rec.arts.fine" source="347803" target="355908">
+	<data key="topic">rec.arts.fine</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="945583-349713-rec.arts.fine" source="945583" target="349713">
+	<data key="topic">rec.arts.fine</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="945583-7136-rec.arts.fine" source="945583" target="7136">
+	<data key="topic">rec.arts.fine</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="945583-355908-rec.arts.fine" source="945583" target="355908">
+	<data key="topic">rec.arts.fine</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12201-339-rec.arts.fine" source="12201" target="339">
+	<data key="topic">rec.arts.fine</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12201-349713-rec.arts.fine" source="12201" target="349713">
+	<data key="topic">rec.arts.fine</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12201-355908-rec.arts.fine" source="12201" target="355908">
+	<data key="topic">rec.arts.fine</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12201-377391-rec.arts.fine" source="12201" target="377391">
+	<data key="topic">rec.arts.fine</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="377357-350458-rec.arts.fine" source="377357" target="350458">
+	<data key="topic">rec.arts.fine</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="377357-377391-rec.arts.fine" source="377357" target="377391">
+	<data key="topic">rec.arts.fine</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="377391-339-rec.arts.fine" source="377391" target="339">
+	<data key="topic">rec.arts.fine</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="377391-349713-rec.arts.fine" source="377391" target="349713">
+	<data key="topic">rec.arts.fine</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="377391-355908-rec.arts.fine" source="377391" target="355908">
+	<data key="topic">rec.arts.fine</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="352107-361663-rec.arts.fine" source="352107" target="361663">
+	<data key="topic">rec.arts.fine</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="352107-355908-rec.arts.fine" source="352107" target="355908">
+	<data key="topic">rec.arts.fine</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

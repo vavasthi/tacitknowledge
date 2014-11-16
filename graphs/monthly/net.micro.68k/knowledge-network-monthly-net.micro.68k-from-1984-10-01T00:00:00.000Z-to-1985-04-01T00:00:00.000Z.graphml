@@ -1,0 +1,922 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="483480"/>
+<node id="337694"/>
+<node id="337568"/>
+<node id="338208"/>
+<node id="1185840"/>
+<node id="339356"/>
+<node id="338088"/>
+<node id="340007"/>
+<node id="498085"/>
+<node id="337570"/>
+<node id="338210"/>
+<node id="341025"/>
+<node id="338468"/>
+<node id="1709725"/>
+<node id="607791"/>
+<node id="337200"/>
+<node id="472878"/>
+<node id="339244"/>
+<node id="459306"/>
+<node id="2166992"/>
+<node id="338104"/>
+<node id="340024"/>
+<node id="561211"/>
+<node id="1041724"/>
+<node id="337599"/>
+<node id="459323"/>
+<node id="341180"/>
+<node id="632010"/>
+<node id="340291"/>
+<node id="337998"/>
+<node id="625346"/>
+<node id="472400"/>
+<node id="602564"/>
+<node id="337866"/>
+<node id="524613"/>
+<node id="525637"/>
+<node id="29006"/>
+<node id="602184"/>
+<node id="337227"/>
+<node id="26833"/>
+<node id="338134"/>
+<node id="339287"/>
+<node id="465747"/>
+<node id="523217"/>
+<node id="15961"/>
+<node id="337376"/>
+<node id="638803"/>
+<node id="525268"/>
+<node id="340698"/>
+<node id="338523"/>
+<node id="338021"/>
+<node id="459238"/>
+<node id="337378"/>
+<node id="15846"/>
+<node id="338273"/>
+<node id="337763"/>
+<node id="524400"/>
+<node id="462448"/>
+<node id="337518"/>
+<node id="459632"/>
+<node id="16107"/>
+<node id="391536"/>
+<node id="340841"/>
+<node id="339190"/>
+<node id="465271"/>
+<node id="625020"/>
+<node id="338290"/>
+<node id="460148"/>
+<node id="340465"/>
+<node id="19831"/>
+<node id="919674"/>
+<node id="472561"/>
+<node id="344830"/>
+<node id="1041912"/>
+<node id="339325"/>
+<node id="344831"/>
+<node id="476157"/>
+<node id="623990"/>
+<node id="460540"/>
+<node id="459643"/>
+<node id="337532"/>
+<node id="337788"/>
+<node id="470137"/>
+<node id="489352"/>
+<node id="340866"/>
+<node id="1071989"/>
+<node id="1841529"/>
+<node id="28424"/>
+<node id="336771"/>
+<node id="338573"/>
+<node id="564869"/>
+<edge id="483480-459306-net.micro.68k" source="483480" target="459306">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337694-339244-net.micro.68k" source="337694" target="339244">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337568-337227-net.micro.68k" source="337568" target="337227">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337568-337378-net.micro.68k" source="337568" target="337378">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338208-340024-net.micro.68k" source="338208" target="340024">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338088-28424-net.micro.68k" source="338088" target="28424">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338088-336771-net.micro.68k" source="338088" target="336771">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340007-339356-net.micro.68k" source="340007" target="339356">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="340007-498085-net.micro.68k" source="340007" target="498085">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340007-459306-net.micro.68k" source="340007" target="459306">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337570-29006-net.micro.68k" source="337570" target="29006">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="337570-26833-net.micro.68k" source="337570" target="26833">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337570-465271-net.micro.68k" source="337570" target="465271">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="337570-337532-net.micro.68k" source="337570" target="337532">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337570-336771-net.micro.68k" source="337570" target="336771">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="338210-339356-net.micro.68k" source="338210" target="339356">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338210-607791-net.micro.68k" source="338210" target="607791">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338210-337200-net.micro.68k" source="338210" target="337200">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="338210-523217-net.micro.68k" source="338210" target="523217">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338210-337376-net.micro.68k" source="338210" target="337376">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338210-638803-net.micro.68k" source="338210" target="638803">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338210-919674-net.micro.68k" source="338210" target="919674">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338210-337532-net.micro.68k" source="338210" target="337532">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338210-340866-net.micro.68k" source="338210" target="340866">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341025-523217-net.micro.68k" source="341025" target="523217">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341025-919674-net.micro.68k" source="341025" target="919674">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338468-338210-net.micro.68k" source="338468" target="338210">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338468-607791-net.micro.68k" source="338468" target="607791">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338468-337200-net.micro.68k" source="338468" target="337200">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="338468-337376-net.micro.68k" source="338468" target="337376">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338468-337532-net.micro.68k" source="338468" target="337532">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338468-340866-net.micro.68k" source="338468" target="340866">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="607791-337200-net.micro.68k" source="607791" target="337200">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="607791-337376-net.micro.68k" source="607791" target="337376">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="607791-337532-net.micro.68k" source="607791" target="337532">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337200-337570-net.micro.68k" source="337200" target="337570">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="337200-29006-net.micro.68k" source="337200" target="29006">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337200-337376-net.micro.68k" source="337200" target="337376">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337200-465271-net.micro.68k" source="337200" target="465271">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337200-337532-net.micro.68k" source="337200" target="337532">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="337200-489352-net.micro.68k" source="337200" target="489352">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="472878-339287-net.micro.68k" source="472878" target="339287">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="472878-1841529-net.micro.68k" source="472878" target="1841529">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="472878-28424-net.micro.68k" source="472878" target="28424">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="472878-336771-net.micro.68k" source="472878" target="336771">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338104-1041724-net.micro.68k" source="338104" target="1041724">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338104-459238-net.micro.68k" source="338104" target="459238">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338104-337518-net.micro.68k" source="338104" target="337518">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="561211-337227-net.micro.68k" source="561211" target="337227">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="561211-15961-net.micro.68k" source="561211" target="15961">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337599-337570-net.micro.68k" source="337599" target="337570">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="337599-340291-net.micro.68k" source="337599" target="340291">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337599-29006-net.micro.68k" source="337599" target="29006">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337599-15961-net.micro.68k" source="337599" target="15961">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337599-465271-net.micro.68k" source="337599" target="465271">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337599-337532-net.micro.68k" source="337599" target="337532">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459323-338273-net.micro.68k" source="459323" target="338273">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459323-1071989-net.micro.68k" source="459323" target="1071989">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341180-1709725-net.micro.68k" source="341180" target="1709725">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341180-336771-net.micro.68k" source="341180" target="336771">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="340291-337570-net.micro.68k" source="340291" target="337570">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="340291-29006-net.micro.68k" source="340291" target="29006">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340291-15961-net.micro.68k" source="340291" target="15961">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340291-465271-net.micro.68k" source="340291" target="465271">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340291-337532-net.micro.68k" source="340291" target="337532">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="625346-472400-net.micro.68k" source="625346" target="472400">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="625346-525637-net.micro.68k" source="625346" target="525637">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="602564-336771-net.micro.68k" source="602564" target="336771">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-339356-net.micro.68k" source="337866" target="339356">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-338088-net.micro.68k" source="337866" target="338088">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-607791-net.micro.68k" source="337866" target="607791">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-337200-net.micro.68k" source="337866" target="337200">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="337866-339244-net.micro.68k" source="337866" target="339244">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-524613-net.micro.68k" source="337866" target="524613">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-523217-net.micro.68k" source="337866" target="523217">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-15961-net.micro.68k" source="337866" target="15961">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-337376-net.micro.68k" source="337866" target="337376">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-638803-net.micro.68k" source="337866" target="638803">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-462448-net.micro.68k" source="337866" target="462448">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-19831-net.micro.68k" source="337866" target="19831">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-919674-net.micro.68k" source="337866" target="919674">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-337532-net.micro.68k" source="337866" target="337532">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-28424-net.micro.68k" source="337866" target="28424">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-336771-net.micro.68k" source="337866" target="336771">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-1185840-net.micro.68k" source="29006" target="1185840">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-339190-net.micro.68k" source="29006" target="339190">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-465271-net.micro.68k" source="29006" target="465271">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-336771-net.micro.68k" source="29006" target="336771">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="602184-337378-net.micro.68k" source="602184" target="337378">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337227-919674-net.micro.68k" source="337227" target="919674">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338134-339356-net.micro.68k" source="338134" target="339356">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339287-28424-net.micro.68k" source="339287" target="28424">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339287-336771-net.micro.68k" source="339287" target="336771">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="465747-459306-net.micro.68k" source="465747" target="459306">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="523217-919674-net.micro.68k" source="523217" target="919674">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="15961-337570-net.micro.68k" source="15961" target="337570">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="15961-607791-net.micro.68k" source="15961" target="607791">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="15961-337200-net.micro.68k" source="15961" target="337200">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="15961-29006-net.micro.68k" source="15961" target="29006">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15961-337227-net.micro.68k" source="15961" target="337227">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="15961-337376-net.micro.68k" source="15961" target="337376">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="15961-338273-net.micro.68k" source="15961" target="338273">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15961-465271-net.micro.68k" source="15961" target="465271">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15961-337532-net.micro.68k" source="15961" target="337532">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="337376-337570-net.micro.68k" source="337376" target="337570">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="337376-337200-net.micro.68k" source="337376" target="337200">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337376-29006-net.micro.68k" source="337376" target="29006">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337376-16107-net.micro.68k" source="337376" target="16107">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337376-339190-net.micro.68k" source="337376" target="339190">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337376-465271-net.micro.68k" source="337376" target="465271">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337376-340465-net.micro.68k" source="337376" target="340465">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337376-337532-net.micro.68k" source="337376" target="337532">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="525268-337866-net.micro.68k" source="525268" target="337866">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="525268-19831-net.micro.68k" source="525268" target="19831">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338523-344830-net.micro.68k" source="338523" target="344830">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338021-459238-net.micro.68k" source="338021" target="459238">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337378-337227-net.micro.68k" source="337378" target="337227">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337378-340698-net.micro.68k" source="337378" target="340698">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15846-338523-net.micro.68k" source="15846" target="338523">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338273-337570-net.micro.68k" source="338273" target="337570">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="338273-607791-net.micro.68k" source="338273" target="607791">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338273-337200-net.micro.68k" source="338273" target="337200">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="338273-340291-net.micro.68k" source="338273" target="340291">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338273-29006-net.micro.68k" source="338273" target="29006">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338273-15961-net.micro.68k" source="338273" target="15961">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338273-337376-net.micro.68k" source="338273" target="337376">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338273-465271-net.micro.68k" source="338273" target="465271">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338273-337532-net.micro.68k" source="338273" target="337532">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="337763-339190-net.micro.68k" source="337763" target="339190">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="524400-337376-net.micro.68k" source="524400" target="337376">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="524400-16107-net.micro.68k" source="524400" target="16107">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="524400-339190-net.micro.68k" source="524400" target="339190">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="462448-337200-net.micro.68k" source="462448" target="337200">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="462448-632010-net.micro.68k" source="462448" target="632010">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="462448-337866-net.micro.68k" source="462448" target="337866">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="462448-524613-net.micro.68k" source="462448" target="524613">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="462448-337376-net.micro.68k" source="462448" target="337376">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="462448-340698-net.micro.68k" source="462448" target="340698">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="462448-391536-net.micro.68k" source="462448" target="391536">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="462448-460148-net.micro.68k" source="462448" target="460148">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="462448-337532-net.micro.68k" source="462448" target="337532">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459632-340024-net.micro.68k" source="459632" target="340024">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459632-338523-net.micro.68k" source="459632" target="338523">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459632-344830-net.micro.68k" source="459632" target="344830">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="459632-337788-net.micro.68k" source="459632" target="337788">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16107-338210-net.micro.68k" source="16107" target="338210">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16107-337998-net.micro.68k" source="16107" target="337998">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16107-462448-net.micro.68k" source="16107" target="462448">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16107-339190-net.micro.68k" source="16107" target="339190">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340841-337227-net.micro.68k" source="340841" target="337227">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340841-338290-net.micro.68k" source="340841" target="338290">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340841-337532-net.micro.68k" source="340841" target="337532">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="465271-337200-net.micro.68k" source="465271" target="337200">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="465271-337376-net.micro.68k" source="465271" target="337376">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="465271-19831-net.micro.68k" source="465271" target="19831">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="465271-337532-net.micro.68k" source="465271" target="337532">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="625020-2166992-net.micro.68k" source="625020" target="2166992">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="338290-337227-net.micro.68k" source="338290" target="337227">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19831-602184-net.micro.68k" source="19831" target="602184">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19831-337378-net.micro.68k" source="19831" target="337378">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1041912-472561-net.micro.68k" source="1041912" target="472561">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1041912-460540-net.micro.68k" source="1041912" target="460540">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1041912-470137-net.micro.68k" source="1041912" target="470137">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339325-29006-net.micro.68k" source="339325" target="29006">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339325-465271-net.micro.68k" source="339325" target="465271">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339325-336771-net.micro.68k" source="339325" target="336771">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="476157-337200-net.micro.68k" source="476157" target="337200">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="476157-337376-net.micro.68k" source="476157" target="337376">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="476157-337532-net.micro.68k" source="476157" target="337532">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="623990-337763-net.micro.68k" source="623990" target="337763">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="623990-339190-net.micro.68k" source="623990" target="339190">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459643-28424-net.micro.68k" source="459643" target="28424">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459643-336771-net.micro.68k" source="459643" target="336771">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337532-337570-net.micro.68k" source="337532" target="337570">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="337532-29006-net.micro.68k" source="337532" target="29006">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="337532-465271-net.micro.68k" source="337532" target="465271">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="337788-338523-net.micro.68k" source="337788" target="338523">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337788-344830-net.micro.68k" source="337788" target="344830">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="489352-607791-net.micro.68k" source="489352" target="607791">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="489352-337200-net.micro.68k" source="489352" target="337200">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="489352-337866-net.micro.68k" source="489352" target="337866">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="489352-15961-net.micro.68k" source="489352" target="15961">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="489352-337376-net.micro.68k" source="489352" target="337376">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="489352-337532-net.micro.68k" source="489352" target="337532">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340866-607791-net.micro.68k" source="340866" target="607791">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340866-337200-net.micro.68k" source="340866" target="337200">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="340866-337376-net.micro.68k" source="340866" target="337376">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340866-337532-net.micro.68k" source="340866" target="337532">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1841529-339287-net.micro.68k" source="1841529" target="339287">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1841529-28424-net.micro.68k" source="1841529" target="28424">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1841529-336771-net.micro.68k" source="1841529" target="336771">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28424-336771-net.micro.68k" source="28424" target="336771">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="336771-1185840-net.micro.68k" source="336771" target="1185840">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="336771-337200-net.micro.68k" source="336771" target="337200">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="336771-29006-net.micro.68k" source="336771" target="29006">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="336771-337376-net.micro.68k" source="336771" target="337376">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="336771-465271-net.micro.68k" source="336771" target="465271">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="336771-919674-net.micro.68k" source="336771" target="919674">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="336771-337532-net.micro.68k" source="336771" target="337532">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338573-337200-net.micro.68k" source="338573" target="337200">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="338573-29006-net.micro.68k" source="338573" target="29006">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338573-337376-net.micro.68k" source="338573" target="337376">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338573-462448-net.micro.68k" source="338573" target="462448">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338573-337532-net.micro.68k" source="338573" target="337532">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338573-336771-net.micro.68k" source="338573" target="336771">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="564869-339356-net.micro.68k" source="564869" target="339356">
+	<data key="topic">net.micro.68k</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

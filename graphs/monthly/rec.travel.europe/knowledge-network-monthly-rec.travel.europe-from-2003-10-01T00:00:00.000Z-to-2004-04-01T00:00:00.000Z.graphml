@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="221138"/>
+<node id="305945"/>
+<node id="306299"/>
+<node id="307643"/>
+<node id="307269"/>
+<node id="305511"/>
+<node id="201831"/>
+<node id="305475"/>
+<node id="181477"/>
+<node id="102443"/>
+<node id="41709"/>
+<node id="308042"/>
+<node id="307884"/>
+<edge id="221138-305945-rec.travel.europe" source="221138" target="305945">
+	<data key="topic">rec.travel.europe</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="221138-305475-rec.travel.europe" source="221138" target="305475">
+	<data key="topic">rec.travel.europe</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="221138-181477-rec.travel.europe" source="221138" target="181477">
+	<data key="topic">rec.travel.europe</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="221138-41709-rec.travel.europe" source="221138" target="41709">
+	<data key="topic">rec.travel.europe</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="305945-305475-rec.travel.europe" source="305945" target="305475">
+	<data key="topic">rec.travel.europe</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="305945-41709-rec.travel.europe" source="305945" target="41709">
+	<data key="topic">rec.travel.europe</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="306299-307643-rec.travel.europe" source="306299" target="307643">
+	<data key="topic">rec.travel.europe</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="306299-307269-rec.travel.europe" source="306299" target="307269">
+	<data key="topic">rec.travel.europe</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="306299-305511-rec.travel.europe" source="306299" target="305511">
+	<data key="topic">rec.travel.europe</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="306299-201831-rec.travel.europe" source="306299" target="201831">
+	<data key="topic">rec.travel.europe</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="306299-305475-rec.travel.europe" source="306299" target="305475">
+	<data key="topic">rec.travel.europe</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="306299-102443-rec.travel.europe" source="306299" target="102443">
+	<data key="topic">rec.travel.europe</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="307643-307269-rec.travel.europe" source="307643" target="307269">
+	<data key="topic">rec.travel.europe</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="307643-305511-rec.travel.europe" source="307643" target="305511">
+	<data key="topic">rec.travel.europe</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="307643-201831-rec.travel.europe" source="307643" target="201831">
+	<data key="topic">rec.travel.europe</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="307643-305475-rec.travel.europe" source="307643" target="305475">
+	<data key="topic">rec.travel.europe</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="307643-102443-rec.travel.europe" source="307643" target="102443">
+	<data key="topic">rec.travel.europe</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="307269-305511-rec.travel.europe" source="307269" target="305511">
+	<data key="topic">rec.travel.europe</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="307269-201831-rec.travel.europe" source="307269" target="201831">
+	<data key="topic">rec.travel.europe</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="307269-305475-rec.travel.europe" source="307269" target="305475">
+	<data key="topic">rec.travel.europe</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="307269-102443-rec.travel.europe" source="307269" target="102443">
+	<data key="topic">rec.travel.europe</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="305511-307269-rec.travel.europe" source="305511" target="307269">
+	<data key="topic">rec.travel.europe</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="305511-201831-rec.travel.europe" source="305511" target="201831">
+	<data key="topic">rec.travel.europe</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="305511-305475-rec.travel.europe" source="305511" target="305475">
+	<data key="topic">rec.travel.europe</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="305511-102443-rec.travel.europe" source="305511" target="102443">
+	<data key="topic">rec.travel.europe</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="201831-307269-rec.travel.europe" source="201831" target="307269">
+	<data key="topic">rec.travel.europe</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="201831-305511-rec.travel.europe" source="201831" target="305511">
+	<data key="topic">rec.travel.europe</data>
+	<data key="weight">8</data>
+</edge>
+<edge id="201831-305475-rec.travel.europe" source="201831" target="305475">
+	<data key="topic">rec.travel.europe</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="201831-102443-rec.travel.europe" source="201831" target="102443">
+	<data key="topic">rec.travel.europe</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="181477-305945-rec.travel.europe" source="181477" target="305945">
+	<data key="topic">rec.travel.europe</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="181477-305475-rec.travel.europe" source="181477" target="305475">
+	<data key="topic">rec.travel.europe</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="181477-41709-rec.travel.europe" source="181477" target="41709">
+	<data key="topic">rec.travel.europe</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="102443-305511-rec.travel.europe" source="102443" target="305511">
+	<data key="topic">rec.travel.europe</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="102443-305475-rec.travel.europe" source="102443" target="305475">
+	<data key="topic">rec.travel.europe</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41709-305945-rec.travel.europe" source="41709" target="305945">
+	<data key="topic">rec.travel.europe</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="41709-305475-rec.travel.europe" source="41709" target="305475">
+	<data key="topic">rec.travel.europe</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="308042-305945-rec.travel.europe" source="308042" target="305945">
+	<data key="topic">rec.travel.europe</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="308042-307269-rec.travel.europe" source="308042" target="307269">
+	<data key="topic">rec.travel.europe</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="308042-305511-rec.travel.europe" source="308042" target="305511">
+	<data key="topic">rec.travel.europe</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="308042-305475-rec.travel.europe" source="308042" target="305475">
+	<data key="topic">rec.travel.europe</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="308042-102443-rec.travel.europe" source="308042" target="102443">
+	<data key="topic">rec.travel.europe</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="307884-305511-rec.travel.europe" source="307884" target="305511">
+	<data key="topic">rec.travel.europe</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="307884-305475-rec.travel.europe" source="307884" target="305475">
+	<data key="topic">rec.travel.europe</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

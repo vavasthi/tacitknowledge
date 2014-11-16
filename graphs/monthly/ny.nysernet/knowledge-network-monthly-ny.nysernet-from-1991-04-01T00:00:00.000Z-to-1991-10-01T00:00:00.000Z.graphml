@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="339"/>
+<node id="10804"/>
+<node id="348893"/>
+<node id="614129"/>
+<node id="418939"/>
+<node id="378041"/>
+<node id="361708"/>
+<edge id="339-10804-ny.nysernet" source="339" target="10804">
+	<data key="topic">ny.nysernet</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="339-348893-ny.nysernet" source="339" target="348893">
+	<data key="topic">ny.nysernet</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="339-418939-ny.nysernet" source="339" target="418939">
+	<data key="topic">ny.nysernet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10804-348893-ny.nysernet" source="10804" target="348893">
+	<data key="topic">ny.nysernet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10804-418939-ny.nysernet" source="10804" target="418939">
+	<data key="topic">ny.nysernet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348893-418939-ny.nysernet" source="348893" target="418939">
+	<data key="topic">ny.nysernet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="614129-348893-ny.nysernet" source="614129" target="348893">
+	<data key="topic">ny.nysernet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="378041-348893-ny.nysernet" source="378041" target="348893">
+	<data key="topic">ny.nysernet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="361708-418939-ny.nysernet" source="361708" target="418939">
+	<data key="topic">ny.nysernet</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

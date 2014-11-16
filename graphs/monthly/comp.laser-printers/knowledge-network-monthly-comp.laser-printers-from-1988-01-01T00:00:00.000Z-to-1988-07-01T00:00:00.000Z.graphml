@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="815774"/>
+<node id="26068"/>
+<node id="592571"/>
+<node id="448276"/>
+<node id="760767"/>
+<node id="15191"/>
+<node id="587232"/>
+<node id="2728566"/>
+<node id="31965"/>
+<node id="688855"/>
+<node id="15168"/>
+<node id="2977"/>
+<node id="2587464"/>
+<node id="1484567"/>
+<node id="27458"/>
+<node id="2587463"/>
+<node id="2587462"/>
+<node id="501733"/>
+<node id="366946"/>
+<node id="2478305"/>
+<node id="17448"/>
+<node id="17420"/>
+<node id="29006"/>
+<node id="504777"/>
+<edge id="815774-2587464-comp.laser-printers" source="815774" target="2587464">
+	<data key="topic">comp.laser-printers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="26068-504777-comp.laser-printers" source="26068" target="504777">
+	<data key="topic">comp.laser-printers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="592571-760767-comp.laser-printers" source="592571" target="760767">
+	<data key="topic">comp.laser-printers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="448276-760767-comp.laser-printers" source="448276" target="760767">
+	<data key="topic">comp.laser-printers</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="15191-815774-comp.laser-printers" source="15191" target="815774">
+	<data key="topic">comp.laser-printers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15191-2587464-comp.laser-printers" source="15191" target="2587464">
+	<data key="topic">comp.laser-printers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="587232-17420-comp.laser-printers" source="587232" target="17420">
+	<data key="topic">comp.laser-printers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="31965-2728566-comp.laser-printers" source="31965" target="2728566">
+	<data key="topic">comp.laser-printers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="688855-15168-comp.laser-printers" source="688855" target="15168">
+	<data key="topic">comp.laser-printers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2977-2728566-comp.laser-printers" source="2977" target="2728566">
+	<data key="topic">comp.laser-printers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="27458-2587462-comp.laser-printers" source="27458" target="2587462">
+	<data key="topic">comp.laser-printers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="501733-2587463-comp.laser-printers" source="501733" target="2587463">
+	<data key="topic">comp.laser-printers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="366946-1484567-comp.laser-printers" source="366946" target="1484567">
+	<data key="topic">comp.laser-printers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17448-504777-comp.laser-printers" source="17448" target="504777">
+	<data key="topic">comp.laser-printers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-2478305-comp.laser-printers" source="29006" target="2478305">
+	<data key="topic">comp.laser-printers</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

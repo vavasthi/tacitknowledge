@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="488727"/>
+<node id="918265"/>
+<node id="483089"/>
+<node id="1506128"/>
+<node id="541555"/>
+<node id="1124363"/>
+<node id="1768872"/>
+<node id="2849"/>
+<node id="18337"/>
+<node id="1506129"/>
+<node id="392653"/>
+<node id="446576"/>
+<node id="1768881"/>
+<node id="918598"/>
+<edge id="488727-18337-mod.legal" source="488727" target="18337">
+	<data key="topic">mod.legal</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="918265-1506128-mod.legal" source="918265" target="1506128">
+	<data key="topic">mod.legal</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="918265-446576-mod.legal" source="918265" target="446576">
+	<data key="topic">mod.legal</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1124363-541555-mod.legal" source="1124363" target="541555">
+	<data key="topic">mod.legal</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1124363-1768872-mod.legal" source="1124363" target="1768872">
+	<data key="topic">mod.legal</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2849-1506128-mod.legal" source="2849" target="1506128">
+	<data key="topic">mod.legal</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1506129-18337-mod.legal" source="1506129" target="18337">
+	<data key="topic">mod.legal</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392653-1768881-mod.legal" source="392653" target="1768881">
+	<data key="topic">mod.legal</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1768881-392653-mod.legal" source="1768881" target="392653">
+	<data key="topic">mod.legal</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="918598-483089-mod.legal" source="918598" target="483089">
+	<data key="topic">mod.legal</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

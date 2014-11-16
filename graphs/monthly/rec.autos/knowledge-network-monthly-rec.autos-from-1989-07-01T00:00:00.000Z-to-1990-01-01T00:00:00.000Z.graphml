@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="26035"/>
+<node id="698138"/>
+<node id="2154230"/>
+<node id="510066"/>
+<node id="609553"/>
+<node id="548660"/>
+<node id="445787"/>
+<node id="651541"/>
+<node id="575062"/>
+<node id="380059"/>
+<node id="3042"/>
+<node id="552555"/>
+<node id="814095"/>
+<node id="370888"/>
+<node id="744362"/>
+<node id="814032"/>
+<node id="1725120"/>
+<node id="737474"/>
+<node id="371183"/>
+<node id="1403551"/>
+<node id="422923"/>
+<node id="29006"/>
+<edge id="26035-552555-rec.autos" source="26035" target="552555">
+	<data key="topic">rec.autos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="698138-445787-rec.autos" source="698138" target="445787">
+	<data key="topic">rec.autos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="698138-3042-rec.autos" source="698138" target="3042">
+	<data key="topic">rec.autos</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2154230-651541-rec.autos" source="2154230" target="651541">
+	<data key="topic">rec.autos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2154230-814095-rec.autos" source="2154230" target="814095">
+	<data key="topic">rec.autos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2154230-29006-rec.autos" source="2154230" target="29006">
+	<data key="topic">rec.autos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510066-2154230-rec.autos" source="510066" target="2154230">
+	<data key="topic">rec.autos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510066-651541-rec.autos" source="510066" target="651541">
+	<data key="topic">rec.autos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510066-814095-rec.autos" source="510066" target="814095">
+	<data key="topic">rec.autos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510066-29006-rec.autos" source="510066" target="29006">
+	<data key="topic">rec.autos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="548660-814032-rec.autos" source="548660" target="814032">
+	<data key="topic">rec.autos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="445787-698138-rec.autos" source="445787" target="698138">
+	<data key="topic">rec.autos</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="445787-3042-rec.autos" source="445787" target="3042">
+	<data key="topic">rec.autos</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="445787-814095-rec.autos" source="445787" target="814095">
+	<data key="topic">rec.autos</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="445787-371183-rec.autos" source="445787" target="371183">
+	<data key="topic">rec.autos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="445787-1403551-rec.autos" source="445787" target="1403551">
+	<data key="topic">rec.autos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="651541-814095-rec.autos" source="651541" target="814095">
+	<data key="topic">rec.autos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="575062-3042-rec.autos" source="575062" target="3042">
+	<data key="topic">rec.autos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="575062-1403551-rec.autos" source="575062" target="1403551">
+	<data key="topic">rec.autos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="575062-422923-rec.autos" source="575062" target="422923">
+	<data key="topic">rec.autos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="380059-609553-rec.autos" source="380059" target="609553">
+	<data key="topic">rec.autos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="380059-814095-rec.autos" source="380059" target="814095">
+	<data key="topic">rec.autos</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="380059-370888-rec.autos" source="380059" target="370888">
+	<data key="topic">rec.autos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="552555-814032-rec.autos" source="552555" target="814032">
+	<data key="topic">rec.autos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="814095-2154230-rec.autos" source="814095" target="2154230">
+	<data key="topic">rec.autos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="814095-445787-rec.autos" source="814095" target="445787">
+	<data key="topic">rec.autos</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="814095-651541-rec.autos" source="814095" target="651541">
+	<data key="topic">rec.autos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="814095-371183-rec.autos" source="814095" target="371183">
+	<data key="topic">rec.autos</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="744362-3042-rec.autos" source="744362" target="3042">
+	<data key="topic">rec.autos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1725120-814095-rec.autos" source="1725120" target="814095">
+	<data key="topic">rec.autos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="737474-814095-rec.autos" source="737474" target="814095">
+	<data key="topic">rec.autos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="371183-814095-rec.autos" source="371183" target="814095">
+	<data key="topic">rec.autos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-2154230-rec.autos" source="29006" target="2154230">
+	<data key="topic">rec.autos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-651541-rec.autos" source="29006" target="651541">
+	<data key="topic">rec.autos</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="29006-814095-rec.autos" source="29006" target="814095">
+	<data key="topic">rec.autos</data>
+	<data key="weight">2</data>
+</edge>
+</graph>
+</graphml>

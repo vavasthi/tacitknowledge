@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="340485"/>
+<node id="338311"/>
+<node id="481394"/>
+<node id="485329"/>
+<node id="485851"/>
+<node id="658598"/>
+<edge id="340485-481394-net.games.rogue" source="340485" target="481394">
+	<data key="topic">net.games.rogue</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340485-485329-net.games.rogue" source="340485" target="485329">
+	<data key="topic">net.games.rogue</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340485-658598-net.games.rogue" source="340485" target="658598">
+	<data key="topic">net.games.rogue</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="485329-481394-net.games.rogue" source="485329" target="481394">
+	<data key="topic">net.games.rogue</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="485329-658598-net.games.rogue" source="485329" target="658598">
+	<data key="topic">net.games.rogue</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="485851-338311-net.games.rogue" source="485851" target="338311">
+	<data key="topic">net.games.rogue</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="485851-481394-net.games.rogue" source="485851" target="481394">
+	<data key="topic">net.games.rogue</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="485851-658598-net.games.rogue" source="485851" target="658598">
+	<data key="topic">net.games.rogue</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

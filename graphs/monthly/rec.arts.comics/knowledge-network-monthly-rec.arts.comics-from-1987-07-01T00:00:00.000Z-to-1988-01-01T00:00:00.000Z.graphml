@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2849"/>
+<node id="725708"/>
+<node id="1483367"/>
+<node id="395446"/>
+<node id="733369"/>
+<node id="2004334"/>
+<node id="2750619"/>
+<node id="23448"/>
+<node id="446763"/>
+<edge id="2849-23448-rec.arts.comics" source="2849" target="23448">
+	<data key="topic">rec.arts.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1483367-23448-rec.arts.comics" source="1483367" target="23448">
+	<data key="topic">rec.arts.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1483367-446763-rec.arts.comics" source="1483367" target="446763">
+	<data key="topic">rec.arts.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="395446-23448-rec.arts.comics" source="395446" target="23448">
+	<data key="topic">rec.arts.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="733369-725708-rec.arts.comics" source="733369" target="725708">
+	<data key="topic">rec.arts.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="733369-2004334-rec.arts.comics" source="733369" target="2004334">
+	<data key="topic">rec.arts.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2750619-1483367-rec.arts.comics" source="2750619" target="1483367">
+	<data key="topic">rec.arts.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2750619-23448-rec.arts.comics" source="2750619" target="23448">
+	<data key="topic">rec.arts.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2750619-446763-rec.arts.comics" source="2750619" target="446763">
+	<data key="topic">rec.arts.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23448-446763-rec.arts.comics" source="23448" target="446763">
+	<data key="topic">rec.arts.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="446763-23448-rec.arts.comics" source="446763" target="23448">
+	<data key="topic">rec.arts.comics</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

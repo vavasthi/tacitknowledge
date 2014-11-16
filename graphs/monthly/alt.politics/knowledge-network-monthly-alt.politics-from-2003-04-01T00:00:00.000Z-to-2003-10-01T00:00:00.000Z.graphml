@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="44977"/>
+<node id="46533"/>
+<node id="152216"/>
+<node id="154150"/>
+<node id="46249"/>
+<node id="112474"/>
+<node id="42461"/>
+<node id="153616"/>
+<node id="152912"/>
+<node id="153136"/>
+<node id="41055"/>
+<node id="71424"/>
+<edge id="46249-152216-alt.politics" source="46249" target="152216">
+	<data key="topic">alt.politics</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="46249-42461-alt.politics" source="46249" target="42461">
+	<data key="topic">alt.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="46249-153616-alt.politics" source="46249" target="153616">
+	<data key="topic">alt.politics</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="46249-152912-alt.politics" source="46249" target="152912">
+	<data key="topic">alt.politics</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="46249-153136-alt.politics" source="46249" target="153136">
+	<data key="topic">alt.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="46249-41055-alt.politics" source="46249" target="41055">
+	<data key="topic">alt.politics</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="112474-44977-alt.politics" source="112474" target="44977">
+	<data key="topic">alt.politics</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="112474-152216-alt.politics" source="112474" target="152216">
+	<data key="topic">alt.politics</data>
+	<data key="weight">6</data>
+</edge>
+<edge id="112474-154150-alt.politics" source="112474" target="154150">
+	<data key="topic">alt.politics</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="112474-46249-alt.politics" source="112474" target="46249">
+	<data key="topic">alt.politics</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="112474-153616-alt.politics" source="112474" target="153616">
+	<data key="topic">alt.politics</data>
+	<data key="weight">7</data>
+</edge>
+<edge id="112474-152912-alt.politics" source="112474" target="152912">
+	<data key="topic">alt.politics</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="112474-41055-alt.politics" source="112474" target="41055">
+	<data key="topic">alt.politics</data>
+	<data key="weight">6</data>
+</edge>
+<edge id="71424-46533-alt.politics" source="71424" target="46533">
+	<data key="topic">alt.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="71424-46249-alt.politics" source="71424" target="46249">
+	<data key="topic">alt.politics</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="71424-152912-alt.politics" source="71424" target="152912">
+	<data key="topic">alt.politics</data>
+	<data key="weight">3</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="26035"/>
+<node id="552555"/>
+<node id="814032"/>
+<node id="1206"/>
+<node id="1175"/>
+<node id="550576"/>
+<node id="556980"/>
+<node id="548660"/>
+<node id="511642"/>
+<edge id="26035-552555-rec.autos.tech" source="26035" target="552555">
+	<data key="topic">rec.autos.tech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="552555-814032-rec.autos.tech" source="552555" target="814032">
+	<data key="topic">rec.autos.tech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1206-556980-rec.autos.tech" source="1206" target="556980">
+	<data key="topic">rec.autos.tech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1206-511642-rec.autos.tech" source="1206" target="511642">
+	<data key="topic">rec.autos.tech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1175-1206-rec.autos.tech" source="1175" target="1206">
+	<data key="topic">rec.autos.tech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1175-550576-rec.autos.tech" source="1175" target="550576">
+	<data key="topic">rec.autos.tech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1175-556980-rec.autos.tech" source="1175" target="556980">
+	<data key="topic">rec.autos.tech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1175-511642-rec.autos.tech" source="1175" target="511642">
+	<data key="topic">rec.autos.tech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="556980-511642-rec.autos.tech" source="556980" target="511642">
+	<data key="topic">rec.autos.tech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="548660-814032-rec.autos.tech" source="548660" target="814032">
+	<data key="topic">rec.autos.tech</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1499688"/>
+<node id="1576522"/>
+<node id="393957"/>
+<node id="1507043"/>
+<node id="488816"/>
+<node id="391709"/>
+<node id="1364478"/>
+<node id="464253"/>
+<node id="451979"/>
+<node id="29006"/>
+<edge id="1576522-464253-net.micro.ti" source="1576522" target="464253">
+	<data key="topic">net.micro.ti</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="393957-1499688-net.micro.ti" source="393957" target="1499688">
+	<data key="topic">net.micro.ti</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="393957-1507043-net.micro.ti" source="393957" target="1507043">
+	<data key="topic">net.micro.ti</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1507043-1499688-net.micro.ti" source="1507043" target="1499688">
+	<data key="topic">net.micro.ti</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="488816-1364478-net.micro.ti" source="488816" target="1364478">
+	<data key="topic">net.micro.ti</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="488816-451979-net.micro.ti" source="488816" target="451979">
+	<data key="topic">net.micro.ti</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391709-1499688-net.micro.ti" source="391709" target="1499688">
+	<data key="topic">net.micro.ti</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-1499688-net.micro.ti" source="29006" target="1499688">
+	<data key="topic">net.micro.ti</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-391709-net.micro.ti" source="29006" target="391709">
+	<data key="topic">net.micro.ti</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

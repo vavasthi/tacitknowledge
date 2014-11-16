@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="348214"/>
+<node id="357525"/>
+<node id="2931"/>
+<node id="357592"/>
+<node id="2901"/>
+<node id="371777"/>
+<node id="510322"/>
+<node id="2936"/>
+<node id="414174"/>
+<node id="348748"/>
+<edge id="348214-357525-eunet.micro.acorn" source="348214" target="357525">
+	<data key="topic">eunet.micro.acorn</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348214-357592-eunet.micro.acorn" source="348214" target="357592">
+	<data key="topic">eunet.micro.acorn</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348214-371777-eunet.micro.acorn" source="348214" target="371777">
+	<data key="topic">eunet.micro.acorn</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348214-2936-eunet.micro.acorn" source="348214" target="2936">
+	<data key="topic">eunet.micro.acorn</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2931-414174-eunet.micro.acorn" source="2931" target="414174">
+	<data key="topic">eunet.micro.acorn</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2901-348748-eunet.micro.acorn" source="2901" target="348748">
+	<data key="topic">eunet.micro.acorn</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510322-2901-eunet.micro.acorn" source="510322" target="2901">
+	<data key="topic">eunet.micro.acorn</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510322-348748-eunet.micro.acorn" source="510322" target="348748">
+	<data key="topic">eunet.micro.acorn</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

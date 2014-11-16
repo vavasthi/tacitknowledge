@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="394935"/>
+<node id="395703"/>
+<node id="394134"/>
+<node id="391186"/>
+<node id="395444"/>
+<node id="1550659"/>
+<node id="19930"/>
+<node id="33085"/>
+<node id="16063"/>
+<node id="21311"/>
+<node id="390790"/>
+<node id="395525"/>
+<node id="16837"/>
+<node id="918732"/>
+<node id="1550559"/>
+<node id="1545181"/>
+<node id="341676"/>
+<node id="724198"/>
+<node id="391275"/>
+<edge id="394935-19930-rec.games.rogue" source="394935" target="19930">
+	<data key="topic">rec.games.rogue</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="394935-33085-rec.games.rogue" source="394935" target="33085">
+	<data key="topic">rec.games.rogue</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="395703-33085-rec.games.rogue" source="395703" target="33085">
+	<data key="topic">rec.games.rogue</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="395703-21311-rec.games.rogue" source="395703" target="21311">
+	<data key="topic">rec.games.rogue</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="395703-395525-rec.games.rogue" source="395703" target="395525">
+	<data key="topic">rec.games.rogue</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="394134-21311-rec.games.rogue" source="394134" target="21311">
+	<data key="topic">rec.games.rogue</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="394134-395525-rec.games.rogue" source="394134" target="395525">
+	<data key="topic">rec.games.rogue</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391186-33085-rec.games.rogue" source="391186" target="33085">
+	<data key="topic">rec.games.rogue</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="391186-1550559-rec.games.rogue" source="391186" target="1550559">
+	<data key="topic">rec.games.rogue</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="395444-21311-rec.games.rogue" source="395444" target="21311">
+	<data key="topic">rec.games.rogue</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1550659-33085-rec.games.rogue" source="1550659" target="33085">
+	<data key="topic">rec.games.rogue</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1550659-1550559-rec.games.rogue" source="1550659" target="1550559">
+	<data key="topic">rec.games.rogue</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19930-33085-rec.games.rogue" source="19930" target="33085">
+	<data key="topic">rec.games.rogue</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390790-394935-rec.games.rogue" source="390790" target="394935">
+	<data key="topic">rec.games.rogue</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390790-19930-rec.games.rogue" source="390790" target="19930">
+	<data key="topic">rec.games.rogue</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390790-33085-rec.games.rogue" source="390790" target="33085">
+	<data key="topic">rec.games.rogue</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="395525-21311-rec.games.rogue" source="395525" target="21311">
+	<data key="topic">rec.games.rogue</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16837-341676-rec.games.rogue" source="16837" target="341676">
+	<data key="topic">rec.games.rogue</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="918732-33085-rec.games.rogue" source="918732" target="33085">
+	<data key="topic">rec.games.rogue</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="918732-1550559-rec.games.rogue" source="918732" target="1550559">
+	<data key="topic">rec.games.rogue</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1550559-33085-rec.games.rogue" source="1550559" target="33085">
+	<data key="topic">rec.games.rogue</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1545181-16063-rec.games.rogue" source="1545181" target="16063">
+	<data key="topic">rec.games.rogue</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1545181-724198-rec.games.rogue" source="1545181" target="724198">
+	<data key="topic">rec.games.rogue</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="724198-16063-rec.games.rogue" source="724198" target="16063">
+	<data key="topic">rec.games.rogue</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391275-16063-rec.games.rogue" source="391275" target="16063">
+	<data key="topic">rec.games.rogue</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391275-724198-rec.games.rogue" source="391275" target="724198">
+	<data key="topic">rec.games.rogue</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

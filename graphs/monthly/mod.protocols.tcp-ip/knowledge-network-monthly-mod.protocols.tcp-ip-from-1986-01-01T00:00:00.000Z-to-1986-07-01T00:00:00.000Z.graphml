@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="397271"/>
+<node id="1625386"/>
+<node id="1625387"/>
+<node id="486738"/>
+<node id="1625327"/>
+<node id="1625391"/>
+<node id="918618"/>
+<node id="1625392"/>
+<node id="1324653"/>
+<node id="1506093"/>
+<node id="1625316"/>
+<node id="1505966"/>
+<node id="1625380"/>
+<node id="1625382"/>
+<node id="1124400"/>
+<node id="1625319"/>
+<node id="1625384"/>
+<node id="1625369"/>
+<node id="390181"/>
+<node id="1506072"/>
+<node id="483046"/>
+<node id="483054"/>
+<node id="483053"/>
+<node id="977763"/>
+<node id="1625365"/>
+<node id="1625367"/>
+<node id="1625353"/>
+<node id="1625418"/>
+<node id="23669"/>
+<node id="1506051"/>
+<node id="482943"/>
+<node id="483071"/>
+<node id="1625347"/>
+<node id="1506062"/>
+<node id="1625349"/>
+<node id="489467"/>
+<node id="1023346"/>
+<node id="1505737"/>
+<node id="390082"/>
+<node id="1625342"/>
+<node id="1625329"/>
+<node id="1625330"/>
+<node id="1625332"/>
+<node id="1506043"/>
+<edge id="397271-483046-mod.protocols.tcp-ip" source="397271" target="483046">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1625387-1625367-mod.protocols.tcp-ip" source="1625387" target="1625367">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="486738-483053-mod.protocols.tcp-ip" source="486738" target="483053">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="918618-1625386-mod.protocols.tcp-ip" source="918618" target="1625386">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="918618-483046-mod.protocols.tcp-ip" source="918618" target="483046">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="918618-1506051-mod.protocols.tcp-ip" source="918618" target="1506051">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="918618-1625332-mod.protocols.tcp-ip" source="918618" target="1625332">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1506093-977763-mod.protocols.tcp-ip" source="1506093" target="977763">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1625316-918618-mod.protocols.tcp-ip" source="1625316" target="918618">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1625316-1625367-mod.protocols.tcp-ip" source="1625316" target="1625367">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1625316-23669-mod.protocols.tcp-ip" source="1625316" target="23669">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1625316-1625349-mod.protocols.tcp-ip" source="1625316" target="1625349">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1625316-1506043-mod.protocols.tcp-ip" source="1625316" target="1506043">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1505966-1625382-mod.protocols.tcp-ip" source="1505966" target="1625382">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1505966-1625332-mod.protocols.tcp-ip" source="1505966" target="1625332">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1124400-483046-mod.protocols.tcp-ip" source="1124400" target="483046">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1625319-1625332-mod.protocols.tcp-ip" source="1625319" target="1625332">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1625384-1625391-mod.protocols.tcp-ip" source="1625384" target="1625391">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1506072-1625380-mod.protocols.tcp-ip" source="1506072" target="1625380">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="483046-918618-mod.protocols.tcp-ip" source="483046" target="918618">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="483046-1124400-mod.protocols.tcp-ip" source="483046" target="1124400">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="483054-1625329-mod.protocols.tcp-ip" source="483054" target="1625329">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="483053-486738-mod.protocols.tcp-ip" source="483053" target="486738">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="483053-1324653-mod.protocols.tcp-ip" source="483053" target="1324653">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="483053-1625347-mod.protocols.tcp-ip" source="483053" target="1625347">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="483053-1625349-mod.protocols.tcp-ip" source="483053" target="1625349">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1625365-1625353-mod.protocols.tcp-ip" source="1625365" target="1625353">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1625367-1506072-mod.protocols.tcp-ip" source="1625367" target="1506072">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1625418-1625392-mod.protocols.tcp-ip" source="1625418" target="1625392">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23669-1625316-mod.protocols.tcp-ip" source="23669" target="1625316">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="482943-483053-mod.protocols.tcp-ip" source="482943" target="483053">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="483071-489467-mod.protocols.tcp-ip" source="483071" target="489467">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1506062-1625369-mod.protocols.tcp-ip" source="1506062" target="1625369">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1023346-390181-mod.protocols.tcp-ip" source="1023346" target="390181">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1505737-1625327-mod.protocols.tcp-ip" source="1505737" target="1625327">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390082-1625332-mod.protocols.tcp-ip" source="390082" target="1625332">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1625342-1625327-mod.protocols.tcp-ip" source="1625342" target="1625327">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1625330-390181-mod.protocols.tcp-ip" source="1625330" target="390181">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1625332-1625316-mod.protocols.tcp-ip" source="1625332" target="1625316">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1625332-1625319-mod.protocols.tcp-ip" source="1625332" target="1625319">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1625332-390082-mod.protocols.tcp-ip" source="1625332" target="390082">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1625332-1506043-mod.protocols.tcp-ip" source="1625332" target="1506043">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1506043-486738-mod.protocols.tcp-ip" source="1506043" target="486738">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1506043-1625316-mod.protocols.tcp-ip" source="1506043" target="1625316">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

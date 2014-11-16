@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="358056"/>
+<node id="353368"/>
+<node id="374"/>
+<node id="557198"/>
+<node id="6135"/>
+<node id="880652"/>
+<node id="381454"/>
+<node id="424271"/>
+<node id="359789"/>
+<node id="359980"/>
+<edge id="353368-880652-alt.bbs.internet" source="353368" target="880652">
+	<data key="topic">alt.bbs.internet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="374-358056-alt.bbs.internet" source="374" target="358056">
+	<data key="topic">alt.bbs.internet</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="557198-381454-alt.bbs.internet" source="557198" target="381454">
+	<data key="topic">alt.bbs.internet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="6135-381454-alt.bbs.internet" source="6135" target="381454">
+	<data key="topic">alt.bbs.internet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="6135-424271-alt.bbs.internet" source="6135" target="424271">
+	<data key="topic">alt.bbs.internet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="6135-359789-alt.bbs.internet" source="6135" target="359789">
+	<data key="topic">alt.bbs.internet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="424271-557198-alt.bbs.internet" source="424271" target="557198">
+	<data key="topic">alt.bbs.internet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="424271-381454-alt.bbs.internet" source="424271" target="381454">
+	<data key="topic">alt.bbs.internet</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="359789-557198-alt.bbs.internet" source="359789" target="557198">
+	<data key="topic">alt.bbs.internet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="359789-6135-alt.bbs.internet" source="359789" target="6135">
+	<data key="topic">alt.bbs.internet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="359789-381454-alt.bbs.internet" source="359789" target="381454">
+	<data key="topic">alt.bbs.internet</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="359789-424271-alt.bbs.internet" source="359789" target="424271">
+	<data key="topic">alt.bbs.internet</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="359980-557198-alt.bbs.internet" source="359980" target="557198">
+	<data key="topic">alt.bbs.internet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="359980-381454-alt.bbs.internet" source="359980" target="381454">
+	<data key="topic">alt.bbs.internet</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="359980-424271-alt.bbs.internet" source="359980" target="424271">
+	<data key="topic">alt.bbs.internet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="359980-359789-alt.bbs.internet" source="359980" target="359789">
+	<data key="topic">alt.bbs.internet</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

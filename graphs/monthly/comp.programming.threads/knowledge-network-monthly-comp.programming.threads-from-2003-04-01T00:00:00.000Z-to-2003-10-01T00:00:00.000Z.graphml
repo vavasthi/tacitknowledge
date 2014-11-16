@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2184913"/>
+<node id="2176568"/>
+<node id="2200152"/>
+<node id="2193751"/>
+<node id="2200059"/>
+<node id="170720"/>
+<node id="170717"/>
+<node id="2200032"/>
+<node id="2176289"/>
+<node id="217731"/>
+<node id="2176230"/>
+<node id="2208550"/>
+<node id="205712"/>
+<edge id="2184913-2193751-comp.programming.threads" source="2184913" target="2193751">
+	<data key="topic">comp.programming.threads</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2184913-2208550-comp.programming.threads" source="2184913" target="2208550">
+	<data key="topic">comp.programming.threads</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2176568-2176289-comp.programming.threads" source="2176568" target="2176289">
+	<data key="topic">comp.programming.threads</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="170720-2176568-comp.programming.threads" source="170720" target="2176568">
+	<data key="topic">comp.programming.threads</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="170720-2176289-comp.programming.threads" source="170720" target="2176289">
+	<data key="topic">comp.programming.threads</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="170720-2176230-comp.programming.threads" source="170720" target="2176230">
+	<data key="topic">comp.programming.threads</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="170717-2193751-comp.programming.threads" source="170717" target="2193751">
+	<data key="topic">comp.programming.threads</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="170717-2200059-comp.programming.threads" source="170717" target="2200059">
+	<data key="topic">comp.programming.threads</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2200032-2193751-comp.programming.threads" source="2200032" target="2193751">
+	<data key="topic">comp.programming.threads</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2200032-2200059-comp.programming.threads" source="2200032" target="2200059">
+	<data key="topic">comp.programming.threads</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2176289-2176568-comp.programming.threads" source="2176289" target="2176568">
+	<data key="topic">comp.programming.threads</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2176289-2176230-comp.programming.threads" source="2176289" target="2176230">
+	<data key="topic">comp.programming.threads</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="217731-2200152-comp.programming.threads" source="217731" target="2200152">
+	<data key="topic">comp.programming.threads</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="217731-2193751-comp.programming.threads" source="217731" target="2193751">
+	<data key="topic">comp.programming.threads</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="205712-2176568-comp.programming.threads" source="205712" target="2176568">
+	<data key="topic">comp.programming.threads</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="205712-2176289-comp.programming.threads" source="205712" target="2176289">
+	<data key="topic">comp.programming.threads</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="205712-2176230-comp.programming.threads" source="205712" target="2176230">
+	<data key="topic">comp.programming.threads</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

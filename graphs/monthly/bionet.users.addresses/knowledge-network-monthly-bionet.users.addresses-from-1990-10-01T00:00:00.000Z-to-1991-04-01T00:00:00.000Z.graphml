@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="621338"/>
+<node id="375958"/>
+<node id="877117"/>
+<node id="375960"/>
+<node id="347896"/>
+<node id="362194"/>
+<node id="877114"/>
+<node id="362226"/>
+<node id="1225160"/>
+<node id="247"/>
+<node id="1172359"/>
+<node id="400384"/>
+<node id="1225161"/>
+<node id="1441870"/>
+<node id="446043"/>
+<node id="1215632"/>
+<node id="1225165"/>
+<node id="224"/>
+<node id="261"/>
+<node id="350465"/>
+<node id="235"/>
+<node id="362218"/>
+<node id="8494"/>
+<node id="272"/>
+<edge id="375960-375958-bionet.users.addresses" source="375960" target="375958">
+	<data key="topic">bionet.users.addresses</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="375960-1225161-bionet.users.addresses" source="375960" target="1225161">
+	<data key="topic">bionet.users.addresses</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="375960-1225165-bionet.users.addresses" source="375960" target="1225165">
+	<data key="topic">bionet.users.addresses</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347896-375958-bionet.users.addresses" source="347896" target="375958">
+	<data key="topic">bionet.users.addresses</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347896-375960-bionet.users.addresses" source="347896" target="375960">
+	<data key="topic">bionet.users.addresses</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347896-362218-bionet.users.addresses" source="347896" target="362218">
+	<data key="topic">bionet.users.addresses</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="247-877114-bionet.users.addresses" source="247" target="877114">
+	<data key="topic">bionet.users.addresses</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="247-1441870-bionet.users.addresses" source="247" target="1441870">
+	<data key="topic">bionet.users.addresses</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="400384-362226-bionet.users.addresses" source="400384" target="362226">
+	<data key="topic">bionet.users.addresses</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="446043-1225165-bionet.users.addresses" source="446043" target="1225165">
+	<data key="topic">bionet.users.addresses</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="224-362194-bionet.users.addresses" source="224" target="362194">
+	<data key="topic">bionet.users.addresses</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="224-1225160-bionet.users.addresses" source="224" target="1225160">
+	<data key="topic">bionet.users.addresses</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="224-1172359-bionet.users.addresses" source="224" target="1172359">
+	<data key="topic">bionet.users.addresses</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="224-1215632-bionet.users.addresses" source="224" target="1215632">
+	<data key="topic">bionet.users.addresses</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="224-261-bionet.users.addresses" source="224" target="261">
+	<data key="topic">bionet.users.addresses</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="350465-877117-bionet.users.addresses" source="350465" target="877117">
+	<data key="topic">bionet.users.addresses</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="235-621338-bionet.users.addresses" source="235" target="621338">
+	<data key="topic">bionet.users.addresses</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="235-224-bionet.users.addresses" source="235" target="224">
+	<data key="topic">bionet.users.addresses</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="235-261-bionet.users.addresses" source="235" target="261">
+	<data key="topic">bionet.users.addresses</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362218-375958-bionet.users.addresses" source="362218" target="375958">
+	<data key="topic">bionet.users.addresses</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362218-375960-bionet.users.addresses" source="362218" target="375960">
+	<data key="topic">bionet.users.addresses</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="8494-375960-bionet.users.addresses" source="8494" target="375960">
+	<data key="topic">bionet.users.addresses</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="8494-1225165-bionet.users.addresses" source="8494" target="1225165">
+	<data key="topic">bionet.users.addresses</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="272-261-bionet.users.addresses" source="272" target="261">
+	<data key="topic">bionet.users.addresses</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="272-235-bionet.users.addresses" source="272" target="235">
+	<data key="topic">bionet.users.addresses</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

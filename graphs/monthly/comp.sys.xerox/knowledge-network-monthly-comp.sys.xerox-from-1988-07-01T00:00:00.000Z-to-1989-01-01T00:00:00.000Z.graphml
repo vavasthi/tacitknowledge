@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="613370"/>
+<node id="1428967"/>
+<node id="1161379"/>
+<node id="10103"/>
+<node id="501649"/>
+<node id="751997"/>
+<node id="365727"/>
+<node id="18622"/>
+<node id="18623"/>
+<node id="518937"/>
+<node id="512584"/>
+<node id="30531"/>
+<node id="672143"/>
+<node id="619076"/>
+<node id="688935"/>
+<node id="501644"/>
+<node id="429961"/>
+<node id="2876773"/>
+<edge id="10103-613370-comp.sys.xerox" source="10103" target="613370">
+	<data key="topic">comp.sys.xerox</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10103-501649-comp.sys.xerox" source="10103" target="501649">
+	<data key="topic">comp.sys.xerox</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="501649-501644-comp.sys.xerox" source="501649" target="501644">
+	<data key="topic">comp.sys.xerox</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="751997-1161379-comp.sys.xerox" source="751997" target="1161379">
+	<data key="topic">comp.sys.xerox</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18623-365727-comp.sys.xerox" source="18623" target="365727">
+	<data key="topic">comp.sys.xerox</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18623-18622-comp.sys.xerox" source="18623" target="18622">
+	<data key="topic">comp.sys.xerox</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="518937-10103-comp.sys.xerox" source="518937" target="10103">
+	<data key="topic">comp.sys.xerox</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30531-501649-comp.sys.xerox" source="30531" target="501649">
+	<data key="topic">comp.sys.xerox</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="672143-1428967-comp.sys.xerox" source="672143" target="1428967">
+	<data key="topic">comp.sys.xerox</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="619076-518937-comp.sys.xerox" source="619076" target="518937">
+	<data key="topic">comp.sys.xerox</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="619076-512584-comp.sys.xerox" source="619076" target="512584">
+	<data key="topic">comp.sys.xerox</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="501644-501649-comp.sys.xerox" source="501644" target="501649">
+	<data key="topic">comp.sys.xerox</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="429961-688935-comp.sys.xerox" source="429961" target="688935">
+	<data key="topic">comp.sys.xerox</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2876773-518937-comp.sys.xerox" source="2876773" target="518937">
+	<data key="topic">comp.sys.xerox</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1575115"/>
+<node id="1575118"/>
+<node id="339252"/>
+<node id="919418"/>
+<node id="338686"/>
+<node id="1123373"/>
+<node id="339046"/>
+<node id="1769724"/>
+<node id="15971"/>
+<node id="1506613"/>
+<node id="1769722"/>
+<node id="1091925"/>
+<node id="1136406"/>
+<node id="491938"/>
+<node id="919429"/>
+<node id="919425"/>
+<edge id="1575118-339252-net.railroad" source="1575118" target="339252">
+	<data key="topic">net.railroad</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1575118-919429-net.railroad" source="1575118" target="919429">
+	<data key="topic">net.railroad</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919418-338686-net.railroad" source="919418" target="338686">
+	<data key="topic">net.railroad</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338686-1575115-net.railroad" source="338686" target="1575115">
+	<data key="topic">net.railroad</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338686-339046-net.railroad" source="338686" target="339046">
+	<data key="topic">net.railroad</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338686-1506613-net.railroad" source="338686" target="1506613">
+	<data key="topic">net.railroad</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1123373-491938-net.railroad" source="1123373" target="491938">
+	<data key="topic">net.railroad</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1769724-1769722-net.railroad" source="1769724" target="1769722">
+	<data key="topic">net.railroad</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1769724-1136406-net.railroad" source="1769724" target="1136406">
+	<data key="topic">net.railroad</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15971-1091925-net.railroad" source="15971" target="1091925">
+	<data key="topic">net.railroad</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1506613-338686-net.railroad" source="1506613" target="338686">
+	<data key="topic">net.railroad</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="460661"/>
+<node id="524894"/>
+<node id="601905"/>
+<node id="467038"/>
+<node id="1756161"/>
+<node id="337599"/>
+<node id="338527"/>
+<node id="340287"/>
+<node id="600083"/>
+<node id="982003"/>
+<node id="490693"/>
+<node id="488675"/>
+<node id="344676"/>
+<node id="36650"/>
+<node id="524999"/>
+<edge id="524894-340287-net.micro.6809" source="524894" target="340287">
+	<data key="topic">net.micro.6809</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="601905-1756161-net.micro.6809" source="601905" target="1756161">
+	<data key="topic">net.micro.6809</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="467038-340287-net.micro.6809" source="467038" target="340287">
+	<data key="topic">net.micro.6809</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337599-338527-net.micro.6809" source="337599" target="338527">
+	<data key="topic">net.micro.6809</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="982003-524999-net.micro.6809" source="982003" target="524999">
+	<data key="topic">net.micro.6809</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="490693-600083-net.micro.6809" source="490693" target="600083">
+	<data key="topic">net.micro.6809</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="488675-340287-net.micro.6809" source="488675" target="340287">
+	<data key="topic">net.micro.6809</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="344676-340287-net.micro.6809" source="344676" target="340287">
+	<data key="topic">net.micro.6809</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36650-460661-net.micro.6809" source="36650" target="460661">
+	<data key="topic">net.micro.6809</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

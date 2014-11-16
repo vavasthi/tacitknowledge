@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="654458"/>
+<node id="341617"/>
+<node id="484050"/>
+<node id="490545"/>
+<node id="341375"/>
+<node id="626515"/>
+<node id="625142"/>
+<node id="524790"/>
+<node id="2168288"/>
+<node id="461177"/>
+<node id="338917"/>
+<node id="774443"/>
+<node id="527307"/>
+<node id="464997"/>
+<node id="524749"/>
+<node id="568749"/>
+<node id="960972"/>
+<node id="521730"/>
+<node id="531939"/>
+<node id="341643"/>
+<node id="497033"/>
+<edge id="484050-341617-net.tv.soaps" source="484050" target="341617">
+	<data key="topic">net.tv.soaps</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="490545-341375-net.tv.soaps" source="490545" target="341375">
+	<data key="topic">net.tv.soaps</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="341375-524790-net.tv.soaps" source="341375" target="524790">
+	<data key="topic">net.tv.soaps</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="625142-341375-net.tv.soaps" source="625142" target="341375">
+	<data key="topic">net.tv.soaps</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="524790-341375-net.tv.soaps" source="524790" target="341375">
+	<data key="topic">net.tv.soaps</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="524790-497033-net.tv.soaps" source="524790" target="497033">
+	<data key="topic">net.tv.soaps</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2168288-654458-net.tv.soaps" source="2168288" target="654458">
+	<data key="topic">net.tv.soaps</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="338917-341375-net.tv.soaps" source="338917" target="341375">
+	<data key="topic">net.tv.soaps</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338917-464997-net.tv.soaps" source="338917" target="464997">
+	<data key="topic">net.tv.soaps</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="774443-626515-net.tv.soaps" source="774443" target="626515">
+	<data key="topic">net.tv.soaps</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="527307-960972-net.tv.soaps" source="527307" target="960972">
+	<data key="topic">net.tv.soaps</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="524749-524790-net.tv.soaps" source="524749" target="524790">
+	<data key="topic">net.tv.soaps</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="524749-497033-net.tv.soaps" source="524749" target="497033">
+	<data key="topic">net.tv.soaps</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="568749-338917-net.tv.soaps" source="568749" target="338917">
+	<data key="topic">net.tv.soaps</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521730-461177-net.tv.soaps" source="521730" target="461177">
+	<data key="topic">net.tv.soaps</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="531939-338917-net.tv.soaps" source="531939" target="338917">
+	<data key="topic">net.tv.soaps</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="531939-568749-net.tv.soaps" source="531939" target="568749">
+	<data key="topic">net.tv.soaps</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341643-341617-net.tv.soaps" source="341643" target="341617">
+	<data key="topic">net.tv.soaps</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

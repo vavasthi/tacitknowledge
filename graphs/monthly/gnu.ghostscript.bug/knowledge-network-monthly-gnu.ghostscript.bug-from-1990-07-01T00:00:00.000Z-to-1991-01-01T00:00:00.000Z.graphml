@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1459031"/>
+<node id="350391"/>
+<node id="559452"/>
+<node id="421"/>
+<node id="644861"/>
+<node id="1723629"/>
+<node id="543728"/>
+<node id="2650"/>
+<node id="1723653"/>
+<node id="787732"/>
+<edge id="350391-1459031-gnu.ghostscript.bug" source="350391" target="1459031">
+	<data key="topic">gnu.ghostscript.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350391-421-gnu.ghostscript.bug" source="350391" target="421">
+	<data key="topic">gnu.ghostscript.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350391-2650-gnu.ghostscript.bug" source="350391" target="2650">
+	<data key="topic">gnu.ghostscript.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="559452-543728-gnu.ghostscript.bug" source="559452" target="543728">
+	<data key="topic">gnu.ghostscript.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="559452-1723653-gnu.ghostscript.bug" source="559452" target="1723653">
+	<data key="topic">gnu.ghostscript.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="559452-787732-gnu.ghostscript.bug" source="559452" target="787732">
+	<data key="topic">gnu.ghostscript.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="644861-1723629-gnu.ghostscript.bug" source="644861" target="1723629">
+	<data key="topic">gnu.ghostscript.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="543728-787732-gnu.ghostscript.bug" source="543728" target="787732">
+	<data key="topic">gnu.ghostscript.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1723653-543728-gnu.ghostscript.bug" source="1723653" target="543728">
+	<data key="topic">gnu.ghostscript.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1723653-787732-gnu.ghostscript.bug" source="1723653" target="787732">
+	<data key="topic">gnu.ghostscript.bug</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

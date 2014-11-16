@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1152738"/>
+<node id="10899"/>
+<node id="572189"/>
+<node id="5910"/>
+<node id="1788591"/>
+<node id="2849"/>
+<node id="3429"/>
+<node id="8935"/>
+<node id="366127"/>
+<node id="685"/>
+<node id="1798540"/>
+<node id="586560"/>
+<node id="2812"/>
+<node id="644595"/>
+<node id="819505"/>
+<node id="553335"/>
+<node id="363771"/>
+<node id="4673"/>
+<node id="9990"/>
+<node id="14791"/>
+<node id="347971"/>
+<node id="353550"/>
+<node id="347725"/>
+<node id="572165"/>
+<node id="831041"/>
+<node id="1302591"/>
+<node id="6350"/>
+<node id="363020"/>
+<edge id="1152738-572165-alt.drugs" source="1152738" target="572165">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10899-14791-alt.drugs" source="10899" target="14791">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="572189-1788591-alt.drugs" source="572189" target="1788591">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5910-1788591-alt.drugs" source="5910" target="1788591">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1788591-1152738-alt.drugs" source="1788591" target="1152738">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1788591-363771-alt.drugs" source="1788591" target="363771">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1788591-347725-alt.drugs" source="1788591" target="347725">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1788591-572165-alt.drugs" source="1788591" target="572165">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2849-2812-alt.drugs" source="2849" target="2812">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2849-644595-alt.drugs" source="2849" target="644595">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2849-1302591-alt.drugs" source="2849" target="1302591">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3429-1798540-alt.drugs" source="3429" target="1798540">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3429-14791-alt.drugs" source="3429" target="14791">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="8935-363771-alt.drugs" source="8935" target="363771">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="366127-572165-alt.drugs" source="366127" target="572165">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="685-363771-alt.drugs" source="685" target="363771">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="553335-363771-alt.drugs" source="553335" target="363771">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="363771-1788591-alt.drugs" source="363771" target="1788591">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="363771-685-alt.drugs" source="363771" target="685">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="363771-831041-alt.drugs" source="363771" target="831041">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4673-2849-alt.drugs" source="4673" target="2849">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4673-2812-alt.drugs" source="4673" target="2812">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4673-644595-alt.drugs" source="4673" target="644595">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="9990-1788591-alt.drugs" source="9990" target="1788591">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="9990-2849-alt.drugs" source="9990" target="2849">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="9990-2812-alt.drugs" source="9990" target="2812">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="9990-644595-alt.drugs" source="9990" target="644595">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="9990-572165-alt.drugs" source="9990" target="572165">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="9990-1302591-alt.drugs" source="9990" target="1302591">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347971-1788591-alt.drugs" source="347971" target="1788591">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347971-819505-alt.drugs" source="347971" target="819505">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="353550-586560-alt.drugs" source="353550" target="586560">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347725-363771-alt.drugs" source="347725" target="363771">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="6350-1152738-alt.drugs" source="6350" target="1152738">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="6350-572165-alt.drugs" source="6350" target="572165">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="363020-1788591-alt.drugs" source="363020" target="1788591">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="363020-366127-alt.drugs" source="363020" target="366127">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="363020-363771-alt.drugs" source="363020" target="363771">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="363020-9990-alt.drugs" source="363020" target="9990">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="363020-572165-alt.drugs" source="363020" target="572165">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">2</data>
+</edge>
+</graph>
+</graphml>

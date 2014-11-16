@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="15508"/>
+<node id="909978"/>
+<node id="348305"/>
+<node id="804502"/>
+<node id="609427"/>
+<node id="751505"/>
+<node id="1385391"/>
+<node id="1352619"/>
+<node id="1194158"/>
+<node id="908205"/>
+<node id="1610396"/>
+<node id="348846"/>
+<node id="28083"/>
+<node id="858816"/>
+<node id="1880521"/>
+<node id="535743"/>
+<node id="2508448"/>
+<node id="10946"/>
+<node id="841680"/>
+<node id="1623997"/>
+<node id="14022"/>
+<node id="511682"/>
+<node id="559297"/>
+<node id="427472"/>
+<node id="608961"/>
+<node id="1227"/>
+<node id="372937"/>
+<node id="780743"/>
+<node id="1180861"/>
+<node id="610247"/>
+<node id="2769"/>
+<node id="26833"/>
+<node id="388562"/>
+<node id="349652"/>
+<node id="1244"/>
+<node id="512221"/>
+<node id="1880546"/>
+<node id="27871"/>
+<node id="1880541"/>
+<node id="549103"/>
+<node id="1519"/>
+<node id="13295"/>
+<node id="1880586"/>
+<node id="549118"/>
+<node id="803322"/>
+<node id="2530770"/>
+<node id="852465"/>
+<node id="1880573"/>
+<node id="623114"/>
+<node id="1029"/>
+<node id="29958"/>
+<node id="622352"/>
+<node id="1545"/>
+<node id="518924"/>
+<node id="841985"/>
+<node id="426761"/>
+<node id="710661"/>
+<node id="609566"/>
+<node id="347921"/>
+<node id="839963"/>
+<node id="617233"/>
+<node id="4634"/>
+<node id="2898994"/>
+<node id="1237294"/>
+<node id="719403"/>
+<node id="619306"/>
+<node id="611113"/>
+<node id="1880602"/>
+<node id="1393950"/>
+<node id="1393949"/>
+<node id="611363"/>
+<node id="2508362"/>
+<node id="610623"/>
+<node id="2508320"/>
+<node id="622388"/>
+<node id="613686"/>
+<node id="369465"/>
+<node id="610634"/>
+<node id="559692"/>
+<node id="610638"/>
+<node id="610639"/>
+<node id="618818"/>
+<node id="2507311"/>
+<node id="610628"/>
+<node id="2148912"/>
+<node id="24662"/>
+<node id="510291"/>
+<node id="559711"/>
+<node id="2017128"/>
+<node id="2508412"/>
+<node id="509288"/>
+<node id="363363"/>
+<node id="1663839"/>
+<node id="359789"/>
+<node id="610401"/>
+<node id="388208"/>
+<node id="26220"/>
+<node id="1212255"/>
+<node id="350059"/>
+<node id="613479"/>
+<node id="552825"/>
+<node id="1564806"/>
+<node id="2678"/>
+<node id="2507348"/>
+<node id="557183"/>
+<node id="1796482"/>
+<node id="1004150"/>
+<node id="842355"/>
+<node id="617862"/>
+<edge id="15508-1880573-comp.theory" source="15508" target="1880573">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15508-617233-comp.theory" source="15508" target="617233">
+	<data key="topic">comp.theory</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="15508-1237294-comp.theory" source="15508" target="1237294">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15508-24662-comp.theory" source="15508" target="24662">
+	<data key="topic">comp.theory</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="909978-719403-comp.theory" source="909978" target="719403">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348305-2508448-comp.theory" source="348305" target="2508448">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348305-623114-comp.theory" source="348305" target="623114">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348305-719403-comp.theory" source="348305" target="719403">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348305-557183-comp.theory" source="348305" target="557183">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="609427-15508-comp.theory" source="609427" target="15508">
+	<data key="topic">comp.theory</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="609427-617233-comp.theory" source="609427" target="617233">
+	<data key="topic">comp.theory</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="609427-1880602-comp.theory" source="609427" target="1880602">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="609427-24662-comp.theory" source="609427" target="24662">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="609427-2678-comp.theory" source="609427" target="2678">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="751505-719403-comp.theory" source="751505" target="719403">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="751505-619306-comp.theory" source="751505" target="619306">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1385391-1237294-comp.theory" source="1385391" target="1237294">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1352619-549118-comp.theory" source="1352619" target="549118">
+	<data key="topic">comp.theory</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1352619-610401-comp.theory" source="1352619" target="610401">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1352619-842355-comp.theory" source="1352619" target="842355">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1194158-26833-comp.theory" source="1194158" target="26833">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="908205-552825-comp.theory" source="908205" target="552825">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348846-617233-comp.theory" source="348846" target="617233">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348846-24662-comp.theory" source="348846" target="24662">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348846-350059-comp.theory" source="348846" target="350059">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28083-610638-comp.theory" source="28083" target="610638">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="535743-2530770-comp.theory" source="535743" target="2530770">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10946-1610396-comp.theory" source="10946" target="1610396">
+	<data key="topic">comp.theory</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="10946-427472-comp.theory" source="10946" target="427472">
+	<data key="topic">comp.theory</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="10946-839963-comp.theory" source="10946" target="839963">
+	<data key="topic">comp.theory</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="10946-610628-comp.theory" source="10946" target="610628">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="841680-348305-comp.theory" source="841680" target="348305">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="841680-29958-comp.theory" source="841680" target="29958">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1623997-511682-comp.theory" source="1623997" target="511682">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1623997-617233-comp.theory" source="1623997" target="617233">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1623997-2898994-comp.theory" source="1623997" target="2898994">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1623997-610639-comp.theory" source="1623997" target="610639">
+	<data key="topic">comp.theory</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="14022-1880541-comp.theory" source="14022" target="1880541">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14022-617233-comp.theory" source="14022" target="617233">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14022-610639-comp.theory" source="14022" target="610639">
+	<data key="topic">comp.theory</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="511682-617233-comp.theory" source="511682" target="617233">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="511682-610639-comp.theory" source="511682" target="610639">
+	<data key="topic">comp.theory</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="559297-1545-comp.theory" source="559297" target="1545">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="427472-1610396-comp.theory" source="427472" target="1610396">
+	<data key="topic">comp.theory</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="427472-10946-comp.theory" source="427472" target="10946">
+	<data key="topic">comp.theory</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="427472-839963-comp.theory" source="427472" target="839963">
+	<data key="topic">comp.theory</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="608961-1610396-comp.theory" source="608961" target="1610396">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="608961-10946-comp.theory" source="608961" target="10946">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="608961-427472-comp.theory" source="608961" target="427472">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="608961-839963-comp.theory" source="608961" target="839963">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="372937-719403-comp.theory" source="372937" target="719403">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1180861-1227-comp.theory" source="1180861" target="1227">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1180861-780743-comp.theory" source="1180861" target="780743">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1180861-622352-comp.theory" source="1180861" target="622352">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1180861-2148912-comp.theory" source="1180861" target="2148912">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1180861-617862-comp.theory" source="1180861" target="617862">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="610247-27871-comp.theory" source="610247" target="27871">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2769-1880541-comp.theory" source="2769" target="1880541">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2769-1880586-comp.theory" source="2769" target="1880586">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="349652-610638-comp.theory" source="349652" target="610638">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1244-1880521-comp.theory" source="1244" target="1880521">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1244-617233-comp.theory" source="1244" target="617233">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1244-24662-comp.theory" source="1244" target="24662">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="512221-617233-comp.theory" source="512221" target="617233">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="512221-24662-comp.theory" source="512221" target="24662">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="512221-350059-comp.theory" source="512221" target="350059">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1880546-609566-comp.theory" source="1880546" target="609566">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="27871-610247-comp.theory" source="27871" target="610247">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="27871-610623-comp.theory" source="27871" target="610623">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="549103-348305-comp.theory" source="549103" target="348305">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="549103-2508448-comp.theory" source="549103" target="2508448">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1519-348305-comp.theory" source="1519" target="348305">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1519-29958-comp.theory" source="1519" target="29958">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1880586-1880541-comp.theory" source="1880586" target="1880541">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="549118-1352619-comp.theory" source="549118" target="1352619">
+	<data key="topic">comp.theory</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="549118-610401-comp.theory" source="549118" target="610401">
+	<data key="topic">comp.theory</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="549118-1564806-comp.theory" source="549118" target="1564806">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="549118-842355-comp.theory" source="549118" target="842355">
+	<data key="topic">comp.theory</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="852465-610247-comp.theory" source="852465" target="610247">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="852465-27871-comp.theory" source="852465" target="27871">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="623114-719403-comp.theory" source="623114" target="719403">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1029-15508-comp.theory" source="1029" target="15508">
+	<data key="topic">comp.theory</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1029-617233-comp.theory" source="1029" target="617233">
+	<data key="topic">comp.theory</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1029-1880602-comp.theory" source="1029" target="1880602">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1029-24662-comp.theory" source="1029" target="24662">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1029-2678-comp.theory" source="1029" target="2678">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29958-348305-comp.theory" source="29958" target="348305">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="622352-780743-comp.theory" source="622352" target="780743">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="622352-617862-comp.theory" source="622352" target="617862">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1545-2898994-comp.theory" source="1545" target="2898994">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1545-611113-comp.theory" source="1545" target="611113">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1545-2017128-comp.theory" source="1545" target="2017128">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1545-1796482-comp.theory" source="1545" target="1796482">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="841985-710661-comp.theory" source="841985" target="710661">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="841985-613479-comp.theory" source="841985" target="613479">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="426761-719403-comp.theory" source="426761" target="719403">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="426761-619306-comp.theory" source="426761" target="619306">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="710661-613479-comp.theory" source="710661" target="613479">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="609566-1880541-comp.theory" source="609566" target="1880541">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347921-27871-comp.theory" source="347921" target="27871">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="839963-1610396-comp.theory" source="839963" target="1610396">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="617233-15508-comp.theory" source="617233" target="15508">
+	<data key="topic">comp.theory</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="617233-610639-comp.theory" source="617233" target="610639">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="617233-24662-comp.theory" source="617233" target="24662">
+	<data key="topic">comp.theory</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="617233-350059-comp.theory" source="617233" target="350059">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4634-388562-comp.theory" source="4634" target="388562">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1393950-1663839-comp.theory" source="1393950" target="1663839">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1393949-858816-comp.theory" source="1393949" target="858816">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="611363-388562-comp.theory" source="611363" target="388562">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="610623-1610396-comp.theory" source="610623" target="1610396">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="610623-10946-comp.theory" source="610623" target="10946">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="610623-427472-comp.theory" source="610623" target="427472">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="610623-839963-comp.theory" source="610623" target="839963">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2508320-839963-comp.theory" source="2508320" target="839963">
+	<data key="topic">comp.theory</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="622388-1880541-comp.theory" source="622388" target="1880541">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="369465-1393949-comp.theory" source="369465" target="1393949">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="610634-363363-comp.theory" source="610634" target="363363">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="559692-1194158-comp.theory" source="559692" target="1194158">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="610639-511682-comp.theory" source="610639" target="511682">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="610639-803322-comp.theory" source="610639" target="803322">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="610639-617233-comp.theory" source="610639" target="617233">
+	<data key="topic">comp.theory</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="618818-804502-comp.theory" source="618818" target="804502">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2507311-1194158-comp.theory" source="2507311" target="1194158">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="610628-1610396-comp.theory" source="610628" target="1610396">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="610628-10946-comp.theory" source="610628" target="10946">
+	<data key="topic">comp.theory</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="610628-427472-comp.theory" source="610628" target="427472">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="610628-839963-comp.theory" source="610628" target="839963">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2148912-780743-comp.theory" source="2148912" target="780743">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2148912-622352-comp.theory" source="2148912" target="622352">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2148912-617862-comp.theory" source="2148912" target="617862">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24662-14022-comp.theory" source="24662" target="14022">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24662-1244-comp.theory" source="24662" target="1244">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24662-617233-comp.theory" source="24662" target="617233">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24662-350059-comp.theory" source="24662" target="350059">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510291-2508362-comp.theory" source="510291" target="2508362">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="559711-610639-comp.theory" source="559711" target="610639">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2508412-348305-comp.theory" source="2508412" target="348305">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509288-14022-comp.theory" source="509288" target="14022">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509288-617233-comp.theory" source="509288" target="617233">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509288-610639-comp.theory" source="509288" target="610639">
+	<data key="topic">comp.theory</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="359789-13295-comp.theory" source="359789" target="13295">
+	<data key="topic">comp.theory</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="359789-518924-comp.theory" source="359789" target="518924">
+	<data key="topic">comp.theory</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="359789-613686-comp.theory" source="359789" target="613686">
+	<data key="topic">comp.theory</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="359789-2507348-comp.theory" source="359789" target="2507348">
+	<data key="topic">comp.theory</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="359789-1004150-comp.theory" source="359789" target="1004150">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="388208-14022-comp.theory" source="388208" target="14022">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="388208-24662-comp.theory" source="388208" target="24662">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="26220-27871-comp.theory" source="26220" target="27871">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1212255-26833-comp.theory" source="1212255" target="26833">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350059-617233-comp.theory" source="350059" target="617233">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350059-610639-comp.theory" source="350059" target="610639">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2678-15508-comp.theory" source="2678" target="15508">
+	<data key="topic">comp.theory</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2678-14022-comp.theory" source="2678" target="14022">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2678-617233-comp.theory" source="2678" target="617233">
+	<data key="topic">comp.theory</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2678-1880602-comp.theory" source="2678" target="1880602">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2678-610639-comp.theory" source="2678" target="610639">
+	<data key="topic">comp.theory</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2678-24662-comp.theory" source="2678" target="24662">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2678-509288-comp.theory" source="2678" target="509288">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="557183-348305-comp.theory" source="557183" target="348305">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1796482-611113-comp.theory" source="1796482" target="611113">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1796482-2017128-comp.theory" source="1796482" target="2017128">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1004150-13295-comp.theory" source="1004150" target="13295">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1004150-518924-comp.theory" source="1004150" target="518924">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1004150-613686-comp.theory" source="1004150" target="613686">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1004150-359789-comp.theory" source="1004150" target="359789">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1004150-2507348-comp.theory" source="1004150" target="2507348">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="617862-780743-comp.theory" source="617862" target="780743">
+	<data key="topic">comp.theory</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

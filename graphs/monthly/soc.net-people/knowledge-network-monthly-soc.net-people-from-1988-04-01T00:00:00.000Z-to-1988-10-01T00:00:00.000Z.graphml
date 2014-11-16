@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="26833"/>
+<node id="31862"/>
+<node id="2035946"/>
+<node id="353748"/>
+<node id="15211"/>
+<node id="16413"/>
+<node id="17453"/>
+<node id="341178"/>
+<node id="15582"/>
+<edge id="353748-16413-soc.net-people" source="353748" target="16413">
+	<data key="topic">soc.net-people</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="353748-17453-soc.net-people" source="353748" target="17453">
+	<data key="topic">soc.net-people</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="15211-31862-soc.net-people" source="15211" target="31862">
+	<data key="topic">soc.net-people</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="15211-15582-soc.net-people" source="15211" target="15582">
+	<data key="topic">soc.net-people</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16413-17453-soc.net-people" source="16413" target="17453">
+	<data key="topic">soc.net-people</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17453-26833-soc.net-people" source="17453" target="26833">
+	<data key="topic">soc.net-people</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341178-2035946-soc.net-people" source="341178" target="2035946">
+	<data key="topic">soc.net-people</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15582-31862-soc.net-people" source="15582" target="31862">
+	<data key="topic">soc.net-people</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="15582-15211-soc.net-people" source="15582" target="15211">
+	<data key="topic">soc.net-people</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

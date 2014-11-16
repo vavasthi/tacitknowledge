@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="26833"/>
+<node id="436626"/>
+<node id="2812"/>
+<node id="349087"/>
+<node id="374651"/>
+<node id="405466"/>
+<node id="889578"/>
+<node id="1453715"/>
+<node id="1453714"/>
+<node id="2061753"/>
+<node id="2061750"/>
+<node id="10734"/>
+<node id="349132"/>
+<edge id="436626-2061753-can.canet.d" source="436626" target="2061753">
+	<data key="topic">can.canet.d</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2812-436626-can.canet.d" source="2812" target="436626">
+	<data key="topic">can.canet.d</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="349087-1453714-can.canet.d" source="349087" target="1453714">
+	<data key="topic">can.canet.d</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="374651-2061753-can.canet.d" source="374651" target="2061753">
+	<data key="topic">can.canet.d</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="405466-436626-can.canet.d" source="405466" target="436626">
+	<data key="topic">can.canet.d</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="889578-349132-can.canet.d" source="889578" target="349132">
+	<data key="topic">can.canet.d</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2061753-26833-can.canet.d" source="2061753" target="26833">
+	<data key="topic">can.canet.d</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2061750-1453715-can.canet.d" source="2061750" target="1453715">
+	<data key="topic">can.canet.d</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10734-436626-can.canet.d" source="10734" target="436626">
+	<data key="topic">can.canet.d</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="349132-889578-can.canet.d" source="349132" target="889578">
+	<data key="topic">can.canet.d</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

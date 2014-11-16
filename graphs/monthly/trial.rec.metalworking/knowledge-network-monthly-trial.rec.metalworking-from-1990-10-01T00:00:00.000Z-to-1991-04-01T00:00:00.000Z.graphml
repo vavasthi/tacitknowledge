@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="14226"/>
+<node id="372280"/>
+<node id="212"/>
+<node id="781811"/>
+<node id="5914"/>
+<node id="1916"/>
+<node id="362143"/>
+<node id="2595"/>
+<node id="362152"/>
+<node id="949390"/>
+<node id="877066"/>
+<node id="400228"/>
+<node id="744"/>
+<node id="353379"/>
+<node id="204"/>
+<node id="1514909"/>
+<node id="205"/>
+<node id="1441787"/>
+<node id="432649"/>
+<edge id="14226-372280-trial.rec.metalworking" source="14226" target="372280">
+	<data key="topic">trial.rec.metalworking</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14226-1514909-trial.rec.metalworking" source="14226" target="1514909">
+	<data key="topic">trial.rec.metalworking</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="372280-1514909-trial.rec.metalworking" source="372280" target="1514909">
+	<data key="topic">trial.rec.metalworking</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="212-400228-trial.rec.metalworking" source="212" target="400228">
+	<data key="topic">trial.rec.metalworking</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="212-204-trial.rec.metalworking" source="212" target="204">
+	<data key="topic">trial.rec.metalworking</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="5914-744-trial.rec.metalworking" source="5914" target="744">
+	<data key="topic">trial.rec.metalworking</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1916-372280-trial.rec.metalworking" source="1916" target="372280">
+	<data key="topic">trial.rec.metalworking</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1916-1514909-trial.rec.metalworking" source="1916" target="1514909">
+	<data key="topic">trial.rec.metalworking</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2595-781811-trial.rec.metalworking" source="2595" target="781811">
+	<data key="topic">trial.rec.metalworking</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2595-1441787-trial.rec.metalworking" source="2595" target="1441787">
+	<data key="topic">trial.rec.metalworking</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="949390-744-trial.rec.metalworking" source="949390" target="744">
+	<data key="topic">trial.rec.metalworking</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="744-877066-trial.rec.metalworking" source="744" target="877066">
+	<data key="topic">trial.rec.metalworking</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="353379-362143-trial.rec.metalworking" source="353379" target="362143">
+	<data key="topic">trial.rec.metalworking</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="353379-362152-trial.rec.metalworking" source="353379" target="362152">
+	<data key="topic">trial.rec.metalworking</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="204-212-trial.rec.metalworking" source="204" target="212">
+	<data key="topic">trial.rec.metalworking</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="204-400228-trial.rec.metalworking" source="204" target="400228">
+	<data key="topic">trial.rec.metalworking</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="205-14226-trial.rec.metalworking" source="205" target="14226">
+	<data key="topic">trial.rec.metalworking</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="205-204-trial.rec.metalworking" source="205" target="204">
+	<data key="topic">trial.rec.metalworking</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1441787-781811-trial.rec.metalworking" source="1441787" target="781811">
+	<data key="topic">trial.rec.metalworking</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="432649-372280-trial.rec.metalworking" source="432649" target="372280">
+	<data key="topic">trial.rec.metalworking</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

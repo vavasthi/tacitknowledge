@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="376854"/>
+<node id="354517"/>
+<node id="352280"/>
+<node id="350871"/>
+<node id="6997"/>
+<node id="355250"/>
+<node id="359901"/>
+<node id="1515274"/>
+<node id="365766"/>
+<node id="912617"/>
+<node id="372836"/>
+<node id="4425"/>
+<node id="16457"/>
+<node id="10511"/>
+<node id="6896"/>
+<node id="438954"/>
+<node id="1778517"/>
+<edge id="376854-912617-misc.jobs.offered" source="376854" target="912617">
+	<data key="topic">misc.jobs.offered</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350871-354517-misc.jobs.offered" source="350871" target="354517">
+	<data key="topic">misc.jobs.offered</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="6997-354517-misc.jobs.offered" source="6997" target="354517">
+	<data key="topic">misc.jobs.offered</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="6997-438954-misc.jobs.offered" source="6997" target="438954">
+	<data key="topic">misc.jobs.offered</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="355250-354517-misc.jobs.offered" source="355250" target="354517">
+	<data key="topic">misc.jobs.offered</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="365766-352280-misc.jobs.offered" source="365766" target="352280">
+	<data key="topic">misc.jobs.offered</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="372836-359901-misc.jobs.offered" source="372836" target="359901">
+	<data key="topic">misc.jobs.offered</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10511-16457-misc.jobs.offered" source="10511" target="16457">
+	<data key="topic">misc.jobs.offered</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="6896-354517-misc.jobs.offered" source="6896" target="354517">
+	<data key="topic">misc.jobs.offered</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="6896-438954-misc.jobs.offered" source="6896" target="438954">
+	<data key="topic">misc.jobs.offered</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="438954-354517-misc.jobs.offered" source="438954" target="354517">
+	<data key="topic">misc.jobs.offered</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1778517-1515274-misc.jobs.offered" source="1778517" target="1515274">
+	<data key="topic">misc.jobs.offered</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

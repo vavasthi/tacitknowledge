@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="39793"/>
+<node id="263440"/>
+<node id="44413"/>
+<node id="262426"/>
+<node id="158992"/>
+<edge id="39793-44413-alt.meditation" source="39793" target="44413">
+	<data key="topic">alt.meditation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="39793-262426-alt.meditation" source="39793" target="262426">
+	<data key="topic">alt.meditation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="263440-39793-alt.meditation" source="263440" target="39793">
+	<data key="topic">alt.meditation</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="263440-44413-alt.meditation" source="263440" target="44413">
+	<data key="topic">alt.meditation</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="263440-262426-alt.meditation" source="263440" target="262426">
+	<data key="topic">alt.meditation</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="263440-158992-alt.meditation" source="263440" target="158992">
+	<data key="topic">alt.meditation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="262426-39793-alt.meditation" source="262426" target="39793">
+	<data key="topic">alt.meditation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="262426-263440-alt.meditation" source="262426" target="263440">
+	<data key="topic">alt.meditation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="262426-44413-alt.meditation" source="262426" target="44413">
+	<data key="topic">alt.meditation</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="158992-39793-alt.meditation" source="158992" target="39793">
+	<data key="topic">alt.meditation</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="158992-263440-alt.meditation" source="158992" target="263440">
+	<data key="topic">alt.meditation</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="158992-44413-alt.meditation" source="158992" target="44413">
+	<data key="topic">alt.meditation</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="158992-262426-alt.meditation" source="158992" target="262426">
+	<data key="topic">alt.meditation</data>
+	<data key="weight">4</data>
+</edge>
+</graph>
+</graphml>

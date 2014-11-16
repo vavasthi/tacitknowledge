@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="109746"/>
+<node id="54388"/>
+<node id="41381"/>
+<node id="42197"/>
+<node id="37019"/>
+<node id="37163"/>
+<node id="37227"/>
+<node id="109438"/>
+<node id="120509"/>
+<edge id="54388-120509-talk.religion.newage" source="54388" target="120509">
+	<data key="topic">talk.religion.newage</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41381-109438-talk.religion.newage" source="41381" target="109438">
+	<data key="topic">talk.religion.newage</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="42197-37227-talk.religion.newage" source="42197" target="37227">
+	<data key="topic">talk.religion.newage</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37019-109746-talk.religion.newage" source="37019" target="109746">
+	<data key="topic">talk.religion.newage</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37019-41381-talk.religion.newage" source="37019" target="41381">
+	<data key="topic">talk.religion.newage</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="37019-37163-talk.religion.newage" source="37019" target="37163">
+	<data key="topic">talk.religion.newage</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37019-109438-talk.religion.newage" source="37019" target="109438">
+	<data key="topic">talk.religion.newage</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="37163-41381-talk.religion.newage" source="37163" target="41381">
+	<data key="topic">talk.religion.newage</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37163-109438-talk.religion.newage" source="37163" target="109438">
+	<data key="topic">talk.religion.newage</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

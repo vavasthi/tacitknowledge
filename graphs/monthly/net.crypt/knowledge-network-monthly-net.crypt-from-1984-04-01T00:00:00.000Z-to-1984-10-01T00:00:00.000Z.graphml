@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="337367"/>
+<node id="521877"/>
+<node id="1135974"/>
+<node id="1113195"/>
+<node id="459613"/>
+<node id="521881"/>
+<node id="462448"/>
+<node id="459308"/>
+<node id="530725"/>
+<node id="34159"/>
+<node id="522793"/>
+<node id="522807"/>
+<node id="337719"/>
+<node id="460468"/>
+<node id="346673"/>
+<node id="522801"/>
+<node id="341178"/>
+<node id="779512"/>
+<node id="483963"/>
+<node id="339772"/>
+<node id="344519"/>
+<node id="521733"/>
+<node id="521924"/>
+<node id="338371"/>
+<node id="522895"/>
+<node id="344144"/>
+<node id="29006"/>
+<edge id="337367-34159-net.crypt" source="337367" target="34159">
+	<data key="topic">net.crypt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521877-1135974-net.crypt" source="521877" target="1135974">
+	<data key="topic">net.crypt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521877-1113195-net.crypt" source="521877" target="1113195">
+	<data key="topic">net.crypt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1113195-1135974-net.crypt" source="1113195" target="1135974">
+	<data key="topic">net.crypt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459613-346673-net.crypt" source="459613" target="346673">
+	<data key="topic">net.crypt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459613-779512-net.crypt" source="459613" target="779512">
+	<data key="topic">net.crypt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459613-344144-net.crypt" source="459613" target="344144">
+	<data key="topic">net.crypt</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="521881-459613-net.crypt" source="521881" target="459613">
+	<data key="topic">net.crypt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521881-522793-net.crypt" source="521881" target="522793">
+	<data key="topic">net.crypt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="462448-522807-net.crypt" source="462448" target="522807">
+	<data key="topic">net.crypt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459308-460468-net.crypt" source="459308" target="460468">
+	<data key="topic">net.crypt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459308-483963-net.crypt" source="459308" target="483963">
+	<data key="topic">net.crypt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459308-522895-net.crypt" source="459308" target="522895">
+	<data key="topic">net.crypt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="530725-1135974-net.crypt" source="530725" target="1135974">
+	<data key="topic">net.crypt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="530725-521924-net.crypt" source="530725" target="521924">
+	<data key="topic">net.crypt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337719-344519-net.crypt" source="337719" target="344519">
+	<data key="topic">net.crypt</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="522801-459613-net.crypt" source="522801" target="459613">
+	<data key="topic">net.crypt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522801-521881-net.crypt" source="522801" target="521881">
+	<data key="topic">net.crypt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341178-34159-net.crypt" source="341178" target="34159">
+	<data key="topic">net.crypt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339772-459308-net.crypt" source="339772" target="459308">
+	<data key="topic">net.crypt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339772-460468-net.crypt" source="339772" target="460468">
+	<data key="topic">net.crypt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339772-483963-net.crypt" source="339772" target="483963">
+	<data key="topic">net.crypt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339772-522895-net.crypt" source="339772" target="522895">
+	<data key="topic">net.crypt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521733-344519-net.crypt" source="521733" target="344519">
+	<data key="topic">net.crypt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521924-337367-net.crypt" source="521924" target="337367">
+	<data key="topic">net.crypt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521924-1135974-net.crypt" source="521924" target="1135974">
+	<data key="topic">net.crypt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521924-34159-net.crypt" source="521924" target="34159">
+	<data key="topic">net.crypt</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="338371-1135974-net.crypt" source="338371" target="1135974">
+	<data key="topic">net.crypt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="344144-34159-net.crypt" source="344144" target="34159">
+	<data key="topic">net.crypt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-459613-net.crypt" source="29006" target="459613">
+	<data key="topic">net.crypt</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

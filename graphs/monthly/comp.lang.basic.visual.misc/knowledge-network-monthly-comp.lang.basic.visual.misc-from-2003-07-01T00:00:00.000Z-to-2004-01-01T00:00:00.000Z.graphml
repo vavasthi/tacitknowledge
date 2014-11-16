@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2189153"/>
+<node id="2190535"/>
+<node id="2188615"/>
+<node id="163178"/>
+<node id="2285855"/>
+<node id="2190045"/>
+<node id="36959"/>
+<edge id="2189153-36959-comp.lang.basic.visual.misc" source="2189153" target="36959">
+	<data key="topic">comp.lang.basic.visual.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2190535-2189153-comp.lang.basic.visual.misc" source="2190535" target="2189153">
+	<data key="topic">comp.lang.basic.visual.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2190535-2190045-comp.lang.basic.visual.misc" source="2190535" target="2190045">
+	<data key="topic">comp.lang.basic.visual.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2190535-36959-comp.lang.basic.visual.misc" source="2190535" target="36959">
+	<data key="topic">comp.lang.basic.visual.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2188615-2285855-comp.lang.basic.visual.misc" source="2188615" target="2285855">
+	<data key="topic">comp.lang.basic.visual.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="163178-2285855-comp.lang.basic.visual.misc" source="163178" target="2285855">
+	<data key="topic">comp.lang.basic.visual.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2190045-2189153-comp.lang.basic.visual.misc" source="2190045" target="2189153">
+	<data key="topic">comp.lang.basic.visual.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2190045-36959-comp.lang.basic.visual.misc" source="2190045" target="36959">
+	<data key="topic">comp.lang.basic.visual.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36959-2189153-comp.lang.basic.visual.misc" source="36959" target="2189153">
+	<data key="topic">comp.lang.basic.visual.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="36959-2190535-comp.lang.basic.visual.misc" source="36959" target="2190535">
+	<data key="topic">comp.lang.basic.visual.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36959-2190045-comp.lang.basic.visual.misc" source="36959" target="2190045">
+	<data key="topic">comp.lang.basic.visual.misc</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

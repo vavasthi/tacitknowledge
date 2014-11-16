@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="339190"/>
+<node id="341458"/>
+<node id="524478"/>
+<node id="526558"/>
+<node id="523889"/>
+<node id="346782"/>
+<node id="459583"/>
+<node id="459806"/>
+<node id="33916"/>
+<node id="459483"/>
+<node id="624408"/>
+<node id="565880"/>
+<node id="521881"/>
+<node id="523302"/>
+<node id="560012"/>
+<node id="6022"/>
+<node id="459632"/>
+<node id="560356"/>
+<node id="337866"/>
+<node id="29006"/>
+<edge id="339190-459632-net.bugs.usg" source="339190" target="459632">
+	<data key="topic">net.bugs.usg</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="339190-337866-net.bugs.usg" source="339190" target="337866">
+	<data key="topic">net.bugs.usg</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341458-29006-net.bugs.usg" source="341458" target="29006">
+	<data key="topic">net.bugs.usg</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="526558-524478-net.bugs.usg" source="526558" target="524478">
+	<data key="topic">net.bugs.usg</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="526558-337866-net.bugs.usg" source="526558" target="337866">
+	<data key="topic">net.bugs.usg</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="523889-560012-net.bugs.usg" source="523889" target="560012">
+	<data key="topic">net.bugs.usg</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="523889-459632-net.bugs.usg" source="523889" target="459632">
+	<data key="topic">net.bugs.usg</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="346782-6022-net.bugs.usg" source="346782" target="6022">
+	<data key="topic">net.bugs.usg</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="33916-459806-net.bugs.usg" source="33916" target="459806">
+	<data key="topic">net.bugs.usg</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459483-523889-net.bugs.usg" source="459483" target="523889">
+	<data key="topic">net.bugs.usg</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459483-459632-net.bugs.usg" source="459483" target="459632">
+	<data key="topic">net.bugs.usg</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="624408-560356-net.bugs.usg" source="624408" target="560356">
+	<data key="topic">net.bugs.usg</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521881-459632-net.bugs.usg" source="521881" target="459632">
+	<data key="topic">net.bugs.usg</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521881-337866-net.bugs.usg" source="521881" target="337866">
+	<data key="topic">net.bugs.usg</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="523302-524478-net.bugs.usg" source="523302" target="524478">
+	<data key="topic">net.bugs.usg</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="523302-337866-net.bugs.usg" source="523302" target="337866">
+	<data key="topic">net.bugs.usg</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-339190-net.bugs.usg" source="337866" target="339190">
+	<data key="topic">net.bugs.usg</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-524478-net.bugs.usg" source="337866" target="524478">
+	<data key="topic">net.bugs.usg</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="337866-526558-net.bugs.usg" source="337866" target="526558">
+	<data key="topic">net.bugs.usg</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-459583-net.bugs.usg" source="337866" target="459583">
+	<data key="topic">net.bugs.usg</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-565880-net.bugs.usg" source="337866" target="565880">
+	<data key="topic">net.bugs.usg</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-521881-net.bugs.usg" source="337866" target="521881">
+	<data key="topic">net.bugs.usg</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-523302-net.bugs.usg" source="337866" target="523302">
+	<data key="topic">net.bugs.usg</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-6022-net.bugs.usg" source="337866" target="6022">
+	<data key="topic">net.bugs.usg</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-459632-net.bugs.usg" source="337866" target="459632">
+	<data key="topic">net.bugs.usg</data>
+	<data key="weight">4</data>
+</edge>
+</graph>
+</graphml>

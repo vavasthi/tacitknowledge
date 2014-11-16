@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="38209"/>
+<node id="174561"/>
+<node id="38490"/>
+<node id="66640"/>
+<edge id="38209-174561-alt.sci.sociology" source="38209" target="174561">
+	<data key="topic">alt.sci.sociology</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="38209-38490-alt.sci.sociology" source="38209" target="38490">
+	<data key="topic">alt.sci.sociology</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="174561-38209-alt.sci.sociology" source="174561" target="38209">
+	<data key="topic">alt.sci.sociology</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="174561-38490-alt.sci.sociology" source="174561" target="38490">
+	<data key="topic">alt.sci.sociology</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="66640-174561-alt.sci.sociology" source="66640" target="174561">
+	<data key="topic">alt.sci.sociology</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="66640-38490-alt.sci.sociology" source="66640" target="38490">
+	<data key="topic">alt.sci.sociology</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

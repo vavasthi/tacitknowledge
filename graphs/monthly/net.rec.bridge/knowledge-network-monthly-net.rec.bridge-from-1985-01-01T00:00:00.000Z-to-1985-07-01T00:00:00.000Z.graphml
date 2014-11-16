@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="343445"/>
+<node id="1114595"/>
+<node id="461172"/>
+<node id="338257"/>
+<node id="33916"/>
+<node id="341146"/>
+<node id="343643"/>
+<node id="338689"/>
+<node id="469378"/>
+<node id="1076919"/>
+<node id="339107"/>
+<node id="680292"/>
+<node id="344589"/>
+<node id="336909"/>
+<node id="468718"/>
+<edge id="343445-469378-net.rec.bridge" source="343445" target="469378">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="343445-344589-net.rec.bridge" source="343445" target="344589">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="343445-336909-net.rec.bridge" source="343445" target="336909">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="461172-1114595-net.rec.bridge" source="461172" target="1114595">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="461172-343643-net.rec.bridge" source="461172" target="343643">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="461172-680292-net.rec.bridge" source="461172" target="680292">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338257-339107-net.rec.bridge" source="338257" target="339107">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338257-468718-net.rec.bridge" source="338257" target="468718">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="33916-339107-net.rec.bridge" source="33916" target="339107">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341146-338257-net.rec.bridge" source="341146" target="338257">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341146-339107-net.rec.bridge" source="341146" target="339107">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="343643-1076919-net.rec.bridge" source="343643" target="1076919">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="343643-339107-net.rec.bridge" source="343643" target="339107">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="343643-344589-net.rec.bridge" source="343643" target="344589">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338689-1114595-net.rec.bridge" source="338689" target="1114595">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338689-469378-net.rec.bridge" source="338689" target="469378">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338689-680292-net.rec.bridge" source="338689" target="680292">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="680292-1114595-net.rec.bridge" source="680292" target="1114595">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="468718-469378-net.rec.bridge" source="468718" target="469378">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

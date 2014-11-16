@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="13169"/>
+<node id="908062"/>
+<node id="1078340"/>
+<node id="13204"/>
+<node id="1462"/>
+<node id="5048"/>
+<node id="1624"/>
+<node id="1226537"/>
+<node id="4958"/>
+<node id="1280527"/>
+<node id="940980"/>
+<node id="1464041"/>
+<node id="1745350"/>
+<node id="559306"/>
+<node id="848560"/>
+<node id="10757"/>
+<node id="1573"/>
+<node id="1452"/>
+<node id="377033"/>
+<node id="413964"/>
+<node id="856004"/>
+<node id="509642"/>
+<node id="360139"/>
+<edge id="13169-4958-comp.sw.components" source="13169" target="4958">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="13169-856004-comp.sw.components" source="13169" target="856004">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="13204-13169-comp.sw.components" source="13204" target="13169">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="13204-5048-comp.sw.components" source="13204" target="5048">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="13204-4958-comp.sw.components" source="13204" target="4958">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="13204-1464041-comp.sw.components" source="13204" target="1464041">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="13204-360139-comp.sw.components" source="13204" target="360139">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5048-13169-comp.sw.components" source="5048" target="13169">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="5048-4958-comp.sw.components" source="5048" target="4958">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="5048-1464041-comp.sw.components" source="5048" target="1464041">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="5048-360139-comp.sw.components" source="5048" target="360139">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1624-13169-comp.sw.components" source="1624" target="13169">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1624-856004-comp.sw.components" source="1624" target="856004">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1226537-13169-comp.sw.components" source="1226537" target="13169">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1226537-856004-comp.sw.components" source="1226537" target="856004">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4958-13169-comp.sw.components" source="4958" target="13169">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4958-559306-comp.sw.components" source="4958" target="559306">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="4958-1573-comp.sw.components" source="4958" target="1573">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4958-856004-comp.sw.components" source="4958" target="856004">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4958-509642-comp.sw.components" source="4958" target="509642">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1280527-4958-comp.sw.components" source="1280527" target="4958">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="1280527-559306-comp.sw.components" source="1280527" target="559306">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1280527-509642-comp.sw.components" source="1280527" target="509642">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="940980-908062-comp.sw.components" source="940980" target="908062">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="940980-1078340-comp.sw.components" source="940980" target="1078340">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="940980-1462-comp.sw.components" source="940980" target="1462">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="940980-10757-comp.sw.components" source="940980" target="10757">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="940980-1452-comp.sw.components" source="940980" target="1452">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1464041-13169-comp.sw.components" source="1464041" target="13169">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1464041-4958-comp.sw.components" source="1464041" target="4958">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1745350-4958-comp.sw.components" source="1745350" target="4958">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="559306-4958-comp.sw.components" source="559306" target="4958">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="848560-1078340-comp.sw.components" source="848560" target="1078340">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1573-13169-comp.sw.components" source="1573" target="13169">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1573-5048-comp.sw.components" source="1573" target="5048">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1573-4958-comp.sw.components" source="1573" target="4958">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">6</data>
+</edge>
+<edge id="1573-1464041-comp.sw.components" source="1573" target="1464041">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1573-559306-comp.sw.components" source="1573" target="559306">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1452-1078340-comp.sw.components" source="1452" target="1078340">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1452-10757-comp.sw.components" source="1452" target="10757">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="377033-13169-comp.sw.components" source="377033" target="13169">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="377033-13204-comp.sw.components" source="377033" target="13204">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="377033-5048-comp.sw.components" source="377033" target="5048">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="377033-4958-comp.sw.components" source="377033" target="4958">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="377033-1464041-comp.sw.components" source="377033" target="1464041">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="377033-360139-comp.sw.components" source="377033" target="360139">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="413964-13169-comp.sw.components" source="413964" target="13169">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509642-4958-comp.sw.components" source="509642" target="4958">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">8</data>
+</edge>
+<edge id="509642-1280527-comp.sw.components" source="509642" target="1280527">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509642-559306-comp.sw.components" source="509642" target="559306">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="360139-13169-comp.sw.components" source="360139" target="13169">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="360139-13204-comp.sw.components" source="360139" target="13204">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="360139-5048-comp.sw.components" source="360139" target="5048">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="360139-4958-comp.sw.components" source="360139" target="4958">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="360139-1464041-comp.sw.components" source="360139" target="1464041">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="360139-1573-comp.sw.components" source="360139" target="1573">
+	<data key="topic">comp.sw.components</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

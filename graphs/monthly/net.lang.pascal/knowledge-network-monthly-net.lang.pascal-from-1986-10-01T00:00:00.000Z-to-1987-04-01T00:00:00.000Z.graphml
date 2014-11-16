@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1131687"/>
+<node id="395005"/>
+<node id="392473"/>
+<node id="20063"/>
+<node id="19076"/>
+<node id="924846"/>
+<node id="924841"/>
+<node id="920905"/>
+<node id="16936"/>
+<node id="600719"/>
+<node id="391565"/>
+<node id="922371"/>
+<node id="393836"/>
+<edge id="1131687-16936-net.lang.pascal" source="1131687" target="16936">
+	<data key="topic">net.lang.pascal</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392473-924846-net.lang.pascal" source="392473" target="924846">
+	<data key="topic">net.lang.pascal</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392473-600719-net.lang.pascal" source="392473" target="600719">
+	<data key="topic">net.lang.pascal</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20063-1131687-net.lang.pascal" source="20063" target="1131687">
+	<data key="topic">net.lang.pascal</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20063-395005-net.lang.pascal" source="20063" target="395005">
+	<data key="topic">net.lang.pascal</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20063-16936-net.lang.pascal" source="20063" target="16936">
+	<data key="topic">net.lang.pascal</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19076-924841-net.lang.pascal" source="19076" target="924841">
+	<data key="topic">net.lang.pascal</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19076-920905-net.lang.pascal" source="19076" target="920905">
+	<data key="topic">net.lang.pascal</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="924846-392473-net.lang.pascal" source="924846" target="392473">
+	<data key="topic">net.lang.pascal</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="924846-600719-net.lang.pascal" source="924846" target="600719">
+	<data key="topic">net.lang.pascal</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="391565-395005-net.lang.pascal" source="391565" target="395005">
+	<data key="topic">net.lang.pascal</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391565-20063-net.lang.pascal" source="391565" target="20063">
+	<data key="topic">net.lang.pascal</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="922371-392473-net.lang.pascal" source="922371" target="392473">
+	<data key="topic">net.lang.pascal</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="922371-924846-net.lang.pascal" source="922371" target="924846">
+	<data key="topic">net.lang.pascal</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="922371-600719-net.lang.pascal" source="922371" target="600719">
+	<data key="topic">net.lang.pascal</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="393836-392473-net.lang.pascal" source="393836" target="392473">
+	<data key="topic">net.lang.pascal</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="393836-924846-net.lang.pascal" source="393836" target="924846">
+	<data key="topic">net.lang.pascal</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="393836-600719-net.lang.pascal" source="393836" target="600719">
+	<data key="topic">net.lang.pascal</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

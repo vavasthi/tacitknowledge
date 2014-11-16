@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1563303"/>
+<node id="375960"/>
+<node id="709023"/>
+<node id="218"/>
+<node id="516734"/>
+<node id="853975"/>
+<node id="804248"/>
+<node id="446043"/>
+<node id="222"/>
+<node id="853969"/>
+<node id="853972"/>
+<node id="224"/>
+<node id="779723"/>
+<node id="445958"/>
+<node id="262"/>
+<node id="400354"/>
+<edge id="375960-804248-bionet.molbio.methds-reagnts" source="375960" target="804248">
+	<data key="topic">bionet.molbio.methds-reagnts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="709023-853975-bionet.molbio.methds-reagnts" source="709023" target="853975">
+	<data key="topic">bionet.molbio.methds-reagnts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="709023-804248-bionet.molbio.methds-reagnts" source="709023" target="804248">
+	<data key="topic">bionet.molbio.methds-reagnts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="709023-224-bionet.molbio.methds-reagnts" source="709023" target="224">
+	<data key="topic">bionet.molbio.methds-reagnts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="218-779723-bionet.molbio.methds-reagnts" source="218" target="779723">
+	<data key="topic">bionet.molbio.methds-reagnts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="516734-853972-bionet.molbio.methds-reagnts" source="516734" target="853972">
+	<data key="topic">bionet.molbio.methds-reagnts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="446043-445958-bionet.molbio.methds-reagnts" source="446043" target="445958">
+	<data key="topic">bionet.molbio.methds-reagnts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="222-445958-bionet.molbio.methds-reagnts" source="222" target="445958">
+	<data key="topic">bionet.molbio.methds-reagnts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="222-262-bionet.molbio.methds-reagnts" source="222" target="262">
+	<data key="topic">bionet.molbio.methds-reagnts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="224-1563303-bionet.molbio.methds-reagnts" source="224" target="1563303">
+	<data key="topic">bionet.molbio.methds-reagnts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="224-853975-bionet.molbio.methds-reagnts" source="224" target="853975">
+	<data key="topic">bionet.molbio.methds-reagnts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="224-804248-bionet.molbio.methds-reagnts" source="224" target="804248">
+	<data key="topic">bionet.molbio.methds-reagnts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="224-853969-bionet.molbio.methds-reagnts" source="224" target="853969">
+	<data key="topic">bionet.molbio.methds-reagnts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="224-400354-bionet.molbio.methds-reagnts" source="224" target="400354">
+	<data key="topic">bionet.molbio.methds-reagnts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="400354-853969-bionet.molbio.methds-reagnts" source="400354" target="853969">
+	<data key="topic">bionet.molbio.methds-reagnts</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

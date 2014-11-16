@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="519607"/>
+<node id="803705"/>
+<node id="2691646"/>
+<node id="19068"/>
+<node id="17436"/>
+<node id="501276"/>
+<node id="1267119"/>
+<node id="697231"/>
+<node id="706096"/>
+<node id="510754"/>
+<node id="13002"/>
+<node id="740579"/>
+<node id="648836"/>
+<node id="709794"/>
+<node id="642248"/>
+<node id="709445"/>
+<node id="697734"/>
+<edge id="803705-697231-comp.org.decus" source="803705" target="697231">
+	<data key="topic">comp.org.decus</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2691646-740579-comp.org.decus" source="2691646" target="740579">
+	<data key="topic">comp.org.decus</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19068-519607-comp.org.decus" source="19068" target="519607">
+	<data key="topic">comp.org.decus</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1267119-17436-comp.org.decus" source="1267119" target="17436">
+	<data key="topic">comp.org.decus</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1267119-510754-comp.org.decus" source="1267119" target="510754">
+	<data key="topic">comp.org.decus</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1267119-13002-comp.org.decus" source="1267119" target="13002">
+	<data key="topic">comp.org.decus</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="706096-709794-comp.org.decus" source="706096" target="709794">
+	<data key="topic">comp.org.decus</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="706096-709445-comp.org.decus" source="706096" target="709445">
+	<data key="topic">comp.org.decus</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="648836-697734-comp.org.decus" source="648836" target="697734">
+	<data key="topic">comp.org.decus</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="642248-501276-comp.org.decus" source="642248" target="501276">
+	<data key="topic">comp.org.decus</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="709445-709794-comp.org.decus" source="709445" target="709794">
+	<data key="topic">comp.org.decus</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="697734-709794-comp.org.decus" source="697734" target="709794">
+	<data key="topic">comp.org.decus</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="697734-709445-comp.org.decus" source="697734" target="709445">
+	<data key="topic">comp.org.decus</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

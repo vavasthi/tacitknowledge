@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="29489"/>
+<node id="501784"/>
+<node id="3447"/>
+<node id="15511"/>
+<node id="18650"/>
+<node id="429694"/>
+<node id="509884"/>
+<node id="34719"/>
+<node id="747819"/>
+<node id="36814"/>
+<node id="741286"/>
+<node id="429450"/>
+<node id="506025"/>
+<edge id="29489-509884-u3b.tech" source="29489" target="509884">
+	<data key="topic">u3b.tech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29489-34719-u3b.tech" source="29489" target="34719">
+	<data key="topic">u3b.tech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="501784-15511-u3b.tech" source="501784" target="15511">
+	<data key="topic">u3b.tech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18650-3447-u3b.tech" source="18650" target="3447">
+	<data key="topic">u3b.tech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18650-509884-u3b.tech" source="18650" target="509884">
+	<data key="topic">u3b.tech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="429694-509884-u3b.tech" source="429694" target="509884">
+	<data key="topic">u3b.tech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509884-3447-u3b.tech" source="509884" target="3447">
+	<data key="topic">u3b.tech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="747819-509884-u3b.tech" source="747819" target="509884">
+	<data key="topic">u3b.tech</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="747819-36814-u3b.tech" source="747819" target="36814">
+	<data key="topic">u3b.tech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36814-509884-u3b.tech" source="36814" target="509884">
+	<data key="topic">u3b.tech</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="429450-3447-u3b.tech" source="429450" target="3447">
+	<data key="topic">u3b.tech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="506025-741286-u3b.tech" source="506025" target="741286">
+	<data key="topic">u3b.tech</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

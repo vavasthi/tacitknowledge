@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="746908"/>
+<node id="700058"/>
+<node id="513940"/>
+<node id="512032"/>
+<node id="747540"/>
+<node id="2697844"/>
+<node id="434075"/>
+<node id="445019"/>
+<node id="1427817"/>
+<node id="715030"/>
+<node id="509288"/>
+<node id="29410"/>
+<node id="519909"/>
+<node id="748272"/>
+<node id="1702"/>
+<node id="15719"/>
+<node id="1273052"/>
+<node id="2698180"/>
+<node id="1218906"/>
+<node id="386796"/>
+<node id="2698184"/>
+<node id="698853"/>
+<node id="21872"/>
+<node id="748284"/>
+<node id="511989"/>
+<node id="7733"/>
+<node id="428148"/>
+<node id="748278"/>
+<node id="2113"/>
+<node id="747404"/>
+<node id="748299"/>
+<node id="2698156"/>
+<node id="501894"/>
+<node id="30660"/>
+<node id="1348402"/>
+<node id="1212475"/>
+<node id="511886"/>
+<node id="17357"/>
+<node id="665799"/>
+<edge id="700058-2698184-comp.unix" source="700058" target="2698184">
+	<data key="topic">comp.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="700058-1212475-comp.unix" source="700058" target="1212475">
+	<data key="topic">comp.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="513940-2698184-comp.unix" source="513940" target="2698184">
+	<data key="topic">comp.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="513940-1212475-comp.unix" source="513940" target="1212475">
+	<data key="topic">comp.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="512032-747540-comp.unix" source="512032" target="747540">
+	<data key="topic">comp.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509288-2697844-comp.unix" source="509288" target="2697844">
+	<data key="topic">comp.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509288-511886-comp.unix" source="509288" target="511886">
+	<data key="topic">comp.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="519909-747404-comp.unix" source="519909" target="747404">
+	<data key="topic">comp.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="748272-7733-comp.unix" source="748272" target="7733">
+	<data key="topic">comp.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1702-29410-comp.unix" source="1702" target="29410">
+	<data key="topic">comp.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15719-386796-comp.unix" source="15719" target="386796">
+	<data key="topic">comp.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15719-748284-comp.unix" source="15719" target="748284">
+	<data key="topic">comp.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1273052-2698180-comp.unix" source="1273052" target="2698180">
+	<data key="topic">comp.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1218906-748278-comp.unix" source="1218906" target="748278">
+	<data key="topic">comp.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="511989-2698184-comp.unix" source="511989" target="2698184">
+	<data key="topic">comp.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="511989-1212475-comp.unix" source="511989" target="1212475">
+	<data key="topic">comp.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="428148-715030-comp.unix" source="428148" target="715030">
+	<data key="topic">comp.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2113-2698156-comp.unix" source="2113" target="2698156">
+	<data key="topic">comp.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="748299-1427817-comp.unix" source="748299" target="1427817">
+	<data key="topic">comp.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="748299-665799-comp.unix" source="748299" target="665799">
+	<data key="topic">comp.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="501894-434075-comp.unix" source="501894" target="434075">
+	<data key="topic">comp.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="501894-445019-comp.unix" source="501894" target="445019">
+	<data key="topic">comp.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="501894-509288-comp.unix" source="501894" target="509288">
+	<data key="topic">comp.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="501894-698853-comp.unix" source="501894" target="698853">
+	<data key="topic">comp.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30660-21872-comp.unix" source="30660" target="21872">
+	<data key="topic">comp.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1348402-746908-comp.unix" source="1348402" target="746908">
+	<data key="topic">comp.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1212475-2698184-comp.unix" source="1212475" target="2698184">
+	<data key="topic">comp.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="511886-2697844-comp.unix" source="511886" target="2697844">
+	<data key="topic">comp.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17357-2698184-comp.unix" source="17357" target="2698184">
+	<data key="topic">comp.unix</data>
+	<data key="weight">2</data>
+</edge>
+</graph>
+</graphml>

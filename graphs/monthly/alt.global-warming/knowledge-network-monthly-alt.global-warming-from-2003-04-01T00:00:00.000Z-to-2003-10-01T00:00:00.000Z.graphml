@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="37633"/>
+<node id="37443"/>
+<node id="40981"/>
+<node id="45945"/>
+<node id="49657"/>
+<node id="37435"/>
+<node id="37484"/>
+<node id="45550"/>
+<edge id="37633-45945-alt.global-warming" source="37633" target="45945">
+	<data key="topic">alt.global-warming</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37443-45945-alt.global-warming" source="37443" target="45945">
+	<data key="topic">alt.global-warming</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37443-37435-alt.global-warming" source="37443" target="37435">
+	<data key="topic">alt.global-warming</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="40981-45945-alt.global-warming" source="40981" target="45945">
+	<data key="topic">alt.global-warming</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="40981-37435-alt.global-warming" source="40981" target="37435">
+	<data key="topic">alt.global-warming</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="45945-37435-alt.global-warming" source="45945" target="37435">
+	<data key="topic">alt.global-warming</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="49657-45945-alt.global-warming" source="49657" target="45945">
+	<data key="topic">alt.global-warming</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37435-45945-alt.global-warming" source="37435" target="45945">
+	<data key="topic">alt.global-warming</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37435-37484-alt.global-warming" source="37435" target="37484">
+	<data key="topic">alt.global-warming</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37484-45945-alt.global-warming" source="37484" target="45945">
+	<data key="topic">alt.global-warming</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37484-37435-alt.global-warming" source="37484" target="37435">
+	<data key="topic">alt.global-warming</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="45550-45945-alt.global-warming" source="45550" target="45945">
+	<data key="topic">alt.global-warming</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="734138"/>
+<node id="345016"/>
+<node id="927774"/>
+<node id="680992"/>
+<node id="918682"/>
+<node id="927765"/>
+<node id="391833"/>
+<node id="927764"/>
+<node id="927762"/>
+<node id="918671"/>
+<node id="394469"/>
+<node id="390190"/>
+<node id="27625"/>
+<node id="390192"/>
+<node id="345455"/>
+<node id="918659"/>
+<node id="1495354"/>
+<edge id="734138-345455-mod.religion.christian" source="734138" target="345455">
+	<data key="topic">mod.religion.christian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="927765-927774-mod.religion.christian" source="927765" target="927774">
+	<data key="topic">mod.religion.christian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="927764-345016-mod.religion.christian" source="927764" target="345016">
+	<data key="topic">mod.religion.christian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="927762-391833-mod.religion.christian" source="927762" target="391833">
+	<data key="topic">mod.religion.christian</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="918671-918682-mod.religion.christian" source="918671" target="918682">
+	<data key="topic">mod.religion.christian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="918671-918659-mod.religion.christian" source="918671" target="918659">
+	<data key="topic">mod.religion.christian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="394469-27625-mod.religion.christian" source="394469" target="27625">
+	<data key="topic">mod.religion.christian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390190-680992-mod.religion.christian" source="390190" target="680992">
+	<data key="topic">mod.religion.christian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390190-394469-mod.religion.christian" source="390190" target="394469">
+	<data key="topic">mod.religion.christian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390190-27625-mod.religion.christian" source="390190" target="27625">
+	<data key="topic">mod.religion.christian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390190-1495354-mod.religion.christian" source="390190" target="1495354">
+	<data key="topic">mod.religion.christian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390192-918682-mod.religion.christian" source="390192" target="918682">
+	<data key="topic">mod.religion.christian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390192-391833-mod.religion.christian" source="390192" target="391833">
+	<data key="topic">mod.religion.christian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390192-918671-mod.religion.christian" source="390192" target="918671">
+	<data key="topic">mod.religion.christian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390192-918659-mod.religion.christian" source="390192" target="918659">
+	<data key="topic">mod.religion.christian</data>
+	<data key="weight">3</data>
+</edge>
+</graph>
+</graphml>

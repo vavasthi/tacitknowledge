@@ -1,0 +1,830 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="442775"/>
+<node id="710300"/>
+<node id="30616"/>
+<node id="1815972"/>
+<node id="696727"/>
+<node id="1952"/>
+<node id="710059"/>
+<node id="618926"/>
+<node id="35238"/>
+<node id="697763"/>
+<node id="750246"/>
+<node id="349867"/>
+<node id="717478"/>
+<node id="15282"/>
+<node id="720825"/>
+<node id="698815"/>
+<node id="433841"/>
+<node id="1394116"/>
+<node id="553909"/>
+<node id="16065"/>
+<node id="30146"/>
+<node id="362693"/>
+<node id="696783"/>
+<node id="352964"/>
+<node id="30151"/>
+<node id="698817"/>
+<node id="15564"/>
+<node id="2252"/>
+<node id="698818"/>
+<node id="2254"/>
+<node id="448969"/>
+<node id="1750"/>
+<node id="842965"/>
+<node id="866005"/>
+<node id="614353"/>
+<node id="2788"/>
+<node id="710115"/>
+<node id="16107"/>
+<node id="413166"/>
+<node id="542436"/>
+<node id="710119"/>
+<node id="1246685"/>
+<node id="788733"/>
+<node id="861437"/>
+<node id="371960"/>
+<node id="738297"/>
+<node id="1378318"/>
+<node id="2817"/>
+<node id="698889"/>
+<node id="2530788"/>
+<node id="698637"/>
+<node id="709123"/>
+<node id="557314"/>
+<node id="1803"/>
+<node id="428301"/>
+<node id="866056"/>
+<node id="29963"/>
+<node id="704002"/>
+<node id="422677"/>
+<node id="712730"/>
+<node id="698138"/>
+<node id="618014"/>
+<node id="697886"/>
+<node id="617233"/>
+<node id="697876"/>
+<node id="18719"/>
+<node id="708885"/>
+<node id="716565"/>
+<node id="4384"/>
+<node id="1856799"/>
+<node id="359202"/>
+<node id="451119"/>
+<node id="29993"/>
+<node id="712739"/>
+<node id="707368"/>
+<node id="500011"/>
+<node id="2098"/>
+<node id="2101"/>
+<node id="349760"/>
+<node id="719947"/>
+<node id="710220"/>
+<node id="709961"/>
+<node id="864586"/>
+<node id="358979"/>
+<node id="717889"/>
+<node id="696898"/>
+<node id="708930"/>
+<node id="29006"/>
+<node id="710216"/>
+<node id="640840"/>
+<node id="710227"/>
+<node id="2530944"/>
+<node id="445019"/>
+<node id="697942"/>
+<node id="1353302"/>
+<node id="2150"/>
+<node id="511587"/>
+<node id="704109"/>
+<node id="699492"/>
+<node id="15472"/>
+<node id="352377"/>
+<node id="709240"/>
+<node id="1352822"/>
+<node id="739978"/>
+<node id="946825"/>
+<node id="549505"/>
+<node id="512142"/>
+<node id="740994"/>
+<node id="710274"/>
+<node id="509066"/>
+<node id="352395"/>
+<edge id="442775-710115-comp.sources.bugs" source="442775" target="710115">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="442775-710119-comp.sources.bugs" source="442775" target="710119">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="710300-617233-comp.sources.bugs" source="710300" target="617233">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="710300-710220-comp.sources.bugs" source="710300" target="710220">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="710300-512142-comp.sources.bugs" source="710300" target="512142">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1815972-30616-comp.sources.bugs" source="1815972" target="30616">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1952-30146-comp.sources.bugs" source="1952" target="30146">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1952-2254-comp.sources.bugs" source="1952" target="2254">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="1952-448969-comp.sources.bugs" source="1952" target="448969">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1952-1803-comp.sources.bugs" source="1952" target="1803">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1952-704002-comp.sources.bugs" source="1952" target="704002">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="710059-1952-comp.sources.bugs" source="710059" target="1952">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="710059-1803-comp.sources.bugs" source="710059" target="1803">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="618926-861437-comp.sources.bugs" source="618926" target="861437">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="618926-698637-comp.sources.bugs" source="618926" target="698637">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="35238-30151-comp.sources.bugs" source="35238" target="30151">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="35238-697886-comp.sources.bugs" source="35238" target="697886">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="750246-2817-comp.sources.bugs" source="750246" target="2817">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="750246-451119-comp.sources.bugs" source="750246" target="451119">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="750246-29006-comp.sources.bugs" source="750246" target="29006">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="750246-2530944-comp.sources.bugs" source="750246" target="2530944">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="349867-362693-comp.sources.bugs" source="349867" target="362693">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="717478-710227-comp.sources.bugs" source="717478" target="710227">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="15282-29993-comp.sources.bugs" source="15282" target="29993">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="698815-30151-comp.sources.bugs" source="698815" target="30151">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="553909-717478-comp.sources.bugs" source="553909" target="717478">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="553909-710227-comp.sources.bugs" source="553909" target="710227">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="16065-448969-comp.sources.bugs" source="16065" target="448969">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16065-1803-comp.sources.bugs" source="16065" target="1803">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30146-710300-comp.sources.bugs" source="30146" target="710300">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30146-1803-comp.sources.bugs" source="30146" target="1803">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30146-704002-comp.sources.bugs" source="30146" target="704002">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30146-617233-comp.sources.bugs" source="30146" target="617233">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30146-710220-comp.sources.bugs" source="30146" target="710220">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30146-2150-comp.sources.bugs" source="30146" target="2150">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="30146-512142-comp.sources.bugs" source="30146" target="512142">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30146-710274-comp.sources.bugs" source="30146" target="710274">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362693-29963-comp.sources.bugs" source="362693" target="29963">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696783-2252-comp.sources.bugs" source="696783" target="2252">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30151-716565-comp.sources.bugs" source="30151" target="716565">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15564-18719-comp.sources.bugs" source="15564" target="18719">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="698818-697763-comp.sources.bugs" source="698818" target="697763">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2254-696727-comp.sources.bugs" source="2254" target="696727">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2254-1952-comp.sources.bugs" source="2254" target="1952">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2254-30146-comp.sources.bugs" source="2254" target="30146">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2254-352964-comp.sources.bugs" source="2254" target="352964">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2254-1378318-comp.sources.bugs" source="2254" target="1378318">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2254-2530788-comp.sources.bugs" source="2254" target="2530788">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2254-698637-comp.sources.bugs" source="2254" target="698637">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2254-557314-comp.sources.bugs" source="2254" target="557314">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2254-1803-comp.sources.bugs" source="2254" target="1803">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2254-428301-comp.sources.bugs" source="2254" target="428301">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2254-704002-comp.sources.bugs" source="2254" target="704002">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2254-712730-comp.sources.bugs" source="2254" target="712730">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2254-708885-comp.sources.bugs" source="2254" target="708885">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2254-710220-comp.sources.bugs" source="2254" target="710220">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2254-511587-comp.sources.bugs" source="2254" target="511587">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="448969-1952-comp.sources.bugs" source="448969" target="1952">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="448969-30146-comp.sources.bugs" source="448969" target="30146">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="448969-2254-comp.sources.bugs" source="448969" target="2254">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="448969-1803-comp.sources.bugs" source="448969" target="1803">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="448969-704002-comp.sources.bugs" source="448969" target="704002">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1750-18719-comp.sources.bugs" source="1750" target="18719">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="614353-359202-comp.sources.bugs" source="614353" target="359202">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2788-362693-comp.sources.bugs" source="2788" target="362693">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2788-697942-comp.sources.bugs" source="2788" target="697942">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="710115-710119-comp.sources.bugs" source="710115" target="710119">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16107-618014-comp.sources.bugs" source="16107" target="618014">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="413166-359202-comp.sources.bugs" source="413166" target="359202">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="542436-720825-comp.sources.bugs" source="542436" target="720825">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="542436-864586-comp.sources.bugs" source="542436" target="864586">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1246685-2254-comp.sources.bugs" source="1246685" target="2254">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1246685-1352822-comp.sources.bugs" source="1246685" target="1352822">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="788733-1394116-comp.sources.bugs" source="788733" target="1394116">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="371960-358979-comp.sources.bugs" source="371960" target="358979">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="371960-709240-comp.sources.bugs" source="371960" target="709240">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="738297-2150-comp.sources.bugs" source="738297" target="2150">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="698889-842965-comp.sources.bugs" source="698889" target="842965">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="698637-442775-comp.sources.bugs" source="698637" target="442775">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="698637-710115-comp.sources.bugs" source="698637" target="710115">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="698637-710119-comp.sources.bugs" source="698637" target="710119">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="698637-861437-comp.sources.bugs" source="698637" target="861437">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="704002-1952-comp.sources.bugs" source="704002" target="1952">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="704002-16065-comp.sources.bugs" source="704002" target="16065">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="704002-30146-comp.sources.bugs" source="704002" target="30146">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="704002-2254-comp.sources.bugs" source="704002" target="2254">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="704002-448969-comp.sources.bugs" source="704002" target="448969">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="704002-1803-comp.sources.bugs" source="704002" target="1803">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="422677-866005-comp.sources.bugs" source="422677" target="866005">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="712730-557314-comp.sources.bugs" source="712730" target="557314">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="697886-30151-comp.sources.bugs" source="697886" target="30151">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="617233-710220-comp.sources.bugs" source="617233" target="710220">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="617233-512142-comp.sources.bugs" source="617233" target="512142">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4384-30616-comp.sources.bugs" source="4384" target="30616">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4384-707368-comp.sources.bugs" source="4384" target="707368">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1856799-739978-comp.sources.bugs" source="1856799" target="739978">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="359202-2530788-comp.sources.bugs" source="359202" target="2530788">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="712739-717478-comp.sources.bugs" source="712739" target="717478">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="712739-710227-comp.sources.bugs" source="712739" target="710227">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="500011-2254-comp.sources.bugs" source="500011" target="2254">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2098-1952-comp.sources.bugs" source="2098" target="1952">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2098-30146-comp.sources.bugs" source="2098" target="30146">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2098-2254-comp.sources.bugs" source="2098" target="2254">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2098-448969-comp.sources.bugs" source="2098" target="448969">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2098-1803-comp.sources.bugs" source="2098" target="1803">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2098-704002-comp.sources.bugs" source="2098" target="704002">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2101-1952-comp.sources.bugs" source="2101" target="1952">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2101-433841-comp.sources.bugs" source="2101" target="433841">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2101-30146-comp.sources.bugs" source="2101" target="30146">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2101-2254-comp.sources.bugs" source="2101" target="2254">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2101-1803-comp.sources.bugs" source="2101" target="1803">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2101-704002-comp.sources.bugs" source="2101" target="704002">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="349760-866056-comp.sources.bugs" source="349760" target="866056">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="719947-509066-comp.sources.bugs" source="719947" target="509066">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="709961-1952-comp.sources.bugs" source="709961" target="1952">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="709961-16065-comp.sources.bugs" source="709961" target="16065">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="709961-2254-comp.sources.bugs" source="709961" target="2254">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="709961-448969-comp.sources.bugs" source="709961" target="448969">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="709961-1803-comp.sources.bugs" source="709961" target="1803">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="709961-710216-comp.sources.bugs" source="709961" target="710216">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="864586-720825-comp.sources.bugs" source="864586" target="720825">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="717889-708885-comp.sources.bugs" source="717889" target="708885">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696898-709123-comp.sources.bugs" source="696898" target="709123">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="708930-15282-comp.sources.bugs" source="708930" target="15282">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="708930-29993-comp.sources.bugs" source="708930" target="29993">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-2817-comp.sources.bugs" source="29006" target="2817">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-698138-comp.sources.bugs" source="29006" target="698138">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="29006-451119-comp.sources.bugs" source="29006" target="451119">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="29006-2530944-comp.sources.bugs" source="29006" target="2530944">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="710216-16065-comp.sources.bugs" source="710216" target="16065">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="710216-448969-comp.sources.bugs" source="710216" target="448969">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="710216-1803-comp.sources.bugs" source="710216" target="1803">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="710227-717478-comp.sources.bugs" source="710227" target="717478">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="445019-1952-comp.sources.bugs" source="445019" target="1952">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="445019-30146-comp.sources.bugs" source="445019" target="30146">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="445019-2254-comp.sources.bugs" source="445019" target="2254">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="445019-1803-comp.sources.bugs" source="445019" target="1803">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="445019-704002-comp.sources.bugs" source="445019" target="704002">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="697942-362693-comp.sources.bugs" source="697942" target="362693">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1353302-708885-comp.sources.bugs" source="1353302" target="708885">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2150-710300-comp.sources.bugs" source="2150" target="710300">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2150-738297-comp.sources.bugs" source="2150" target="738297">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2150-2817-comp.sources.bugs" source="2150" target="2817">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2150-617233-comp.sources.bugs" source="2150" target="617233">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="2150-451119-comp.sources.bugs" source="2150" target="451119">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2150-719947-comp.sources.bugs" source="2150" target="719947">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2150-710220-comp.sources.bugs" source="2150" target="710220">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="2150-29006-comp.sources.bugs" source="2150" target="29006">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2150-2530944-comp.sources.bugs" source="2150" target="2530944">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2150-704109-comp.sources.bugs" source="2150" target="704109">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2150-512142-comp.sources.bugs" source="2150" target="512142">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="2150-740994-comp.sources.bugs" source="2150" target="740994">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2150-710274-comp.sources.bugs" source="2150" target="710274">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2150-509066-comp.sources.bugs" source="2150" target="509066">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="511587-696727-comp.sources.bugs" source="511587" target="696727">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="704109-738297-comp.sources.bugs" source="704109" target="738297">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="704109-2150-comp.sources.bugs" source="704109" target="2150">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="699492-842965-comp.sources.bugs" source="699492" target="842965">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="699492-946825-comp.sources.bugs" source="699492" target="946825">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15472-866005-comp.sources.bugs" source="15472" target="866005">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="352377-698817-comp.sources.bugs" source="352377" target="698817">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="709240-371960-comp.sources.bugs" source="709240" target="371960">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1352822-2254-comp.sources.bugs" source="1352822" target="2254">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="946825-842965-comp.sources.bugs" source="946825" target="842965">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="549505-696727-comp.sources.bugs" source="549505" target="696727">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="512142-710220-comp.sources.bugs" source="512142" target="710220">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="740994-710300-comp.sources.bugs" source="740994" target="710300">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="740994-617233-comp.sources.bugs" source="740994" target="617233">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="740994-710220-comp.sources.bugs" source="740994" target="710220">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="740994-2150-comp.sources.bugs" source="740994" target="2150">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="740994-512142-comp.sources.bugs" source="740994" target="512142">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="710274-710300-comp.sources.bugs" source="710274" target="710300">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="710274-617233-comp.sources.bugs" source="710274" target="617233">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="710274-710220-comp.sources.bugs" source="710274" target="710220">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="710274-512142-comp.sources.bugs" source="710274" target="512142">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="352395-842965-comp.sources.bugs" source="352395" target="842965">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="352395-699492-comp.sources.bugs" source="352395" target="699492">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="352395-946825-comp.sources.bugs" source="352395" target="946825">
+	<data key="topic">comp.sources.bugs</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

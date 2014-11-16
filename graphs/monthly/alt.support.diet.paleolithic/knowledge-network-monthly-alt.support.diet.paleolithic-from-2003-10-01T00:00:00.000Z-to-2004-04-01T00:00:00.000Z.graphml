@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="321822"/>
+<node id="315439"/>
+<edge id="315439-321822-alt.support.diet.paleolithic" source="315439" target="321822">
+	<data key="topic">alt.support.diet.paleolithic</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

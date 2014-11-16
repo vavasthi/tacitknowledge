@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2113"/>
+<node id="2849"/>
+<node id="1482440"/>
+<node id="446872"/>
+<node id="393698"/>
+<node id="389568"/>
+<node id="447518"/>
+<node id="23277"/>
+<node id="23630"/>
+<node id="457722"/>
+<edge id="2113-2849-news.software.notes" source="2113" target="2849">
+	<data key="topic">news.software.notes</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2113-1482440-news.software.notes" source="2113" target="1482440">
+	<data key="topic">news.software.notes</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2113-389568-news.software.notes" source="2113" target="389568">
+	<data key="topic">news.software.notes</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2849-389568-news.software.notes" source="2849" target="389568">
+	<data key="topic">news.software.notes</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="446872-2849-news.software.notes" source="446872" target="2849">
+	<data key="topic">news.software.notes</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="446872-389568-news.software.notes" source="446872" target="389568">
+	<data key="topic">news.software.notes</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="393698-2849-news.software.notes" source="393698" target="2849">
+	<data key="topic">news.software.notes</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="393698-1482440-news.software.notes" source="393698" target="1482440">
+	<data key="topic">news.software.notes</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="447518-23630-news.software.notes" source="447518" target="23630">
+	<data key="topic">news.software.notes</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23277-23630-news.software.notes" source="23277" target="23630">
+	<data key="topic">news.software.notes</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="457722-2849-news.software.notes" source="457722" target="2849">
+	<data key="topic">news.software.notes</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="457722-446872-news.software.notes" source="457722" target="446872">
+	<data key="topic">news.software.notes</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="457722-389568-news.software.notes" source="457722" target="389568">
+	<data key="topic">news.software.notes</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

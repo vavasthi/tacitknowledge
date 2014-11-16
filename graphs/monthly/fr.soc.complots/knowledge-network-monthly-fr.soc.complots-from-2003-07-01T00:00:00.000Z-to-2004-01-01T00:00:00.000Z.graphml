@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="38593"/>
+<node id="179191"/>
+<node id="43975"/>
+<node id="112474"/>
+<node id="37227"/>
+<node id="45199"/>
+<edge id="38593-179191-fr.soc.complots" source="38593" target="179191">
+	<data key="topic">fr.soc.complots</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="179191-38593-fr.soc.complots" source="179191" target="38593">
+	<data key="topic">fr.soc.complots</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="43975-38593-fr.soc.complots" source="43975" target="38593">
+	<data key="topic">fr.soc.complots</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="43975-179191-fr.soc.complots" source="43975" target="179191">
+	<data key="topic">fr.soc.complots</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="43975-112474-fr.soc.complots" source="43975" target="112474">
+	<data key="topic">fr.soc.complots</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="112474-38593-fr.soc.complots" source="112474" target="38593">
+	<data key="topic">fr.soc.complots</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="112474-179191-fr.soc.complots" source="112474" target="179191">
+	<data key="topic">fr.soc.complots</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37227-38593-fr.soc.complots" source="37227" target="38593">
+	<data key="topic">fr.soc.complots</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37227-179191-fr.soc.complots" source="37227" target="179191">
+	<data key="topic">fr.soc.complots</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="45199-38593-fr.soc.complots" source="45199" target="38593">
+	<data key="topic">fr.soc.complots</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="45199-179191-fr.soc.complots" source="45199" target="179191">
+	<data key="topic">fr.soc.complots</data>
+	<data key="weight">2</data>
+</edge>
+</graph>
+</graphml>

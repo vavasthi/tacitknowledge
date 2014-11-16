@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="929567"/>
+<node id="665244"/>
+<node id="18578"/>
+<node id="33750"/>
+<node id="2888309"/>
+<node id="927765"/>
+<node id="454237"/>
+<node id="2001764"/>
+<node id="541144"/>
+<node id="469800"/>
+<node id="2893327"/>
+<node id="16167"/>
+<node id="33767"/>
+<node id="450352"/>
+<node id="23277"/>
+<node id="455019"/>
+<node id="658663"/>
+<node id="16239"/>
+<node id="389560"/>
+<node id="455542"/>
+<node id="16572"/>
+<node id="17212"/>
+<node id="28415"/>
+<node id="33666"/>
+<node id="18372"/>
+<node id="23558"/>
+<node id="18247"/>
+<node id="427778"/>
+<node id="534914"/>
+<node id="29006"/>
+<edge id="929567-450352-comp.unix" source="929567" target="450352">
+	<data key="topic">comp.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="33750-33767-comp.unix" source="33750" target="33767">
+	<data key="topic">comp.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="33750-427778-comp.unix" source="33750" target="427778">
+	<data key="topic">comp.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="33750-29006-comp.unix" source="33750" target="29006">
+	<data key="topic">comp.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2888309-454237-comp.unix" source="2888309" target="454237">
+	<data key="topic">comp.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="927765-389560-comp.unix" source="927765" target="389560">
+	<data key="topic">comp.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="541144-450352-comp.unix" source="541144" target="450352">
+	<data key="topic">comp.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="541144-389560-comp.unix" source="541144" target="389560">
+	<data key="topic">comp.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="469800-23558-comp.unix" source="469800" target="23558">
+	<data key="topic">comp.unix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2893327-534914-comp.unix" source="2893327" target="534914">
+	<data key="topic">comp.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="455019-665244-comp.unix" source="455019" target="665244">
+	<data key="topic">comp.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="658663-469800-comp.unix" source="658663" target="469800">
+	<data key="topic">comp.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="658663-23558-comp.unix" source="658663" target="23558">
+	<data key="topic">comp.unix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="16239-455542-comp.unix" source="16239" target="455542">
+	<data key="topic">comp.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="389560-665244-comp.unix" source="389560" target="665244">
+	<data key="topic">comp.unix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="389560-18578-comp.unix" source="389560" target="18578">
+	<data key="topic">comp.unix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="389560-2001764-comp.unix" source="389560" target="2001764">
+	<data key="topic">comp.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="389560-450352-comp.unix" source="389560" target="450352">
+	<data key="topic">comp.unix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="389560-455019-comp.unix" source="389560" target="455019">
+	<data key="topic">comp.unix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="16572-665244-comp.unix" source="16572" target="665244">
+	<data key="topic">comp.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17212-23558-comp.unix" source="17212" target="23558">
+	<data key="topic">comp.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28415-23277-comp.unix" source="28415" target="23277">
+	<data key="topic">comp.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="33666-16167-comp.unix" source="33666" target="16167">
+	<data key="topic">comp.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18247-18372-comp.unix" source="18247" target="18372">
+	<data key="topic">comp.unix</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

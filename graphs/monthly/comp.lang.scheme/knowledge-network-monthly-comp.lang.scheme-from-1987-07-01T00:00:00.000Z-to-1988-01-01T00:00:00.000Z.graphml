@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="666875"/>
+<node id="723866"/>
+<node id="339186"/>
+<node id="17560"/>
+<node id="23384"/>
+<node id="17050"/>
+<node id="543827"/>
+<node id="723186"/>
+<node id="518910"/>
+<node id="22845"/>
+<node id="482812"/>
+<node id="24862"/>
+<node id="731414"/>
+<node id="20802"/>
+<node id="666862"/>
+<node id="17738"/>
+<node id="24843"/>
+<node id="17612"/>
+<node id="2002226"/>
+<edge id="17560-731414-comp.lang.scheme" source="17560" target="731414">
+	<data key="topic">comp.lang.scheme</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23384-24862-comp.lang.scheme" source="23384" target="24862">
+	<data key="topic">comp.lang.scheme</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17050-723866-comp.lang.scheme" source="17050" target="723866">
+	<data key="topic">comp.lang.scheme</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17050-543827-comp.lang.scheme" source="17050" target="543827">
+	<data key="topic">comp.lang.scheme</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="543827-17050-comp.lang.scheme" source="543827" target="17050">
+	<data key="topic">comp.lang.scheme</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="723186-518910-comp.lang.scheme" source="723186" target="518910">
+	<data key="topic">comp.lang.scheme</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="22845-666862-comp.lang.scheme" source="22845" target="666862">
+	<data key="topic">comp.lang.scheme</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="22845-17612-comp.lang.scheme" source="22845" target="17612">
+	<data key="topic">comp.lang.scheme</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="482812-666875-comp.lang.scheme" source="482812" target="666875">
+	<data key="topic">comp.lang.scheme</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20802-24843-comp.lang.scheme" source="20802" target="24843">
+	<data key="topic">comp.lang.scheme</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17738-22845-comp.lang.scheme" source="17738" target="22845">
+	<data key="topic">comp.lang.scheme</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17738-666862-comp.lang.scheme" source="17738" target="666862">
+	<data key="topic">comp.lang.scheme</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17738-17612-comp.lang.scheme" source="17738" target="17612">
+	<data key="topic">comp.lang.scheme</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17612-666862-comp.lang.scheme" source="17612" target="666862">
+	<data key="topic">comp.lang.scheme</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2002226-339186-comp.lang.scheme" source="2002226" target="339186">
+	<data key="topic">comp.lang.scheme</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

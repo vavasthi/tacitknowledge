@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="431047"/>
+<node id="26833"/>
+<node id="431207"/>
+<node id="36532"/>
+<node id="431219"/>
+<node id="32871"/>
+<node id="34408"/>
+<node id="426882"/>
+<node id="15419"/>
+<node id="431211"/>
+<node id="29198"/>
+<node id="29903"/>
+<edge id="431207-431047-comp.lang.scheme.c" source="431207" target="431047">
+	<data key="topic">comp.lang.scheme.c</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="431207-34408-comp.lang.scheme.c" source="431207" target="34408">
+	<data key="topic">comp.lang.scheme.c</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="431207-431211-comp.lang.scheme.c" source="431207" target="431211">
+	<data key="topic">comp.lang.scheme.c</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36532-431047-comp.lang.scheme.c" source="36532" target="431047">
+	<data key="topic">comp.lang.scheme.c</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36532-29903-comp.lang.scheme.c" source="36532" target="29903">
+	<data key="topic">comp.lang.scheme.c</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="431219-431047-comp.lang.scheme.c" source="431219" target="431047">
+	<data key="topic">comp.lang.scheme.c</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="32871-431047-comp.lang.scheme.c" source="32871" target="431047">
+	<data key="topic">comp.lang.scheme.c</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="32871-29198-comp.lang.scheme.c" source="32871" target="29198">
+	<data key="topic">comp.lang.scheme.c</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="34408-431047-comp.lang.scheme.c" source="34408" target="431047">
+	<data key="topic">comp.lang.scheme.c</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="34408-431211-comp.lang.scheme.c" source="34408" target="431211">
+	<data key="topic">comp.lang.scheme.c</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="426882-26833-comp.lang.scheme.c" source="426882" target="26833">
+	<data key="topic">comp.lang.scheme.c</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15419-431047-comp.lang.scheme.c" source="15419" target="431047">
+	<data key="topic">comp.lang.scheme.c</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15419-34408-comp.lang.scheme.c" source="15419" target="34408">
+	<data key="topic">comp.lang.scheme.c</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15419-431211-comp.lang.scheme.c" source="15419" target="431211">
+	<data key="topic">comp.lang.scheme.c</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="431211-431047-comp.lang.scheme.c" source="431211" target="431047">
+	<data key="topic">comp.lang.scheme.c</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29198-431047-comp.lang.scheme.c" source="29198" target="431047">
+	<data key="topic">comp.lang.scheme.c</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29903-431047-comp.lang.scheme.c" source="29903" target="431047">
+	<data key="topic">comp.lang.scheme.c</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="338070"/>
+<node id="26833"/>
+<node id="599580"/>
+<node id="337367"/>
+<node id="337374"/>
+<node id="467037"/>
+<node id="341914"/>
+<node id="337243"/>
+<node id="459304"/>
+<node id="21538"/>
+<node id="396968"/>
+<node id="465511"/>
+<node id="339428"/>
+<node id="521711"/>
+<node id="465774"/>
+<node id="473389"/>
+<node id="25389"/>
+<node id="1465927"/>
+<node id="341879"/>
+<node id="28344"/>
+<node id="469120"/>
+<node id="337278"/>
+<node id="448569"/>
+<node id="337595"/>
+<node id="599562"/>
+<node id="469127"/>
+<node id="341697"/>
+<node id="469955"/>
+<node id="895627"/>
+<node id="464588"/>
+<node id="1332985"/>
+<edge id="338070-1465927-net.info-terms" source="338070" target="1465927">
+	<data key="topic">net.info-terms</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337367-599580-net.info-terms" source="337367" target="599580">
+	<data key="topic">net.info-terms</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337367-467037-net.info-terms" source="337367" target="467037">
+	<data key="topic">net.info-terms</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337367-337243-net.info-terms" source="337367" target="337243">
+	<data key="topic">net.info-terms</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337367-341879-net.info-terms" source="337367" target="341879">
+	<data key="topic">net.info-terms</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337367-28344-net.info-terms" source="337367" target="28344">
+	<data key="topic">net.info-terms</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337367-599562-net.info-terms" source="337367" target="599562">
+	<data key="topic">net.info-terms</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="337374-337367-net.info-terms" source="337374" target="337367">
+	<data key="topic">net.info-terms</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337374-467037-net.info-terms" source="337374" target="467037">
+	<data key="topic">net.info-terms</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341914-467037-net.info-terms" source="341914" target="467037">
+	<data key="topic">net.info-terms</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="21538-895627-net.info-terms" source="21538" target="895627">
+	<data key="topic">net.info-terms</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339428-338070-net.info-terms" source="339428" target="338070">
+	<data key="topic">net.info-terms</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339428-396968-net.info-terms" source="339428" target="396968">
+	<data key="topic">net.info-terms</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339428-1465927-net.info-terms" source="339428" target="1465927">
+	<data key="topic">net.info-terms</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521711-337278-net.info-terms" source="521711" target="337278">
+	<data key="topic">net.info-terms</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="25389-459304-net.info-terms" source="25389" target="459304">
+	<data key="topic">net.info-terms</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28344-337367-net.info-terms" source="28344" target="337367">
+	<data key="topic">net.info-terms</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28344-599562-net.info-terms" source="28344" target="599562">
+	<data key="topic">net.info-terms</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="469120-465511-net.info-terms" source="469120" target="465511">
+	<data key="topic">net.info-terms</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="448569-465774-net.info-terms" source="448569" target="465774">
+	<data key="topic">net.info-terms</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337595-337367-net.info-terms" source="337595" target="337367">
+	<data key="topic">net.info-terms</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337595-599562-net.info-terms" source="337595" target="599562">
+	<data key="topic">net.info-terms</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341697-467037-net.info-terms" source="341697" target="467037">
+	<data key="topic">net.info-terms</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341697-464588-net.info-terms" source="341697" target="464588">
+	<data key="topic">net.info-terms</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="469955-469127-net.info-terms" source="469955" target="469127">
+	<data key="topic">net.info-terms</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="464588-467037-net.info-terms" source="464588" target="467037">
+	<data key="topic">net.info-terms</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1332985-26833-net.info-terms" source="1332985" target="26833">
+	<data key="topic">net.info-terms</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

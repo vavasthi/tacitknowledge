@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="397495"/>
+<node id="991646"/>
+<node id="391709"/>
+<node id="483675"/>
+<node id="1573960"/>
+<node id="392518"/>
+<node id="919663"/>
+<node id="487462"/>
+<node id="451462"/>
+<node id="475780"/>
+<node id="924331"/>
+<node id="16106"/>
+<node id="397901"/>
+<node id="920068"/>
+<node id="921892"/>
+<edge id="397495-921892-net.lang.prolog" source="397495" target="921892">
+	<data key="topic">net.lang.prolog</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="483675-391709-net.lang.prolog" source="483675" target="391709">
+	<data key="topic">net.lang.prolog</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392518-451462-net.lang.prolog" source="392518" target="451462">
+	<data key="topic">net.lang.prolog</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919663-991646-net.lang.prolog" source="919663" target="991646">
+	<data key="topic">net.lang.prolog</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="475780-924331-net.lang.prolog" source="475780" target="924331">
+	<data key="topic">net.lang.prolog</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="475780-397901-net.lang.prolog" source="475780" target="397901">
+	<data key="topic">net.lang.prolog</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16106-1573960-net.lang.prolog" source="16106" target="1573960">
+	<data key="topic">net.lang.prolog</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16106-487462-net.lang.prolog" source="16106" target="487462">
+	<data key="topic">net.lang.prolog</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16106-475780-net.lang.prolog" source="16106" target="475780">
+	<data key="topic">net.lang.prolog</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16106-920068-net.lang.prolog" source="16106" target="920068">
+	<data key="topic">net.lang.prolog</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="397901-924331-net.lang.prolog" source="397901" target="924331">
+	<data key="topic">net.lang.prolog</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="920068-16106-net.lang.prolog" source="920068" target="16106">
+	<data key="topic">net.lang.prolog</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="294611"/>
+<node id="300107"/>
+<node id="300171"/>
+<edge id="300107-294611-rec.motorcycles.dirt" source="300107" target="294611">
+	<data key="topic">rec.motorcycles.dirt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="300171-294611-rec.motorcycles.dirt" source="300171" target="294611">
+	<data key="topic">rec.motorcycles.dirt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="300171-300107-rec.motorcycles.dirt" source="300171" target="300107">
+	<data key="topic">rec.motorcycles.dirt</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

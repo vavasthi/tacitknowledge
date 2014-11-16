@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="549514"/>
+<node id="713967"/>
+<node id="720765"/>
+<node id="432447"/>
+<node id="737203"/>
+<node id="512795"/>
+<node id="727589"/>
+<node id="1860356"/>
+<edge id="549514-720765-rec.aviation" source="549514" target="720765">
+	<data key="topic">rec.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="713967-1860356-rec.aviation" source="713967" target="1860356">
+	<data key="topic">rec.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="737203-432447-rec.aviation" source="737203" target="432447">
+	<data key="topic">rec.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="737203-727589-rec.aviation" source="737203" target="727589">
+	<data key="topic">rec.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="512795-432447-rec.aviation" source="512795" target="432447">
+	<data key="topic">rec.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="512795-737203-rec.aviation" source="512795" target="737203">
+	<data key="topic">rec.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="512795-727589-rec.aviation" source="512795" target="727589">
+	<data key="topic">rec.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="727589-432447-rec.aviation" source="727589" target="432447">
+	<data key="topic">rec.aviation</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

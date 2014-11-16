@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="501717"/>
+<node id="515507"/>
+<node id="34167"/>
+<node id="428305"/>
+<node id="18872"/>
+<node id="29529"/>
+<node id="502144"/>
+<node id="17020"/>
+<node id="533364"/>
+<node id="20702"/>
+<node id="16099"/>
+<node id="1668"/>
+<node id="768905"/>
+<node id="429860"/>
+<node id="17127"/>
+<node id="689230"/>
+<node id="428303"/>
+<node id="29483"/>
+<node id="428301"/>
+<node id="1586997"/>
+<node id="432043"/>
+<edge id="501717-34167-comp.sys.sequent" source="501717" target="34167">
+	<data key="topic">comp.sys.sequent</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="501717-29529-comp.sys.sequent" source="501717" target="29529">
+	<data key="topic">comp.sys.sequent</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="501717-689230-comp.sys.sequent" source="501717" target="689230">
+	<data key="topic">comp.sys.sequent</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="501717-428301-comp.sys.sequent" source="501717" target="428301">
+	<data key="topic">comp.sys.sequent</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="34167-689230-comp.sys.sequent" source="34167" target="689230">
+	<data key="topic">comp.sys.sequent</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="428305-29529-comp.sys.sequent" source="428305" target="29529">
+	<data key="topic">comp.sys.sequent</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18872-515507-comp.sys.sequent" source="18872" target="515507">
+	<data key="topic">comp.sys.sequent</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="502144-29529-comp.sys.sequent" source="502144" target="29529">
+	<data key="topic">comp.sys.sequent</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="533364-1586997-comp.sys.sequent" source="533364" target="1586997">
+	<data key="topic">comp.sys.sequent</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20702-29529-comp.sys.sequent" source="20702" target="29529">
+	<data key="topic">comp.sys.sequent</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16099-501717-comp.sys.sequent" source="16099" target="501717">
+	<data key="topic">comp.sys.sequent</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="16099-34167-comp.sys.sequent" source="16099" target="34167">
+	<data key="topic">comp.sys.sequent</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="16099-689230-comp.sys.sequent" source="16099" target="689230">
+	<data key="topic">comp.sys.sequent</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="16099-29483-comp.sys.sequent" source="16099" target="29483">
+	<data key="topic">comp.sys.sequent</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="768905-29529-comp.sys.sequent" source="768905" target="29529">
+	<data key="topic">comp.sys.sequent</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="768905-429860-comp.sys.sequent" source="768905" target="429860">
+	<data key="topic">comp.sys.sequent</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="429860-29529-comp.sys.sequent" source="429860" target="29529">
+	<data key="topic">comp.sys.sequent</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="429860-1668-comp.sys.sequent" source="429860" target="1668">
+	<data key="topic">comp.sys.sequent</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="429860-428303-comp.sys.sequent" source="429860" target="428303">
+	<data key="topic">comp.sys.sequent</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="429860-1586997-comp.sys.sequent" source="429860" target="1586997">
+	<data key="topic">comp.sys.sequent</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17127-515507-comp.sys.sequent" source="17127" target="515507">
+	<data key="topic">comp.sys.sequent</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="428303-29529-comp.sys.sequent" source="428303" target="29529">
+	<data key="topic">comp.sys.sequent</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29483-501717-comp.sys.sequent" source="29483" target="501717">
+	<data key="topic">comp.sys.sequent</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29483-34167-comp.sys.sequent" source="29483" target="34167">
+	<data key="topic">comp.sys.sequent</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29483-16099-comp.sys.sequent" source="29483" target="16099">
+	<data key="topic">comp.sys.sequent</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29483-689230-comp.sys.sequent" source="29483" target="689230">
+	<data key="topic">comp.sys.sequent</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="428301-515507-comp.sys.sequent" source="428301" target="515507">
+	<data key="topic">comp.sys.sequent</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="428301-29529-comp.sys.sequent" source="428301" target="29529">
+	<data key="topic">comp.sys.sequent</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="428301-17020-comp.sys.sequent" source="428301" target="17020">
+	<data key="topic">comp.sys.sequent</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="432043-501717-comp.sys.sequent" source="432043" target="501717">
+	<data key="topic">comp.sys.sequent</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="432043-34167-comp.sys.sequent" source="432043" target="34167">
+	<data key="topic">comp.sys.sequent</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="432043-689230-comp.sys.sequent" source="432043" target="689230">
+	<data key="topic">comp.sys.sequent</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

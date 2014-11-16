@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2180018"/>
+<node id="323352"/>
+<node id="2197944"/>
+<node id="2781495"/>
+<node id="2801975"/>
+<node id="305381"/>
+<node id="2780044"/>
+<node id="2197123"/>
+<node id="46950"/>
+<node id="2181189"/>
+<node id="2197381"/>
+<node id="2804688"/>
+<node id="2777539"/>
+<node id="2183753"/>
+<node id="2781121"/>
+<node id="2193483"/>
+<node id="2797314"/>
+<node id="2205198"/>
+<node id="2788999"/>
+<node id="225391"/>
+<node id="2221965"/>
+<node id="2780808"/>
+<node id="2804316"/>
+<node id="2309906"/>
+<node id="2789140"/>
+<node id="2789458"/>
+<node id="2781138"/>
+<node id="2800088"/>
+<node id="434681"/>
+<node id="2309796"/>
+<node id="2179682"/>
+<node id="2189153"/>
+<node id="2325793"/>
+<node id="2788769"/>
+<node id="2265005"/>
+<node id="2779302"/>
+<edge id="323352-2800088-comp.object" source="323352" target="2800088">
+	<data key="topic">comp.object</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2197944-2180018-comp.object" source="2197944" target="2180018">
+	<data key="topic">comp.object</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2197944-46950-comp.object" source="2197944" target="46950">
+	<data key="topic">comp.object</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2197944-2797314-comp.object" source="2197944" target="2797314">
+	<data key="topic">comp.object</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2197944-2800088-comp.object" source="2197944" target="2800088">
+	<data key="topic">comp.object</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2197944-2189153-comp.object" source="2197944" target="2189153">
+	<data key="topic">comp.object</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2781495-2781138-comp.object" source="2781495" target="2781138">
+	<data key="topic">comp.object</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2801975-2197944-comp.object" source="2801975" target="2197944">
+	<data key="topic">comp.object</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2801975-2181189-comp.object" source="2801975" target="2181189">
+	<data key="topic">comp.object</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2801975-2189153-comp.object" source="2801975" target="2189153">
+	<data key="topic">comp.object</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="305381-2309796-comp.object" source="305381" target="2309796">
+	<data key="topic">comp.object</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="305381-2788769-comp.object" source="305381" target="2788769">
+	<data key="topic">comp.object</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2780044-2179682-comp.object" source="2780044" target="2179682">
+	<data key="topic">comp.object</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2197123-2221965-comp.object" source="2197123" target="2221965">
+	<data key="topic">comp.object</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2197123-2804316-comp.object" source="2197123" target="2804316">
+	<data key="topic">comp.object</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2197123-2788769-comp.object" source="2197123" target="2788769">
+	<data key="topic">comp.object</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="46950-2800088-comp.object" source="46950" target="2800088">
+	<data key="topic">comp.object</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2181189-2197944-comp.object" source="2181189" target="2197944">
+	<data key="topic">comp.object</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2181189-2189153-comp.object" source="2181189" target="2189153">
+	<data key="topic">comp.object</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2197381-2789458-comp.object" source="2197381" target="2789458">
+	<data key="topic">comp.object</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2804688-2183753-comp.object" source="2804688" target="2183753">
+	<data key="topic">comp.object</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2804688-2804316-comp.object" source="2804688" target="2804316">
+	<data key="topic">comp.object</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2777539-2180018-comp.object" source="2777539" target="2180018">
+	<data key="topic">comp.object</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2183753-2804316-comp.object" source="2183753" target="2804316">
+	<data key="topic">comp.object</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="2781121-2781138-comp.object" source="2781121" target="2781138">
+	<data key="topic">comp.object</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2193483-2180018-comp.object" source="2193483" target="2180018">
+	<data key="topic">comp.object</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2797314-2180018-comp.object" source="2797314" target="2180018">
+	<data key="topic">comp.object</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2205198-2180018-comp.object" source="2205198" target="2180018">
+	<data key="topic">comp.object</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2205198-2779302-comp.object" source="2205198" target="2779302">
+	<data key="topic">comp.object</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2788999-2804316-comp.object" source="2788999" target="2804316">
+	<data key="topic">comp.object</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2788999-2800088-comp.object" source="2788999" target="2800088">
+	<data key="topic">comp.object</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2788999-2788769-comp.object" source="2788999" target="2788769">
+	<data key="topic">comp.object</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="225391-2180018-comp.object" source="225391" target="2180018">
+	<data key="topic">comp.object</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="225391-2789458-comp.object" source="225391" target="2789458">
+	<data key="topic">comp.object</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2221965-2197123-comp.object" source="2221965" target="2197123">
+	<data key="topic">comp.object</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2221965-2804316-comp.object" source="2221965" target="2804316">
+	<data key="topic">comp.object</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2804316-2183753-comp.object" source="2804316" target="2183753">
+	<data key="topic">comp.object</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="2804316-2789140-comp.object" source="2804316" target="2789140">
+	<data key="topic">comp.object</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2309906-2189153-comp.object" source="2309906" target="2189153">
+	<data key="topic">comp.object</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2789140-305381-comp.object" source="2789140" target="305381">
+	<data key="topic">comp.object</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2789140-2183753-comp.object" source="2789140" target="2183753">
+	<data key="topic">comp.object</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2789140-2804316-comp.object" source="2789140" target="2804316">
+	<data key="topic">comp.object</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="2789140-2789458-comp.object" source="2789140" target="2789458">
+	<data key="topic">comp.object</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2789140-2800088-comp.object" source="2789140" target="2800088">
+	<data key="topic">comp.object</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2789140-2309796-comp.object" source="2789140" target="2309796">
+	<data key="topic">comp.object</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2789140-2788769-comp.object" source="2789140" target="2788769">
+	<data key="topic">comp.object</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2800088-46950-comp.object" source="2800088" target="46950">
+	<data key="topic">comp.object</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="434681-2781138-comp.object" source="434681" target="2781138">
+	<data key="topic">comp.object</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2309796-305381-comp.object" source="2309796" target="305381">
+	<data key="topic">comp.object</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2309796-2780808-comp.object" source="2309796" target="2780808">
+	<data key="topic">comp.object</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2309796-2788769-comp.object" source="2309796" target="2788769">
+	<data key="topic">comp.object</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2189153-2197944-comp.object" source="2189153" target="2197944">
+	<data key="topic">comp.object</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2325793-2804316-comp.object" source="2325793" target="2804316">
+	<data key="topic">comp.object</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2265005-323352-comp.object" source="2265005" target="323352">
+	<data key="topic">comp.object</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2779302-2180018-comp.object" source="2779302" target="2180018">
+	<data key="topic">comp.object</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2779302-2205198-comp.object" source="2779302" target="2205198">
+	<data key="topic">comp.object</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

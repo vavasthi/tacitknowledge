@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="31122"/>
+<node id="676794"/>
+<node id="1238498"/>
+<node id="514484"/>
+<node id="30262"/>
+<node id="509329"/>
+<node id="1009817"/>
+<node id="701105"/>
+<node id="1859335"/>
+<node id="3613"/>
+<node id="1004180"/>
+<node id="17534"/>
+<node id="17696"/>
+<node id="705526"/>
+<node id="718219"/>
+<node id="557580"/>
+<node id="743236"/>
+<node id="619940"/>
+<node id="740418"/>
+<node id="741345"/>
+<node id="514570"/>
+<edge id="31122-701105-rec.games.programmer" source="31122" target="701105">
+	<data key="topic">rec.games.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="676794-619940-rec.games.programmer" source="676794" target="619940">
+	<data key="topic">rec.games.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30262-514484-rec.games.programmer" source="30262" target="514484">
+	<data key="topic">rec.games.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509329-701105-rec.games.programmer" source="509329" target="701105">
+	<data key="topic">rec.games.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1009817-619940-rec.games.programmer" source="1009817" target="619940">
+	<data key="topic">rec.games.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1859335-1238498-rec.games.programmer" source="1859335" target="1238498">
+	<data key="topic">rec.games.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3613-17696-rec.games.programmer" source="3613" target="17696">
+	<data key="topic">rec.games.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1004180-701105-rec.games.programmer" source="1004180" target="701105">
+	<data key="topic">rec.games.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17534-514484-rec.games.programmer" source="17534" target="514484">
+	<data key="topic">rec.games.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="705526-743236-rec.games.programmer" source="705526" target="743236">
+	<data key="topic">rec.games.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="718219-557580-rec.games.programmer" source="718219" target="557580">
+	<data key="topic">rec.games.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="740418-514484-rec.games.programmer" source="740418" target="514484">
+	<data key="topic">rec.games.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="741345-619940-rec.games.programmer" source="741345" target="619940">
+	<data key="topic">rec.games.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="514570-17696-rec.games.programmer" source="514570" target="17696">
+	<data key="topic">rec.games.programmer</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

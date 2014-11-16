@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="371730"/>
+<node id="363172"/>
+<node id="5272"/>
+<node id="386707"/>
+<node id="12425"/>
+<node id="405951"/>
+<node id="359309"/>
+<node id="365328"/>
+<node id="576424"/>
+<edge id="371730-5272-comp.unix.programmers" source="371730" target="5272">
+	<data key="topic">comp.unix.programmers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="363172-405951-comp.unix.programmers" source="363172" target="405951">
+	<data key="topic">comp.unix.programmers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="386707-365328-comp.unix.programmers" source="386707" target="365328">
+	<data key="topic">comp.unix.programmers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12425-576424-comp.unix.programmers" source="12425" target="576424">
+	<data key="topic">comp.unix.programmers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="359309-405951-comp.unix.programmers" source="359309" target="405951">
+	<data key="topic">comp.unix.programmers</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

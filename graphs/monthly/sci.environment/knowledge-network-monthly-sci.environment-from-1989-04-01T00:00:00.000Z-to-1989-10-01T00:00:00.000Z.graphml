@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="749627"/>
+<node id="719615"/>
+<node id="30616"/>
+<node id="1164327"/>
+<node id="5946"/>
+<node id="4379"/>
+<node id="558387"/>
+<node id="445565"/>
+<node id="509884"/>
+<node id="428199"/>
+<node id="1246897"/>
+<node id="28136"/>
+<node id="521071"/>
+<node id="391565"/>
+<node id="517486"/>
+<node id="434798"/>
+<node id="2767"/>
+<node id="951298"/>
+<edge id="749627-719615-sci.environment" source="749627" target="719615">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="749627-28136-sci.environment" source="749627" target="28136">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="719615-28136-sci.environment" source="719615" target="28136">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30616-1164327-sci.environment" source="30616" target="1164327">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30616-4379-sci.environment" source="30616" target="4379">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30616-509884-sci.environment" source="30616" target="509884">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30616-517486-sci.environment" source="30616" target="517486">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30616-2767-sci.environment" source="30616" target="2767">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="558387-719615-sci.environment" source="558387" target="719615">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="558387-28136-sci.environment" source="558387" target="28136">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="558387-434798-sci.environment" source="558387" target="434798">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28136-1246897-sci.environment" source="28136" target="1246897">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521071-445565-sci.environment" source="521071" target="445565">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521071-391565-sci.environment" source="521071" target="391565">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="434798-749627-sci.environment" source="434798" target="749627">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="434798-719615-sci.environment" source="434798" target="719615">
+	<data key="topic">sci.environment</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="434798-558387-sci.environment" source="434798" target="558387">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="434798-28136-sci.environment" source="434798" target="28136">
+	<data key="topic">sci.environment</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="951298-5946-sci.environment" source="951298" target="5946">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="93427"/>
+<node id="2188179"/>
+<node id="2197123"/>
+<node id="2191909"/>
+<node id="2789458"/>
+<node id="2801975"/>
+<node id="147231"/>
+<edge id="93427-2789458-comp.soft-sys.matlab" source="93427" target="2789458">
+	<data key="topic">comp.soft-sys.matlab</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="93427-2801975-comp.soft-sys.matlab" source="93427" target="2801975">
+	<data key="topic">comp.soft-sys.matlab</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2188179-2789458-comp.soft-sys.matlab" source="2188179" target="2789458">
+	<data key="topic">comp.soft-sys.matlab</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2188179-2801975-comp.soft-sys.matlab" source="2188179" target="2801975">
+	<data key="topic">comp.soft-sys.matlab</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2188179-147231-comp.soft-sys.matlab" source="2188179" target="147231">
+	<data key="topic">comp.soft-sys.matlab</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2197123-2789458-comp.soft-sys.matlab" source="2197123" target="2789458">
+	<data key="topic">comp.soft-sys.matlab</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2191909-2789458-comp.soft-sys.matlab" source="2191909" target="2789458">
+	<data key="topic">comp.soft-sys.matlab</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2191909-2801975-comp.soft-sys.matlab" source="2191909" target="2801975">
+	<data key="topic">comp.soft-sys.matlab</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

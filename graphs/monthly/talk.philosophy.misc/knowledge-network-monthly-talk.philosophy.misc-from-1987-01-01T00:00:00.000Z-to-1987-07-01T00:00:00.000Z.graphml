@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="390790"/>
+<node id="28290"/>
+<node id="458408"/>
+<node id="389986"/>
+<node id="726318"/>
+<node id="1547295"/>
+<node id="391216"/>
+<node id="26220"/>
+<node id="390543"/>
+<node id="1547261"/>
+<node id="1483561"/>
+<edge id="390790-389986-talk.philosophy.misc" source="390790" target="389986">
+	<data key="topic">talk.philosophy.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="28290-458408-talk.philosophy.misc" source="28290" target="458408">
+	<data key="topic">talk.philosophy.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="28290-726318-talk.philosophy.misc" source="28290" target="726318">
+	<data key="topic">talk.philosophy.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28290-1483561-talk.philosophy.misc" source="28290" target="1483561">
+	<data key="topic">talk.philosophy.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="389986-390790-talk.philosophy.misc" source="389986" target="390790">
+	<data key="topic">talk.philosophy.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="391216-390790-talk.philosophy.misc" source="391216" target="390790">
+	<data key="topic">talk.philosophy.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="391216-389986-talk.philosophy.misc" source="391216" target="389986">
+	<data key="topic">talk.philosophy.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="26220-1547295-talk.philosophy.misc" source="26220" target="1547295">
+	<data key="topic">talk.philosophy.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390543-390790-talk.philosophy.misc" source="390543" target="390790">
+	<data key="topic">talk.philosophy.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="390543-389986-talk.philosophy.misc" source="390543" target="389986">
+	<data key="topic">talk.philosophy.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390543-391216-talk.philosophy.misc" source="390543" target="391216">
+	<data key="topic">talk.philosophy.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1547261-1547295-talk.philosophy.misc" source="1547261" target="1547295">
+	<data key="topic">talk.philosophy.misc</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

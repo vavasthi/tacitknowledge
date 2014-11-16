@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="340246"/>
+<node id="1497030"/>
+<node id="1872777"/>
+<node id="1545123"/>
+<node id="391444"/>
+<node id="393119"/>
+<node id="399679"/>
+<node id="919798"/>
+<node id="393883"/>
+<node id="21311"/>
+<node id="933009"/>
+<node id="1496951"/>
+<node id="1096245"/>
+<node id="340974"/>
+<node id="502736"/>
+<node id="1545118"/>
+<node id="391275"/>
+<edge id="340246-393883-rec.games.misc" source="340246" target="393883">
+	<data key="topic">rec.games.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1497030-1496951-rec.games.misc" source="1497030" target="1496951">
+	<data key="topic">rec.games.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1872777-502736-rec.games.misc" source="1872777" target="502736">
+	<data key="topic">rec.games.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1545123-1545118-rec.games.misc" source="1545123" target="1545118">
+	<data key="topic">rec.games.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="391444-21311-rec.games.misc" source="391444" target="21311">
+	<data key="topic">rec.games.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="393119-21311-rec.games.misc" source="393119" target="21311">
+	<data key="topic">rec.games.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="393119-391275-rec.games.misc" source="393119" target="391275">
+	<data key="topic">rec.games.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="399679-21311-rec.games.misc" source="399679" target="21311">
+	<data key="topic">rec.games.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="933009-919798-rec.games.misc" source="933009" target="919798">
+	<data key="topic">rec.games.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1096245-502736-rec.games.misc" source="1096245" target="502736">
+	<data key="topic">rec.games.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340974-1545118-rec.games.misc" source="340974" target="1545118">
+	<data key="topic">rec.games.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391275-21311-rec.games.misc" source="391275" target="21311">
+	<data key="topic">rec.games.misc</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

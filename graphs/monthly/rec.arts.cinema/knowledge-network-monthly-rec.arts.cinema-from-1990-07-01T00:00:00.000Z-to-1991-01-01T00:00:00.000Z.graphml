@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="912414"/>
+<node id="788046"/>
+<node id="1236193"/>
+<node id="864496"/>
+<node id="1236178"/>
+<node id="831259"/>
+<node id="1311437"/>
+<node id="1236204"/>
+<node id="10603"/>
+<node id="15149"/>
+<node id="1288910"/>
+<node id="1236190"/>
+<edge id="912414-1311437-rec.arts.cinema" source="912414" target="1311437">
+	<data key="topic">rec.arts.cinema</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="788046-1236193-rec.arts.cinema" source="788046" target="1236193">
+	<data key="topic">rec.arts.cinema</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="788046-831259-rec.arts.cinema" source="788046" target="831259">
+	<data key="topic">rec.arts.cinema</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1236193-788046-rec.arts.cinema" source="1236193" target="788046">
+	<data key="topic">rec.arts.cinema</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1236193-864496-rec.arts.cinema" source="1236193" target="864496">
+	<data key="topic">rec.arts.cinema</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1236193-831259-rec.arts.cinema" source="1236193" target="831259">
+	<data key="topic">rec.arts.cinema</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1236178-1236193-rec.arts.cinema" source="1236178" target="1236193">
+	<data key="topic">rec.arts.cinema</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1236178-864496-rec.arts.cinema" source="1236178" target="864496">
+	<data key="topic">rec.arts.cinema</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1236178-1288910-rec.arts.cinema" source="1236178" target="1288910">
+	<data key="topic">rec.arts.cinema</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="831259-1236193-rec.arts.cinema" source="831259" target="1236193">
+	<data key="topic">rec.arts.cinema</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1236204-1236193-rec.arts.cinema" source="1236204" target="1236193">
+	<data key="topic">rec.arts.cinema</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10603-1236190-rec.arts.cinema" source="10603" target="1236190">
+	<data key="topic">rec.arts.cinema</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15149-1236193-rec.arts.cinema" source="15149" target="1236193">
+	<data key="topic">rec.arts.cinema</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15149-831259-rec.arts.cinema" source="15149" target="831259">
+	<data key="topic">rec.arts.cinema</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1288910-1236193-rec.arts.cinema" source="1288910" target="1236193">
+	<data key="topic">rec.arts.cinema</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1288910-864496-rec.arts.cinema" source="1288910" target="864496">
+	<data key="topic">rec.arts.cinema</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1236190-1236193-rec.arts.cinema" source="1236190" target="1236193">
+	<data key="topic">rec.arts.cinema</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1236190-1236204-rec.arts.cinema" source="1236190" target="1236204">
+	<data key="topic">rec.arts.cinema</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1236190-10603-rec.arts.cinema" source="1236190" target="10603">
+	<data key="topic">rec.arts.cinema</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="481204"/>
+<node id="925691"/>
+<node id="1577806"/>
+<node id="451857"/>
+<node id="463793"/>
+<node id="472956"/>
+<node id="487610"/>
+<node id="2483835"/>
+<node id="459673"/>
+<node id="33666"/>
+<node id="487045"/>
+<node id="2667088"/>
+<node id="1511328"/>
+<node id="1574581"/>
+<node id="390284"/>
+<edge id="481204-451857-net.music.folk" source="481204" target="451857">
+	<data key="topic">net.music.folk</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="925691-1511328-net.music.folk" source="925691" target="1511328">
+	<data key="topic">net.music.folk</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="925691-1574581-net.music.folk" source="925691" target="1574581">
+	<data key="topic">net.music.folk</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="463793-472956-net.music.folk" source="463793" target="472956">
+	<data key="topic">net.music.folk</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="487610-463793-net.music.folk" source="487610" target="463793">
+	<data key="topic">net.music.folk</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="487610-472956-net.music.folk" source="487610" target="472956">
+	<data key="topic">net.music.folk</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2483835-472956-net.music.folk" source="2483835" target="472956">
+	<data key="topic">net.music.folk</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459673-487045-net.music.folk" source="459673" target="487045">
+	<data key="topic">net.music.folk</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="33666-472956-net.music.folk" source="33666" target="472956">
+	<data key="topic">net.music.folk</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="33666-2483835-net.music.folk" source="33666" target="2483835">
+	<data key="topic">net.music.folk</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="487045-390284-net.music.folk" source="487045" target="390284">
+	<data key="topic">net.music.folk</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2667088-1577806-net.music.folk" source="2667088" target="1577806">
+	<data key="topic">net.music.folk</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1511328-925691-net.music.folk" source="1511328" target="925691">
+	<data key="topic">net.music.folk</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1511328-1574581-net.music.folk" source="1511328" target="1574581">
+	<data key="topic">net.music.folk</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390284-487045-net.music.folk" source="390284" target="487045">
+	<data key="topic">net.music.folk</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

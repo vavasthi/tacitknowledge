@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="26833"/>
+<node id="338072"/>
+<node id="341320"/>
+<node id="337367"/>
+<node id="468853"/>
+<node id="900825"/>
+<node id="468851"/>
+<node id="346062"/>
+<node id="562530"/>
+<node id="473678"/>
+<node id="1047429"/>
+<edge id="338072-900825-net.usoft" source="338072" target="900825">
+	<data key="topic">net.usoft</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338072-473678-net.usoft" source="338072" target="473678">
+	<data key="topic">net.usoft</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337367-1047429-net.usoft" source="337367" target="1047429">
+	<data key="topic">net.usoft</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="468853-26833-net.usoft" source="468853" target="26833">
+	<data key="topic">net.usoft</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="468853-468851-net.usoft" source="468853" target="468851">
+	<data key="topic">net.usoft</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="346062-562530-net.usoft" source="346062" target="562530">
+	<data key="topic">net.usoft</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="473678-900825-net.usoft" source="473678" target="900825">
+	<data key="topic">net.usoft</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

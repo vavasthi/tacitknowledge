@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1239268"/>
+<node id="367192"/>
+<node id="517302"/>
+<node id="517733"/>
+<node id="512819"/>
+<node id="716305"/>
+<node id="1379759"/>
+<node id="848531"/>
+<node id="2532506"/>
+<edge id="367192-1379759-comp.sys.proteon" source="367192" target="1379759">
+	<data key="topic">comp.sys.proteon</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="512819-1239268-comp.sys.proteon" source="512819" target="1239268">
+	<data key="topic">comp.sys.proteon</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="512819-517733-comp.sys.proteon" source="512819" target="517733">
+	<data key="topic">comp.sys.proteon</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="716305-517302-comp.sys.proteon" source="716305" target="517302">
+	<data key="topic">comp.sys.proteon</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="848531-2532506-comp.sys.proteon" source="848531" target="2532506">
+	<data key="topic">comp.sys.proteon</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

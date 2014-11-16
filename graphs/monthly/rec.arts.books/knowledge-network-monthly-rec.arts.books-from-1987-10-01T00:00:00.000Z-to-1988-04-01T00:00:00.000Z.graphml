@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="450808"/>
+<node id="16135"/>
+<node id="19224"/>
+<node id="15178"/>
+<node id="1995027"/>
+<node id="451627"/>
+<edge id="16135-450808-rec.arts.books" source="16135" target="450808">
+	<data key="topic">rec.arts.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16135-19224-rec.arts.books" source="16135" target="19224">
+	<data key="topic">rec.arts.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16135-1995027-rec.arts.books" source="16135" target="1995027">
+	<data key="topic">rec.arts.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19224-1995027-rec.arts.books" source="19224" target="1995027">
+	<data key="topic">rec.arts.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15178-450808-rec.arts.books" source="15178" target="450808">
+	<data key="topic">rec.arts.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15178-19224-rec.arts.books" source="15178" target="19224">
+	<data key="topic">rec.arts.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15178-1995027-rec.arts.books" source="15178" target="1995027">
+	<data key="topic">rec.arts.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="451627-19224-rec.arts.books" source="451627" target="19224">
+	<data key="topic">rec.arts.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="451627-1995027-rec.arts.books" source="451627" target="1995027">
+	<data key="topic">rec.arts.books</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

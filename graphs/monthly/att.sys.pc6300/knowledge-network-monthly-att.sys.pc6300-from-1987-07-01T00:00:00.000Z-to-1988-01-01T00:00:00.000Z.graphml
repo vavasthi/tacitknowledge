@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="397608"/>
+<node id="725513"/>
+<node id="1476452"/>
+<node id="450706"/>
+<node id="726098"/>
+<node id="399051"/>
+<node id="661096"/>
+<node id="754309"/>
+<node id="16352"/>
+<edge id="725513-450706-att.sys.pc6300" source="725513" target="450706">
+	<data key="topic">att.sys.pc6300</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1476452-754309-att.sys.pc6300" source="1476452" target="754309">
+	<data key="topic">att.sys.pc6300</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1476452-16352-att.sys.pc6300" source="1476452" target="16352">
+	<data key="topic">att.sys.pc6300</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="726098-725513-att.sys.pc6300" source="726098" target="725513">
+	<data key="topic">att.sys.pc6300</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="399051-397608-att.sys.pc6300" source="399051" target="397608">
+	<data key="topic">att.sys.pc6300</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="661096-725513-att.sys.pc6300" source="661096" target="725513">
+	<data key="topic">att.sys.pc6300</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="661096-450706-att.sys.pc6300" source="661096" target="450706">
+	<data key="topic">att.sys.pc6300</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

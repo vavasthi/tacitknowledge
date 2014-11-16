@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="16550"/>
+<node id="537086"/>
+<node id="613392"/>
+<node id="2130343"/>
+<node id="2689424"/>
+<node id="640898"/>
+<node id="1250009"/>
+<node id="687287"/>
+<node id="754215"/>
+<edge id="16550-754215-gnu.chess" source="16550" target="754215">
+	<data key="topic">gnu.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="613392-2130343-gnu.chess" source="613392" target="2130343">
+	<data key="topic">gnu.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="613392-1250009-gnu.chess" source="613392" target="1250009">
+	<data key="topic">gnu.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2130343-1250009-gnu.chess" source="2130343" target="1250009">
+	<data key="topic">gnu.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2689424-537086-gnu.chess" source="2689424" target="537086">
+	<data key="topic">gnu.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="640898-537086-gnu.chess" source="640898" target="537086">
+	<data key="topic">gnu.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="640898-687287-gnu.chess" source="640898" target="687287">
+	<data key="topic">gnu.chess</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="552345"/>
+<node id="611802"/>
+<node id="1388677"/>
+<node id="504085"/>
+<node id="1664747"/>
+<node id="910585"/>
+<node id="1167816"/>
+<node id="1848"/>
+<node id="511953"/>
+<node id="611633"/>
+<node id="611606"/>
+<node id="909044"/>
+<node id="409157"/>
+<node id="12549"/>
+<node id="353826"/>
+<node id="617165"/>
+<node id="353763"/>
+<node id="914344"/>
+<node id="1398464"/>
+<node id="549668"/>
+<node id="401834"/>
+<edge id="552345-549668-comp.sys.m6809" source="552345" target="549668">
+	<data key="topic">comp.sys.m6809</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1664747-549668-comp.sys.m6809" source="1664747" target="549668">
+	<data key="topic">comp.sys.m6809</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1167816-611802-comp.sys.m6809" source="1167816" target="611802">
+	<data key="topic">comp.sys.m6809</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1848-914344-comp.sys.m6809" source="1848" target="914344">
+	<data key="topic">comp.sys.m6809</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="511953-409157-comp.sys.m6809" source="511953" target="409157">
+	<data key="topic">comp.sys.m6809</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="611633-617165-comp.sys.m6809" source="611633" target="617165">
+	<data key="topic">comp.sys.m6809</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="909044-549668-comp.sys.m6809" source="909044" target="549668">
+	<data key="topic">comp.sys.m6809</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12549-910585-comp.sys.m6809" source="12549" target="910585">
+	<data key="topic">comp.sys.m6809</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="353826-409157-comp.sys.m6809" source="353826" target="409157">
+	<data key="topic">comp.sys.m6809</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="353763-1388677-comp.sys.m6809" source="353763" target="1388677">
+	<data key="topic">comp.sys.m6809</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1398464-611606-comp.sys.m6809" source="1398464" target="611606">
+	<data key="topic">comp.sys.m6809</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="401834-504085-comp.sys.m6809" source="401834" target="504085">
+	<data key="topic">comp.sys.m6809</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

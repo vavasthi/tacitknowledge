@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="10993"/>
+<node id="832605"/>
+<node id="648441"/>
+<node id="611644"/>
+<node id="10997"/>
+<node id="648445"/>
+<node id="11001"/>
+<node id="621336"/>
+<node id="557385"/>
+<node id="914957"/>
+<node id="385800"/>
+<node id="785904"/>
+<node id="860971"/>
+<node id="358286"/>
+<node id="400429"/>
+<node id="860968"/>
+<node id="385807"/>
+<node id="914946"/>
+<node id="1517147"/>
+<edge id="10993-860971-comp.protocols.iso.dev-environ" source="10993" target="860971">
+	<data key="topic">comp.protocols.iso.dev-environ</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="611644-648445-comp.protocols.iso.dev-environ" source="611644" target="648445">
+	<data key="topic">comp.protocols.iso.dev-environ</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="611644-785904-comp.protocols.iso.dev-environ" source="611644" target="785904">
+	<data key="topic">comp.protocols.iso.dev-environ</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="611644-860968-comp.protocols.iso.dev-environ" source="611644" target="860968">
+	<data key="topic">comp.protocols.iso.dev-environ</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10997-860971-comp.protocols.iso.dev-environ" source="10997" target="860971">
+	<data key="topic">comp.protocols.iso.dev-environ</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11001-648441-comp.protocols.iso.dev-environ" source="11001" target="648441">
+	<data key="topic">comp.protocols.iso.dev-environ</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="621336-914957-comp.protocols.iso.dev-environ" source="621336" target="914957">
+	<data key="topic">comp.protocols.iso.dev-environ</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="557385-832605-comp.protocols.iso.dev-environ" source="557385" target="832605">
+	<data key="topic">comp.protocols.iso.dev-environ</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="385800-914957-comp.protocols.iso.dev-environ" source="385800" target="914957">
+	<data key="topic">comp.protocols.iso.dev-environ</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="358286-914957-comp.protocols.iso.dev-environ" source="358286" target="914957">
+	<data key="topic">comp.protocols.iso.dev-environ</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="400429-1517147-comp.protocols.iso.dev-environ" source="400429" target="1517147">
+	<data key="topic">comp.protocols.iso.dev-environ</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="385807-914957-comp.protocols.iso.dev-environ" source="385807" target="914957">
+	<data key="topic">comp.protocols.iso.dev-environ</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="914946-914957-comp.protocols.iso.dev-environ" source="914946" target="914957">
+	<data key="topic">comp.protocols.iso.dev-environ</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

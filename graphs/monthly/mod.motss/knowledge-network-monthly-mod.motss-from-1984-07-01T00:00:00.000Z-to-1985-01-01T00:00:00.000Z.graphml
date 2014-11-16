@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2163634"/>
+<node id="459238"/>
+<node id="392071"/>
+<node id="2163651"/>
+<node id="770612"/>
+<node id="2163646"/>
+<node id="336299"/>
+<edge id="459238-2163634-mod.motss" source="459238" target="2163634">
+	<data key="topic">mod.motss</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459238-392071-mod.motss" source="459238" target="392071">
+	<data key="topic">mod.motss</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="459238-2163646-mod.motss" source="459238" target="2163646">
+	<data key="topic">mod.motss</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459238-336299-mod.motss" source="459238" target="336299">
+	<data key="topic">mod.motss</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="770612-2163651-mod.motss" source="770612" target="2163651">
+	<data key="topic">mod.motss</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2163646-459238-mod.motss" source="2163646" target="459238">
+	<data key="topic">mod.motss</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2163646-392071-mod.motss" source="2163646" target="392071">
+	<data key="topic">mod.motss</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2163646-336299-mod.motss" source="2163646" target="336299">
+	<data key="topic">mod.motss</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

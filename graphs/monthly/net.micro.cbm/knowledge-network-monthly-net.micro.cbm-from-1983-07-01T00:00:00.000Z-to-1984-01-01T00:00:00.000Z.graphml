@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="339190"/>
+<node id="340465"/>
+<node id="459186"/>
+<node id="563936"/>
+<node id="459697"/>
+<node id="343582"/>
+<node id="460672"/>
+<node id="960760"/>
+<node id="960149"/>
+<node id="2037346"/>
+<node id="562443"/>
+<node id="525261"/>
+<node id="459585"/>
+<node id="1424991"/>
+<node id="460681"/>
+<edge id="339190-343582-net.micro.cbm" source="339190" target="343582">
+	<data key="topic">net.micro.cbm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339190-1424991-net.micro.cbm" source="339190" target="1424991">
+	<data key="topic">net.micro.cbm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340465-563936-net.micro.cbm" source="340465" target="563936">
+	<data key="topic">net.micro.cbm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340465-960760-net.micro.cbm" source="340465" target="960760">
+	<data key="topic">net.micro.cbm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340465-2037346-net.micro.cbm" source="340465" target="2037346">
+	<data key="topic">net.micro.cbm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459186-460681-net.micro.cbm" source="459186" target="460681">
+	<data key="topic">net.micro.cbm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459697-460672-net.micro.cbm" source="459697" target="460672">
+	<data key="topic">net.micro.cbm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459697-525261-net.micro.cbm" source="459697" target="525261">
+	<data key="topic">net.micro.cbm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460672-343582-net.micro.cbm" source="460672" target="343582">
+	<data key="topic">net.micro.cbm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460672-960149-net.micro.cbm" source="460672" target="960149">
+	<data key="topic">net.micro.cbm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460672-562443-net.micro.cbm" source="460672" target="562443">
+	<data key="topic">net.micro.cbm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460672-525261-net.micro.cbm" source="460672" target="525261">
+	<data key="topic">net.micro.cbm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="960760-460672-net.micro.cbm" source="960760" target="460672">
+	<data key="topic">net.micro.cbm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="960760-459585-net.micro.cbm" source="960760" target="459585">
+	<data key="topic">net.micro.cbm</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

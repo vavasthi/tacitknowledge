@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1314181"/>
+<node id="30452"/>
+<node id="501716"/>
+<node id="760495"/>
+<node id="653152"/>
+<node id="764712"/>
+<node id="36862"/>
+<node id="659749"/>
+<node id="816116"/>
+<edge id="30452-501716-comp.sys.masscomp" source="30452" target="501716">
+	<data key="topic">comp.sys.masscomp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="760495-659749-comp.sys.masscomp" source="760495" target="659749">
+	<data key="topic">comp.sys.masscomp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="653152-760495-comp.sys.masscomp" source="653152" target="760495">
+	<data key="topic">comp.sys.masscomp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="653152-659749-comp.sys.masscomp" source="653152" target="659749">
+	<data key="topic">comp.sys.masscomp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="764712-1314181-comp.sys.masscomp" source="764712" target="1314181">
+	<data key="topic">comp.sys.masscomp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="816116-36862-comp.sys.masscomp" source="816116" target="36862">
+	<data key="topic">comp.sys.masscomp</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

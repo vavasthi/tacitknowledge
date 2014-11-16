@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="23956"/>
+<node id="448669"/>
+<node id="446881"/>
+<node id="451745"/>
+<node id="17327"/>
+<node id="452778"/>
+<node id="23479"/>
+<node id="18365"/>
+<node id="17341"/>
+<node id="18880"/>
+<node id="1023183"/>
+<node id="455878"/>
+<node id="657872"/>
+<node id="2000567"/>
+<node id="2653859"/>
+<node id="24268"/>
+<node id="18893"/>
+<node id="2000564"/>
+<node id="23507"/>
+<node id="23510"/>
+<node id="20952"/>
+<node id="499921"/>
+<node id="1023191"/>
+<node id="23514"/>
+<node id="661970"/>
+<node id="16605"/>
+<node id="1995748"/>
+<node id="1023187"/>
+<node id="454631"/>
+<node id="23525"/>
+<node id="454628"/>
+<node id="24552"/>
+<node id="454639"/>
+<node id="15595"/>
+<node id="23531"/>
+<node id="729826"/>
+<node id="458733"/>
+<node id="31980"/>
+<node id="16881"/>
+<node id="729852"/>
+<node id="1480196"/>
+<node id="1926665"/>
+<node id="657917"/>
+<node id="729843"/>
+<node id="22266"/>
+<node id="729842"/>
+<node id="390394"/>
+<node id="390396"/>
+<node id="729845"/>
+<node id="23555"/>
+<node id="390664"/>
+<node id="450562"/>
+<node id="23562"/>
+<node id="20762"/>
+<node id="448800"/>
+<node id="18717"/>
+<node id="392729"/>
+<node id="24608"/>
+<node id="661803"/>
+<node id="27940"/>
+<node id="729391"/>
+<node id="23335"/>
+<node id="451119"/>
+<node id="661281"/>
+<node id="723239"/>
+<node id="2658119"/>
+<node id="15667"/>
+<node id="16184"/>
+<node id="1480258"/>
+<node id="394802"/>
+<node id="16955"/>
+<node id="431677"/>
+<node id="1019186"/>
+<node id="21315"/>
+<node id="34883"/>
+<node id="17735"/>
+<node id="15952"/>
+<node id="17489"/>
+<node id="664924"/>
+<node id="16724"/>
+<node id="392279"/>
+<node id="2747251"/>
+<node id="925526"/>
+<node id="455515"/>
+<node id="24679"/>
+<node id="657773"/>
+<node id="15468"/>
+<node id="486763"/>
+<node id="725862"/>
+<node id="15482"/>
+<node id="925048"/>
+<node id="662160"/>
+<node id="2747248"/>
+<node id="15752"/>
+<node id="16008"/>
+<node id="446604"/>
+<node id="390284"/>
+<node id="16272"/>
+<edge id="23956-31980-comp.databases" source="23956" target="31980">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="448669-23510-comp.databases" source="448669" target="23510">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="448669-454639-comp.databases" source="448669" target="454639">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="448669-31980-comp.databases" source="448669" target="31980">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="448669-390396-comp.databases" source="448669" target="390396">
+	<data key="topic">comp.databases</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="448669-15468-comp.databases" source="448669" target="15468">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="448669-16008-comp.databases" source="448669" target="16008">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="446881-1023187-comp.databases" source="446881" target="1023187">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="446881-27940-comp.databases" source="446881" target="27940">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="446881-2747251-comp.databases" source="446881" target="2747251">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="451745-27940-comp.databases" source="451745" target="27940">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="451745-725862-comp.databases" source="451745" target="725862">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17341-15482-comp.databases" source="17341" target="15482">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18880-390284-comp.databases" source="18880" target="390284">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="455878-27940-comp.databases" source="455878" target="27940">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="455878-725862-comp.databases" source="455878" target="725862">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="657872-452778-comp.databases" source="657872" target="452778">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24268-17327-comp.databases" source="24268" target="17327">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23507-729843-comp.databases" source="23507" target="729843">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20952-17327-comp.databases" source="20952" target="17327">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="499921-18365-comp.databases" source="499921" target="18365">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="499921-446604-comp.databases" source="499921" target="446604">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1023191-23555-comp.databases" source="1023191" target="23555">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1023191-27940-comp.databases" source="1023191" target="27940">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1023191-725862-comp.databases" source="1023191" target="725862">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23514-18880-comp.databases" source="23514" target="18880">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23514-2658119-comp.databases" source="23514" target="2658119">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23514-16272-comp.databases" source="23514" target="16272">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16605-1995748-comp.databases" source="16605" target="1995748">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1023187-27940-comp.databases" source="1023187" target="27940">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="454631-18880-comp.databases" source="454631" target="18880">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="454631-390396-comp.databases" source="454631" target="390396">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="454631-390284-comp.databases" source="454631" target="390284">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23525-448800-comp.databases" source="23525" target="448800">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="454628-31980-comp.databases" source="454628" target="31980">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="454628-390396-comp.databases" source="454628" target="390396">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15595-18365-comp.databases" source="15595" target="18365">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15595-446604-comp.databases" source="15595" target="446604">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23531-18365-comp.databases" source="23531" target="18365">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23531-18893-comp.databases" source="23531" target="18893">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23531-23555-comp.databases" source="23531" target="23555">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23531-27940-comp.databases" source="23531" target="27940">
+	<data key="topic">comp.databases</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="23531-725862-comp.databases" source="23531" target="725862">
+	<data key="topic">comp.databases</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="23531-2747248-comp.databases" source="23531" target="2747248">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23531-446604-comp.databases" source="23531" target="446604">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="729826-662160-comp.databases" source="729826" target="662160">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="31980-448669-comp.databases" source="31980" target="448669">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="31980-725862-comp.databases" source="31980" target="725862">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16881-18365-comp.databases" source="16881" target="18365">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16881-1995748-comp.databases" source="16881" target="1995748">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16881-16184-comp.databases" source="16881" target="16184">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="729852-15482-comp.databases" source="729852" target="15482">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1926665-2653859-comp.databases" source="1926665" target="2653859">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1926665-454628-comp.databases" source="1926665" target="454628">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1926665-390664-comp.databases" source="1926665" target="390664">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="657917-661970-comp.databases" source="657917" target="661970">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="657917-657773-comp.databases" source="657917" target="657773">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="22266-390396-comp.databases" source="22266" target="390396">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="22266-16008-comp.databases" source="22266" target="16008">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390394-18880-comp.databases" source="390394" target="18880">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390396-448669-comp.databases" source="390396" target="448669">
+	<data key="topic">comp.databases</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="390396-18880-comp.databases" source="390396" target="18880">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390396-18893-comp.databases" source="390396" target="18893">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390396-454639-comp.databases" source="390396" target="454639">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390396-31980-comp.databases" source="390396" target="31980">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390396-16008-comp.databases" source="390396" target="16008">
+	<data key="topic">comp.databases</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="390396-390284-comp.databases" source="390396" target="390284">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="729845-1995748-comp.databases" source="729845" target="1995748">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23555-448669-comp.databases" source="23555" target="448669">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23555-1023183-comp.databases" source="23555" target="1023183">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23555-390396-comp.databases" source="23555" target="390396">
+	<data key="topic">comp.databases</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="23555-27940-comp.databases" source="23555" target="27940">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23555-725862-comp.databases" source="23555" target="725862">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23555-16008-comp.databases" source="23555" target="16008">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="450562-31980-comp.databases" source="450562" target="31980">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23562-454639-comp.databases" source="23562" target="454639">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20762-458733-comp.databases" source="20762" target="458733">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18717-729843-comp.databases" source="18717" target="729843">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392729-23510-comp.databases" source="392729" target="23510">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392729-31980-comp.databases" source="392729" target="31980">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="661803-27940-comp.databases" source="661803" target="27940">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="661803-725862-comp.databases" source="661803" target="725862">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="729391-729842-comp.databases" source="729391" target="729842">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="729391-34883-comp.databases" source="729391" target="34883">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23335-1023191-comp.databases" source="23335" target="1023191">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23335-23555-comp.databases" source="23335" target="23555">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23335-27940-comp.databases" source="23335" target="27940">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23335-725862-comp.databases" source="23335" target="725862">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="661281-1995748-comp.databases" source="661281" target="1995748">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="661281-729845-comp.databases" source="661281" target="729845">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="723239-1995748-comp.databases" source="723239" target="1995748">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="723239-729845-comp.databases" source="723239" target="729845">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2658119-18880-comp.databases" source="2658119" target="18880">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2658119-486763-comp.databases" source="2658119" target="486763">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16184-18365-comp.databases" source="16184" target="18365">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16955-2000567-comp.databases" source="16955" target="2000567">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="431677-15667-comp.databases" source="431677" target="15667">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1019186-451119-comp.databases" source="1019186" target="451119">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="21315-18893-comp.databases" source="21315" target="18893">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17735-23479-comp.databases" source="17735" target="23479">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15952-27940-comp.databases" source="15952" target="27940">
+	<data key="topic">comp.databases</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="15952-16724-comp.databases" source="15952" target="16724">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15952-725862-comp.databases" source="15952" target="725862">
+	<data key="topic">comp.databases</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="17489-729843-comp.databases" source="17489" target="729843">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="664924-394802-comp.databases" source="664924" target="394802">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392279-24552-comp.databases" source="392279" target="24552">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="455515-925526-comp.databases" source="455515" target="925526">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24679-2000564-comp.databases" source="24679" target="2000564">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="486763-18880-comp.databases" source="486763" target="18880">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="486763-2658119-comp.databases" source="486763" target="2658119">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="725862-31980-comp.databases" source="725862" target="31980">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="725862-27940-comp.databases" source="725862" target="27940">
+	<data key="topic">comp.databases</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="725862-15952-comp.databases" source="725862" target="15952">
+	<data key="topic">comp.databases</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="925048-24608-comp.databases" source="925048" target="24608">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15752-23555-comp.databases" source="15752" target="23555">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15752-27940-comp.databases" source="15752" target="27940">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15752-725862-comp.databases" source="15752" target="725862">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16008-661970-comp.databases" source="16008" target="661970">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16008-390396-comp.databases" source="16008" target="390396">
+	<data key="topic">comp.databases</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="16008-15482-comp.databases" source="16008" target="15482">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="446604-18365-comp.databases" source="446604" target="18365">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390284-18880-comp.databases" source="390284" target="18880">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16272-18880-comp.databases" source="16272" target="18880">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16272-18893-comp.databases" source="16272" target="18893">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16272-454639-comp.databases" source="16272" target="454639">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16272-1480196-comp.databases" source="16272" target="1480196">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16272-2658119-comp.databases" source="16272" target="2658119">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16272-1480258-comp.databases" source="16272" target="1480258">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16272-725862-comp.databases" source="16272" target="725862">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16272-390284-comp.databases" source="16272" target="390284">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

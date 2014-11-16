@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="10773"/>
+<node id="376174"/>
+<node id="910645"/>
+<node id="617329"/>
+<node id="619987"/>
+<node id="353098"/>
+<node id="611670"/>
+<edge id="10773-910645-rec.arts.anime" source="10773" target="910645">
+	<data key="topic">rec.arts.anime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10773-353098-rec.arts.anime" source="10773" target="353098">
+	<data key="topic">rec.arts.anime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="376174-910645-rec.arts.anime" source="376174" target="910645">
+	<data key="topic">rec.arts.anime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="617329-619987-rec.arts.anime" source="617329" target="619987">
+	<data key="topic">rec.arts.anime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="353098-910645-rec.arts.anime" source="353098" target="910645">
+	<data key="topic">rec.arts.anime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="611670-910645-rec.arts.anime" source="611670" target="910645">
+	<data key="topic">rec.arts.anime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="611670-353098-rec.arts.anime" source="611670" target="353098">
+	<data key="topic">rec.arts.anime</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

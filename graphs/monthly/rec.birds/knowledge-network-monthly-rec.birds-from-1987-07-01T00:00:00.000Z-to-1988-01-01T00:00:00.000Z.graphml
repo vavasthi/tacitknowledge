@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2483"/>
+<node id="28371"/>
+<node id="28372"/>
+<node id="17431"/>
+<node id="16216"/>
+<node id="426237"/>
+<node id="669330"/>
+<node id="15488"/>
+<node id="21121"/>
+<node id="599404"/>
+<node id="458401"/>
+<node id="28394"/>
+<node id="28396"/>
+<node id="346031"/>
+<edge id="2483-458401-rec.birds" source="2483" target="458401">
+	<data key="topic">rec.birds</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28372-28371-rec.birds" source="28372" target="28371">
+	<data key="topic">rec.birds</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17431-28371-rec.birds" source="17431" target="28371">
+	<data key="topic">rec.birds</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17431-28394-rec.birds" source="17431" target="28394">
+	<data key="topic">rec.birds</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="426237-16216-rec.birds" source="426237" target="16216">
+	<data key="topic">rec.birds</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15488-458401-rec.birds" source="15488" target="458401">
+	<data key="topic">rec.birds</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="21121-28396-rec.birds" source="21121" target="28396">
+	<data key="topic">rec.birds</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="599404-346031-rec.birds" source="599404" target="346031">
+	<data key="topic">rec.birds</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28394-17431-rec.birds" source="28394" target="17431">
+	<data key="topic">rec.birds</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="346031-669330-rec.birds" source="346031" target="669330">
+	<data key="topic">rec.birds</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

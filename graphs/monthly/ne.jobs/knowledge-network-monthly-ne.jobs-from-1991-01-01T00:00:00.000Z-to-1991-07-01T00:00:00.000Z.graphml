@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1161028"/>
+<node id="1028796"/>
+<node id="1028794"/>
+<node id="1734755"/>
+<node id="1079770"/>
+<node id="349821"/>
+<node id="948534"/>
+<node id="10749"/>
+<node id="413850"/>
+<node id="824132"/>
+<edge id="1161028-1028796-ne.jobs" source="1161028" target="1028796">
+	<data key="topic">ne.jobs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1161028-1028794-ne.jobs" source="1161028" target="1028794">
+	<data key="topic">ne.jobs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1161028-349821-ne.jobs" source="1161028" target="349821">
+	<data key="topic">ne.jobs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1734755-1028794-ne.jobs" source="1734755" target="1028794">
+	<data key="topic">ne.jobs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1734755-349821-ne.jobs" source="1734755" target="349821">
+	<data key="topic">ne.jobs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1734755-413850-ne.jobs" source="1734755" target="413850">
+	<data key="topic">ne.jobs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1734755-824132-ne.jobs" source="1734755" target="824132">
+	<data key="topic">ne.jobs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="349821-1028796-ne.jobs" source="349821" target="1028796">
+	<data key="topic">ne.jobs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="349821-1028794-ne.jobs" source="349821" target="1028794">
+	<data key="topic">ne.jobs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="948534-349821-ne.jobs" source="948534" target="349821">
+	<data key="topic">ne.jobs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="948534-413850-ne.jobs" source="948534" target="413850">
+	<data key="topic">ne.jobs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="948534-824132-ne.jobs" source="948534" target="824132">
+	<data key="topic">ne.jobs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10749-1079770-ne.jobs" source="10749" target="1079770">
+	<data key="topic">ne.jobs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="413850-1028796-ne.jobs" source="413850" target="1028796">
+	<data key="topic">ne.jobs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="413850-1028794-ne.jobs" source="413850" target="1028794">
+	<data key="topic">ne.jobs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="413850-349821-ne.jobs" source="413850" target="349821">
+	<data key="topic">ne.jobs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="824132-1028794-ne.jobs" source="824132" target="1028794">
+	<data key="topic">ne.jobs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="824132-349821-ne.jobs" source="824132" target="349821">
+	<data key="topic">ne.jobs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="824132-413850-ne.jobs" source="824132" target="413850">
+	<data key="topic">ne.jobs</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="339317"/>
+<node id="347101"/>
+<node id="483871"/>
+<node id="631446"/>
+<node id="347110"/>
+<node id="624140"/>
+<node id="32452"/>
+<node id="405350"/>
+<node id="347105"/>
+<node id="490147"/>
+<node id="467235"/>
+<node id="338573"/>
+<node id="459180"/>
+<node id="395724"/>
+<node id="337547"/>
+<edge id="339317-347101-net.rec.skydive" source="339317" target="347101">
+	<data key="topic">net.rec.skydive</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="339317-631446-net.rec.skydive" source="339317" target="631446">
+	<data key="topic">net.rec.skydive</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="339317-347105-net.rec.skydive" source="339317" target="347105">
+	<data key="topic">net.rec.skydive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339317-459180-net.rec.skydive" source="339317" target="459180">
+	<data key="topic">net.rec.skydive</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="347101-339317-net.rec.skydive" source="347101" target="339317">
+	<data key="topic">net.rec.skydive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347101-347110-net.rec.skydive" source="347101" target="347110">
+	<data key="topic">net.rec.skydive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347101-459180-net.rec.skydive" source="347101" target="459180">
+	<data key="topic">net.rec.skydive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="483871-631446-net.rec.skydive" source="483871" target="631446">
+	<data key="topic">net.rec.skydive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="631446-395724-net.rec.skydive" source="631446" target="395724">
+	<data key="topic">net.rec.skydive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="624140-395724-net.rec.skydive" source="624140" target="395724">
+	<data key="topic">net.rec.skydive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="32452-339317-net.rec.skydive" source="32452" target="339317">
+	<data key="topic">net.rec.skydive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="32452-347101-net.rec.skydive" source="32452" target="347101">
+	<data key="topic">net.rec.skydive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347105-339317-net.rec.skydive" source="347105" target="339317">
+	<data key="topic">net.rec.skydive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347105-347101-net.rec.skydive" source="347105" target="347101">
+	<data key="topic">net.rec.skydive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347105-490147-net.rec.skydive" source="347105" target="490147">
+	<data key="topic">net.rec.skydive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347105-459180-net.rec.skydive" source="347105" target="459180">
+	<data key="topic">net.rec.skydive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="467235-347110-net.rec.skydive" source="467235" target="347110">
+	<data key="topic">net.rec.skydive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338573-631446-net.rec.skydive" source="338573" target="631446">
+	<data key="topic">net.rec.skydive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="395724-631446-net.rec.skydive" source="395724" target="631446">
+	<data key="topic">net.rec.skydive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="395724-405350-net.rec.skydive" source="395724" target="405350">
+	<data key="topic">net.rec.skydive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337547-347101-net.rec.skydive" source="337547" target="347101">
+	<data key="topic">net.rec.skydive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337547-459180-net.rec.skydive" source="337547" target="459180">
+	<data key="topic">net.rec.skydive</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

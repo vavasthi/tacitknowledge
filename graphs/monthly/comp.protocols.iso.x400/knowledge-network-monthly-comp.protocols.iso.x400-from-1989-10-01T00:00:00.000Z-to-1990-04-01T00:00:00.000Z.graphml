@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="716156"/>
+<node id="872058"/>
+<node id="711358"/>
+<node id="692222"/>
+<node id="569"/>
+<node id="23772"/>
+<node id="442459"/>
+<node id="872051"/>
+<node id="872046"/>
+<node id="14689"/>
+<node id="716140"/>
+<node id="617358"/>
+<node id="14502"/>
+<node id="1672"/>
+<node id="1669106"/>
+<node id="613409"/>
+<node id="442443"/>
+<node id="502732"/>
+<node id="848865"/>
+<node id="504779"/>
+<node id="587719"/>
+<node id="848867"/>
+<node id="698054"/>
+<edge id="872058-872046-comp.protocols.iso.x400" source="872058" target="872046">
+	<data key="topic">comp.protocols.iso.x400</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="692222-613409-comp.protocols.iso.x400" source="692222" target="613409">
+	<data key="topic">comp.protocols.iso.x400</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23772-711358-comp.protocols.iso.x400" source="23772" target="711358">
+	<data key="topic">comp.protocols.iso.x400</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23772-442443-comp.protocols.iso.x400" source="23772" target="442443">
+	<data key="topic">comp.protocols.iso.x400</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="442459-587719-comp.protocols.iso.x400" source="442459" target="587719">
+	<data key="topic">comp.protocols.iso.x400</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="872051-14689-comp.protocols.iso.x400" source="872051" target="14689">
+	<data key="topic">comp.protocols.iso.x400</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="872046-569-comp.protocols.iso.x400" source="872046" target="569">
+	<data key="topic">comp.protocols.iso.x400</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="716140-716156-comp.protocols.iso.x400" source="716140" target="716156">
+	<data key="topic">comp.protocols.iso.x400</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14502-502732-comp.protocols.iso.x400" source="14502" target="502732">
+	<data key="topic">comp.protocols.iso.x400</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1672-442443-comp.protocols.iso.x400" source="1672" target="442443">
+	<data key="topic">comp.protocols.iso.x400</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1669106-617358-comp.protocols.iso.x400" source="1669106" target="617358">
+	<data key="topic">comp.protocols.iso.x400</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1669106-502732-comp.protocols.iso.x400" source="1669106" target="502732">
+	<data key="topic">comp.protocols.iso.x400</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="442443-23772-comp.protocols.iso.x400" source="442443" target="23772">
+	<data key="topic">comp.protocols.iso.x400</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="848865-716140-comp.protocols.iso.x400" source="848865" target="716140">
+	<data key="topic">comp.protocols.iso.x400</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="504779-716140-comp.protocols.iso.x400" source="504779" target="716140">
+	<data key="topic">comp.protocols.iso.x400</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="848867-716140-comp.protocols.iso.x400" source="848867" target="716140">
+	<data key="topic">comp.protocols.iso.x400</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="698054-617358-comp.protocols.iso.x400" source="698054" target="617358">
+	<data key="topic">comp.protocols.iso.x400</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="698054-1669106-comp.protocols.iso.x400" source="698054" target="1669106">
+	<data key="topic">comp.protocols.iso.x400</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="459734"/>
+<node id="962233"/>
+<node id="1056776"/>
+<node id="459697"/>
+<node id="459806"/>
+<node id="460830"/>
+<node id="462790"/>
+<node id="459460"/>
+<node id="562222"/>
+<node id="463459"/>
+<node id="459330"/>
+<node id="459746"/>
+<node id="2040121"/>
+<edge id="459734-562222-net.rec.nude" source="459734" target="562222">
+	<data key="topic">net.rec.nude</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="962233-459697-net.rec.nude" source="962233" target="459697">
+	<data key="topic">net.rec.nude</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="459697-462790-net.rec.nude" source="459697" target="462790">
+	<data key="topic">net.rec.nude</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459806-459697-net.rec.nude" source="459806" target="459697">
+	<data key="topic">net.rec.nude</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459460-462790-net.rec.nude" source="459460" target="462790">
+	<data key="topic">net.rec.nude</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="463459-460830-net.rec.nude" source="463459" target="460830">
+	<data key="topic">net.rec.nude</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="463459-2040121-net.rec.nude" source="463459" target="2040121">
+	<data key="topic">net.rec.nude</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459330-1056776-net.rec.nude" source="459330" target="1056776">
+	<data key="topic">net.rec.nude</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459746-459697-net.rec.nude" source="459746" target="459697">
+	<data key="topic">net.rec.nude</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2040121-460830-net.rec.nude" source="2040121" target="460830">
+	<data key="topic">net.rec.nude</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

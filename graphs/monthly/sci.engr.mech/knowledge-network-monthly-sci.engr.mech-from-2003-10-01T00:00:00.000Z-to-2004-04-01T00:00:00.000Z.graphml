@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="151731"/>
+<node id="37011"/>
+<node id="94419"/>
+<node id="105526"/>
+<node id="109014"/>
+<node id="208663"/>
+<node id="106106"/>
+<node id="52959"/>
+<node id="208897"/>
+<node id="105990"/>
+<node id="106057"/>
+<node id="212745"/>
+<node id="168623"/>
+<node id="209134"/>
+<node id="326411"/>
+<edge id="37011-94419-sci.engr.mech" source="37011" target="94419">
+	<data key="topic">sci.engr.mech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="94419-37011-sci.engr.mech" source="94419" target="37011">
+	<data key="topic">sci.engr.mech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="208663-151731-sci.engr.mech" source="208663" target="151731">
+	<data key="topic">sci.engr.mech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="208663-105526-sci.engr.mech" source="208663" target="105526">
+	<data key="topic">sci.engr.mech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="208663-109014-sci.engr.mech" source="208663" target="109014">
+	<data key="topic">sci.engr.mech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="208663-106106-sci.engr.mech" source="208663" target="106106">
+	<data key="topic">sci.engr.mech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="208663-105990-sci.engr.mech" source="208663" target="105990">
+	<data key="topic">sci.engr.mech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="208663-106057-sci.engr.mech" source="208663" target="106057">
+	<data key="topic">sci.engr.mech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="208663-168623-sci.engr.mech" source="208663" target="168623">
+	<data key="topic">sci.engr.mech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="52959-37011-sci.engr.mech" source="52959" target="37011">
+	<data key="topic">sci.engr.mech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="208897-209134-sci.engr.mech" source="208897" target="209134">
+	<data key="topic">sci.engr.mech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="212745-208897-sci.engr.mech" source="212745" target="208897">
+	<data key="topic">sci.engr.mech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="209134-208897-sci.engr.mech" source="209134" target="208897">
+	<data key="topic">sci.engr.mech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="326411-37011-sci.engr.mech" source="326411" target="37011">
+	<data key="topic">sci.engr.mech</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

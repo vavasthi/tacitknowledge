@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="522103"/>
+<node id="522614"/>
+<node id="462804"/>
+<node id="341234"/>
+<node id="1136520"/>
+<node id="336733"/>
+<node id="33916"/>
+<node id="523612"/>
+<node id="337210"/>
+<node id="652662"/>
+<node id="341243"/>
+<node id="497895"/>
+<node id="337096"/>
+<node id="392071"/>
+<node id="624395"/>
+<node id="460257"/>
+<node id="337866"/>
+<node id="463467"/>
+<edge id="522103-460257-net.railroad" source="522103" target="460257">
+	<data key="topic">net.railroad</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="462804-460257-net.railroad" source="462804" target="460257">
+	<data key="topic">net.railroad</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341234-497895-net.railroad" source="341234" target="497895">
+	<data key="topic">net.railroad</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="336733-523612-net.railroad" source="336733" target="523612">
+	<data key="topic">net.railroad</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="33916-462804-net.railroad" source="33916" target="462804">
+	<data key="topic">net.railroad</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337210-462804-net.railroad" source="337210" target="462804">
+	<data key="topic">net.railroad</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341243-341234-net.railroad" source="341243" target="341234">
+	<data key="topic">net.railroad</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341243-497895-net.railroad" source="341243" target="497895">
+	<data key="topic">net.railroad</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337096-522614-net.railroad" source="337096" target="522614">
+	<data key="topic">net.railroad</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337096-341234-net.railroad" source="337096" target="341234">
+	<data key="topic">net.railroad</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337096-1136520-net.railroad" source="337096" target="1136520">
+	<data key="topic">net.railroad</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337096-523612-net.railroad" source="337096" target="523612">
+	<data key="topic">net.railroad</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="392071-462804-net.railroad" source="392071" target="462804">
+	<data key="topic">net.railroad</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="624395-652662-net.railroad" source="624395" target="652662">
+	<data key="topic">net.railroad</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460257-462804-net.railroad" source="460257" target="462804">
+	<data key="topic">net.railroad</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="337866-462804-net.railroad" source="337866" target="462804">
+	<data key="topic">net.railroad</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-33916-net.railroad" source="337866" target="33916">
+	<data key="topic">net.railroad</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="463467-523612-net.railroad" source="463467" target="523612">
+	<data key="topic">net.railroad</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="442775"/>
+<node id="704491"/>
+<node id="710115"/>
+<node id="710119"/>
+<node id="1613670"/>
+<node id="1352059"/>
+<node id="2144336"/>
+<edge id="442775-710115-rec.games.hack" source="442775" target="710115">
+	<data key="topic">rec.games.hack</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="442775-710119-rec.games.hack" source="442775" target="710119">
+	<data key="topic">rec.games.hack</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="710115-710119-rec.games.hack" source="710115" target="710119">
+	<data key="topic">rec.games.hack</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1352059-704491-rec.games.hack" source="1352059" target="704491">
+	<data key="topic">rec.games.hack</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2144336-1613670-rec.games.hack" source="2144336" target="1613670">
+	<data key="topic">rec.games.hack</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

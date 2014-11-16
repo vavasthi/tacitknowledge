@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="488599"/>
+<node id="392225"/>
+<node id="932185"/>
+<node id="466386"/>
+<node id="16008"/>
+<node id="337598"/>
+<node id="919621"/>
+<node id="925382"/>
+<node id="20110"/>
+<node id="486763"/>
+<edge id="488599-466386-comp.databases" source="488599" target="466386">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="488599-925382-comp.databases" source="488599" target="925382">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392225-932185-comp.databases" source="392225" target="932185">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392225-16008-comp.databases" source="392225" target="16008">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392225-919621-comp.databases" source="392225" target="919621">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="466386-925382-comp.databases" source="466386" target="925382">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16008-932185-comp.databases" source="16008" target="932185">
+	<data key="topic">comp.databases</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="16008-919621-comp.databases" source="16008" target="919621">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919621-932185-comp.databases" source="919621" target="932185">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20110-466386-comp.databases" source="20110" target="466386">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20110-925382-comp.databases" source="20110" target="925382">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="486763-16008-comp.databases" source="486763" target="16008">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="486763-337598-comp.databases" source="486763" target="337598">
+	<data key="topic">comp.databases</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

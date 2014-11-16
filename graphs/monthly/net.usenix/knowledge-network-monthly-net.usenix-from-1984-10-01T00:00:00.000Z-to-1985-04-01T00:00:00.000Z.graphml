@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1114280"/>
+<node id="630943"/>
+<node id="341146"/>
+<node id="342809"/>
+<node id="340121"/>
+<node id="339100"/>
+<node id="469145"/>
+<node id="459304"/>
+<node id="341282"/>
+<node id="471074"/>
+<node id="339107"/>
+<node id="625967"/>
+<node id="339760"/>
+<node id="337200"/>
+<node id="571300"/>
+<node id="338986"/>
+<node id="626088"/>
+<node id="565159"/>
+<node id="526266"/>
+<node id="399153"/>
+<node id="337598"/>
+<node id="625076"/>
+<node id="337210"/>
+<node id="337980"/>
+<node id="1112372"/>
+<node id="341697"/>
+<node id="682178"/>
+<node id="339407"/>
+<node id="470093"/>
+<node id="337866"/>
+<node id="522572"/>
+<node id="624326"/>
+<node id="29006"/>
+<node id="471627"/>
+<node id="599495"/>
+<node id="336597"/>
+<node id="337367"/>
+<node id="625376"/>
+<node id="469201"/>
+<node id="337376"/>
+<node id="2166397"/>
+<node id="337371"/>
+<node id="623978"/>
+<node id="774127"/>
+<node id="341098"/>
+<node id="524902"/>
+<node id="624744"/>
+<node id="23793"/>
+<node id="339190"/>
+<node id="526714"/>
+<node id="460148"/>
+<node id="626289"/>
+<node id="392703"/>
+<node id="342655"/>
+<node id="448377"/>
+<node id="522376"/>
+<node id="470919"/>
+<node id="337927"/>
+<node id="339074"/>
+<node id="6022"/>
+<node id="1709042"/>
+<node id="485002"/>
+<edge id="1114280-337200-net.usenix" source="1114280" target="337200">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1114280-565159-net.usenix" source="1114280" target="565159">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341146-338986-net.usenix" source="341146" target="338986">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339100-682178-net.usenix" source="339100" target="682178">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="469145-342809-net.usenix" source="469145" target="342809">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="469145-459304-net.usenix" source="469145" target="459304">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="469145-337200-net.usenix" source="469145" target="337200">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="469145-29006-net.usenix" source="469145" target="29006">
+	<data key="topic">net.usenix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="459304-342809-net.usenix" source="459304" target="342809">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459304-29006-net.usenix" source="459304" target="29006">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="471074-339074-net.usenix" source="471074" target="339074">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339107-341282-net.usenix" source="339107" target="341282">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339107-565159-net.usenix" source="339107" target="565159">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="625967-623978-net.usenix" source="625967" target="623978">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="625967-337927-net.usenix" source="625967" target="337927">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339760-6022-net.usenix" source="339760" target="6022">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="571300-626289-net.usenix" source="571300" target="626289">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="626088-459304-net.usenix" source="626088" target="459304">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="626088-337200-net.usenix" source="626088" target="337200">
+	<data key="topic">net.usenix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="626088-29006-net.usenix" source="626088" target="29006">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="626088-599495-net.usenix" source="626088" target="599495">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="565159-341282-net.usenix" source="565159" target="341282">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="565159-337200-net.usenix" source="565159" target="337200">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="565159-337210-net.usenix" source="565159" target="337210">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="565159-624326-net.usenix" source="565159" target="624326">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="565159-471627-net.usenix" source="565159" target="471627">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="526266-774127-net.usenix" source="526266" target="774127">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="399153-774127-net.usenix" source="399153" target="774127">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337598-459304-net.usenix" source="337598" target="459304">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337598-626088-net.usenix" source="337598" target="626088">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="625076-571300-net.usenix" source="625076" target="571300">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="625076-624326-net.usenix" source="625076" target="624326">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="625076-626289-net.usenix" source="625076" target="626289">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337210-448377-net.usenix" source="337210" target="448377">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339407-630943-net.usenix" source="339407" target="630943">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339407-448377-net.usenix" source="339407" target="448377">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="470093-337210-net.usenix" source="470093" target="337210">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="470093-448377-net.usenix" source="470093" target="448377">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-1112372-net.usenix" source="337866" target="1112372">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-624744-net.usenix" source="337866" target="624744">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522572-2166397-net.usenix" source="522572" target="2166397">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522572-342655-net.usenix" source="522572" target="342655">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="624326-571300-net.usenix" source="624326" target="571300">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="624326-626289-net.usenix" source="624326" target="626289">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-342809-net.usenix" source="29006" target="342809">
+	<data key="topic">net.usenix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="29006-459304-net.usenix" source="29006" target="459304">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-339074-net.usenix" source="29006" target="339074">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337367-599495-net.usenix" source="337367" target="599495">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="625376-1112372-net.usenix" source="625376" target="1112372">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="469201-337980-net.usenix" source="469201" target="337980">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337376-1112372-net.usenix" source="337376" target="1112372">
+	<data key="topic">net.usenix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="337376-337866-net.usenix" source="337376" target="337866">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337376-624744-net.usenix" source="337376" target="624744">
+	<data key="topic">net.usenix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="337376-23793-net.usenix" source="337376" target="23793">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337371-336597-net.usenix" source="337371" target="336597">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337371-626289-net.usenix" source="337371" target="626289">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="623978-337927-net.usenix" source="623978" target="337927">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341098-399153-net.usenix" source="341098" target="399153">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341098-682178-net.usenix" source="341098" target="682178">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341098-774127-net.usenix" source="341098" target="774127">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="524902-337980-net.usenix" source="524902" target="337980">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23793-1112372-net.usenix" source="23793" target="1112372">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23793-624744-net.usenix" source="23793" target="624744">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339190-337980-net.usenix" source="339190" target="337980">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="526714-626289-net.usenix" source="526714" target="626289">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460148-341697-net.usenix" source="460148" target="341697">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392703-340121-net.usenix" source="392703" target="340121">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="448377-630943-net.usenix" source="448377" target="630943">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522376-774127-net.usenix" source="522376" target="774127">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="470919-339074-net.usenix" source="470919" target="339074">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1709042-459304-net.usenix" source="1709042" target="459304">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1709042-626088-net.usenix" source="1709042" target="626088">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1709042-337598-net.usenix" source="1709042" target="337598">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="485002-337927-net.usenix" source="485002" target="337927">
+	<data key="topic">net.usenix</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

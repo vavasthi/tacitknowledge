@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="696075"/>
+<node id="22179"/>
+<node id="596033"/>
+<node id="500190"/>
+<node id="1762482"/>
+<node id="17453"/>
+<node id="507195"/>
+<edge id="596033-507195-rec.arts.sf-lovers" source="596033" target="507195">
+	<data key="topic">rec.arts.sf-lovers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1762482-596033-rec.arts.sf-lovers" source="1762482" target="596033">
+	<data key="topic">rec.arts.sf-lovers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1762482-507195-rec.arts.sf-lovers" source="1762482" target="507195">
+	<data key="topic">rec.arts.sf-lovers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17453-696075-rec.arts.sf-lovers" source="17453" target="696075">
+	<data key="topic">rec.arts.sf-lovers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17453-22179-rec.arts.sf-lovers" source="17453" target="22179">
+	<data key="topic">rec.arts.sf-lovers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17453-500190-rec.arts.sf-lovers" source="17453" target="500190">
+	<data key="topic">rec.arts.sf-lovers</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

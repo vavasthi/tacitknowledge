@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="36978"/>
+<node id="37042"/>
+<node id="39172"/>
+<node id="178999"/>
+<node id="175704"/>
+<node id="168261"/>
+<node id="177286"/>
+<node id="179750"/>
+<node id="177318"/>
+<node id="179743"/>
+<node id="176125"/>
+<edge id="36978-37042-alt.war.nuclear" source="36978" target="37042">
+	<data key="topic">alt.war.nuclear</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36978-178999-alt.war.nuclear" source="36978" target="178999">
+	<data key="topic">alt.war.nuclear</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36978-175704-alt.war.nuclear" source="36978" target="175704">
+	<data key="topic">alt.war.nuclear</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="36978-177286-alt.war.nuclear" source="36978" target="177286">
+	<data key="topic">alt.war.nuclear</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36978-179750-alt.war.nuclear" source="36978" target="179750">
+	<data key="topic">alt.war.nuclear</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36978-179743-alt.war.nuclear" source="36978" target="179743">
+	<data key="topic">alt.war.nuclear</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36978-176125-alt.war.nuclear" source="36978" target="176125">
+	<data key="topic">alt.war.nuclear</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37042-175704-alt.war.nuclear" source="37042" target="175704">
+	<data key="topic">alt.war.nuclear</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37042-168261-alt.war.nuclear" source="37042" target="168261">
+	<data key="topic">alt.war.nuclear</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37042-177318-alt.war.nuclear" source="37042" target="177318">
+	<data key="topic">alt.war.nuclear</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37042-176125-alt.war.nuclear" source="37042" target="176125">
+	<data key="topic">alt.war.nuclear</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="39172-37042-alt.war.nuclear" source="39172" target="37042">
+	<data key="topic">alt.war.nuclear</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="39172-175704-alt.war.nuclear" source="39172" target="175704">
+	<data key="topic">alt.war.nuclear</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

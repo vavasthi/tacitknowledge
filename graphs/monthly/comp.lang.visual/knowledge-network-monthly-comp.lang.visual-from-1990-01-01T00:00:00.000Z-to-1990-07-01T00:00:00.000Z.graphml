@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1301"/>
+<node id="1668653"/>
+<node id="842011"/>
+<node id="1880373"/>
+<node id="615699"/>
+<node id="1668662"/>
+<node id="1614293"/>
+<node id="506169"/>
+<edge id="1301-842011-comp.lang.visual" source="1301" target="842011">
+	<data key="topic">comp.lang.visual</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1668653-1668662-comp.lang.visual" source="1668653" target="1668662">
+	<data key="topic">comp.lang.visual</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1668653-1614293-comp.lang.visual" source="1668653" target="1614293">
+	<data key="topic">comp.lang.visual</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="842011-1880373-comp.lang.visual" source="842011" target="1880373">
+	<data key="topic">comp.lang.visual</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="615699-1668662-comp.lang.visual" source="615699" target="1668662">
+	<data key="topic">comp.lang.visual</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1614293-1668662-comp.lang.visual" source="1614293" target="1668662">
+	<data key="topic">comp.lang.visual</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="506169-1668662-comp.lang.visual" source="506169" target="1668662">
+	<data key="topic">comp.lang.visual</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

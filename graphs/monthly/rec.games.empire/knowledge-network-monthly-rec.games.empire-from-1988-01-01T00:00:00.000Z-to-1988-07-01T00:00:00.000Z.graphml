@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="585002"/>
+<node id="585008"/>
+<node id="1312996"/>
+<node id="17835"/>
+<node id="584903"/>
+<edge id="585008-585002-rec.games.empire" source="585008" target="585002">
+	<data key="topic">rec.games.empire</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="17835-585002-rec.games.empire" source="17835" target="585002">
+	<data key="topic">rec.games.empire</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17835-585008-rec.games.empire" source="17835" target="585008">
+	<data key="topic">rec.games.empire</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="584903-1312996-rec.games.empire" source="584903" target="1312996">
+	<data key="topic">rec.games.empire</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

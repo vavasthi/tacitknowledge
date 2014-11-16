@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="620172"/>
+<node id="620139"/>
+<node id="620091"/>
+<node id="622878"/>
+<node id="620064"/>
+<node id="620176"/>
+<node id="1671535"/>
+<node id="620097"/>
+<node id="445787"/>
+<node id="620070"/>
+<node id="620101"/>
+<edge id="620172-620097-list.british-cars" source="620172" target="620097">
+	<data key="topic">list.british-cars</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="620064-620070-list.british-cars" source="620064" target="620070">
+	<data key="topic">list.british-cars</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="620064-620101-list.british-cars" source="620064" target="620101">
+	<data key="topic">list.british-cars</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="445787-620139-list.british-cars" source="445787" target="620139">
+	<data key="topic">list.british-cars</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="445787-622878-list.british-cars" source="445787" target="622878">
+	<data key="topic">list.british-cars</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="445787-1671535-list.british-cars" source="445787" target="1671535">
+	<data key="topic">list.british-cars</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="620101-620091-list.british-cars" source="620101" target="620091">
+	<data key="topic">list.british-cars</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="620101-620176-list.british-cars" source="620101" target="620176">
+	<data key="topic">list.british-cars</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="620101-620070-list.british-cars" source="620101" target="620070">
+	<data key="topic">list.british-cars</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

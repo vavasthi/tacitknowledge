@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="779820"/>
+<node id="307"/>
+<node id="5172"/>
+<node id="736272"/>
+<node id="781599"/>
+<node id="361668"/>
+<node id="8411"/>
+<edge id="779820-5172-alt.fan.mike-jittlov" source="779820" target="5172">
+	<data key="topic">alt.fan.mike-jittlov</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="779820-781599-alt.fan.mike-jittlov" source="779820" target="781599">
+	<data key="topic">alt.fan.mike-jittlov</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="307-779820-alt.fan.mike-jittlov" source="307" target="779820">
+	<data key="topic">alt.fan.mike-jittlov</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="307-5172-alt.fan.mike-jittlov" source="307" target="5172">
+	<data key="topic">alt.fan.mike-jittlov</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="307-781599-alt.fan.mike-jittlov" source="307" target="781599">
+	<data key="topic">alt.fan.mike-jittlov</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5172-781599-alt.fan.mike-jittlov" source="5172" target="781599">
+	<data key="topic">alt.fan.mike-jittlov</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="736272-781599-alt.fan.mike-jittlov" source="736272" target="781599">
+	<data key="topic">alt.fan.mike-jittlov</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="361668-779820-alt.fan.mike-jittlov" source="361668" target="779820">
+	<data key="topic">alt.fan.mike-jittlov</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="361668-5172-alt.fan.mike-jittlov" source="361668" target="5172">
+	<data key="topic">alt.fan.mike-jittlov</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="361668-781599-alt.fan.mike-jittlov" source="361668" target="781599">
+	<data key="topic">alt.fan.mike-jittlov</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="8411-779820-alt.fan.mike-jittlov" source="8411" target="779820">
+	<data key="topic">alt.fan.mike-jittlov</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="8411-307-alt.fan.mike-jittlov" source="8411" target="307">
+	<data key="topic">alt.fan.mike-jittlov</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="8411-5172-alt.fan.mike-jittlov" source="8411" target="5172">
+	<data key="topic">alt.fan.mike-jittlov</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2296243"/>
+<node id="2190132"/>
+<node id="2179772"/>
+<node id="2308670"/>
+<node id="82338"/>
+<node id="205603"/>
+<node id="2318402"/>
+<node id="2311751"/>
+<node id="2188615"/>
+<node id="2309962"/>
+<node id="2290894"/>
+<node id="2309906"/>
+<node id="2298641"/>
+<node id="2304542"/>
+<node id="2276509"/>
+<node id="2178978"/>
+<node id="2310563"/>
+<node id="2308389"/>
+<node id="2307627"/>
+<node id="2265005"/>
+<node id="2182575"/>
+<node id="2176369"/>
+<node id="2318195"/>
+<node id="2175732"/>
+<node id="2215928"/>
+<node id="2308474"/>
+<node id="2312320"/>
+<node id="2218750"/>
+<node id="170720"/>
+<node id="2311934"/>
+<node id="173278"/>
+<node id="2299773"/>
+<node id="2253956"/>
+<node id="2291586"/>
+<node id="2295041"/>
+<node id="2308233"/>
+<node id="2264336"/>
+<node id="2197969"/>
+<node id="2311635"/>
+<node id="2175825"/>
+<node id="2298456"/>
+<node id="2308822"/>
+<node id="2299733"/>
+<node id="94203"/>
+<node id="2177886"/>
+<node id="2316128"/>
+<node id="2307427"/>
+<node id="2309219"/>
+<node id="58250"/>
+<node id="2290927"/>
+<edge id="2296243-2309962-comp.lang.java" source="2296243" target="2309962">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2190132-2309962-comp.lang.java" source="2190132" target="2309962">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2190132-2310563-comp.lang.java" source="2190132" target="2310563">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2190132-2308389-comp.lang.java" source="2190132" target="2308389">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2190132-2311635-comp.lang.java" source="2190132" target="2311635">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="2190132-2298456-comp.lang.java" source="2190132" target="2298456">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">8</data>
+</edge>
+<edge id="2190132-2308822-comp.lang.java" source="2190132" target="2308822">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2308670-2309962-comp.lang.java" source="2308670" target="2309962">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="82338-205603-comp.lang.java" source="82338" target="205603">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="82338-2188615-comp.lang.java" source="82338" target="2188615">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="82338-2309906-comp.lang.java" source="82338" target="2309906">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="82338-2307627-comp.lang.java" source="82338" target="2307627">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="82338-170720-comp.lang.java" source="82338" target="170720">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="82338-2307427-comp.lang.java" source="82338" target="2307427">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="205603-2188615-comp.lang.java" source="205603" target="2188615">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="205603-2307627-comp.lang.java" source="205603" target="2307627">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="205603-2307427-comp.lang.java" source="205603" target="2307427">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2318402-82338-comp.lang.java" source="2318402" target="82338">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2318402-2188615-comp.lang.java" source="2318402" target="2188615">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2318402-2307627-comp.lang.java" source="2318402" target="2307627">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2318402-2253956-comp.lang.java" source="2318402" target="2253956">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2318402-2308233-comp.lang.java" source="2318402" target="2308233">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2318402-2307427-comp.lang.java" source="2318402" target="2307427">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2311751-2309962-comp.lang.java" source="2311751" target="2309962">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2311751-2310563-comp.lang.java" source="2311751" target="2310563">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2311751-2298456-comp.lang.java" source="2311751" target="2298456">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2311751-2308822-comp.lang.java" source="2311751" target="2308822">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2188615-2307427-comp.lang.java" source="2188615" target="2307427">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2309962-2298456-comp.lang.java" source="2309962" target="2298456">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2309962-2308822-comp.lang.java" source="2309962" target="2308822">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2290894-2179772-comp.lang.java" source="2290894" target="2179772">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2290894-205603-comp.lang.java" source="2290894" target="205603">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2309906-205603-comp.lang.java" source="2309906" target="205603">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2309906-2188615-comp.lang.java" source="2309906" target="2188615">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2309906-2307627-comp.lang.java" source="2309906" target="2307627">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2309906-170720-comp.lang.java" source="2309906" target="170720">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2309906-2307427-comp.lang.java" source="2309906" target="2307427">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2298641-2308670-comp.lang.java" source="2298641" target="2308670">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2298641-2309962-comp.lang.java" source="2298641" target="2309962">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2304542-2265005-comp.lang.java" source="2304542" target="2265005">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2304542-2299773-comp.lang.java" source="2304542" target="2299773">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2276509-205603-comp.lang.java" source="2276509" target="205603">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2276509-2188615-comp.lang.java" source="2276509" target="2188615">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2276509-2307627-comp.lang.java" source="2276509" target="2307627">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2276509-2308474-comp.lang.java" source="2276509" target="2308474">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2276509-170720-comp.lang.java" source="2276509" target="170720">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2276509-2264336-comp.lang.java" source="2276509" target="2264336">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2276509-2307427-comp.lang.java" source="2276509" target="2307427">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2178978-2307427-comp.lang.java" source="2178978" target="2307427">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2310563-2309962-comp.lang.java" source="2310563" target="2309962">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2310563-2311635-comp.lang.java" source="2310563" target="2311635">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2310563-2298456-comp.lang.java" source="2310563" target="2298456">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">9</data>
+</edge>
+<edge id="2310563-2308822-comp.lang.java" source="2310563" target="2308822">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2308389-2190132-comp.lang.java" source="2308389" target="2190132">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2308389-82338-comp.lang.java" source="2308389" target="82338">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2308389-2188615-comp.lang.java" source="2308389" target="2188615">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2308389-2309962-comp.lang.java" source="2308389" target="2309962">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2308389-2310563-comp.lang.java" source="2308389" target="2310563">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2308389-2307627-comp.lang.java" source="2308389" target="2307627">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2308389-2312320-comp.lang.java" source="2308389" target="2312320">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2308389-2311635-comp.lang.java" source="2308389" target="2311635">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">6</data>
+</edge>
+<edge id="2308389-2298456-comp.lang.java" source="2308389" target="2298456">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">12</data>
+</edge>
+<edge id="2308389-2308822-comp.lang.java" source="2308389" target="2308822">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2308389-94203-comp.lang.java" source="2308389" target="94203">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2308389-2307427-comp.lang.java" source="2308389" target="2307427">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2265005-2304542-comp.lang.java" source="2265005" target="2304542">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2265005-2299773-comp.lang.java" source="2265005" target="2299773">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2182575-2309962-comp.lang.java" source="2182575" target="2309962">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2182575-2310563-comp.lang.java" source="2182575" target="2310563">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2182575-2298456-comp.lang.java" source="2182575" target="2298456">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="2182575-2308822-comp.lang.java" source="2182575" target="2308822">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2176369-2307427-comp.lang.java" source="2176369" target="2307427">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2318195-82338-comp.lang.java" source="2318195" target="82338">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2318195-205603-comp.lang.java" source="2318195" target="205603">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2318195-2318402-comp.lang.java" source="2318195" target="2318402">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2318195-2188615-comp.lang.java" source="2318195" target="2188615">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2318195-2309906-comp.lang.java" source="2318195" target="2309906">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2318195-2307627-comp.lang.java" source="2318195" target="2307627">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2318195-170720-comp.lang.java" source="2318195" target="170720">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2318195-2307427-comp.lang.java" source="2318195" target="2307427">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2175732-2309962-comp.lang.java" source="2175732" target="2309962">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2175732-2298456-comp.lang.java" source="2175732" target="2298456">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2215928-2309962-comp.lang.java" source="2215928" target="2309962">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="2215928-2310563-comp.lang.java" source="2215928" target="2310563">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2215928-2182575-comp.lang.java" source="2215928" target="2182575">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2215928-2311934-comp.lang.java" source="2215928" target="2311934">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2215928-2311635-comp.lang.java" source="2215928" target="2311635">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2215928-2298456-comp.lang.java" source="2215928" target="2298456">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">10</data>
+</edge>
+<edge id="2215928-2308822-comp.lang.java" source="2215928" target="2308822">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2308474-205603-comp.lang.java" source="2308474" target="205603">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2308474-2188615-comp.lang.java" source="2308474" target="2188615">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2308474-2307627-comp.lang.java" source="2308474" target="2307627">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2308474-170720-comp.lang.java" source="2308474" target="170720">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2308474-2264336-comp.lang.java" source="2308474" target="2264336">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2308474-2175825-comp.lang.java" source="2308474" target="2175825">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2308474-2307427-comp.lang.java" source="2308474" target="2307427">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2312320-2309962-comp.lang.java" source="2312320" target="2309962">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2312320-2310563-comp.lang.java" source="2312320" target="2310563">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2312320-2311635-comp.lang.java" source="2312320" target="2311635">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">6</data>
+</edge>
+<edge id="2312320-2298456-comp.lang.java" source="2312320" target="2298456">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">12</data>
+</edge>
+<edge id="2312320-2308822-comp.lang.java" source="2312320" target="2308822">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2312320-94203-comp.lang.java" source="2312320" target="94203">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">6</data>
+</edge>
+<edge id="2218750-2309962-comp.lang.java" source="2218750" target="2309962">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2218750-2197969-comp.lang.java" source="2218750" target="2197969">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2218750-2298456-comp.lang.java" source="2218750" target="2298456">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2218750-2308822-comp.lang.java" source="2218750" target="2308822">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="170720-205603-comp.lang.java" source="170720" target="205603">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="170720-2188615-comp.lang.java" source="170720" target="2188615">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="170720-2309906-comp.lang.java" source="170720" target="2309906">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="170720-2307627-comp.lang.java" source="170720" target="2307627">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="170720-2307427-comp.lang.java" source="170720" target="2307427">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2311934-2309962-comp.lang.java" source="2311934" target="2309962">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2311934-2310563-comp.lang.java" source="2311934" target="2310563">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2311934-2182575-comp.lang.java" source="2311934" target="2182575">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2311934-2311635-comp.lang.java" source="2311934" target="2311635">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2311934-2298456-comp.lang.java" source="2311934" target="2298456">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">9</data>
+</edge>
+<edge id="2311934-2308822-comp.lang.java" source="2311934" target="2308822">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="173278-2309962-comp.lang.java" source="173278" target="2309962">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="173278-2304542-comp.lang.java" source="173278" target="2304542">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="173278-2310563-comp.lang.java" source="173278" target="2310563">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="173278-2265005-comp.lang.java" source="173278" target="2265005">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="173278-2311934-comp.lang.java" source="173278" target="2311934">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="173278-2299773-comp.lang.java" source="173278" target="2299773">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="173278-2311635-comp.lang.java" source="173278" target="2311635">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="173278-2298456-comp.lang.java" source="173278" target="2298456">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="173278-2308822-comp.lang.java" source="173278" target="2308822">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2299773-2304542-comp.lang.java" source="2299773" target="2304542">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2253956-2188615-comp.lang.java" source="2253956" target="2188615">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2253956-2307627-comp.lang.java" source="2253956" target="2307627">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2253956-2308233-comp.lang.java" source="2253956" target="2308233">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2253956-2307427-comp.lang.java" source="2253956" target="2307427">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2291586-2309962-comp.lang.java" source="2291586" target="2309962">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2291586-2310563-comp.lang.java" source="2291586" target="2310563">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2291586-2311934-comp.lang.java" source="2291586" target="2311934">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2291586-2311635-comp.lang.java" source="2291586" target="2311635">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2291586-2298456-comp.lang.java" source="2291586" target="2298456">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2291586-2308822-comp.lang.java" source="2291586" target="2308822">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2295041-2179772-comp.lang.java" source="2295041" target="2179772">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2295041-205603-comp.lang.java" source="2295041" target="205603">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2295041-2290894-comp.lang.java" source="2295041" target="2290894">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2308233-2188615-comp.lang.java" source="2308233" target="2188615">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2308233-2307627-comp.lang.java" source="2308233" target="2307627">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2308233-2253956-comp.lang.java" source="2308233" target="2253956">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2308233-2307427-comp.lang.java" source="2308233" target="2307427">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2264336-205603-comp.lang.java" source="2264336" target="205603">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2264336-2188615-comp.lang.java" source="2264336" target="2188615">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2264336-2276509-comp.lang.java" source="2264336" target="2276509">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2264336-2307627-comp.lang.java" source="2264336" target="2307627">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2264336-2308474-comp.lang.java" source="2264336" target="2308474">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2264336-170720-comp.lang.java" source="2264336" target="170720">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2264336-2307427-comp.lang.java" source="2264336" target="2307427">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2197969-2309962-comp.lang.java" source="2197969" target="2309962">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2197969-2298456-comp.lang.java" source="2197969" target="2298456">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2197969-2308822-comp.lang.java" source="2197969" target="2308822">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2311635-2309962-comp.lang.java" source="2311635" target="2309962">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2311635-2310563-comp.lang.java" source="2311635" target="2310563">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2311635-2311934-comp.lang.java" source="2311635" target="2311934">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2311635-2298456-comp.lang.java" source="2311635" target="2298456">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">10</data>
+</edge>
+<edge id="2311635-2308822-comp.lang.java" source="2311635" target="2308822">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2175825-205603-comp.lang.java" source="2175825" target="205603">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2175825-2188615-comp.lang.java" source="2175825" target="2188615">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2175825-2307627-comp.lang.java" source="2175825" target="2307627">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2175825-2308474-comp.lang.java" source="2175825" target="2308474">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2175825-170720-comp.lang.java" source="2175825" target="170720">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2175825-2307427-comp.lang.java" source="2175825" target="2307427">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2298456-2309962-comp.lang.java" source="2298456" target="2309962">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="2298456-2310563-comp.lang.java" source="2298456" target="2310563">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2298456-2311635-comp.lang.java" source="2298456" target="2311635">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2298456-2308822-comp.lang.java" source="2298456" target="2308822">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2308822-82338-comp.lang.java" source="2308822" target="82338">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2308822-205603-comp.lang.java" source="2308822" target="205603">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2308822-2188615-comp.lang.java" source="2308822" target="2188615">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2308822-2309962-comp.lang.java" source="2308822" target="2309962">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2308822-2276509-comp.lang.java" source="2308822" target="2276509">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2308822-2307627-comp.lang.java" source="2308822" target="2307627">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2308822-2308474-comp.lang.java" source="2308822" target="2308474">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2308822-170720-comp.lang.java" source="2308822" target="170720">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2308822-2264336-comp.lang.java" source="2308822" target="2264336">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2308822-2197969-comp.lang.java" source="2308822" target="2197969">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2308822-2298456-comp.lang.java" source="2308822" target="2298456">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2308822-2307427-comp.lang.java" source="2308822" target="2307427">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2299733-2309962-comp.lang.java" source="2299733" target="2309962">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2299733-2298456-comp.lang.java" source="2299733" target="2298456">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2299733-2308822-comp.lang.java" source="2299733" target="2308822">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="94203-2309962-comp.lang.java" source="94203" target="2309962">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">7</data>
+</edge>
+<edge id="94203-2310563-comp.lang.java" source="94203" target="2310563">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">7</data>
+</edge>
+<edge id="94203-2312320-comp.lang.java" source="94203" target="2312320">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">6</data>
+</edge>
+<edge id="94203-2311635-comp.lang.java" source="94203" target="2311635">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">12</data>
+</edge>
+<edge id="94203-2298456-comp.lang.java" source="94203" target="2298456">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">27</data>
+</edge>
+<edge id="94203-2308822-comp.lang.java" source="94203" target="2308822">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">7</data>
+</edge>
+<edge id="94203-2177886-comp.lang.java" source="94203" target="2177886">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2177886-2309962-comp.lang.java" source="2177886" target="2309962">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2177886-2310563-comp.lang.java" source="2177886" target="2310563">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2177886-2311635-comp.lang.java" source="2177886" target="2311635">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="2177886-2298456-comp.lang.java" source="2177886" target="2298456">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">8</data>
+</edge>
+<edge id="2177886-2308822-comp.lang.java" source="2177886" target="2308822">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2177886-94203-comp.lang.java" source="2177886" target="94203">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2316128-2309962-comp.lang.java" source="2316128" target="2309962">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2316128-2215928-comp.lang.java" source="2316128" target="2215928">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2309219-2298456-comp.lang.java" source="2309219" target="2298456">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="58250-2309962-comp.lang.java" source="58250" target="2309962">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="58250-2197969-comp.lang.java" source="58250" target="2197969">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="58250-2298456-comp.lang.java" source="58250" target="2298456">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="58250-2308822-comp.lang.java" source="58250" target="2308822">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2290927-2179772-comp.lang.java" source="2290927" target="2179772">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2290927-205603-comp.lang.java" source="2290927" target="205603">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2290927-2290894-comp.lang.java" source="2290927" target="2290894">
+	<data key="topic">comp.lang.java</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

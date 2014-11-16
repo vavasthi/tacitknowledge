@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1078882"/>
+<node id="441845"/>
+<node id="1077220"/>
+<node id="642334"/>
+<node id="1178437"/>
+<node id="1456644"/>
+<node id="828474"/>
+<node id="597791"/>
+<node id="10105"/>
+<node id="1078893"/>
+<node id="856049"/>
+<node id="856047"/>
+<node id="412963"/>
+<node id="386255"/>
+<edge id="1078882-1077220-misc.education" source="1078882" target="1077220">
+	<data key="topic">misc.education</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="441845-1077220-misc.education" source="441845" target="1077220">
+	<data key="topic">misc.education</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="642334-1456644-misc.education" source="642334" target="1456644">
+	<data key="topic">misc.education</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="642334-828474-misc.education" source="642334" target="828474">
+	<data key="topic">misc.education</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="828474-1456644-misc.education" source="828474" target="1456644">
+	<data key="topic">misc.education</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="597791-1456644-misc.education" source="597791" target="1456644">
+	<data key="topic">misc.education</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="597791-828474-misc.education" source="597791" target="828474">
+	<data key="topic">misc.education</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="597791-856049-misc.education" source="597791" target="856049">
+	<data key="topic">misc.education</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10105-1178437-misc.education" source="10105" target="1178437">
+	<data key="topic">misc.education</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1078893-1077220-misc.education" source="1078893" target="1077220">
+	<data key="topic">misc.education</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="856049-1456644-misc.education" source="856049" target="1456644">
+	<data key="topic">misc.education</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="856049-828474-misc.education" source="856049" target="828474">
+	<data key="topic">misc.education</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="856047-412963-misc.education" source="856047" target="412963">
+	<data key="topic">misc.education</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="386255-441845-misc.education" source="386255" target="441845">
+	<data key="topic">misc.education</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="386255-1077220-misc.education" source="386255" target="1077220">
+	<data key="topic">misc.education</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="337376"/>
+<node id="447198"/>
+<node id="427033"/>
+<node id="2849"/>
+<node id="24679"/>
+<node id="687021"/>
+<node id="1125018"/>
+<node id="397495"/>
+<node id="1125379"/>
+<node id="469876"/>
+<node id="16309"/>
+<node id="337265"/>
+<node id="394993"/>
+<node id="919546"/>
+<node id="919031"/>
+<node id="451006"/>
+<node id="389055"/>
+<node id="465148"/>
+<node id="32577"/>
+<node id="390408"/>
+<node id="920718"/>
+<node id="391873"/>
+<node id="12230"/>
+<node id="923788"/>
+<node id="390401"/>
+<node id="397327"/>
+<node id="29006"/>
+<node id="399052"/>
+<edge id="337376-1125018-net.dcom" source="337376" target="1125018">
+	<data key="topic">net.dcom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337376-919031-net.dcom" source="337376" target="919031">
+	<data key="topic">net.dcom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337376-923788-net.dcom" source="337376" target="923788">
+	<data key="topic">net.dcom</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="447198-923788-net.dcom" source="447198" target="923788">
+	<data key="topic">net.dcom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="427033-337376-net.dcom" source="427033" target="337376">
+	<data key="topic">net.dcom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="427033-397495-net.dcom" source="427033" target="397495">
+	<data key="topic">net.dcom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="427033-923788-net.dcom" source="427033" target="923788">
+	<data key="topic">net.dcom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2849-391873-net.dcom" source="2849" target="391873">
+	<data key="topic">net.dcom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24679-451006-net.dcom" source="24679" target="451006">
+	<data key="topic">net.dcom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="397495-337376-net.dcom" source="397495" target="337376">
+	<data key="topic">net.dcom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="397495-923788-net.dcom" source="397495" target="923788">
+	<data key="topic">net.dcom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1125379-29006-net.dcom" source="1125379" target="29006">
+	<data key="topic">net.dcom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="469876-337265-net.dcom" source="469876" target="337265">
+	<data key="topic">net.dcom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="469876-389055-net.dcom" source="469876" target="389055">
+	<data key="topic">net.dcom</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="469876-29006-net.dcom" source="469876" target="29006">
+	<data key="topic">net.dcom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919546-394993-net.dcom" source="919546" target="394993">
+	<data key="topic">net.dcom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919031-337376-net.dcom" source="919031" target="337376">
+	<data key="topic">net.dcom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919031-923788-net.dcom" source="919031" target="923788">
+	<data key="topic">net.dcom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="465148-2849-net.dcom" source="465148" target="2849">
+	<data key="topic">net.dcom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="465148-391873-net.dcom" source="465148" target="391873">
+	<data key="topic">net.dcom</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="32577-2849-net.dcom" source="32577" target="2849">
+	<data key="topic">net.dcom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="32577-391873-net.dcom" source="32577" target="391873">
+	<data key="topic">net.dcom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390408-391873-net.dcom" source="390408" target="391873">
+	<data key="topic">net.dcom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="920718-16309-net.dcom" source="920718" target="16309">
+	<data key="topic">net.dcom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="920718-451006-net.dcom" source="920718" target="451006">
+	<data key="topic">net.dcom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12230-2849-net.dcom" source="12230" target="2849">
+	<data key="topic">net.dcom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12230-391873-net.dcom" source="12230" target="391873">
+	<data key="topic">net.dcom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390401-29006-net.dcom" source="390401" target="29006">
+	<data key="topic">net.dcom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="397327-687021-net.dcom" source="397327" target="687021">
+	<data key="topic">net.dcom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="399052-923788-net.dcom" source="399052" target="923788">
+	<data key="topic">net.dcom</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

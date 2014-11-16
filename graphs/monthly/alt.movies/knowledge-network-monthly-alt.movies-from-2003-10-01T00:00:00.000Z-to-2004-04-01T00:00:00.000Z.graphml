@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="140563"/>
+<node id="274949"/>
+<node id="42292"/>
+<node id="274289"/>
+<node id="264318"/>
+<node id="271342"/>
+<node id="37163"/>
+<node id="273130"/>
+<node id="273738"/>
+<node id="271803"/>
+<edge id="140563-264318-alt.movies" source="140563" target="264318">
+	<data key="topic">alt.movies</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="140563-271342-alt.movies" source="140563" target="271342">
+	<data key="topic">alt.movies</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="140563-37163-alt.movies" source="140563" target="37163">
+	<data key="topic">alt.movies</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="140563-273738-alt.movies" source="140563" target="273738">
+	<data key="topic">alt.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="274949-140563-alt.movies" source="274949" target="140563">
+	<data key="topic">alt.movies</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="274949-274289-alt.movies" source="274949" target="274289">
+	<data key="topic">alt.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="274949-264318-alt.movies" source="274949" target="264318">
+	<data key="topic">alt.movies</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="274949-271342-alt.movies" source="274949" target="271342">
+	<data key="topic">alt.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="274949-37163-alt.movies" source="274949" target="37163">
+	<data key="topic">alt.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="274949-273738-alt.movies" source="274949" target="273738">
+	<data key="topic">alt.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="42292-264318-alt.movies" source="42292" target="264318">
+	<data key="topic">alt.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="42292-271342-alt.movies" source="42292" target="271342">
+	<data key="topic">alt.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="42292-37163-alt.movies" source="42292" target="37163">
+	<data key="topic">alt.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="42292-273130-alt.movies" source="42292" target="273130">
+	<data key="topic">alt.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="264318-271342-alt.movies" source="264318" target="271342">
+	<data key="topic">alt.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="264318-37163-alt.movies" source="264318" target="37163">
+	<data key="topic">alt.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="264318-273130-alt.movies" source="264318" target="273130">
+	<data key="topic">alt.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="271342-264318-alt.movies" source="271342" target="264318">
+	<data key="topic">alt.movies</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="271342-37163-alt.movies" source="271342" target="37163">
+	<data key="topic">alt.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37163-274289-alt.movies" source="37163" target="274289">
+	<data key="topic">alt.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37163-264318-alt.movies" source="37163" target="264318">
+	<data key="topic">alt.movies</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37163-271342-alt.movies" source="37163" target="271342">
+	<data key="topic">alt.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="273130-42292-alt.movies" source="273130" target="42292">
+	<data key="topic">alt.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="273130-264318-alt.movies" source="273130" target="264318">
+	<data key="topic">alt.movies</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="273130-271342-alt.movies" source="273130" target="271342">
+	<data key="topic">alt.movies</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="273130-37163-alt.movies" source="273130" target="37163">
+	<data key="topic">alt.movies</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="273738-140563-alt.movies" source="273738" target="140563">
+	<data key="topic">alt.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="273738-264318-alt.movies" source="273738" target="264318">
+	<data key="topic">alt.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="273738-271342-alt.movies" source="273738" target="271342">
+	<data key="topic">alt.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="273738-37163-alt.movies" source="273738" target="37163">
+	<data key="topic">alt.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="271803-264318-alt.movies" source="271803" target="264318">
+	<data key="topic">alt.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="271803-271342-alt.movies" source="271803" target="271342">
+	<data key="topic">alt.movies</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

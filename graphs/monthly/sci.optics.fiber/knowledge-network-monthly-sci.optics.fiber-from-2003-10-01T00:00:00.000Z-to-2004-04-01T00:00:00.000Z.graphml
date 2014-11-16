@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="269799"/>
+<node id="250088"/>
+<node id="254043"/>
+<node id="37227"/>
+<node id="272495"/>
+<node id="254606"/>
+<node id="277499"/>
+<edge id="250088-269799-sci.optics.fiber" source="250088" target="269799">
+	<data key="topic">sci.optics.fiber</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="250088-272495-sci.optics.fiber" source="250088" target="272495">
+	<data key="topic">sci.optics.fiber</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="254043-254606-sci.optics.fiber" source="254043" target="254606">
+	<data key="topic">sci.optics.fiber</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37227-269799-sci.optics.fiber" source="37227" target="269799">
+	<data key="topic">sci.optics.fiber</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="272495-269799-sci.optics.fiber" source="272495" target="269799">
+	<data key="topic">sci.optics.fiber</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="272495-250088-sci.optics.fiber" source="272495" target="250088">
+	<data key="topic">sci.optics.fiber</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="254606-254043-sci.optics.fiber" source="254606" target="254043">
+	<data key="topic">sci.optics.fiber</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="277499-269799-sci.optics.fiber" source="277499" target="269799">
+	<data key="topic">sci.optics.fiber</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

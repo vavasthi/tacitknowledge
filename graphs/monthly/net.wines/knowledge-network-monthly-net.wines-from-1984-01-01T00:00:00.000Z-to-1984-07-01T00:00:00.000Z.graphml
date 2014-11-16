@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="459672"/>
+<node id="339218"/>
+<node id="522129"/>
+<node id="460191"/>
+<node id="523039"/>
+<node id="460318"/>
+<node id="460583"/>
+<node id="568749"/>
+<node id="339233"/>
+<node id="522671"/>
+<node id="337200"/>
+<node id="682151"/>
+<node id="562598"/>
+<node id="493865"/>
+<node id="565032"/>
+<node id="565049"/>
+<node id="526266"/>
+<node id="522423"/>
+<node id="521653"/>
+<node id="461109"/>
+<node id="460468"/>
+<node id="522548"/>
+<node id="460978"/>
+<node id="339252"/>
+<node id="560959"/>
+<node id="337598"/>
+<node id="566450"/>
+<node id="460607"/>
+<node id="339903"/>
+<node id="565044"/>
+<node id="525878"/>
+<node id="526774"/>
+<node id="526775"/>
+<node id="526007"/>
+<node id="459205"/>
+<node id="562636"/>
+<node id="560846"/>
+<node id="2078139"/>
+<node id="342980"/>
+<node id="681165"/>
+<node id="565072"/>
+<node id="472400"/>
+<node id="565314"/>
+<node id="346448"/>
+<node id="464716"/>
+<node id="525639"/>
+<node id="343115"/>
+<node id="565087"/>
+<node id="336733"/>
+<node id="460121"/>
+<node id="336997"/>
+<node id="560237"/>
+<node id="521827"/>
+<node id="521953"/>
+<node id="464495"/>
+<node id="462317"/>
+<node id="526820"/>
+<node id="341098"/>
+<node id="521835"/>
+<node id="346475"/>
+<node id="459241"/>
+<node id="469111"/>
+<node id="337265"/>
+<node id="523122"/>
+<node id="339965"/>
+<node id="680181"/>
+<node id="531319"/>
+<node id="470137"/>
+<node id="461319"/>
+<node id="340999"/>
+<node id="460548"/>
+<node id="522384"/>
+<node id="523535"/>
+<node id="681860"/>
+<node id="523529"/>
+<edge id="459672-460468-net.wines" source="459672" target="460468">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522129-341098-net.wines" source="522129" target="341098">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460191-682151-net.wines" source="460191" target="682151">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460191-493865-net.wines" source="460191" target="493865">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460191-343115-net.wines" source="460191" target="343115">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460191-341098-net.wines" source="460191" target="341098">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="523039-337200-net.wines" source="523039" target="337200">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460318-521835-net.wines" source="460318" target="521835">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460583-522671-net.wines" source="460583" target="522671">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460583-526775-net.wines" source="460583" target="526775">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460583-459205-net.wines" source="460583" target="459205">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="568749-681165-net.wines" source="568749" target="681165">
+	<data key="topic">net.wines</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="339233-339218-net.wines" source="339233" target="339218">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522671-526775-net.wines" source="522671" target="526775">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337200-562598-net.wines" source="337200" target="562598">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337200-464716-net.wines" source="337200" target="464716">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337200-521953-net.wines" source="337200" target="521953">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337200-462317-net.wines" source="337200" target="462317">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="493865-343115-net.wines" source="493865" target="343115">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="493865-341098-net.wines" source="493865" target="341098">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="565032-565072-net.wines" source="565032" target="565072">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="526266-460978-net.wines" source="526266" target="460978">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522423-339218-net.wines" source="522423" target="339218">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522423-523529-net.wines" source="522423" target="523529">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521653-493865-net.wines" source="521653" target="493865">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521653-526266-net.wines" source="521653" target="526266">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521653-460978-net.wines" source="521653" target="460978">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521653-337598-net.wines" source="521653" target="337598">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521653-525878-net.wines" source="521653" target="525878">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521653-341098-net.wines" source="521653" target="341098">
+	<data key="topic">net.wines</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="460468-460318-net.wines" source="460468" target="460318">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460468-461109-net.wines" source="460468" target="461109">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460468-526775-net.wines" source="460468" target="526775">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460468-560237-net.wines" source="460468" target="560237">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460468-521835-net.wines" source="460468" target="521835">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460978-566450-net.wines" source="460978" target="566450">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="560959-525878-net.wines" source="560959" target="525878">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337598-460978-net.wines" source="337598" target="460978">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337598-566450-net.wines" source="337598" target="566450">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337598-525878-net.wines" source="337598" target="525878">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337598-341098-net.wines" source="337598" target="341098">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460607-521953-net.wines" source="460607" target="521953">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="565044-525878-net.wines" source="565044" target="525878">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="526774-464495-net.wines" source="526774" target="464495">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459205-522671-net.wines" source="459205" target="522671">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459205-526775-net.wines" source="459205" target="526775">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="562636-526775-net.wines" source="562636" target="526775">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="560846-339965-net.wines" source="560846" target="339965">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="342980-522671-net.wines" source="342980" target="522671">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="342980-526775-net.wines" source="342980" target="526775">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="342980-459205-net.wines" source="342980" target="459205">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="472400-339252-net.wines" source="472400" target="339252">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="472400-343115-net.wines" source="472400" target="343115">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="565314-2078139-net.wines" source="565314" target="2078139">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="346448-341098-net.wines" source="346448" target="341098">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="346448-680181-net.wines" source="346448" target="680181">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="525639-337598-net.wines" source="525639" target="337598">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="343115-339252-net.wines" source="343115" target="339252">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="565087-565049-net.wines" source="565087" target="565049">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="336733-460468-net.wines" source="336733" target="460468">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="336733-346475-net.wines" source="336733" target="346475">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460121-460318-net.wines" source="460121" target="460318">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460121-560237-net.wines" source="460121" target="560237">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460121-521835-net.wines" source="460121" target="521835">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="336997-337200-net.wines" source="336997" target="337200">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="336997-521835-net.wines" source="336997" target="521835">
+	<data key="topic">net.wines</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="336997-522384-net.wines" source="336997" target="522384">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="560237-460318-net.wines" source="560237" target="460318">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="560237-521835-net.wines" source="560237" target="521835">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521827-461109-net.wines" source="521827" target="461109">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="462317-526007-net.wines" source="462317" target="526007">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341098-460191-net.wines" source="341098" target="460191">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341098-493865-net.wines" source="341098" target="493865">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341098-565049-net.wines" source="341098" target="565049">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341098-521653-net.wines" source="341098" target="521653">
+	<data key="topic">net.wines</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="341098-460978-net.wines" source="341098" target="460978">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341098-337598-net.wines" source="341098" target="337598">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341098-566450-net.wines" source="341098" target="566450">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341098-525878-net.wines" source="341098" target="525878">
+	<data key="topic">net.wines</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="341098-343115-net.wines" source="341098" target="343115">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341098-526820-net.wines" source="341098" target="526820">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341098-521835-net.wines" source="341098" target="521835">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341098-340999-net.wines" source="341098" target="340999">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521835-337200-net.wines" source="521835" target="337200">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521835-337598-net.wines" source="521835" target="337598">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521835-525878-net.wines" source="521835" target="525878">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521835-526775-net.wines" source="521835" target="526775">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521835-341098-net.wines" source="521835" target="341098">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521835-522384-net.wines" source="521835" target="522384">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="346475-460468-net.wines" source="346475" target="460468">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459241-521835-net.wines" source="459241" target="521835">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="469111-523529-net.wines" source="469111" target="523529">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337265-522129-net.wines" source="337265" target="522129">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337265-337200-net.wines" source="337265" target="337200">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337265-521653-net.wines" source="337265" target="521653">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337265-522548-net.wines" source="337265" target="522548">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337265-464716-net.wines" source="337265" target="464716">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337265-341098-net.wines" source="337265" target="341098">
+	<data key="topic">net.wines</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="337265-340999-net.wines" source="337265" target="340999">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337265-460548-net.wines" source="337265" target="460548">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="523122-339903-net.wines" source="523122" target="339903">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="531319-525878-net.wines" source="531319" target="525878">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="470137-337200-net.wines" source="470137" target="337200">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="470137-464495-net.wines" source="470137" target="464495">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="461319-460607-net.wines" source="461319" target="460607">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="461319-521953-net.wines" source="461319" target="521953">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340999-521653-net.wines" source="340999" target="521653">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340999-341098-net.wines" source="340999" target="341098">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460548-521653-net.wines" source="460548" target="521653">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460548-341098-net.wines" source="460548" target="341098">
+	<data key="topic">net.wines</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="460548-340999-net.wines" source="460548" target="340999">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="523535-337200-net.wines" source="523535" target="337200">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="523535-521953-net.wines" source="523535" target="521953">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="681860-343115-net.wines" source="681860" target="343115">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="523529-339218-net.wines" source="523529" target="339218">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

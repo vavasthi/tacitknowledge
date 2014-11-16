@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="373560"/>
+<node id="1303585"/>
+<node id="613053"/>
+<node id="1527873"/>
+<node id="948310"/>
+<node id="1351563"/>
+<node id="4673"/>
+<node id="1940125"/>
+<node id="558251"/>
+<node id="389191"/>
+<node id="356836"/>
+<node id="5384"/>
+<node id="376675"/>
+<node id="1940123"/>
+<node id="361865"/>
+<node id="360780"/>
+<edge id="373560-613053-rec.skydiving" source="373560" target="613053">
+	<data key="topic">rec.skydiving</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="373560-4673-rec.skydiving" source="373560" target="4673">
+	<data key="topic">rec.skydiving</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1303585-356836-rec.skydiving" source="1303585" target="356836">
+	<data key="topic">rec.skydiving</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="613053-373560-rec.skydiving" source="613053" target="373560">
+	<data key="topic">rec.skydiving</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="613053-4673-rec.skydiving" source="613053" target="4673">
+	<data key="topic">rec.skydiving</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1527873-948310-rec.skydiving" source="1527873" target="948310">
+	<data key="topic">rec.skydiving</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4673-373560-rec.skydiving" source="4673" target="373560">
+	<data key="topic">rec.skydiving</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4673-613053-rec.skydiving" source="4673" target="613053">
+	<data key="topic">rec.skydiving</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4673-1940125-rec.skydiving" source="4673" target="1940125">
+	<data key="topic">rec.skydiving</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4673-5384-rec.skydiving" source="4673" target="5384">
+	<data key="topic">rec.skydiving</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="4673-361865-rec.skydiving" source="4673" target="361865">
+	<data key="topic">rec.skydiving</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="389191-4673-rec.skydiving" source="389191" target="4673">
+	<data key="topic">rec.skydiving</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="389191-1940123-rec.skydiving" source="389191" target="1940123">
+	<data key="topic">rec.skydiving</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5384-373560-rec.skydiving" source="5384" target="373560">
+	<data key="topic">rec.skydiving</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5384-613053-rec.skydiving" source="5384" target="613053">
+	<data key="topic">rec.skydiving</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5384-4673-rec.skydiving" source="5384" target="4673">
+	<data key="topic">rec.skydiving</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="376675-4673-rec.skydiving" source="376675" target="4673">
+	<data key="topic">rec.skydiving</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="376675-558251-rec.skydiving" source="376675" target="558251">
+	<data key="topic">rec.skydiving</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="360780-1351563-rec.skydiving" source="360780" target="1351563">
+	<data key="topic">rec.skydiving</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

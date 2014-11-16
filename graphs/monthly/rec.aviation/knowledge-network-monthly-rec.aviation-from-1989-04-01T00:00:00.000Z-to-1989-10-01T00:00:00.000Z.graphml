@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="875869"/>
+<node id="380247"/>
+<node id="713967"/>
+<node id="1215207"/>
+<node id="720765"/>
+<node id="432447"/>
+<node id="872646"/>
+<node id="1171529"/>
+<node id="1171531"/>
+<node id="511531"/>
+<node id="1860356"/>
+<node id="727589"/>
+<edge id="875869-713967-rec.aviation" source="875869" target="713967">
+	<data key="topic">rec.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="380247-720765-rec.aviation" source="380247" target="720765">
+	<data key="topic">rec.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="713967-1860356-rec.aviation" source="713967" target="1860356">
+	<data key="topic">rec.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1215207-713967-rec.aviation" source="1215207" target="713967">
+	<data key="topic">rec.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="872646-380247-rec.aviation" source="872646" target="380247">
+	<data key="topic">rec.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="872646-720765-rec.aviation" source="872646" target="720765">
+	<data key="topic">rec.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1171529-875869-rec.aviation" source="1171529" target="875869">
+	<data key="topic">rec.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1171529-713967-rec.aviation" source="1171529" target="713967">
+	<data key="topic">rec.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1171531-713967-rec.aviation" source="1171531" target="713967">
+	<data key="topic">rec.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="511531-713967-rec.aviation" source="511531" target="713967">
+	<data key="topic">rec.aviation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="727589-432447-rec.aviation" source="727589" target="432447">
+	<data key="topic">rec.aviation</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

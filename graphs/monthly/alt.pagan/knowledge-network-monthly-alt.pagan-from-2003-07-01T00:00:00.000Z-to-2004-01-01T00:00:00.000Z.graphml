@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="37042"/>
+<node id="176089"/>
+<node id="133226"/>
+<node id="41485"/>
+<node id="106877"/>
+<node id="177616"/>
+<node id="45295"/>
+<edge id="37042-133226-alt.pagan" source="37042" target="133226">
+	<data key="topic">alt.pagan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41485-133226-alt.pagan" source="41485" target="133226">
+	<data key="topic">alt.pagan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="106877-133226-alt.pagan" source="106877" target="133226">
+	<data key="topic">alt.pagan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="177616-176089-alt.pagan" source="177616" target="176089">
+	<data key="topic">alt.pagan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="177616-133226-alt.pagan" source="177616" target="133226">
+	<data key="topic">alt.pagan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="45295-133226-alt.pagan" source="45295" target="133226">
+	<data key="topic">alt.pagan</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

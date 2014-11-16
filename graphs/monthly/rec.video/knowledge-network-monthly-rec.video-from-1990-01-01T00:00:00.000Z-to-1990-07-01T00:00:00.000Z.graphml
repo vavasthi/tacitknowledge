@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="7954"/>
+<node id="2899520"/>
+<node id="1881002"/>
+<node id="658973"/>
+<node id="740381"/>
+<node id="551828"/>
+<node id="552724"/>
+<node id="435484"/>
+<node id="2908084"/>
+<node id="552856"/>
+<node id="2471"/>
+<node id="537007"/>
+<node id="446753"/>
+<node id="840747"/>
+<node id="415010"/>
+<node id="994985"/>
+<node id="912167"/>
+<node id="2017171"/>
+<node id="2908226"/>
+<node id="553265"/>
+<node id="910645"/>
+<node id="862132"/>
+<node id="517305"/>
+<node id="2899502"/>
+<node id="358607"/>
+<node id="354505"/>
+<node id="608606"/>
+<node id="5079"/>
+<node id="617171"/>
+<node id="708562"/>
+<node id="550103"/>
+<node id="549485"/>
+<node id="9190"/>
+<node id="13799"/>
+<node id="2022745"/>
+<node id="516974"/>
+<node id="517483"/>
+<node id="415081"/>
+<node id="2899587"/>
+<node id="737276"/>
+<node id="1880970"/>
+<node id="1820942"/>
+<node id="557426"/>
+<node id="1003126"/>
+<node id="549491"/>
+<node id="6268"/>
+<node id="387066"/>
+<node id="620024"/>
+<node id="2899667"/>
+<node id="422530"/>
+<node id="7307"/>
+<edge id="7954-537007-rec.video" source="7954" target="537007">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2899520-740381-rec.video" source="2899520" target="740381">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2899520-912167-rec.video" source="2899520" target="912167">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2899520-517305-rec.video" source="2899520" target="517305">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2899520-516974-rec.video" source="2899520" target="516974">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2899520-549491-rec.video" source="2899520" target="549491">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="658973-2899520-rec.video" source="658973" target="2899520">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="658973-740381-rec.video" source="658973" target="740381">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="658973-517305-rec.video" source="658973" target="517305">
+	<data key="topic">rec.video</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="658973-557426-rec.video" source="658973" target="557426">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="658973-549491-rec.video" source="658973" target="549491">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="740381-517305-rec.video" source="740381" target="517305">
+	<data key="topic">rec.video</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="551828-516974-rec.video" source="551828" target="516974">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="551828-387066-rec.video" source="551828" target="387066">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="552724-552856-rec.video" source="552724" target="552856">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="552724-550103-rec.video" source="552724" target="550103">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="435484-537007-rec.video" source="435484" target="537007">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2908084-516974-rec.video" source="2908084" target="516974">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2908084-387066-rec.video" source="2908084" target="387066">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2471-912167-rec.video" source="2471" target="912167">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2471-516974-rec.video" source="2471" target="516974">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="446753-740381-rec.video" source="446753" target="740381">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="840747-2022745-rec.video" source="840747" target="2022745">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="840747-516974-rec.video" source="840747" target="516974">
+	<data key="topic">rec.video</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="840747-387066-rec.video" source="840747" target="387066">
+	<data key="topic">rec.video</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="415010-1881002-rec.video" source="415010" target="1881002">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="415010-516974-rec.video" source="415010" target="516974">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="994985-740381-rec.video" source="994985" target="740381">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="994985-6268-rec.video" source="994985" target="6268">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="912167-516974-rec.video" source="912167" target="516974">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2017171-740381-rec.video" source="2017171" target="740381">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2017171-910645-rec.video" source="2017171" target="910645">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2017171-517305-rec.video" source="2017171" target="517305">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2017171-737276-rec.video" source="2017171" target="737276">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2017171-1003126-rec.video" source="2017171" target="1003126">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2017171-620024-rec.video" source="2017171" target="620024">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="553265-840747-rec.video" source="553265" target="840747">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="553265-2022745-rec.video" source="553265" target="2022745">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="553265-516974-rec.video" source="553265" target="516974">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="553265-387066-rec.video" source="553265" target="387066">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="910645-740381-rec.video" source="910645" target="740381">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="910645-517305-rec.video" source="910645" target="517305">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="910645-1003126-rec.video" source="910645" target="1003126">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="862132-912167-rec.video" source="862132" target="912167">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="862132-516974-rec.video" source="862132" target="516974">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="517305-2899520-rec.video" source="517305" target="2899520">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="517305-740381-rec.video" source="517305" target="740381">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="517305-912167-rec.video" source="517305" target="912167">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="517305-862132-rec.video" source="517305" target="862132">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="517305-516974-rec.video" source="517305" target="516974">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="517305-557426-rec.video" source="517305" target="557426">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="517305-549491-rec.video" source="517305" target="549491">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2899502-740381-rec.video" source="2899502" target="740381">
+	<data key="topic">rec.video</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2899502-446753-rec.video" source="2899502" target="446753">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2899502-517305-rec.video" source="2899502" target="517305">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2899502-549491-rec.video" source="2899502" target="549491">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="358607-740381-rec.video" source="358607" target="740381">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="358607-910645-rec.video" source="358607" target="910645">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="358607-517305-rec.video" source="358607" target="517305">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="358607-1003126-rec.video" source="358607" target="1003126">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="358607-549491-rec.video" source="358607" target="549491">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="358607-620024-rec.video" source="358607" target="620024">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="608606-2022745-rec.video" source="608606" target="2022745">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="608606-516974-rec.video" source="608606" target="516974">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="608606-387066-rec.video" source="608606" target="387066">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5079-2908084-rec.video" source="5079" target="2908084">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5079-516974-rec.video" source="5079" target="516974">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5079-387066-rec.video" source="5079" target="387066">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="617171-740381-rec.video" source="617171" target="740381">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="617171-910645-rec.video" source="617171" target="910645">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="617171-517305-rec.video" source="617171" target="517305">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="617171-9190-rec.video" source="617171" target="9190">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="617171-1003126-rec.video" source="617171" target="1003126">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="617171-549491-rec.video" source="617171" target="549491">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="617171-620024-rec.video" source="617171" target="620024">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="708562-2022745-rec.video" source="708562" target="2022745">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="708562-516974-rec.video" source="708562" target="516974">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="708562-387066-rec.video" source="708562" target="387066">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="550103-840747-rec.video" source="550103" target="840747">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="550103-2908226-rec.video" source="550103" target="2908226">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="549485-2899520-rec.video" source="549485" target="2899520">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="549485-912167-rec.video" source="549485" target="912167">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="549485-516974-rec.video" source="549485" target="516974">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="9190-740381-rec.video" source="9190" target="740381">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="9190-910645-rec.video" source="9190" target="910645">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="9190-517305-rec.video" source="9190" target="517305">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="9190-1003126-rec.video" source="9190" target="1003126">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="9190-549491-rec.video" source="9190" target="549491">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="9190-620024-rec.video" source="9190" target="620024">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="13799-422530-rec.video" source="13799" target="422530">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2022745-516974-rec.video" source="2022745" target="516974">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2022745-387066-rec.video" source="2022745" target="387066">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="516974-840747-rec.video" source="516974" target="840747">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="516974-2022745-rec.video" source="516974" target="2022745">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="516974-387066-rec.video" source="516974" target="387066">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="517483-354505-rec.video" source="517483" target="354505">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="415081-740381-rec.video" source="415081" target="740381">
+	<data key="topic">rec.video</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="415081-910645-rec.video" source="415081" target="910645">
+	<data key="topic">rec.video</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="415081-517305-rec.video" source="415081" target="517305">
+	<data key="topic">rec.video</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="415081-9190-rec.video" source="415081" target="9190">
+	<data key="topic">rec.video</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="415081-1003126-rec.video" source="415081" target="1003126">
+	<data key="topic">rec.video</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="415081-549491-rec.video" source="415081" target="549491">
+	<data key="topic">rec.video</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="415081-620024-rec.video" source="415081" target="620024">
+	<data key="topic">rec.video</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2899587-840747-rec.video" source="2899587" target="840747">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2899587-516974-rec.video" source="2899587" target="516974">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2899587-387066-rec.video" source="2899587" target="387066">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="737276-740381-rec.video" source="737276" target="740381">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="737276-910645-rec.video" source="737276" target="910645">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="737276-517305-rec.video" source="737276" target="517305">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="737276-1003126-rec.video" source="737276" target="1003126">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="737276-620024-rec.video" source="737276" target="620024">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1880970-1881002-rec.video" source="1880970" target="1881002">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1880970-415010-rec.video" source="1880970" target="415010">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1820942-912167-rec.video" source="1820942" target="912167">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1820942-516974-rec.video" source="1820942" target="516974">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="557426-2899520-rec.video" source="557426" target="2899520">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="557426-740381-rec.video" source="557426" target="740381">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="557426-517305-rec.video" source="557426" target="517305">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1003126-740381-rec.video" source="1003126" target="740381">
+	<data key="topic">rec.video</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1003126-910645-rec.video" source="1003126" target="910645">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1003126-517305-rec.video" source="1003126" target="517305">
+	<data key="topic">rec.video</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="549491-2899520-rec.video" source="549491" target="2899520">
+	<data key="topic">rec.video</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="549491-740381-rec.video" source="549491" target="740381">
+	<data key="topic">rec.video</data>
+	<data key="weight">6</data>
+</edge>
+<edge id="549491-910645-rec.video" source="549491" target="910645">
+	<data key="topic">rec.video</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="549491-517305-rec.video" source="549491" target="517305">
+	<data key="topic">rec.video</data>
+	<data key="weight">6</data>
+</edge>
+<edge id="549491-9190-rec.video" source="549491" target="9190">
+	<data key="topic">rec.video</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="549491-737276-rec.video" source="549491" target="737276">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="549491-557426-rec.video" source="549491" target="557426">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="549491-1003126-rec.video" source="549491" target="1003126">
+	<data key="topic">rec.video</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="549491-620024-rec.video" source="549491" target="620024">
+	<data key="topic">rec.video</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="6268-740381-rec.video" source="6268" target="740381">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="387066-516974-rec.video" source="387066" target="516974">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="620024-740381-rec.video" source="620024" target="740381">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="620024-910645-rec.video" source="620024" target="910645">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="620024-517305-rec.video" source="620024" target="517305">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="620024-1003126-rec.video" source="620024" target="1003126">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2899667-2908084-rec.video" source="2899667" target="2908084">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2899667-840747-rec.video" source="2899667" target="840747">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2899667-5079-rec.video" source="2899667" target="5079">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2899667-516974-rec.video" source="2899667" target="516974">
+	<data key="topic">rec.video</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2899667-387066-rec.video" source="2899667" target="387066">
+	<data key="topic">rec.video</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="422530-537007-rec.video" source="422530" target="537007">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7307-740381-rec.video" source="7307" target="740381">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7307-910645-rec.video" source="7307" target="910645">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7307-517305-rec.video" source="7307" target="517305">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7307-9190-rec.video" source="7307" target="9190">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7307-1003126-rec.video" source="7307" target="1003126">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7307-549491-rec.video" source="7307" target="549491">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7307-620024-rec.video" source="7307" target="620024">
+	<data key="topic">rec.video</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

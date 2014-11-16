@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="37011"/>
+<node id="41734"/>
+<node id="178824"/>
+<node id="101978"/>
+<node id="37227"/>
+<node id="37019"/>
+<node id="47693"/>
+<node id="52957"/>
+<node id="101727"/>
+<edge id="37011-37227-rec.arts.movies.local.indian" source="37011" target="37227">
+	<data key="topic">rec.arts.movies.local.indian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37011-47693-rec.arts.movies.local.indian" source="37011" target="47693">
+	<data key="topic">rec.arts.movies.local.indian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41734-47693-rec.arts.movies.local.indian" source="41734" target="47693">
+	<data key="topic">rec.arts.movies.local.indian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="178824-37227-rec.arts.movies.local.indian" source="178824" target="37227">
+	<data key="topic">rec.arts.movies.local.indian</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="178824-47693-rec.arts.movies.local.indian" source="178824" target="47693">
+	<data key="topic">rec.arts.movies.local.indian</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="101978-52957-rec.arts.movies.local.indian" source="101978" target="52957">
+	<data key="topic">rec.arts.movies.local.indian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37227-47693-rec.arts.movies.local.indian" source="37227" target="47693">
+	<data key="topic">rec.arts.movies.local.indian</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="37227-52957-rec.arts.movies.local.indian" source="37227" target="52957">
+	<data key="topic">rec.arts.movies.local.indian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37019-52957-rec.arts.movies.local.indian" source="37019" target="52957">
+	<data key="topic">rec.arts.movies.local.indian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="47693-41734-rec.arts.movies.local.indian" source="47693" target="41734">
+	<data key="topic">rec.arts.movies.local.indian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="47693-37227-rec.arts.movies.local.indian" source="47693" target="37227">
+	<data key="topic">rec.arts.movies.local.indian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="101727-52957-rec.arts.movies.local.indian" source="101727" target="52957">
+	<data key="topic">rec.arts.movies.local.indian</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="437653"/>
+<node id="422677"/>
+<node id="2132"/>
+<node id="1233639"/>
+<node id="422804"/>
+<node id="351837"/>
+<node id="697234"/>
+<node id="388250"/>
+<node id="401946"/>
+<node id="15139"/>
+<node id="424368"/>
+<node id="10607"/>
+<node id="783526"/>
+<node id="838500"/>
+<node id="949"/>
+<node id="557376"/>
+<node id="785715"/>
+<node id="3261"/>
+<node id="557877"/>
+<node id="611829"/>
+<node id="1571274"/>
+<node id="786829"/>
+<node id="557385"/>
+<node id="29827"/>
+<node id="719945"/>
+<node id="698574"/>
+<node id="557377"/>
+<node id="542722"/>
+<node id="17421"/>
+<node id="499659"/>
+<node id="786563"/>
+<edge id="422677-2132-comp.unix.microport" source="422677" target="2132">
+	<data key="topic">comp.unix.microport</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="422804-2132-comp.unix.microport" source="422804" target="2132">
+	<data key="topic">comp.unix.microport</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="422804-351837-comp.unix.microport" source="422804" target="351837">
+	<data key="topic">comp.unix.microport</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="422804-557877-comp.unix.microport" source="422804" target="557877">
+	<data key="topic">comp.unix.microport</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="422804-698574-comp.unix.microport" source="422804" target="698574">
+	<data key="topic">comp.unix.microport</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="351837-422804-comp.unix.microport" source="351837" target="422804">
+	<data key="topic">comp.unix.microport</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="351837-557877-comp.unix.microport" source="351837" target="557877">
+	<data key="topic">comp.unix.microport</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="351837-29827-comp.unix.microport" source="351837" target="29827">
+	<data key="topic">comp.unix.microport</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="697234-698574-comp.unix.microport" source="697234" target="698574">
+	<data key="topic">comp.unix.microport</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="388250-17421-comp.unix.microport" source="388250" target="17421">
+	<data key="topic">comp.unix.microport</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15139-422804-comp.unix.microport" source="15139" target="422804">
+	<data key="topic">comp.unix.microport</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15139-351837-comp.unix.microport" source="15139" target="351837">
+	<data key="topic">comp.unix.microport</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="15139-786829-comp.unix.microport" source="15139" target="786829">
+	<data key="topic">comp.unix.microport</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="424368-437653-comp.unix.microport" source="424368" target="437653">
+	<data key="topic">comp.unix.microport</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="783526-401946-comp.unix.microport" source="783526" target="401946">
+	<data key="topic">comp.unix.microport</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="838500-785715-comp.unix.microport" source="838500" target="785715">
+	<data key="topic">comp.unix.microport</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="949-422804-comp.unix.microport" source="949" target="422804">
+	<data key="topic">comp.unix.microport</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="949-351837-comp.unix.microport" source="949" target="351837">
+	<data key="topic">comp.unix.microport</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="949-15139-comp.unix.microport" source="949" target="15139">
+	<data key="topic">comp.unix.microport</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="949-786829-comp.unix.microport" source="949" target="786829">
+	<data key="topic">comp.unix.microport</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3261-437653-comp.unix.microport" source="3261" target="437653">
+	<data key="topic">comp.unix.microport</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3261-10607-comp.unix.microport" source="3261" target="10607">
+	<data key="topic">comp.unix.microport</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="557877-422804-comp.unix.microport" source="557877" target="422804">
+	<data key="topic">comp.unix.microport</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="557877-351837-comp.unix.microport" source="557877" target="351837">
+	<data key="topic">comp.unix.microport</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="611829-557385-comp.unix.microport" source="611829" target="557385">
+	<data key="topic">comp.unix.microport</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="1571274-388250-comp.unix.microport" source="1571274" target="388250">
+	<data key="topic">comp.unix.microport</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1571274-17421-comp.unix.microport" source="1571274" target="17421">
+	<data key="topic">comp.unix.microport</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="786829-422804-comp.unix.microport" source="786829" target="422804">
+	<data key="topic">comp.unix.microport</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="786829-351837-comp.unix.microport" source="786829" target="351837">
+	<data key="topic">comp.unix.microport</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="557385-611829-comp.unix.microport" source="557385" target="611829">
+	<data key="topic">comp.unix.microport</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="719945-557385-comp.unix.microport" source="719945" target="557385">
+	<data key="topic">comp.unix.microport</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="557377-557376-comp.unix.microport" source="557377" target="557376">
+	<data key="topic">comp.unix.microport</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17421-2132-comp.unix.microport" source="17421" target="2132">
+	<data key="topic">comp.unix.microport</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="499659-557376-comp.unix.microport" source="499659" target="557376">
+	<data key="topic">comp.unix.microport</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="786563-1233639-comp.unix.microport" source="786563" target="1233639">
+	<data key="topic">comp.unix.microport</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="786563-422804-comp.unix.microport" source="786563" target="422804">
+	<data key="topic">comp.unix.microport</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="786563-351837-comp.unix.microport" source="786563" target="351837">
+	<data key="topic">comp.unix.microport</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="786563-557877-comp.unix.microport" source="786563" target="557877">
+	<data key="topic">comp.unix.microport</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="786563-542722-comp.unix.microport" source="786563" target="542722">
+	<data key="topic">comp.unix.microport</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

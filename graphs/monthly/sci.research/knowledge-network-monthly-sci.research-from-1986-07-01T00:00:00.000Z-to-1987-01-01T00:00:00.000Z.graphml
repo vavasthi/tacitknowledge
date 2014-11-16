@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="15667"/>
+<node id="19347"/>
+<node id="925755"/>
+<node id="337361"/>
+<node id="470163"/>
+<node id="391709"/>
+<node id="919350"/>
+<node id="396827"/>
+<node id="450204"/>
+<node id="338364"/>
+<node id="603319"/>
+<node id="918738"/>
+<node id="926413"/>
+<node id="338535"/>
+<node id="934572"/>
+<node id="476490"/>
+<edge id="15667-450204-sci.research" source="15667" target="450204">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15667-603319-sci.research" source="15667" target="603319">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15667-926413-sci.research" source="15667" target="926413">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19347-15667-sci.research" source="19347" target="15667">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19347-603319-sci.research" source="19347" target="603319">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19347-926413-sci.research" source="19347" target="926413">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19347-338535-sci.research" source="19347" target="338535">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="925755-391709-sci.research" source="925755" target="391709">
+	<data key="topic">sci.research</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="925755-396827-sci.research" source="925755" target="396827">
+	<data key="topic">sci.research</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="337361-15667-sci.research" source="337361" target="15667">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337361-603319-sci.research" source="337361" target="603319">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="470163-15667-sci.research" source="470163" target="15667">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="470163-603319-sci.research" source="470163" target="603319">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="470163-926413-sci.research" source="470163" target="926413">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="470163-476490-sci.research" source="470163" target="476490">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391709-396827-sci.research" source="391709" target="396827">
+	<data key="topic">sci.research</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="919350-603319-sci.research" source="919350" target="603319">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="396827-925755-sci.research" source="396827" target="925755">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="396827-391709-sci.research" source="396827" target="391709">
+	<data key="topic">sci.research</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="450204-15667-sci.research" source="450204" target="15667">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="450204-603319-sci.research" source="450204" target="603319">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="450204-926413-sci.research" source="450204" target="926413">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338364-396827-sci.research" source="338364" target="396827">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="918738-15667-sci.research" source="918738" target="15667">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="918738-337361-sci.research" source="918738" target="337361">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="918738-603319-sci.research" source="918738" target="603319">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="926413-15667-sci.research" source="926413" target="15667">
+	<data key="topic">sci.research</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="926413-603319-sci.research" source="926413" target="603319">
+	<data key="topic">sci.research</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="926413-934572-sci.research" source="926413" target="934572">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338535-15667-sci.research" source="338535" target="15667">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338535-603319-sci.research" source="338535" target="603319">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338535-926413-sci.research" source="338535" target="926413">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="476490-15667-sci.research" source="476490" target="15667">
+	<data key="topic">sci.research</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="476490-603319-sci.research" source="476490" target="603319">
+	<data key="topic">sci.research</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="476490-926413-sci.research" source="476490" target="926413">
+	<data key="topic">sci.research</data>
+	<data key="weight">2</data>
+</edge>
+</graph>
+</graphml>

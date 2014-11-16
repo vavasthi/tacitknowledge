@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="16106"/>
+<node id="15595"/>
+<node id="18365"/>
+<node id="29006"/>
+<node id="16911"/>
+<node id="509018"/>
+<node id="403130"/>
+<edge id="16106-29006-ont.jobs" source="16106" target="29006">
+	<data key="topic">ont.jobs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18365-15595-ont.jobs" source="18365" target="15595">
+	<data key="topic">ont.jobs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18365-509018-ont.jobs" source="18365" target="509018">
+	<data key="topic">ont.jobs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18365-403130-ont.jobs" source="18365" target="403130">
+	<data key="topic">ont.jobs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16911-15595-ont.jobs" source="16911" target="15595">
+	<data key="topic">ont.jobs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16911-509018-ont.jobs" source="16911" target="509018">
+	<data key="topic">ont.jobs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509018-15595-ont.jobs" source="509018" target="15595">
+	<data key="topic">ont.jobs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="403130-15595-ont.jobs" source="403130" target="15595">
+	<data key="topic">ont.jobs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="403130-509018-ont.jobs" source="403130" target="509018">
+	<data key="topic">ont.jobs</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

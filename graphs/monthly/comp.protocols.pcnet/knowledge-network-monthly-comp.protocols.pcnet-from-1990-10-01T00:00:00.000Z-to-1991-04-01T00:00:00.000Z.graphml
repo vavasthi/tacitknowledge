@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="386389"/>
+<node id="403965"/>
+<node id="856465"/>
+<node id="867380"/>
+<node id="1556727"/>
+<node id="1891"/>
+<node id="2277"/>
+<node id="365729"/>
+<node id="11336"/>
+<node id="442127"/>
+<node id="351053"/>
+<node id="558019"/>
+<node id="10764"/>
+<node id="441646"/>
+<edge id="386389-1891-comp.protocols.pcnet" source="386389" target="1891">
+	<data key="topic">comp.protocols.pcnet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="386389-558019-comp.protocols.pcnet" source="386389" target="558019">
+	<data key="topic">comp.protocols.pcnet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="403965-856465-comp.protocols.pcnet" source="403965" target="856465">
+	<data key="topic">comp.protocols.pcnet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1556727-558019-comp.protocols.pcnet" source="1556727" target="558019">
+	<data key="topic">comp.protocols.pcnet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1891-386389-comp.protocols.pcnet" source="1891" target="386389">
+	<data key="topic">comp.protocols.pcnet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1891-558019-comp.protocols.pcnet" source="1891" target="558019">
+	<data key="topic">comp.protocols.pcnet</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2277-1556727-comp.protocols.pcnet" source="2277" target="1556727">
+	<data key="topic">comp.protocols.pcnet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2277-558019-comp.protocols.pcnet" source="2277" target="558019">
+	<data key="topic">comp.protocols.pcnet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11336-386389-comp.protocols.pcnet" source="11336" target="386389">
+	<data key="topic">comp.protocols.pcnet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11336-1891-comp.protocols.pcnet" source="11336" target="1891">
+	<data key="topic">comp.protocols.pcnet</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="11336-558019-comp.protocols.pcnet" source="11336" target="558019">
+	<data key="topic">comp.protocols.pcnet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="442127-867380-comp.protocols.pcnet" source="442127" target="867380">
+	<data key="topic">comp.protocols.pcnet</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="351053-386389-comp.protocols.pcnet" source="351053" target="386389">
+	<data key="topic">comp.protocols.pcnet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="351053-1891-comp.protocols.pcnet" source="351053" target="1891">
+	<data key="topic">comp.protocols.pcnet</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="351053-558019-comp.protocols.pcnet" source="351053" target="558019">
+	<data key="topic">comp.protocols.pcnet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10764-867380-comp.protocols.pcnet" source="10764" target="867380">
+	<data key="topic">comp.protocols.pcnet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="441646-365729-comp.protocols.pcnet" source="441646" target="365729">
+	<data key="topic">comp.protocols.pcnet</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

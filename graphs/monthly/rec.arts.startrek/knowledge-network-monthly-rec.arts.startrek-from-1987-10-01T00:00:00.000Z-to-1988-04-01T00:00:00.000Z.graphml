@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="15203"/>
+<node id="494038"/>
+<node id="669183"/>
+<node id="593197"/>
+<node id="722830"/>
+<node id="669185"/>
+<node id="722856"/>
+<edge id="15203-669185-rec.arts.startrek" source="15203" target="669185">
+	<data key="topic">rec.arts.startrek</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="669183-15203-rec.arts.startrek" source="669183" target="15203">
+	<data key="topic">rec.arts.startrek</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="669183-669185-rec.arts.startrek" source="669183" target="669185">
+	<data key="topic">rec.arts.startrek</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="593197-494038-rec.arts.startrek" source="593197" target="494038">
+	<data key="topic">rec.arts.startrek</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="722856-722830-rec.arts.startrek" source="722856" target="722830">
+	<data key="topic">rec.arts.startrek</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

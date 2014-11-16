@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="459190"/>
+<node id="564287"/>
+<node id="472400"/>
+<node id="341245"/>
+<node id="522766"/>
+<node id="525539"/>
+<node id="526260"/>
+<node id="340026"/>
+<node id="626583"/>
+<node id="522665"/>
+<node id="561976"/>
+<edge id="459190-626583-net.micro.hp" source="459190" target="626583">
+	<data key="topic">net.micro.hp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="472400-522665-net.micro.hp" source="472400" target="522665">
+	<data key="topic">net.micro.hp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341245-564287-net.micro.hp" source="341245" target="564287">
+	<data key="topic">net.micro.hp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522766-564287-net.micro.hp" source="522766" target="564287">
+	<data key="topic">net.micro.hp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="526260-525539-net.micro.hp" source="526260" target="525539">
+	<data key="topic">net.micro.hp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340026-522766-net.micro.hp" source="340026" target="522766">
+	<data key="topic">net.micro.hp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="561976-522766-net.micro.hp" source="561976" target="522766">
+	<data key="topic">net.micro.hp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="561976-340026-net.micro.hp" source="561976" target="340026">
+	<data key="topic">net.micro.hp</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

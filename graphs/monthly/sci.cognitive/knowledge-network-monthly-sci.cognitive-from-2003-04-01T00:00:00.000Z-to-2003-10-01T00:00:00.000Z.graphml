@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="37011"/>
+<node id="132242"/>
+<node id="139410"/>
+<node id="141975"/>
+<node id="43223"/>
+<node id="112474"/>
+<node id="43484"/>
+<node id="41245"/>
+<node id="42461"/>
+<node id="50527"/>
+<node id="76834"/>
+<node id="40802"/>
+<node id="43429"/>
+<node id="52325"/>
+<node id="113254"/>
+<node id="62886"/>
+<node id="37159"/>
+<node id="143973"/>
+<node id="37227"/>
+<node id="43820"/>
+<node id="88941"/>
+<node id="45295"/>
+<node id="111023"/>
+<node id="37424"/>
+<node id="46002"/>
+<node id="43059"/>
+<node id="41594"/>
+<node id="51962"/>
+<node id="38593"/>
+<node id="42242"/>
+<node id="38659"/>
+<node id="43588"/>
+<node id="149634"/>
+<node id="54854"/>
+<node id="41734"/>
+<node id="43975"/>
+<node id="41224"/>
+<node id="144780"/>
+<node id="48335"/>
+<node id="45712"/>
+<node id="146126"/>
+<edge id="37011-43223-sci.cognitive" source="37011" target="43223">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37011-40802-sci.cognitive" source="37011" target="40802">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">11</data>
+</edge>
+<edge id="37011-43820-sci.cognitive" source="37011" target="43820">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">24</data>
+</edge>
+<edge id="37011-38593-sci.cognitive" source="37011" target="38593">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">22</data>
+</edge>
+<edge id="37011-42242-sci.cognitive" source="37011" target="42242">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">14</data>
+</edge>
+<edge id="37011-54854-sci.cognitive" source="37011" target="54854">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">10</data>
+</edge>
+<edge id="37011-41224-sci.cognitive" source="37011" target="41224">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">94</data>
+</edge>
+<edge id="37011-48335-sci.cognitive" source="37011" target="48335">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="132242-141975-sci.cognitive" source="132242" target="141975">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="132242-143973-sci.cognitive" source="132242" target="143973">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="139410-43429-sci.cognitive" source="139410" target="43429">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="139410-143973-sci.cognitive" source="139410" target="143973">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="139410-146126-sci.cognitive" source="139410" target="146126">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="43223-37011-sci.cognitive" source="43223" target="37011">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="43223-43820-sci.cognitive" source="43223" target="43820">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">8</data>
+</edge>
+<edge id="43223-42242-sci.cognitive" source="43223" target="42242">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="43223-43975-sci.cognitive" source="43223" target="43975">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="43223-41224-sci.cognitive" source="43223" target="41224">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">11</data>
+</edge>
+<edge id="43223-48335-sci.cognitive" source="43223" target="48335">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="112474-143973-sci.cognitive" source="112474" target="143973">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="112474-149634-sci.cognitive" source="112474" target="149634">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="43484-54854-sci.cognitive" source="43484" target="54854">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="43484-41224-sci.cognitive" source="43484" target="41224">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">6</data>
+</edge>
+<edge id="76834-41224-sci.cognitive" source="76834" target="41224">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="40802-37011-sci.cognitive" source="40802" target="37011">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="40802-43820-sci.cognitive" source="40802" target="43820">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="40802-38593-sci.cognitive" source="40802" target="38593">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">25</data>
+</edge>
+<edge id="40802-42242-sci.cognitive" source="40802" target="42242">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="40802-41224-sci.cognitive" source="40802" target="41224">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">31</data>
+</edge>
+<edge id="43429-37011-sci.cognitive" source="43429" target="37011">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="43429-143973-sci.cognitive" source="43429" target="143973">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="43429-43820-sci.cognitive" source="43429" target="43820">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="43429-42242-sci.cognitive" source="43429" target="42242">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="43429-41224-sci.cognitive" source="43429" target="41224">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="52325-37011-sci.cognitive" source="52325" target="37011">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="52325-43820-sci.cognitive" source="52325" target="43820">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="52325-42242-sci.cognitive" source="52325" target="42242">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="52325-41224-sci.cognitive" source="52325" target="41224">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="113254-143973-sci.cognitive" source="113254" target="143973">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="62886-40802-sci.cognitive" source="62886" target="40802">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="62886-43820-sci.cognitive" source="62886" target="43820">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="62886-37424-sci.cognitive" source="62886" target="37424">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="62886-38593-sci.cognitive" source="62886" target="38593">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="62886-42242-sci.cognitive" source="62886" target="42242">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="62886-54854-sci.cognitive" source="62886" target="54854">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="62886-41224-sci.cognitive" source="62886" target="41224">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">17</data>
+</edge>
+<edge id="37159-43820-sci.cognitive" source="37159" target="43820">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="37159-46002-sci.cognitive" source="37159" target="46002">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37159-41734-sci.cognitive" source="37159" target="41734">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37159-41224-sci.cognitive" source="37159" target="41224">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="37227-143973-sci.cognitive" source="37227" target="143973">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37227-111023-sci.cognitive" source="37227" target="111023">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37227-41224-sci.cognitive" source="37227" target="41224">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37227-144780-sci.cognitive" source="37227" target="144780">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="43820-37011-sci.cognitive" source="43820" target="37011">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="43820-40802-sci.cognitive" source="43820" target="40802">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">9</data>
+</edge>
+<edge id="43820-46002-sci.cognitive" source="43820" target="46002">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">8</data>
+</edge>
+<edge id="43820-38593-sci.cognitive" source="43820" target="38593">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">11</data>
+</edge>
+<edge id="43820-42242-sci.cognitive" source="43820" target="42242">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">15</data>
+</edge>
+<edge id="43820-54854-sci.cognitive" source="43820" target="54854">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">8</data>
+</edge>
+<edge id="43820-41734-sci.cognitive" source="43820" target="41734">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">8</data>
+</edge>
+<edge id="43820-41224-sci.cognitive" source="43820" target="41224">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">75</data>
+</edge>
+<edge id="88941-143973-sci.cognitive" source="88941" target="143973">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="88941-42242-sci.cognitive" source="88941" target="42242">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="88941-43975-sci.cognitive" source="88941" target="43975">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="45295-41224-sci.cognitive" source="45295" target="41224">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="111023-143973-sci.cognitive" source="111023" target="143973">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="111023-37227-sci.cognitive" source="111023" target="37227">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="111023-144780-sci.cognitive" source="111023" target="144780">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="111023-45712-sci.cognitive" source="111023" target="45712">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37424-40802-sci.cognitive" source="37424" target="40802">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37424-43820-sci.cognitive" source="37424" target="43820">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37424-38593-sci.cognitive" source="37424" target="38593">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37424-54854-sci.cognitive" source="37424" target="54854">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37424-41224-sci.cognitive" source="37424" target="41224">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">6</data>
+</edge>
+<edge id="46002-43820-sci.cognitive" source="46002" target="43820">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">13</data>
+</edge>
+<edge id="46002-41734-sci.cognitive" source="46002" target="41734">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">12</data>
+</edge>
+<edge id="46002-41224-sci.cognitive" source="46002" target="41224">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">24</data>
+</edge>
+<edge id="43059-40802-sci.cognitive" source="43059" target="40802">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="43059-42242-sci.cognitive" source="43059" target="42242">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="43059-41224-sci.cognitive" source="43059" target="41224">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="41594-37011-sci.cognitive" source="41594" target="37011">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="41594-43820-sci.cognitive" source="41594" target="43820">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41594-38593-sci.cognitive" source="41594" target="38593">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="41594-42242-sci.cognitive" source="41594" target="42242">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="41594-41224-sci.cognitive" source="41594" target="41224">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">10</data>
+</edge>
+<edge id="51962-41224-sci.cognitive" source="51962" target="41224">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="38593-37011-sci.cognitive" source="38593" target="37011">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">23</data>
+</edge>
+<edge id="38593-40802-sci.cognitive" source="38593" target="40802">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">14</data>
+</edge>
+<edge id="38593-43820-sci.cognitive" source="38593" target="43820">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">29</data>
+</edge>
+<edge id="38593-45295-sci.cognitive" source="38593" target="45295">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="38593-42242-sci.cognitive" source="38593" target="42242">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">7</data>
+</edge>
+<edge id="38593-43588-sci.cognitive" source="38593" target="43588">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="38593-54854-sci.cognitive" source="38593" target="54854">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">9</data>
+</edge>
+<edge id="38593-41224-sci.cognitive" source="38593" target="41224">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">131</data>
+</edge>
+<edge id="42242-37011-sci.cognitive" source="42242" target="37011">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">8</data>
+</edge>
+<edge id="42242-40802-sci.cognitive" source="42242" target="40802">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">7</data>
+</edge>
+<edge id="42242-62886-sci.cognitive" source="42242" target="62886">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="42242-143973-sci.cognitive" source="42242" target="143973">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="42242-43820-sci.cognitive" source="42242" target="43820">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">17</data>
+</edge>
+<edge id="42242-37424-sci.cognitive" source="42242" target="37424">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="42242-46002-sci.cognitive" source="42242" target="46002">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="42242-41594-sci.cognitive" source="42242" target="41594">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="42242-38593-sci.cognitive" source="42242" target="38593">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">14</data>
+</edge>
+<edge id="42242-54854-sci.cognitive" source="42242" target="54854">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">8</data>
+</edge>
+<edge id="42242-41734-sci.cognitive" source="42242" target="41734">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="42242-43975-sci.cognitive" source="42242" target="43975">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="42242-41224-sci.cognitive" source="42242" target="41224">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">66</data>
+</edge>
+<edge id="38659-40802-sci.cognitive" source="38659" target="40802">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="38659-43820-sci.cognitive" source="38659" target="43820">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="38659-42242-sci.cognitive" source="38659" target="42242">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="38659-41224-sci.cognitive" source="38659" target="41224">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="38659-48335-sci.cognitive" source="38659" target="48335">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="43588-37011-sci.cognitive" source="43588" target="37011">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="43588-43820-sci.cognitive" source="43588" target="43820">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="43588-38593-sci.cognitive" source="43588" target="38593">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="43588-41224-sci.cognitive" source="43588" target="41224">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="54854-37011-sci.cognitive" source="54854" target="37011">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="54854-40802-sci.cognitive" source="54854" target="40802">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">7</data>
+</edge>
+<edge id="54854-43820-sci.cognitive" source="54854" target="43820">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">6</data>
+</edge>
+<edge id="54854-45295-sci.cognitive" source="54854" target="45295">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="54854-38593-sci.cognitive" source="54854" target="38593">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">10</data>
+</edge>
+<edge id="54854-42242-sci.cognitive" source="54854" target="42242">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">7</data>
+</edge>
+<edge id="54854-41224-sci.cognitive" source="54854" target="41224">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">47</data>
+</edge>
+<edge id="41734-37227-sci.cognitive" source="41734" target="37227">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41734-43820-sci.cognitive" source="41734" target="43820">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="41734-46002-sci.cognitive" source="41734" target="46002">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="41734-41224-sci.cognitive" source="41734" target="41224">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="43975-37011-sci.cognitive" source="43975" target="37011">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="43975-143973-sci.cognitive" source="43975" target="143973">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="43975-43820-sci.cognitive" source="43975" target="43820">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="43975-88941-sci.cognitive" source="43975" target="88941">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="43975-38593-sci.cognitive" source="43975" target="38593">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="43975-42242-sci.cognitive" source="43975" target="42242">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">10</data>
+</edge>
+<edge id="43975-41224-sci.cognitive" source="43975" target="41224">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">8</data>
+</edge>
+<edge id="43975-48335-sci.cognitive" source="43975" target="48335">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41224-37011-sci.cognitive" source="41224" target="37011">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">52</data>
+</edge>
+<edge id="41224-43223-sci.cognitive" source="41224" target="43223">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41224-41245-sci.cognitive" source="41224" target="41245">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41224-42461-sci.cognitive" source="41224" target="42461">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41224-50527-sci.cognitive" source="41224" target="50527">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41224-76834-sci.cognitive" source="41224" target="76834">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41224-40802-sci.cognitive" source="41224" target="40802">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">79</data>
+</edge>
+<edge id="41224-43429-sci.cognitive" source="41224" target="43429">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41224-37227-sci.cognitive" source="41224" target="37227">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41224-43820-sci.cognitive" source="41224" target="43820">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">89</data>
+</edge>
+<edge id="41224-46002-sci.cognitive" source="41224" target="46002">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">25</data>
+</edge>
+<edge id="41224-43059-sci.cognitive" source="41224" target="43059">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41224-41594-sci.cognitive" source="41224" target="41594">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="41224-38593-sci.cognitive" source="41224" target="38593">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">118</data>
+</edge>
+<edge id="41224-42242-sci.cognitive" source="41224" target="42242">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">50</data>
+</edge>
+<edge id="41224-38659-sci.cognitive" source="41224" target="38659">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41224-43588-sci.cognitive" source="41224" target="43588">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41224-54854-sci.cognitive" source="41224" target="54854">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">33</data>
+</edge>
+<edge id="41224-41734-sci.cognitive" source="41224" target="41734">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">20</data>
+</edge>
+<edge id="41224-43975-sci.cognitive" source="41224" target="43975">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41224-48335-sci.cognitive" source="41224" target="48335">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">7</data>
+</edge>
+<edge id="48335-40802-sci.cognitive" source="48335" target="40802">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="48335-43820-sci.cognitive" source="48335" target="43820">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="48335-38593-sci.cognitive" source="48335" target="38593">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="48335-42242-sci.cognitive" source="48335" target="42242">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="48335-41224-sci.cognitive" source="48335" target="41224">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">15</data>
+</edge>
+<edge id="45712-143973-sci.cognitive" source="45712" target="143973">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="45712-111023-sci.cognitive" source="45712" target="111023">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="45712-149634-sci.cognitive" source="45712" target="149634">
+	<data key="topic">sci.cognitive</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

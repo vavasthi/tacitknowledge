@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="876253"/>
+<node id="15122"/>
+<node id="1895659"/>
+<node id="1423086"/>
+<node id="361632"/>
+<node id="400220"/>
+<node id="438246"/>
+<node id="353892"/>
+<node id="374768"/>
+<node id="363307"/>
+<node id="375029"/>
+<node id="362103"/>
+<node id="2040"/>
+<node id="348211"/>
+<node id="2812"/>
+<node id="1895681"/>
+<node id="12862"/>
+<node id="351356"/>
+<node id="128"/>
+<node id="15105"/>
+<node id="8450"/>
+<node id="400200"/>
+<node id="362120"/>
+<node id="400195"/>
+<node id="347971"/>
+<node id="12425"/>
+<node id="1999"/>
+<edge id="15122-876253-talk.politics.misc" source="15122" target="876253">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15122-1895659-talk.politics.misc" source="15122" target="1895659">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1895659-876253-talk.politics.misc" source="1895659" target="876253">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1895659-15122-talk.politics.misc" source="1895659" target="15122">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1895659-1999-talk.politics.misc" source="1895659" target="1999">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1423086-876253-talk.politics.misc" source="1423086" target="876253">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1423086-1895681-talk.politics.misc" source="1423086" target="1895681">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="400220-876253-talk.politics.misc" source="400220" target="876253">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="400220-438246-talk.politics.misc" source="400220" target="438246">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="400220-375029-talk.politics.misc" source="400220" target="375029">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="400220-348211-talk.politics.misc" source="400220" target="348211">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="400220-400200-talk.politics.misc" source="400220" target="400200">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="400220-400195-talk.politics.misc" source="400220" target="400195">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="438246-876253-talk.politics.misc" source="438246" target="876253">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="438246-348211-talk.politics.misc" source="438246" target="348211">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="374768-438246-talk.politics.misc" source="374768" target="438246">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="374768-348211-talk.politics.misc" source="374768" target="348211">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="375029-876253-talk.politics.misc" source="375029" target="876253">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="375029-15122-talk.politics.misc" source="375029" target="15122">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="375029-1895659-talk.politics.misc" source="375029" target="1895659">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="375029-438246-talk.politics.misc" source="375029" target="438246">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="375029-348211-talk.politics.misc" source="375029" target="348211">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="375029-128-talk.politics.misc" source="375029" target="128">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="375029-400200-talk.politics.misc" source="375029" target="400200">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="375029-400195-talk.politics.misc" source="375029" target="400195">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="375029-1999-talk.politics.misc" source="375029" target="1999">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="362103-876253-talk.politics.misc" source="362103" target="876253">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348211-876253-talk.politics.misc" source="348211" target="876253">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2812-353892-talk.politics.misc" source="2812" target="353892">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2812-128-talk.politics.misc" source="2812" target="128">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2812-15105-talk.politics.misc" source="2812" target="15105">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1895681-876253-talk.politics.misc" source="1895681" target="876253">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1895681-1895659-talk.politics.misc" source="1895681" target="1895659">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12862-876253-talk.politics.misc" source="12862" target="876253">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12862-1423086-talk.politics.misc" source="12862" target="1423086">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12862-1895681-talk.politics.misc" source="12862" target="1895681">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="351356-876253-talk.politics.misc" source="351356" target="876253">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="351356-438246-talk.politics.misc" source="351356" target="438246">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="351356-375029-talk.politics.misc" source="351356" target="375029">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="351356-348211-talk.politics.misc" source="351356" target="348211">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="351356-400200-talk.politics.misc" source="351356" target="400200">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="351356-400195-talk.politics.misc" source="351356" target="400195">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="8450-363307-talk.politics.misc" source="8450" target="363307">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="8450-2040-talk.politics.misc" source="8450" target="2040">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="400200-876253-talk.politics.misc" source="400200" target="876253">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="400200-438246-talk.politics.misc" source="400200" target="438246">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="400200-348211-talk.politics.misc" source="400200" target="348211">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362120-876253-talk.politics.misc" source="362120" target="876253">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362120-438246-talk.politics.misc" source="362120" target="438246">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362120-375029-talk.politics.misc" source="362120" target="375029">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362120-348211-talk.politics.misc" source="362120" target="348211">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362120-400200-talk.politics.misc" source="362120" target="400200">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362120-400195-talk.politics.misc" source="362120" target="400195">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347971-876253-talk.politics.misc" source="347971" target="876253">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="347971-438246-talk.politics.misc" source="347971" target="438246">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="347971-375029-talk.politics.misc" source="347971" target="375029">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="347971-348211-talk.politics.misc" source="347971" target="348211">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="347971-400200-talk.politics.misc" source="347971" target="400200">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="347971-400195-talk.politics.misc" source="347971" target="400195">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="12425-876253-talk.politics.misc" source="12425" target="876253">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12425-15122-talk.politics.misc" source="12425" target="15122">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12425-1895659-talk.politics.misc" source="12425" target="1895659">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="12425-361632-talk.politics.misc" source="12425" target="361632">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12425-375029-talk.politics.misc" source="12425" target="375029">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12425-128-talk.politics.misc" source="12425" target="128">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12425-1999-talk.politics.misc" source="12425" target="1999">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1999-876253-talk.politics.misc" source="1999" target="876253">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1999-15122-talk.politics.misc" source="1999" target="15122">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1999-1895659-talk.politics.misc" source="1999" target="1895659">
+	<data key="topic">talk.politics.misc</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

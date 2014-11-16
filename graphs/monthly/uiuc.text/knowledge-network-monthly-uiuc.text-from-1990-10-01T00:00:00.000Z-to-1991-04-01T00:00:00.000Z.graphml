@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1039983"/>
+<node id="1158033"/>
+<node id="1078387"/>
+<node id="967"/>
+<node id="2575"/>
+<edge id="1039983-1158033-uiuc.text" source="1039983" target="1158033">
+	<data key="topic">uiuc.text</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1039983-967-uiuc.text" source="1039983" target="967">
+	<data key="topic">uiuc.text</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1039983-2575-uiuc.text" source="1039983" target="2575">
+	<data key="topic">uiuc.text</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1158033-967-uiuc.text" source="1158033" target="967">
+	<data key="topic">uiuc.text</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1158033-2575-uiuc.text" source="1158033" target="2575">
+	<data key="topic">uiuc.text</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1078387-967-uiuc.text" source="1078387" target="967">
+	<data key="topic">uiuc.text</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1078387-2575-uiuc.text" source="1078387" target="2575">
+	<data key="topic">uiuc.text</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2575-967-uiuc.text" source="2575" target="967">
+	<data key="topic">uiuc.text</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

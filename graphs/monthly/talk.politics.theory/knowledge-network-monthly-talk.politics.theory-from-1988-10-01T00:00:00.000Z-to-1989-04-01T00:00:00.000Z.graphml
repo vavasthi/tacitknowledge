@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1209320"/>
+<node id="16903"/>
+<node id="23946"/>
+<node id="15198"/>
+<node id="29006"/>
+<node id="486121"/>
+<edge id="1209320-16903-talk.politics.theory" source="1209320" target="16903">
+	<data key="topic">talk.politics.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1209320-29006-talk.politics.theory" source="1209320" target="29006">
+	<data key="topic">talk.politics.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1209320-486121-talk.politics.theory" source="1209320" target="486121">
+	<data key="topic">talk.politics.theory</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15198-23946-talk.politics.theory" source="15198" target="23946">
+	<data key="topic">talk.politics.theory</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

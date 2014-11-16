@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="38209"/>
+<node id="43939"/>
+<node id="43588"/>
+<node id="103224"/>
+<node id="38983"/>
+<node id="59191"/>
+<node id="63193"/>
+<node id="37227"/>
+<edge id="38209-103224-misc.creativity" source="38209" target="103224">
+	<data key="topic">misc.creativity</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="43939-103224-misc.creativity" source="43939" target="103224">
+	<data key="topic">misc.creativity</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="43588-103224-misc.creativity" source="43588" target="103224">
+	<data key="topic">misc.creativity</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="38983-103224-misc.creativity" source="38983" target="103224">
+	<data key="topic">misc.creativity</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="59191-103224-misc.creativity" source="59191" target="103224">
+	<data key="topic">misc.creativity</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="63193-103224-misc.creativity" source="63193" target="103224">
+	<data key="topic">misc.creativity</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="63193-37227-misc.creativity" source="63193" target="37227">
+	<data key="topic">misc.creativity</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37227-103224-misc.creativity" source="37227" target="103224">
+	<data key="topic">misc.creativity</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

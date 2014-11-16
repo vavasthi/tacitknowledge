@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="669755"/>
+<node id="535930"/>
+<node id="375736"/>
+<node id="1981800"/>
+<node id="2522221"/>
+<node id="500220"/>
+<node id="17024"/>
+<edge id="669755-17024-rec.games.chess" source="669755" target="17024">
+	<data key="topic">rec.games.chess</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="535930-669755-rec.games.chess" source="535930" target="669755">
+	<data key="topic">rec.games.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="535930-2522221-rec.games.chess" source="535930" target="2522221">
+	<data key="topic">rec.games.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="535930-17024-rec.games.chess" source="535930" target="17024">
+	<data key="topic">rec.games.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="375736-669755-rec.games.chess" source="375736" target="669755">
+	<data key="topic">rec.games.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="375736-17024-rec.games.chess" source="375736" target="17024">
+	<data key="topic">rec.games.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1981800-17024-rec.games.chess" source="1981800" target="17024">
+	<data key="topic">rec.games.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2522221-669755-rec.games.chess" source="2522221" target="669755">
+	<data key="topic">rec.games.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2522221-17024-rec.games.chess" source="2522221" target="17024">
+	<data key="topic">rec.games.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17024-500220-rec.games.chess" source="17024" target="500220">
+	<data key="topic">rec.games.chess</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

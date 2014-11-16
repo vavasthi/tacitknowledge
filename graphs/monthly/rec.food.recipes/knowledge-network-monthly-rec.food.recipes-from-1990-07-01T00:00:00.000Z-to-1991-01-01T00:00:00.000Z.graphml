@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="12289"/>
+<node id="446327"/>
+<node id="1527862"/>
+<node id="993565"/>
+<node id="1423426"/>
+<node id="446308"/>
+<node id="446305"/>
+<node id="446318"/>
+<node id="996181"/>
+<node id="1224895"/>
+<edge id="1527862-1423426-rec.food.recipes" source="1527862" target="1423426">
+	<data key="topic">rec.food.recipes</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="993565-446327-rec.food.recipes" source="993565" target="446327">
+	<data key="topic">rec.food.recipes</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="446318-12289-rec.food.recipes" source="446318" target="12289">
+	<data key="topic">rec.food.recipes</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="996181-446308-rec.food.recipes" source="996181" target="446308">
+	<data key="topic">rec.food.recipes</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1224895-446305-rec.food.recipes" source="1224895" target="446305">
+	<data key="topic">rec.food.recipes</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

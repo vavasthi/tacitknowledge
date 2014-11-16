@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="642778"/>
+<node id="1879214"/>
+<node id="2004"/>
+<node id="1003099"/>
+<node id="584928"/>
+<node id="457246"/>
+<node id="2652"/>
+<node id="1939553"/>
+<node id="2150"/>
+<node id="365092"/>
+<node id="1003110"/>
+<node id="388266"/>
+<node id="622054"/>
+<node id="1003107"/>
+<node id="619109"/>
+<node id="551398"/>
+<node id="509366"/>
+<node id="1226754"/>
+<node id="621563"/>
+<node id="11829"/>
+<node id="2040"/>
+<node id="644209"/>
+<node id="696565"/>
+<node id="709045"/>
+<node id="613258"/>
+<node id="30338"/>
+<node id="1351926"/>
+<node id="608649"/>
+<node id="434053"/>
+<node id="2023486"/>
+<node id="513156"/>
+<node id="414850"/>
+<node id="696513"/>
+<node id="608644"/>
+<node id="1388352"/>
+<node id="608643"/>
+<node id="696645"/>
+<node id="677637"/>
+<node id="608583"/>
+<edge id="642778-644209-gnu.emacs.bug" source="642778" target="644209">
+	<data key="topic">gnu.emacs.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2004-696513-gnu.emacs.bug" source="2004" target="696513">
+	<data key="topic">gnu.emacs.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="584928-608644-gnu.emacs.bug" source="584928" target="608644">
+	<data key="topic">gnu.emacs.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2652-1226754-gnu.emacs.bug" source="2652" target="1226754">
+	<data key="topic">gnu.emacs.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2150-457246-gnu.emacs.bug" source="2150" target="457246">
+	<data key="topic">gnu.emacs.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="388266-1879214-gnu.emacs.bug" source="388266" target="1879214">
+	<data key="topic">gnu.emacs.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="388266-1351926-gnu.emacs.bug" source="388266" target="1351926">
+	<data key="topic">gnu.emacs.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="622054-1879214-gnu.emacs.bug" source="622054" target="1879214">
+	<data key="topic">gnu.emacs.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509366-434053-gnu.emacs.bug" source="509366" target="434053">
+	<data key="topic">gnu.emacs.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="621563-1003099-gnu.emacs.bug" source="621563" target="1003099">
+	<data key="topic">gnu.emacs.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11829-608644-gnu.emacs.bug" source="11829" target="608644">
+	<data key="topic">gnu.emacs.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2040-613258-gnu.emacs.bug" source="2040" target="613258">
+	<data key="topic">gnu.emacs.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696565-365092-gnu.emacs.bug" source="696565" target="365092">
+	<data key="topic">gnu.emacs.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="709045-513156-gnu.emacs.bug" source="709045" target="513156">
+	<data key="topic">gnu.emacs.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="613258-1003110-gnu.emacs.bug" source="613258" target="1003110">
+	<data key="topic">gnu.emacs.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30338-1003107-gnu.emacs.bug" source="30338" target="1003107">
+	<data key="topic">gnu.emacs.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1351926-1879214-gnu.emacs.bug" source="1351926" target="1879214">
+	<data key="topic">gnu.emacs.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="608649-584928-gnu.emacs.bug" source="608649" target="584928">
+	<data key="topic">gnu.emacs.bug</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="608649-608644-gnu.emacs.bug" source="608649" target="608644">
+	<data key="topic">gnu.emacs.bug</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="608649-608643-gnu.emacs.bug" source="608649" target="608643">
+	<data key="topic">gnu.emacs.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2023486-584928-gnu.emacs.bug" source="2023486" target="584928">
+	<data key="topic">gnu.emacs.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2023486-608644-gnu.emacs.bug" source="2023486" target="608644">
+	<data key="topic">gnu.emacs.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="414850-696645-gnu.emacs.bug" source="414850" target="696645">
+	<data key="topic">gnu.emacs.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="608644-584928-gnu.emacs.bug" source="608644" target="584928">
+	<data key="topic">gnu.emacs.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="608583-1939553-gnu.emacs.bug" source="608583" target="1939553">
+	<data key="topic">gnu.emacs.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="608583-619109-gnu.emacs.bug" source="608583" target="619109">
+	<data key="topic">gnu.emacs.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="608583-551398-gnu.emacs.bug" source="608583" target="551398">
+	<data key="topic">gnu.emacs.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="608583-1388352-gnu.emacs.bug" source="608583" target="1388352">
+	<data key="topic">gnu.emacs.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="608583-696645-gnu.emacs.bug" source="608583" target="696645">
+	<data key="topic">gnu.emacs.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="608583-677637-gnu.emacs.bug" source="608583" target="677637">
+	<data key="topic">gnu.emacs.bug</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

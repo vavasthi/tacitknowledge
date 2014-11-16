@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="26833"/>
+<node id="307"/>
+<node id="357108"/>
+<node id="314"/>
+<node id="1724929"/>
+<node id="701"/>
+<node id="348348"/>
+<node id="618827"/>
+<node id="347911"/>
+<node id="865199"/>
+<node id="401603"/>
+<node id="1209621"/>
+<node id="1441874"/>
+<node id="405517"/>
+<node id="300"/>
+<node id="413486"/>
+<node id="553255"/>
+<node id="854020"/>
+<node id="417706"/>
+<edge id="307-26833-comp.robotics" source="307" target="26833">
+	<data key="topic">comp.robotics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="357108-1441874-comp.robotics" source="357108" target="1441874">
+	<data key="topic">comp.robotics</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="701-314-comp.robotics" source="701" target="314">
+	<data key="topic">comp.robotics</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="701-300-comp.robotics" source="701" target="300">
+	<data key="topic">comp.robotics</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="348348-1209621-comp.robotics" source="348348" target="1209621">
+	<data key="topic">comp.robotics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="618827-1724929-comp.robotics" source="618827" target="1724929">
+	<data key="topic">comp.robotics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="865199-701-comp.robotics" source="865199" target="701">
+	<data key="topic">comp.robotics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="401603-701-comp.robotics" source="401603" target="701">
+	<data key="topic">comp.robotics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="405517-314-comp.robotics" source="405517" target="314">
+	<data key="topic">comp.robotics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="300-314-comp.robotics" source="300" target="314">
+	<data key="topic">comp.robotics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="300-701-comp.robotics" source="300" target="701">
+	<data key="topic">comp.robotics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="413486-357108-comp.robotics" source="413486" target="357108">
+	<data key="topic">comp.robotics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="553255-701-comp.robotics" source="553255" target="701">
+	<data key="topic">comp.robotics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="854020-347911-comp.robotics" source="854020" target="347911">
+	<data key="topic">comp.robotics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="417706-314-comp.robotics" source="417706" target="314">
+	<data key="topic">comp.robotics</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="417706-701-comp.robotics" source="417706" target="701">
+	<data key="topic">comp.robotics</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

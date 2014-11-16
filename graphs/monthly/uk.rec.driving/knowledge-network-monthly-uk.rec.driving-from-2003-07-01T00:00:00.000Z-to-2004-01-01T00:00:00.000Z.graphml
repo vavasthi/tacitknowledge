@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="289814"/>
+<node id="37011"/>
+<node id="46372"/>
+<node id="289674"/>
+<edge id="289814-289674-uk.rec.driving" source="289814" target="289674">
+	<data key="topic">uk.rec.driving</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37011-289814-uk.rec.driving" source="37011" target="289814">
+	<data key="topic">uk.rec.driving</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37011-46372-uk.rec.driving" source="37011" target="46372">
+	<data key="topic">uk.rec.driving</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="37011-289674-uk.rec.driving" source="37011" target="289674">
+	<data key="topic">uk.rec.driving</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="46372-289814-uk.rec.driving" source="46372" target="289814">
+	<data key="topic">uk.rec.driving</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="46372-37011-uk.rec.driving" source="46372" target="37011">
+	<data key="topic">uk.rec.driving</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="46372-289674-uk.rec.driving" source="46372" target="289674">
+	<data key="topic">uk.rec.driving</data>
+	<data key="weight">2</data>
+</edge>
+</graph>
+</graphml>

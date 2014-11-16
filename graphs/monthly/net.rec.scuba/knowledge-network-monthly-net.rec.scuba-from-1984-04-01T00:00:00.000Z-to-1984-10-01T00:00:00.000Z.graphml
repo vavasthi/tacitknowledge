@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="340024"/>
+<node id="460548"/>
+<node id="521908"/>
+<node id="340291"/>
+<node id="526528"/>
+<node id="1137644"/>
+<node id="563558"/>
+<node id="626200"/>
+<edge id="460548-526528-net.rec.scuba" source="460548" target="526528">
+	<data key="topic">net.rec.scuba</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521908-340024-net.rec.scuba" source="521908" target="340024">
+	<data key="topic">net.rec.scuba</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340291-526528-net.rec.scuba" source="340291" target="526528">
+	<data key="topic">net.rec.scuba</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="563558-340024-net.rec.scuba" source="563558" target="340024">
+	<data key="topic">net.rec.scuba</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="626200-1137644-net.rec.scuba" source="626200" target="1137644">
+	<data key="topic">net.rec.scuba</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

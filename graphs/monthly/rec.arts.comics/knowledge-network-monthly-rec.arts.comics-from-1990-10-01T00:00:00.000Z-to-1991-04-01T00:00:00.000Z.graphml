@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="783709"/>
+<node id="1193"/>
+<node id="1226668"/>
+<node id="1931543"/>
+<node id="1228639"/>
+<node id="385258"/>
+<node id="414588"/>
+<node id="1217936"/>
+<edge id="783709-385258-rec.arts.comics" source="783709" target="385258">
+	<data key="topic">rec.arts.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1193-1228639-rec.arts.comics" source="1193" target="1228639">
+	<data key="topic">rec.arts.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1226668-385258-rec.arts.comics" source="1226668" target="385258">
+	<data key="topic">rec.arts.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1931543-385258-rec.arts.comics" source="1931543" target="385258">
+	<data key="topic">rec.arts.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="414588-1217936-rec.arts.comics" source="414588" target="1217936">
+	<data key="topic">rec.arts.comics</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

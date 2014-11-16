@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="732780"/>
+<node id="19730"/>
+<node id="339346"/>
+<node id="460369"/>
+<node id="465089"/>
+<node id="340675"/>
+<node id="339950"/>
+<node id="464334"/>
+<node id="920373"/>
+<node id="339967"/>
+<node id="464971"/>
+<node id="338171"/>
+<edge id="732780-339967-net.poems" source="732780" target="339967">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339346-460369-net.poems" source="339346" target="460369">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="465089-340675-net.poems" source="465089" target="340675">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="464334-19730-net.poems" source="464334" target="19730">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="920373-339950-net.poems" source="920373" target="339950">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338171-464971-net.poems" source="338171" target="464971">
+	<data key="topic">net.poems</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

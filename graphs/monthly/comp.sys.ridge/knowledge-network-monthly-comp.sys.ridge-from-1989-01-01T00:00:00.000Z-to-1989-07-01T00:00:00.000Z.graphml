@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="742828"/>
+<node id="32626"/>
+<node id="742832"/>
+<node id="737839"/>
+<node id="509266"/>
+<node id="513760"/>
+<node id="513758"/>
+<node id="27340"/>
+<edge id="742828-742832-comp.sys.ridge" source="742828" target="742832">
+	<data key="topic">comp.sys.ridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="742828-509266-comp.sys.ridge" source="742828" target="509266">
+	<data key="topic">comp.sys.ridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="742832-737839-comp.sys.ridge" source="742832" target="737839">
+	<data key="topic">comp.sys.ridge</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="737839-742832-comp.sys.ridge" source="737839" target="742832">
+	<data key="topic">comp.sys.ridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509266-742832-comp.sys.ridge" source="509266" target="742832">
+	<data key="topic">comp.sys.ridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="513760-32626-comp.sys.ridge" source="513760" target="32626">
+	<data key="topic">comp.sys.ridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="513758-32626-comp.sys.ridge" source="513758" target="32626">
+	<data key="topic">comp.sys.ridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="27340-737839-comp.sys.ridge" source="27340" target="737839">
+	<data key="topic">comp.sys.ridge</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

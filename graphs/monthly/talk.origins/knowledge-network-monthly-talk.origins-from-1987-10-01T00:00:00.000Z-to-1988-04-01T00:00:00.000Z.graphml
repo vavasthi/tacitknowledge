@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="26897"/>
+<node id="668347"/>
+<node id="26642"/>
+<node id="500149"/>
+<node id="26613"/>
+<node id="596926"/>
+<node id="19224"/>
+<node id="26748"/>
+<node id="2909"/>
+<node id="16831"/>
+<node id="26783"/>
+<node id="668235"/>
+<node id="26819"/>
+<node id="595180"/>
+<node id="17735"/>
+<node id="24009"/>
+<node id="596804"/>
+<node id="20748"/>
+<node id="26925"/>
+<node id="596805"/>
+<node id="386796"/>
+<node id="27056"/>
+<edge id="668347-668235-talk.origins" source="668347" target="668235">
+	<data key="topic">talk.origins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="26642-17735-talk.origins" source="26642" target="17735">
+	<data key="topic">talk.origins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="500149-26642-talk.origins" source="500149" target="26642">
+	<data key="topic">talk.origins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="500149-17735-talk.origins" source="500149" target="17735">
+	<data key="topic">talk.origins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="26613-26897-talk.origins" source="26613" target="26897">
+	<data key="topic">talk.origins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="26613-24009-talk.origins" source="26613" target="24009">
+	<data key="topic">talk.origins</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="596926-26642-talk.origins" source="596926" target="26642">
+	<data key="topic">talk.origins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="596926-19224-talk.origins" source="596926" target="19224">
+	<data key="topic">talk.origins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="596926-17735-talk.origins" source="596926" target="17735">
+	<data key="topic">talk.origins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19224-26642-talk.origins" source="19224" target="26642">
+	<data key="topic">talk.origins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19224-26819-talk.origins" source="19224" target="26819">
+	<data key="topic">talk.origins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19224-386796-talk.origins" source="19224" target="386796">
+	<data key="topic">talk.origins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="26748-26642-talk.origins" source="26748" target="26642">
+	<data key="topic">talk.origins</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="26748-17735-talk.origins" source="26748" target="17735">
+	<data key="topic">talk.origins</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2909-26642-talk.origins" source="2909" target="26642">
+	<data key="topic">talk.origins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2909-17735-talk.origins" source="2909" target="17735">
+	<data key="topic">talk.origins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16831-26642-talk.origins" source="16831" target="26642">
+	<data key="topic">talk.origins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16831-26748-talk.origins" source="16831" target="26748">
+	<data key="topic">talk.origins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16831-26819-talk.origins" source="16831" target="26819">
+	<data key="topic">talk.origins</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="26783-26897-talk.origins" source="26783" target="26897">
+	<data key="topic">talk.origins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="26783-24009-talk.origins" source="26783" target="24009">
+	<data key="topic">talk.origins</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="26819-26642-talk.origins" source="26819" target="26642">
+	<data key="topic">talk.origins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="595180-596804-talk.origins" source="595180" target="596804">
+	<data key="topic">talk.origins</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="595180-596805-talk.origins" source="595180" target="596805">
+	<data key="topic">talk.origins</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="17735-26642-talk.origins" source="17735" target="26642">
+	<data key="topic">talk.origins</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="17735-26748-talk.origins" source="17735" target="26748">
+	<data key="topic">talk.origins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24009-26897-talk.origins" source="24009" target="26897">
+	<data key="topic">talk.origins</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="596804-595180-talk.origins" source="596804" target="595180">
+	<data key="topic">talk.origins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="596804-596805-talk.origins" source="596804" target="596805">
+	<data key="topic">talk.origins</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="20748-26642-talk.origins" source="20748" target="26642">
+	<data key="topic">talk.origins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20748-26748-talk.origins" source="20748" target="26748">
+	<data key="topic">talk.origins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="386796-26642-talk.origins" source="386796" target="26642">
+	<data key="topic">talk.origins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="386796-26819-talk.origins" source="386796" target="26819">
+	<data key="topic">talk.origins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="27056-26642-talk.origins" source="27056" target="26642">
+	<data key="topic">talk.origins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="27056-26819-talk.origins" source="27056" target="26819">
+	<data key="topic">talk.origins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="27056-26925-talk.origins" source="27056" target="26925">
+	<data key="topic">talk.origins</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="29489"/>
+<node id="429781"/>
+<node id="431125"/>
+<node id="671231"/>
+<node id="31862"/>
+<node id="16152"/>
+<node id="457695"/>
+<node id="675250"/>
+<node id="429790"/>
+<node id="1649350"/>
+<node id="1432940"/>
+<node id="431674"/>
+<node id="428968"/>
+<node id="23362"/>
+<node id="29570"/>
+<node id="23363"/>
+<node id="16452"/>
+<node id="499683"/>
+<node id="6983"/>
+<node id="15178"/>
+<node id="429774"/>
+<node id="342732"/>
+<node id="429770"/>
+<edge id="431125-429790-comp.dcom.telecom" source="431125" target="429790">
+	<data key="topic">comp.dcom.telecom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="431125-499683-comp.dcom.telecom" source="431125" target="499683">
+	<data key="topic">comp.dcom.telecom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="671231-31862-comp.dcom.telecom" source="671231" target="31862">
+	<data key="topic">comp.dcom.telecom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="671231-457695-comp.dcom.telecom" source="671231" target="457695">
+	<data key="topic">comp.dcom.telecom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16152-429774-comp.dcom.telecom" source="16152" target="429774">
+	<data key="topic">comp.dcom.telecom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1649350-429770-comp.dcom.telecom" source="1649350" target="429770">
+	<data key="topic">comp.dcom.telecom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23362-431674-comp.dcom.telecom" source="23362" target="431674">
+	<data key="topic">comp.dcom.telecom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29570-6983-comp.dcom.telecom" source="29570" target="6983">
+	<data key="topic">comp.dcom.telecom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23363-1432940-comp.dcom.telecom" source="23363" target="1432940">
+	<data key="topic">comp.dcom.telecom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16452-428968-comp.dcom.telecom" source="16452" target="428968">
+	<data key="topic">comp.dcom.telecom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="499683-429790-comp.dcom.telecom" source="499683" target="429790">
+	<data key="topic">comp.dcom.telecom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15178-429781-comp.dcom.telecom" source="15178" target="429781">
+	<data key="topic">comp.dcom.telecom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="342732-29489-comp.dcom.telecom" source="342732" target="29489">
+	<data key="topic">comp.dcom.telecom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="342732-675250-comp.dcom.telecom" source="342732" target="675250">
+	<data key="topic">comp.dcom.telecom</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="3668"/>
+<node id="404643"/>
+<node id="1949099"/>
+<node id="11928"/>
+<node id="358302"/>
+<node id="443471"/>
+<edge id="3668-1949099-sub.databases" source="3668" target="1949099">
+	<data key="topic">sub.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3668-11928-sub.databases" source="3668" target="11928">
+	<data key="topic">sub.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3668-358302-sub.databases" source="3668" target="358302">
+	<data key="topic">sub.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="404643-1949099-sub.databases" source="404643" target="1949099">
+	<data key="topic">sub.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="404643-11928-sub.databases" source="404643" target="11928">
+	<data key="topic">sub.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="404643-358302-sub.databases" source="404643" target="358302">
+	<data key="topic">sub.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11928-1949099-sub.databases" source="11928" target="1949099">
+	<data key="topic">sub.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11928-358302-sub.databases" source="11928" target="358302">
+	<data key="topic">sub.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="443471-1949099-sub.databases" source="443471" target="1949099">
+	<data key="topic">sub.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="443471-11928-sub.databases" source="443471" target="11928">
+	<data key="topic">sub.databases</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="443471-358302-sub.databases" source="443471" target="358302">
+	<data key="topic">sub.databases</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

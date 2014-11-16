@@ -1,0 +1,2322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="548761"/>
+<node id="1669552"/>
+<node id="610706"/>
+<node id="735124"/>
+<node id="367519"/>
+<node id="1791400"/>
+<node id="769451"/>
+<node id="34724"/>
+<node id="537007"/>
+<node id="3500"/>
+<node id="365495"/>
+<node id="445366"/>
+<node id="1394116"/>
+<node id="609215"/>
+<node id="614323"/>
+<node id="556982"/>
+<node id="2005949"/>
+<node id="785348"/>
+<node id="707016"/>
+<node id="442313"/>
+<node id="1791460"/>
+<node id="614353"/>
+<node id="622545"/>
+<node id="11226"/>
+<node id="609239"/>
+<node id="1669596"/>
+<node id="9190"/>
+<node id="786410"/>
+<node id="33767"/>
+<node id="2009554"/>
+<node id="915453"/>
+<node id="1197061"/>
+<node id="1359374"/>
+<node id="557554"/>
+<node id="423417"/>
+<node id="415240"/>
+<node id="557579"/>
+<node id="557580"/>
+<node id="1029"/>
+<node id="1197051"/>
+<node id="1359359"/>
+<node id="716807"/>
+<node id="558085"/>
+<node id="742428"/>
+<node id="557593"/>
+<node id="1614890"/>
+<node id="12308"/>
+<node id="1400871"/>
+<node id="1400865"/>
+<node id="1395758"/>
+<node id="551954"/>
+<node id="410649"/>
+<node id="2080"/>
+<node id="4130"/>
+<node id="1362455"/>
+<node id="410662"/>
+<node id="701474"/>
+<node id="564"/>
+<node id="546876"/>
+<node id="1883211"/>
+<node id="873019"/>
+<node id="386624"/>
+<node id="24124"/>
+<node id="697909"/>
+<node id="908362"/>
+<node id="857673"/>
+<node id="1531953"/>
+<node id="845388"/>
+<node id="805954"/>
+<node id="873025"/>
+<node id="873027"/>
+<node id="2013296"/>
+<node id="3668"/>
+<node id="514132"/>
+<node id="2649"/>
+<node id="873046"/>
+<node id="613483"/>
+<node id="2150"/>
+<node id="701037"/>
+<node id="845409"/>
+<node id="1137"/>
+<node id="1008767"/>
+<node id="394868"/>
+<node id="363644"/>
+<node id="445575"/>
+<node id="2013303"/>
+<node id="1008772"/>
+<node id="1008770"/>
+<node id="1008769"/>
+<node id="543897"/>
+<node id="994464"/>
+<node id="872095"/>
+<node id="1732783"/>
+<node id="2712"/>
+<node id="1623728"/>
+<node id="502429"/>
+<node id="1304752"/>
+<node id="1078448"/>
+<node id="552098"/>
+<node id="915621"/>
+<node id="534179"/>
+<node id="734370"/>
+<node id="544422"/>
+<node id="1816779"/>
+<node id="869049"/>
+<node id="1789646"/>
+<node id="701630"/>
+<node id="849615"/>
+<node id="438981"/>
+<node id="1881275"/>
+<node id="449218"/>
+<node id="1664177"/>
+<node id="353487"/>
+<node id="11988"/>
+<node id="849626"/>
+<node id="642257"/>
+<node id="3292"/>
+<node id="701650"/>
+<node id="2537211"/>
+<node id="552173"/>
+<node id="542958"/>
+<node id="2537232"/>
+<node id="849640"/>
+<node id="1088220"/>
+<node id="3310"/>
+<node id="1886418"/>
+<node id="2817"/>
+<node id="35586"/>
+<node id="1008394"/>
+<node id="616193"/>
+<node id="502552"/>
+<node id="700697"/>
+<node id="5910"/>
+<node id="1306"/>
+<node id="4378"/>
+<node id="1819"/>
+<node id="2849"/>
+<node id="13605"/>
+<node id="359202"/>
+<node id="512803"/>
+<node id="608560"/>
+<node id="1834"/>
+<node id="641320"/>
+<node id="1355548"/>
+<node id="361271"/>
+<node id="735037"/>
+<node id="1880901"/>
+<node id="780596"/>
+<node id="734518"/>
+<node id="735056"/>
+<node id="30536"/>
+<node id="557377"/>
+<node id="20298"/>
+<node id="29006"/>
+<node id="618312"/>
+<node id="359243"/>
+<node id="24912"/>
+<node id="841053"/>
+<node id="1611625"/>
+<node id="611161"/>
+<node id="360791"/>
+<node id="371543"/>
+<node id="618331"/>
+<node id="618333"/>
+<node id="618335"/>
+<node id="366432"/>
+<node id="362842"/>
+<node id="841043"/>
+<node id="618327"/>
+<node id="10593"/>
+<node id="1794395"/>
+<node id="510821"/>
+<node id="429924"/>
+<node id="618337"/>
+<node id="12651"/>
+<node id="618339"/>
+<node id="812904"/>
+<node id="10607"/>
+<node id="10096"/>
+<node id="618362"/>
+<node id="697209"/>
+<node id="24438"/>
+<node id="11639"/>
+<node id="550271"/>
+<node id="743294"/>
+<node id="617844"/>
+<node id="618356"/>
+<node id="871796"/>
+<node id="1356172"/>
+<node id="1342860"/>
+<node id="843149"/>
+<node id="711053"/>
+<node id="2440"/>
+<node id="2953"/>
+<node id="689538"/>
+<edge id="548761-3500-comp.unix.aix" source="548761" target="3500">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="548761-609239-comp.unix.aix" source="548761" target="609239">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="548761-915453-comp.unix.aix" source="548761" target="915453">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="548761-386624-comp.unix.aix" source="548761" target="386624">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1669552-557554-comp.unix.aix" source="1669552" target="557554">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1669552-742428-comp.unix.aix" source="1669552" target="742428">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1669552-410662-comp.unix.aix" source="1669552" target="410662">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1669552-24124-comp.unix.aix" source="1669552" target="24124">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1669552-13605-comp.unix.aix" source="1669552" target="13605">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="610706-557554-comp.unix.aix" source="610706" target="557554">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="610706-546876-comp.unix.aix" source="610706" target="546876">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="735124-743294-comp.unix.aix" source="735124" target="743294">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="735124-1342860-comp.unix.aix" source="735124" target="1342860">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="367519-1791460-comp.unix.aix" source="367519" target="1791460">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="367519-5910-comp.unix.aix" source="367519" target="5910">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1791400-1732783-comp.unix.aix" source="1791400" target="1732783">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1791400-2849-comp.unix.aix" source="1791400" target="2849">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="34724-1732783-comp.unix.aix" source="34724" target="1732783">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="34724-5910-comp.unix.aix" source="34724" target="5910">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="34724-2849-comp.unix.aix" source="34724" target="2849">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="34724-618339-comp.unix.aix" source="34724" target="618339">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="537007-614353-comp.unix.aix" source="537007" target="614353">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="537007-915453-comp.unix.aix" source="537007" target="915453">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="537007-613483-comp.unix.aix" source="537007" target="613483">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="537007-1732783-comp.unix.aix" source="537007" target="1732783">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="537007-3292-comp.unix.aix" source="537007" target="3292">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="537007-2849-comp.unix.aix" source="537007" target="2849">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="365495-510821-comp.unix.aix" source="365495" target="510821">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1394116-716807-comp.unix.aix" source="1394116" target="716807">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1394116-697909-comp.unix.aix" source="1394116" target="697909">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1394116-805954-comp.unix.aix" source="1394116" target="805954">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="609215-512803-comp.unix.aix" source="609215" target="512803">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="609215-510821-comp.unix.aix" source="609215" target="510821">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="614323-1791460-comp.unix.aix" source="614323" target="1791460">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="614323-557554-comp.unix.aix" source="614323" target="557554">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="614323-1732783-comp.unix.aix" source="614323" target="1732783">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="614323-3292-comp.unix.aix" source="614323" target="3292">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="614323-5910-comp.unix.aix" source="614323" target="5910">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="614323-2849-comp.unix.aix" source="614323" target="2849">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="614323-618339-comp.unix.aix" source="614323" target="618339">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="556982-1794395-comp.unix.aix" source="556982" target="1794395">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="707016-1394116-comp.unix.aix" source="707016" target="1394116">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="707016-716807-comp.unix.aix" source="707016" target="716807">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="707016-697909-comp.unix.aix" source="707016" target="697909">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="707016-805954-comp.unix.aix" source="707016" target="805954">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="707016-780596-comp.unix.aix" source="707016" target="780596">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="442313-1304752-comp.unix.aix" source="442313" target="1304752">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="614353-613483-comp.unix.aix" source="614353" target="613483">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="614353-1732783-comp.unix.aix" source="614353" target="1732783">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="614353-701630-comp.unix.aix" source="614353" target="701630">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="614353-552173-comp.unix.aix" source="614353" target="552173">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="614353-700697-comp.unix.aix" source="614353" target="700697">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="614353-1819-comp.unix.aix" source="614353" target="1819">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="614353-2849-comp.unix.aix" source="614353" target="2849">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="614353-359202-comp.unix.aix" source="614353" target="359202">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="614353-608560-comp.unix.aix" source="614353" target="608560">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="614353-618339-comp.unix.aix" source="614353" target="618339">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="614353-2440-comp.unix.aix" source="614353" target="2440">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="622545-557554-comp.unix.aix" source="622545" target="557554">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="622545-410662-comp.unix.aix" source="622545" target="410662">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="622545-359243-comp.unix.aix" source="622545" target="359243">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11226-613483-comp.unix.aix" source="11226" target="613483">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11226-394868-comp.unix.aix" source="11226" target="394868">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11226-611161-comp.unix.aix" source="11226" target="611161">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1669596-614353-comp.unix.aix" source="1669596" target="614353">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1669596-613483-comp.unix.aix" source="1669596" target="613483">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1669596-445575-comp.unix.aix" source="1669596" target="445575">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1669596-1732783-comp.unix.aix" source="1669596" target="1732783">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="1669596-552173-comp.unix.aix" source="1669596" target="552173">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1669596-1306-comp.unix.aix" source="1669596" target="1306">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1669596-2849-comp.unix.aix" source="1669596" target="2849">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="1669596-2440-comp.unix.aix" source="1669596" target="2440">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="9190-543897-comp.unix.aix" source="9190" target="543897">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="9190-1732783-comp.unix.aix" source="9190" target="1732783">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="9190-618339-comp.unix.aix" source="9190" target="618339">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="33767-4130-comp.unix.aix" source="33767" target="4130">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="915453-1791400-comp.unix.aix" source="915453" target="1791400">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="915453-614353-comp.unix.aix" source="915453" target="614353">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="915453-423417-comp.unix.aix" source="915453" target="423417">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="915453-546876-comp.unix.aix" source="915453" target="546876">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="915453-2649-comp.unix.aix" source="915453" target="2649">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="915453-613483-comp.unix.aix" source="915453" target="613483">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="915453-543897-comp.unix.aix" source="915453" target="543897">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="915453-1732783-comp.unix.aix" source="915453" target="1732783">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">6</data>
+</edge>
+<edge id="915453-353487-comp.unix.aix" source="915453" target="353487">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="915453-3292-comp.unix.aix" source="915453" target="3292">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="915453-2849-comp.unix.aix" source="915453" target="2849">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">6</data>
+</edge>
+<edge id="915453-618339-comp.unix.aix" source="915453" target="618339">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="915453-711053-comp.unix.aix" source="915453" target="711053">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1197061-701474-comp.unix.aix" source="1197061" target="701474">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1197061-841043-comp.unix.aix" source="1197061" target="841043">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1197061-743294-comp.unix.aix" source="1197061" target="743294">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1197061-1342860-comp.unix.aix" source="1197061" target="1342860">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1197061-843149-comp.unix.aix" source="1197061" target="843149">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="557554-622545-comp.unix.aix" source="557554" target="622545">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="557554-742428-comp.unix.aix" source="557554" target="742428">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="557554-410662-comp.unix.aix" source="557554" target="410662">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="557554-546876-comp.unix.aix" source="557554" target="546876">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="557554-24124-comp.unix.aix" source="557554" target="24124">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="557554-613483-comp.unix.aix" source="557554" target="613483">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="557554-543897-comp.unix.aix" source="557554" target="543897">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="557554-1732783-comp.unix.aix" source="557554" target="1732783">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="557554-353487-comp.unix.aix" source="557554" target="353487">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="557554-5910-comp.unix.aix" source="557554" target="5910">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="557554-2849-comp.unix.aix" source="557554" target="2849">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="557554-13605-comp.unix.aix" source="557554" target="13605">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="557554-618339-comp.unix.aix" source="557554" target="618339">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="557554-711053-comp.unix.aix" source="557554" target="711053">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="423417-365495-comp.unix.aix" source="423417" target="365495">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="423417-609215-comp.unix.aix" source="423417" target="609215">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="423417-786410-comp.unix.aix" source="423417" target="786410">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="423417-915453-comp.unix.aix" source="423417" target="915453">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="423417-3668-comp.unix.aix" source="423417" target="3668">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="423417-2649-comp.unix.aix" source="423417" target="2649">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="423417-543897-comp.unix.aix" source="423417" target="543897">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="423417-1732783-comp.unix.aix" source="423417" target="1732783">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="423417-353487-comp.unix.aix" source="423417" target="353487">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="423417-3292-comp.unix.aix" source="423417" target="3292">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="423417-2849-comp.unix.aix" source="423417" target="2849">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="423417-512803-comp.unix.aix" source="423417" target="512803">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="423417-1880901-comp.unix.aix" source="423417" target="1880901">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="423417-510821-comp.unix.aix" source="423417" target="510821">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="423417-618339-comp.unix.aix" source="423417" target="618339">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="423417-11639-comp.unix.aix" source="423417" target="11639">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="423417-711053-comp.unix.aix" source="423417" target="711053">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1029-1881275-comp.unix.aix" source="1029" target="1881275">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1029-2440-comp.unix.aix" source="1029" target="2440">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1197051-371543-comp.unix.aix" source="1197051" target="371543">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1359359-502429-comp.unix.aix" source="1359359" target="502429">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1359359-849615-comp.unix.aix" source="1359359" target="849615">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1359359-5910-comp.unix.aix" source="1359359" target="5910">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="716807-769451-comp.unix.aix" source="716807" target="769451">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="716807-445366-comp.unix.aix" source="716807" target="445366">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="716807-1394116-comp.unix.aix" source="716807" target="1394116">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="716807-415240-comp.unix.aix" source="716807" target="415240">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="716807-697909-comp.unix.aix" source="716807" target="697909">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="716807-857673-comp.unix.aix" source="716807" target="857673">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="716807-805954-comp.unix.aix" source="716807" target="805954">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="716807-514132-comp.unix.aix" source="716807" target="514132">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="716807-1008769-comp.unix.aix" source="716807" target="1008769">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="716807-502429-comp.unix.aix" source="716807" target="502429">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="716807-1008394-comp.unix.aix" source="716807" target="1008394">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="716807-5910-comp.unix.aix" source="716807" target="5910">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="716807-1819-comp.unix.aix" source="716807" target="1819">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="716807-10607-comp.unix.aix" source="716807" target="10607">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="716807-2953-comp.unix.aix" source="716807" target="2953">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="558085-716807-comp.unix.aix" source="558085" target="716807">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="558085-857673-comp.unix.aix" source="558085" target="857673">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="558085-514132-comp.unix.aix" source="558085" target="514132">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="558085-552173-comp.unix.aix" source="558085" target="552173">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="558085-5910-comp.unix.aix" source="558085" target="5910">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="557593-613483-comp.unix.aix" source="557593" target="613483">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="557593-1732783-comp.unix.aix" source="557593" target="1732783">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="557593-2849-comp.unix.aix" source="557593" target="2849">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="12308-557579-comp.unix.aix" source="12308" target="557579">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1400865-2009554-comp.unix.aix" source="1400865" target="2009554">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1395758-11639-comp.unix.aix" source="1395758" target="11639">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="551954-613483-comp.unix.aix" source="551954" target="613483">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="551954-1732783-comp.unix.aix" source="551954" target="1732783">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="551954-3292-comp.unix.aix" source="551954" target="3292">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="551954-2849-comp.unix.aix" source="551954" target="2849">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="551954-618335-comp.unix.aix" source="551954" target="618335">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2080-1834-comp.unix.aix" source="2080" target="1834">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4130-873019-comp.unix.aix" source="4130" target="873019">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4130-805954-comp.unix.aix" source="4130" target="805954">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4130-873027-comp.unix.aix" source="4130" target="873027">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4130-611161-comp.unix.aix" source="4130" target="611161">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4130-10607-comp.unix.aix" source="4130" target="10607">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1362455-697909-comp.unix.aix" source="1362455" target="697909">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1362455-608560-comp.unix.aix" source="1362455" target="608560">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1362455-618331-comp.unix.aix" source="1362455" target="618331">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="410662-742428-comp.unix.aix" source="410662" target="742428">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="410662-552098-comp.unix.aix" source="410662" target="552098">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="410662-3292-comp.unix.aix" source="410662" target="3292">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="410662-552173-comp.unix.aix" source="410662" target="552173">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="564-1395758-comp.unix.aix" source="564" target="1395758">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="564-1732783-comp.unix.aix" source="564" target="1732783">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="564-5910-comp.unix.aix" source="564" target="5910">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="564-2849-comp.unix.aix" source="564" target="2849">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="564-359243-comp.unix.aix" source="564" target="359243">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="564-618339-comp.unix.aix" source="564" target="618339">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="564-11639-comp.unix.aix" source="564" target="11639">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1883211-1791400-comp.unix.aix" source="1883211" target="1791400">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1883211-915453-comp.unix.aix" source="1883211" target="915453">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1883211-1732783-comp.unix.aix" source="1883211" target="1732783">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1883211-2849-comp.unix.aix" source="1883211" target="2849">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24124-557554-comp.unix.aix" source="24124" target="557554">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24124-742428-comp.unix.aix" source="24124" target="742428">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24124-410662-comp.unix.aix" source="24124" target="410662">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="697909-716807-comp.unix.aix" source="697909" target="716807">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="697909-1362455-comp.unix.aix" source="697909" target="1362455">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="697909-908362-comp.unix.aix" source="697909" target="908362">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="697909-2712-comp.unix.aix" source="697909" target="2712">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="697909-502429-comp.unix.aix" source="697909" target="502429">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="697909-701630-comp.unix.aix" source="697909" target="701630">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="697909-5910-comp.unix.aix" source="697909" target="5910">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="697909-608560-comp.unix.aix" source="697909" target="608560">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="697909-24438-comp.unix.aix" source="697909" target="24438">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="697909-743294-comp.unix.aix" source="697909" target="743294">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1531953-2712-comp.unix.aix" source="1531953" target="2712">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1531953-618327-comp.unix.aix" source="1531953" target="618327">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="845388-1394116-comp.unix.aix" source="845388" target="1394116">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="845388-716807-comp.unix.aix" source="845388" target="716807">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="845388-697909-comp.unix.aix" source="845388" target="697909">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="845388-805954-comp.unix.aix" source="845388" target="805954">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="805954-734518-comp.unix.aix" source="805954" target="734518">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="873025-743294-comp.unix.aix" source="873025" target="743294">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2013296-24912-comp.unix.aix" source="2013296" target="24912">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3668-365495-comp.unix.aix" source="3668" target="365495">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3668-510821-comp.unix.aix" source="3668" target="510821">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2649-610706-comp.unix.aix" source="2649" target="610706">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2649-365495-comp.unix.aix" source="2649" target="365495">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2649-622545-comp.unix.aix" source="2649" target="622545">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2649-557554-comp.unix.aix" source="2649" target="557554">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2649-1614890-comp.unix.aix" source="2649" target="1614890">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2649-546876-comp.unix.aix" source="2649" target="546876">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2649-1531953-comp.unix.aix" source="2649" target="1531953">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2649-1732783-comp.unix.aix" source="2649" target="1732783">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2649-2712-comp.unix.aix" source="2649" target="2712">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2649-353487-comp.unix.aix" source="2649" target="353487">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2649-2849-comp.unix.aix" source="2649" target="2849">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2649-359243-comp.unix.aix" source="2649" target="359243">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2649-618327-comp.unix.aix" source="2649" target="618327">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2649-510821-comp.unix.aix" source="2649" target="510821">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2649-618339-comp.unix.aix" source="2649" target="618339">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="873046-514132-comp.unix.aix" source="873046" target="514132">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="613483-1732783-comp.unix.aix" source="613483" target="1732783">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="613483-353487-comp.unix.aix" source="613483" target="353487">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="613483-2849-comp.unix.aix" source="613483" target="2849">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="613483-611161-comp.unix.aix" source="613483" target="611161">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2150-1359374-comp.unix.aix" source="2150" target="1359374">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2150-4130-comp.unix.aix" source="2150" target="4130">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2150-1732783-comp.unix.aix" source="2150" target="1732783">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2150-642257-comp.unix.aix" source="2150" target="642257">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2150-2849-comp.unix.aix" source="2150" target="2849">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2150-618312-comp.unix.aix" source="2150" target="618312">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2150-611161-comp.unix.aix" source="2150" target="611161">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2150-618339-comp.unix.aix" source="2150" target="618339">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2150-11639-comp.unix.aix" source="2150" target="11639">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="701037-613483-comp.unix.aix" source="701037" target="613483">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="701037-1732783-comp.unix.aix" source="701037" target="1732783">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="701037-2849-comp.unix.aix" source="701037" target="2849">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="845409-613483-comp.unix.aix" source="845409" target="613483">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="845409-1732783-comp.unix.aix" source="845409" target="1732783">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="845409-2849-comp.unix.aix" source="845409" target="2849">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1137-3292-comp.unix.aix" source="1137" target="3292">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1137-512803-comp.unix.aix" source="1137" target="512803">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1137-1880901-comp.unix.aix" source="1137" target="1880901">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1137-510821-comp.unix.aix" source="1137" target="510821">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1008767-1819-comp.unix.aix" source="1008767" target="1819">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="394868-1614890-comp.unix.aix" source="394868" target="1614890">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="394868-4130-comp.unix.aix" source="394868" target="4130">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="394868-613483-comp.unix.aix" source="394868" target="613483">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="394868-618312-comp.unix.aix" source="394868" target="618312">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="394868-611161-comp.unix.aix" source="394868" target="611161">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="363644-994464-comp.unix.aix" source="363644" target="994464">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="363644-512803-comp.unix.aix" source="363644" target="512803">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="363644-1880901-comp.unix.aix" source="363644" target="1880901">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="363644-510821-comp.unix.aix" source="363644" target="510821">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="445575-614353-comp.unix.aix" source="445575" target="614353">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="445575-622545-comp.unix.aix" source="445575" target="622545">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="445575-1732783-comp.unix.aix" source="445575" target="1732783">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="445575-2849-comp.unix.aix" source="445575" target="2849">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="445575-359243-comp.unix.aix" source="445575" target="359243">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="445575-2440-comp.unix.aix" source="445575" target="2440">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2013303-11988-comp.unix.aix" source="2013303" target="11988">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2013303-871796-comp.unix.aix" source="2013303" target="871796">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="543897-1732783-comp.unix.aix" source="543897" target="1732783">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="543897-1304752-comp.unix.aix" source="543897" target="1304752">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="543897-552098-comp.unix.aix" source="543897" target="552098">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="543897-353487-comp.unix.aix" source="543897" target="353487">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="543897-2849-comp.unix.aix" source="543897" target="2849">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="543897-611161-comp.unix.aix" source="543897" target="611161">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="543897-618339-comp.unix.aix" source="543897" target="618339">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="872095-805954-comp.unix.aix" source="872095" target="805954">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2712-614323-comp.unix.aix" source="2712" target="614323">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2712-697909-comp.unix.aix" source="2712" target="697909">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2712-613483-comp.unix.aix" source="2712" target="613483">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2712-1732783-comp.unix.aix" source="2712" target="1732783">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2712-4378-comp.unix.aix" source="2712" target="4378">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2712-2849-comp.unix.aix" source="2712" target="2849">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2712-360791-comp.unix.aix" source="2712" target="360791">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2712-618327-comp.unix.aix" source="2712" target="618327">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2712-2440-comp.unix.aix" source="2712" target="2440">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="502429-849615-comp.unix.aix" source="502429" target="849615">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="552098-614353-comp.unix.aix" source="552098" target="614353">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="552098-915453-comp.unix.aix" source="552098" target="915453">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="552098-410662-comp.unix.aix" source="552098" target="410662">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="552098-543897-comp.unix.aix" source="552098" target="543897">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="552098-1732783-comp.unix.aix" source="552098" target="1732783">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="552098-701630-comp.unix.aix" source="552098" target="701630">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="552098-353487-comp.unix.aix" source="552098" target="353487">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="552098-2849-comp.unix.aix" source="552098" target="2849">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="552098-611161-comp.unix.aix" source="552098" target="611161">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="552098-618339-comp.unix.aix" source="552098" target="618339">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="552098-11639-comp.unix.aix" source="552098" target="11639">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="534179-734370-comp.unix.aix" source="534179" target="734370">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="534179-849626-comp.unix.aix" source="534179" target="849626">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="534179-743294-comp.unix.aix" source="534179" target="743294">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="534179-843149-comp.unix.aix" source="534179" target="843149">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="544422-415240-comp.unix.aix" source="544422" target="415240">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="544422-742428-comp.unix.aix" source="544422" target="742428">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="544422-1819-comp.unix.aix" source="544422" target="1819">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1816779-1394116-comp.unix.aix" source="1816779" target="1394116">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1816779-716807-comp.unix.aix" source="1816779" target="716807">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1816779-697909-comp.unix.aix" source="1816779" target="697909">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1816779-845388-comp.unix.aix" source="1816779" target="845388">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1816779-805954-comp.unix.aix" source="1816779" target="805954">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="869049-743294-comp.unix.aix" source="869049" target="743294">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1789646-785348-comp.unix.aix" source="1789646" target="785348">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1789646-2649-comp.unix.aix" source="1789646" target="2649">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1789646-1732783-comp.unix.aix" source="1789646" target="1732783">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1789646-2849-comp.unix.aix" source="1789646" target="2849">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1789646-618339-comp.unix.aix" source="1789646" target="618339">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="701630-445366-comp.unix.aix" source="701630" target="445366">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="701630-716807-comp.unix.aix" source="701630" target="716807">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="701630-1362455-comp.unix.aix" source="701630" target="1362455">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="701630-697909-comp.unix.aix" source="701630" target="697909">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="701630-5910-comp.unix.aix" source="701630" target="5910">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="701630-608560-comp.unix.aix" source="701630" target="608560">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="701630-366432-comp.unix.aix" source="701630" target="366432">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="701630-618339-comp.unix.aix" source="701630" target="618339">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="849615-716807-comp.unix.aix" source="849615" target="716807">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="849615-502429-comp.unix.aix" source="849615" target="502429">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="438981-805954-comp.unix.aix" source="438981" target="805954">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="438981-872095-comp.unix.aix" source="438981" target="872095">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="449218-445366-comp.unix.aix" source="449218" target="445366">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1664177-512803-comp.unix.aix" source="1664177" target="512803">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1664177-510821-comp.unix.aix" source="1664177" target="510821">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="353487-915453-comp.unix.aix" source="353487" target="915453">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="353487-543897-comp.unix.aix" source="353487" target="543897">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="353487-1732783-comp.unix.aix" source="353487" target="1732783">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="353487-5910-comp.unix.aix" source="353487" target="5910">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="353487-2849-comp.unix.aix" source="353487" target="2849">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="353487-611161-comp.unix.aix" source="353487" target="611161">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="353487-362842-comp.unix.aix" source="353487" target="362842">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="353487-618337-comp.unix.aix" source="353487" target="618337">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="353487-618339-comp.unix.aix" source="353487" target="618339">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="3292-614353-comp.unix.aix" source="3292" target="614353">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3292-1669596-comp.unix.aix" source="3292" target="1669596">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3292-915453-comp.unix.aix" source="3292" target="915453">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3292-557554-comp.unix.aix" source="3292" target="557554">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3292-4130-comp.unix.aix" source="3292" target="4130">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3292-546876-comp.unix.aix" source="3292" target="546876">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3292-613483-comp.unix.aix" source="3292" target="613483">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="3292-1732783-comp.unix.aix" source="3292" target="1732783">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="3292-2849-comp.unix.aix" source="3292" target="2849">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="3292-359243-comp.unix.aix" source="3292" target="359243">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3292-611161-comp.unix.aix" source="3292" target="611161">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3292-360791-comp.unix.aix" source="3292" target="360791">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3292-618339-comp.unix.aix" source="3292" target="618339">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3292-11639-comp.unix.aix" source="3292" target="11639">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3292-550271-comp.unix.aix" source="3292" target="550271">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3292-2440-comp.unix.aix" source="3292" target="2440">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="701650-1362455-comp.unix.aix" source="701650" target="1362455">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="701650-697909-comp.unix.aix" source="701650" target="697909">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="701650-5910-comp.unix.aix" source="701650" target="5910">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="701650-608560-comp.unix.aix" source="701650" target="608560">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2537211-371543-comp.unix.aix" source="2537211" target="371543">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="552173-2009554-comp.unix.aix" source="552173" target="2009554">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="552173-415240-comp.unix.aix" source="552173" target="415240">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="552173-1400865-comp.unix.aix" source="552173" target="1400865">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="542958-689538-comp.unix.aix" source="542958" target="689538">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="849640-716807-comp.unix.aix" source="849640" target="716807">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="849640-857673-comp.unix.aix" source="849640" target="857673">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1088220-1732783-comp.unix.aix" source="1088220" target="1732783">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1088220-3310-comp.unix.aix" source="1088220" target="3310">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1088220-2849-comp.unix.aix" source="1088220" target="2849">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1088220-618339-comp.unix.aix" source="1088220" target="618339">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3310-1732783-comp.unix.aix" source="3310" target="1732783">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3310-2849-comp.unix.aix" source="3310" target="2849">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3310-618339-comp.unix.aix" source="3310" target="618339">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1886418-551954-comp.unix.aix" source="1886418" target="551954">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1886418-613483-comp.unix.aix" source="1886418" target="613483">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1886418-1732783-comp.unix.aix" source="1886418" target="1732783">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1886418-3292-comp.unix.aix" source="1886418" target="3292">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1886418-2849-comp.unix.aix" source="1886418" target="2849">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2817-2712-comp.unix.aix" source="2817" target="2712">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2817-534179-comp.unix.aix" source="2817" target="534179">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2817-734370-comp.unix.aix" source="2817" target="734370">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2817-843149-comp.unix.aix" source="2817" target="843149">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="35586-716807-comp.unix.aix" source="35586" target="716807">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="35586-4130-comp.unix.aix" source="35586" target="4130">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="502552-557377-comp.unix.aix" source="502552" target="557377">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5910-445366-comp.unix.aix" source="5910" target="445366">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="5910-1791460-comp.unix.aix" source="5910" target="1791460">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5910-614353-comp.unix.aix" source="5910" target="614353">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5910-1362455-comp.unix.aix" source="5910" target="1362455">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5910-546876-comp.unix.aix" source="5910" target="546876">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5910-697909-comp.unix.aix" source="5910" target="697909">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="5910-908362-comp.unix.aix" source="5910" target="908362">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5910-514132-comp.unix.aix" source="5910" target="514132">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5910-1008772-comp.unix.aix" source="5910" target="1008772">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5910-1008770-comp.unix.aix" source="5910" target="1008770">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5910-1008769-comp.unix.aix" source="5910" target="1008769">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5910-543897-comp.unix.aix" source="5910" target="543897">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="5910-1732783-comp.unix.aix" source="5910" target="1732783">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="5910-502429-comp.unix.aix" source="5910" target="502429">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="5910-849615-comp.unix.aix" source="5910" target="849615">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="5910-353487-comp.unix.aix" source="5910" target="353487">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="5910-2537232-comp.unix.aix" source="5910" target="2537232">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5910-1819-comp.unix.aix" source="5910" target="1819">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5910-2849-comp.unix.aix" source="5910" target="2849">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="5910-608560-comp.unix.aix" source="5910" target="608560">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5910-641320-comp.unix.aix" source="5910" target="641320">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5910-618339-comp.unix.aix" source="5910" target="618339">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="5910-24438-comp.unix.aix" source="5910" target="24438">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5910-617844-comp.unix.aix" source="5910" target="617844">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5910-2440-comp.unix.aix" source="5910" target="2440">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1306-614353-comp.unix.aix" source="1306" target="614353">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1306-1732783-comp.unix.aix" source="1306" target="1732783">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1306-2849-comp.unix.aix" source="1306" target="2849">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1306-2440-comp.unix.aix" source="1306" target="2440">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2849-1732783-comp.unix.aix" source="2849" target="1732783">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="13605-557554-comp.unix.aix" source="13605" target="557554">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="13605-742428-comp.unix.aix" source="13605" target="742428">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="13605-410662-comp.unix.aix" source="13605" target="410662">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="13605-24124-comp.unix.aix" source="13605" target="24124">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="512803-510821-comp.unix.aix" source="512803" target="510821">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1355548-1400871-comp.unix.aix" source="1355548" target="1400871">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1355548-734518-comp.unix.aix" source="1355548" target="734518">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="361271-1362455-comp.unix.aix" source="361271" target="1362455">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="361271-697909-comp.unix.aix" source="361271" target="697909">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="361271-608560-comp.unix.aix" source="361271" target="608560">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="735037-1078448-comp.unix.aix" source="735037" target="1078448">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1880901-609215-comp.unix.aix" source="1880901" target="609215">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1880901-423417-comp.unix.aix" source="1880901" target="423417">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1880901-3292-comp.unix.aix" source="1880901" target="3292">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1880901-512803-comp.unix.aix" source="1880901" target="512803">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1880901-510821-comp.unix.aix" source="1880901" target="510821">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="780596-1394116-comp.unix.aix" source="780596" target="1394116">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="780596-716807-comp.unix.aix" source="780596" target="716807">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="780596-697909-comp.unix.aix" source="780596" target="697909">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="780596-805954-comp.unix.aix" source="780596" target="805954">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="735056-1791460-comp.unix.aix" source="735056" target="1791460">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="735056-5910-comp.unix.aix" source="735056" target="5910">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="735056-11639-comp.unix.aix" source="735056" target="11639">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20298-1356172-comp.unix.aix" source="20298" target="1356172">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-609215-comp.unix.aix" source="29006" target="609215">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-423417-comp.unix.aix" source="29006" target="423417">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-512803-comp.unix.aix" source="29006" target="512803">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-1880901-comp.unix.aix" source="29006" target="1880901">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-510821-comp.unix.aix" source="29006" target="510821">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="618312-4130-comp.unix.aix" source="618312" target="4130">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="618312-611161-comp.unix.aix" source="618312" target="611161">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="359243-1732783-comp.unix.aix" source="359243" target="1732783">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="841053-2005949-comp.unix.aix" source="841053" target="2005949">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="841053-616193-comp.unix.aix" source="841053" target="616193">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="841053-429924-comp.unix.aix" source="841053" target="429924">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1611625-618339-comp.unix.aix" source="1611625" target="618339">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="360791-614353-comp.unix.aix" source="360791" target="614353">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="360791-551954-comp.unix.aix" source="360791" target="551954">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="360791-613483-comp.unix.aix" source="360791" target="613483">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="360791-1732783-comp.unix.aix" source="360791" target="1732783">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="360791-3292-comp.unix.aix" source="360791" target="3292">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="360791-2849-comp.unix.aix" source="360791" target="2849">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="618333-502552-comp.unix.aix" source="618333" target="502552">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="618333-557377-comp.unix.aix" source="618333" target="557377">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362842-611161-comp.unix.aix" source="362842" target="611161">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="841043-2005949-comp.unix.aix" source="841043" target="2005949">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="841043-701474-comp.unix.aix" source="841043" target="701474">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="841043-616193-comp.unix.aix" source="841043" target="616193">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="841043-841053-comp.unix.aix" source="841043" target="841053">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="841043-429924-comp.unix.aix" source="841043" target="429924">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="618327-353487-comp.unix.aix" source="618327" target="353487">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="618327-611161-comp.unix.aix" source="618327" target="611161">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10593-1362455-comp.unix.aix" source="10593" target="1362455">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10593-697909-comp.unix.aix" source="10593" target="697909">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="10593-5910-comp.unix.aix" source="10593" target="5910">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10593-608560-comp.unix.aix" source="10593" target="608560">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12651-701474-comp.unix.aix" source="12651" target="701474">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="12651-857673-comp.unix.aix" source="12651" target="857673">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12651-552173-comp.unix.aix" source="12651" target="552173">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="618339-2649-comp.unix.aix" source="618339" target="2649">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="618339-613483-comp.unix.aix" source="618339" target="613483">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="618339-1732783-comp.unix.aix" source="618339" target="1732783">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="618339-2849-comp.unix.aix" source="618339" target="2849">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="618339-618356-comp.unix.aix" source="618339" target="618356">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="812904-915621-comp.unix.aix" source="812904" target="915621">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10096-9190-comp.unix.aix" source="10096" target="9190">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10096-543897-comp.unix.aix" source="10096" target="543897">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10096-1732783-comp.unix.aix" source="10096" target="1732783">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10096-618339-comp.unix.aix" source="10096" target="618339">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="618362-613483-comp.unix.aix" source="618362" target="613483">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="618362-353487-comp.unix.aix" source="618362" target="353487">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="618362-611161-comp.unix.aix" source="618362" target="611161">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="697209-697909-comp.unix.aix" source="697209" target="697909">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="697209-2712-comp.unix.aix" source="697209" target="2712">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11639-622545-comp.unix.aix" source="11639" target="622545">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11639-1531953-comp.unix.aix" source="11639" target="1531953">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11639-2712-comp.unix.aix" source="11639" target="2712">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11639-359243-comp.unix.aix" source="11639" target="359243">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11639-618327-comp.unix.aix" source="11639" target="618327">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="550271-4130-comp.unix.aix" source="550271" target="4130">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="550271-611161-comp.unix.aix" source="550271" target="611161">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="743294-697909-comp.unix.aix" source="743294" target="697909">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="743294-608560-comp.unix.aix" source="743294" target="608560">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="871796-557580-comp.unix.aix" source="871796" target="557580">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="871796-701474-comp.unix.aix" source="871796" target="701474">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="871796-1304752-comp.unix.aix" source="871796" target="1304752">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="871796-30536-comp.unix.aix" source="871796" target="30536">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="871796-557377-comp.unix.aix" source="871796" target="557377">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="871796-366432-comp.unix.aix" source="871796" target="366432">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="871796-11639-comp.unix.aix" source="871796" target="11639">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1342860-743294-comp.unix.aix" source="1342860" target="743294">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="843149-2009554-comp.unix.aix" source="843149" target="2009554">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="843149-4130-comp.unix.aix" source="843149" target="4130">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="843149-502429-comp.unix.aix" source="843149" target="502429">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="843149-11988-comp.unix.aix" source="843149" target="11988">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="843149-849626-comp.unix.aix" source="843149" target="849626">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="843149-10593-comp.unix.aix" source="843149" target="10593">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="843149-617844-comp.unix.aix" source="843149" target="617844">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="843149-871796-comp.unix.aix" source="843149" target="871796">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="843149-1356172-comp.unix.aix" source="843149" target="1356172">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="711053-915453-comp.unix.aix" source="711053" target="915453">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="711053-557554-comp.unix.aix" source="711053" target="557554">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2440-614323-comp.unix.aix" source="2440" target="614323">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2440-614353-comp.unix.aix" source="2440" target="614353">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2440-1669596-comp.unix.aix" source="2440" target="1669596">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2440-1029-comp.unix.aix" source="2440" target="1029">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2440-1732783-comp.unix.aix" source="2440" target="1732783">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2440-2712-comp.unix.aix" source="2440" target="2712">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2440-1881275-comp.unix.aix" source="2440" target="1881275">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2440-3292-comp.unix.aix" source="2440" target="3292">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2440-4378-comp.unix.aix" source="2440" target="4378">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2440-2849-comp.unix.aix" source="2440" target="2849">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="689538-735124-comp.unix.aix" source="689538" target="735124">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="689538-1623728-comp.unix.aix" source="689538" target="1623728">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="689538-743294-comp.unix.aix" source="689538" target="743294">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="689538-1342860-comp.unix.aix" source="689538" target="1342860">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="442775"/>
+<node id="339"/>
+<node id="379736"/>
+<node id="577629"/>
+<node id="618014"/>
+<node id="359121"/>
+<node id="1298469"/>
+<node id="611666"/>
+<node id="365725"/>
+<node id="365728"/>
+<node id="1741224"/>
+<node id="11486"/>
+<node id="12062"/>
+<node id="349478"/>
+<node id="349224"/>
+<node id="549996"/>
+<node id="9190"/>
+<node id="1702"/>
+<node id="357796"/>
+<node id="376100"/>
+<node id="1037930"/>
+<node id="11501"/>
+<node id="10349"/>
+<node id="11310"/>
+<node id="372905"/>
+<node id="348908"/>
+<node id="443498"/>
+<node id="1039103"/>
+<node id="358904"/>
+<node id="352308"/>
+<node id="404031"/>
+<node id="8058"/>
+<node id="416832"/>
+<node id="358266"/>
+<node id="11519"/>
+<node id="354684"/>
+<node id="1635591"/>
+<node id="363323"/>
+<node id="2817"/>
+<node id="581067"/>
+<node id="358926"/>
+<node id="369422"/>
+<node id="358927"/>
+<node id="359306"/>
+<node id="358924"/>
+<edge id="442775-339-comp.unix.xenix.misc" source="442775" target="339">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="442775-9190-comp.unix.xenix.misc" source="442775" target="9190">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339-379736-comp.unix.xenix.misc" source="339" target="379736">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="339-359121-comp.unix.xenix.misc" source="339" target="359121">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339-1741224-comp.unix.xenix.misc" source="339" target="1741224">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="339-549996-comp.unix.xenix.misc" source="339" target="549996">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="339-9190-comp.unix.xenix.misc" source="339" target="9190">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="339-11501-comp.unix.xenix.misc" source="339" target="11501">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339-8058-comp.unix.xenix.misc" source="339" target="8058">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="339-363323-comp.unix.xenix.misc" source="339" target="363323">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="618014-1037930-comp.unix.xenix.misc" source="618014" target="1037930">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="359121-8058-comp.unix.xenix.misc" source="359121" target="8058">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="611666-358904-comp.unix.xenix.misc" source="611666" target="358904">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="365725-358904-comp.unix.xenix.misc" source="365725" target="358904">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="365725-404031-comp.unix.xenix.misc" source="365725" target="404031">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="365725-11519-comp.unix.xenix.misc" source="365725" target="11519">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="365728-369422-comp.unix.xenix.misc" source="365728" target="369422">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1741224-581067-comp.unix.xenix.misc" source="1741224" target="581067">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11486-10349-comp.unix.xenix.misc" source="11486" target="10349">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11486-358904-comp.unix.xenix.misc" source="11486" target="358904">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11486-2817-comp.unix.xenix.misc" source="11486" target="2817">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12062-581067-comp.unix.xenix.misc" source="12062" target="581067">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="349478-1298469-comp.unix.xenix.misc" source="349478" target="1298469">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="9190-339-comp.unix.xenix.misc" source="9190" target="339">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="9190-1298469-comp.unix.xenix.misc" source="9190" target="1298469">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="9190-359306-comp.unix.xenix.misc" source="9190" target="359306">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1702-404031-comp.unix.xenix.misc" source="1702" target="404031">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1702-11519-comp.unix.xenix.misc" source="1702" target="11519">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="357796-10349-comp.unix.xenix.misc" source="357796" target="10349">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="357796-358904-comp.unix.xenix.misc" source="357796" target="358904">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="357796-2817-comp.unix.xenix.misc" source="357796" target="2817">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="376100-12062-comp.unix.xenix.misc" source="376100" target="12062">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11501-1741224-comp.unix.xenix.misc" source="11501" target="1741224">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11501-549996-comp.unix.xenix.misc" source="11501" target="549996">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11501-363323-comp.unix.xenix.misc" source="11501" target="363323">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10349-358904-comp.unix.xenix.misc" source="10349" target="358904">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11310-443498-comp.unix.xenix.misc" source="11310" target="443498">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11310-404031-comp.unix.xenix.misc" source="11310" target="404031">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="372905-365725-comp.unix.xenix.misc" source="372905" target="365725">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="372905-404031-comp.unix.xenix.misc" source="372905" target="404031">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="372905-11519-comp.unix.xenix.misc" source="372905" target="11519">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348908-349224-comp.unix.xenix.misc" source="348908" target="349224">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348908-352308-comp.unix.xenix.misc" source="348908" target="352308">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1039103-1741224-comp.unix.xenix.misc" source="1039103" target="1741224">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1039103-549996-comp.unix.xenix.misc" source="1039103" target="549996">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="404031-365725-comp.unix.xenix.misc" source="404031" target="365725">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="404031-372905-comp.unix.xenix.misc" source="404031" target="372905">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="404031-11519-comp.unix.xenix.misc" source="404031" target="11519">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="416832-404031-comp.unix.xenix.misc" source="416832" target="404031">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="358266-1298469-comp.unix.xenix.misc" source="358266" target="1298469">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="358266-359306-comp.unix.xenix.misc" source="358266" target="359306">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11519-404031-comp.unix.xenix.misc" source="11519" target="404031">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="354684-577629-comp.unix.xenix.misc" source="354684" target="577629">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1635591-358904-comp.unix.xenix.misc" source="1635591" target="358904">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2817-11486-comp.unix.xenix.misc" source="2817" target="11486">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2817-357796-comp.unix.xenix.misc" source="2817" target="357796">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2817-10349-comp.unix.xenix.misc" source="2817" target="10349">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2817-358904-comp.unix.xenix.misc" source="2817" target="358904">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="358927-339-comp.unix.xenix.misc" source="358927" target="339">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="358927-8058-comp.unix.xenix.misc" source="358927" target="8058">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="359306-1298469-comp.unix.xenix.misc" source="359306" target="1298469">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="358924-358926-comp.unix.xenix.misc" source="358924" target="358926">
+	<data key="topic">comp.unix.xenix.misc</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

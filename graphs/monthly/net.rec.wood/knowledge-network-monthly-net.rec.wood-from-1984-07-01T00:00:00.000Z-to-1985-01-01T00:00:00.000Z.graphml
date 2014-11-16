@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="340213"/>
+<node id="337717"/>
+<node id="339218"/>
+<node id="1120870"/>
+<node id="337265"/>
+<node id="657472"/>
+<node id="529631"/>
+<node id="779357"/>
+<node id="461340"/>
+<node id="337666"/>
+<node id="337378"/>
+<node id="905321"/>
+<node id="624387"/>
+<node id="652515"/>
+<node id="337482"/>
+<node id="336299"/>
+<edge id="340213-339218-net.rec.wood" source="340213" target="339218">
+	<data key="topic">net.rec.wood</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340213-337265-net.rec.wood" source="340213" target="337265">
+	<data key="topic">net.rec.wood</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340213-779357-net.rec.wood" source="340213" target="779357">
+	<data key="topic">net.rec.wood</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1120870-336299-net.rec.wood" source="1120870" target="336299">
+	<data key="topic">net.rec.wood</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337265-779357-net.rec.wood" source="337265" target="779357">
+	<data key="topic">net.rec.wood</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337265-461340-net.rec.wood" source="337265" target="461340">
+	<data key="topic">net.rec.wood</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="657472-337378-net.rec.wood" source="657472" target="337378">
+	<data key="topic">net.rec.wood</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="529631-337717-net.rec.wood" source="529631" target="337717">
+	<data key="topic">net.rec.wood</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337666-339218-net.rec.wood" source="337666" target="339218">
+	<data key="topic">net.rec.wood</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="905321-461340-net.rec.wood" source="905321" target="461340">
+	<data key="topic">net.rec.wood</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="624387-340213-net.rec.wood" source="624387" target="340213">
+	<data key="topic">net.rec.wood</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="624387-337265-net.rec.wood" source="624387" target="337265">
+	<data key="topic">net.rec.wood</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="624387-779357-net.rec.wood" source="624387" target="779357">
+	<data key="topic">net.rec.wood</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="652515-337717-net.rec.wood" source="652515" target="337717">
+	<data key="topic">net.rec.wood</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="652515-337482-net.rec.wood" source="652515" target="337482">
+	<data key="topic">net.rec.wood</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

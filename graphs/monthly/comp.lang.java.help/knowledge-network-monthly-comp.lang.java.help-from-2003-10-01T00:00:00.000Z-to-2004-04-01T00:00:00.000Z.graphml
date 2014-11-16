@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2864763"/>
+<node id="2225971"/>
+<node id="2197944"/>
+<node id="2791645"/>
+<node id="2191737"/>
+<node id="2193600"/>
+<node id="2866677"/>
+<node id="2179682"/>
+<node id="2828400"/>
+<node id="182151"/>
+<node id="2179241"/>
+<node id="2851139"/>
+<node id="2829608"/>
+<edge id="2225971-2191737-comp.lang.java.help" source="2225971" target="2191737">
+	<data key="topic">comp.lang.java.help</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2225971-2179682-comp.lang.java.help" source="2225971" target="2179682">
+	<data key="topic">comp.lang.java.help</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2225971-2179241-comp.lang.java.help" source="2225971" target="2179241">
+	<data key="topic">comp.lang.java.help</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2197944-2225971-comp.lang.java.help" source="2197944" target="2225971">
+	<data key="topic">comp.lang.java.help</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2197944-2191737-comp.lang.java.help" source="2197944" target="2191737">
+	<data key="topic">comp.lang.java.help</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2791645-2225971-comp.lang.java.help" source="2791645" target="2225971">
+	<data key="topic">comp.lang.java.help</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2191737-2225971-comp.lang.java.help" source="2191737" target="2225971">
+	<data key="topic">comp.lang.java.help</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2193600-2225971-comp.lang.java.help" source="2193600" target="2225971">
+	<data key="topic">comp.lang.java.help</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2866677-2864763-comp.lang.java.help" source="2866677" target="2864763">
+	<data key="topic">comp.lang.java.help</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2866677-2851139-comp.lang.java.help" source="2866677" target="2851139">
+	<data key="topic">comp.lang.java.help</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2828400-2225971-comp.lang.java.help" source="2828400" target="2225971">
+	<data key="topic">comp.lang.java.help</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2828400-182151-comp.lang.java.help" source="2828400" target="182151">
+	<data key="topic">comp.lang.java.help</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2851139-2864763-comp.lang.java.help" source="2851139" target="2864763">
+	<data key="topic">comp.lang.java.help</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2829608-2225971-comp.lang.java.help" source="2829608" target="2225971">
+	<data key="topic">comp.lang.java.help</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2829608-2191737-comp.lang.java.help" source="2829608" target="2191737">
+	<data key="topic">comp.lang.java.help</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2829608-2179241-comp.lang.java.help" source="2829608" target="2179241">
+	<data key="topic">comp.lang.java.help</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

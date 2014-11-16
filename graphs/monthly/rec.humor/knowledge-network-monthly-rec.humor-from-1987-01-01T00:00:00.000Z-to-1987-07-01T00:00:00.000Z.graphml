@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="391525"/>
+<node id="1501812"/>
+<node id="391697"/>
+<node id="391489"/>
+<node id="933897"/>
+<node id="730798"/>
+<node id="927961"/>
+<node id="339107"/>
+<node id="19930"/>
+<node id="919512"/>
+<node id="393584"/>
+<node id="16239"/>
+<edge id="391525-391697-rec.humor" source="391525" target="391697">
+	<data key="topic">rec.humor</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391525-391489-rec.humor" source="391525" target="391489">
+	<data key="topic">rec.humor</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391525-16239-rec.humor" source="391525" target="16239">
+	<data key="topic">rec.humor</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="730798-933897-rec.humor" source="730798" target="933897">
+	<data key="topic">rec.humor</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="927961-933897-rec.humor" source="927961" target="933897">
+	<data key="topic">rec.humor</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="927961-730798-rec.humor" source="927961" target="730798">
+	<data key="topic">rec.humor</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="927961-339107-rec.humor" source="927961" target="339107">
+	<data key="topic">rec.humor</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="927961-919512-rec.humor" source="927961" target="919512">
+	<data key="topic">rec.humor</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339107-933897-rec.humor" source="339107" target="933897">
+	<data key="topic">rec.humor</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339107-730798-rec.humor" source="339107" target="730798">
+	<data key="topic">rec.humor</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339107-919512-rec.humor" source="339107" target="919512">
+	<data key="topic">rec.humor</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19930-1501812-rec.humor" source="19930" target="1501812">
+	<data key="topic">rec.humor</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919512-933897-rec.humor" source="919512" target="933897">
+	<data key="topic">rec.humor</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919512-730798-rec.humor" source="919512" target="730798">
+	<data key="topic">rec.humor</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="393584-933897-rec.humor" source="393584" target="933897">
+	<data key="topic">rec.humor</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="393584-730798-rec.humor" source="393584" target="730798">
+	<data key="topic">rec.humor</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="393584-339107-rec.humor" source="393584" target="339107">
+	<data key="topic">rec.humor</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="393584-919512-rec.humor" source="393584" target="919512">
+	<data key="topic">rec.humor</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

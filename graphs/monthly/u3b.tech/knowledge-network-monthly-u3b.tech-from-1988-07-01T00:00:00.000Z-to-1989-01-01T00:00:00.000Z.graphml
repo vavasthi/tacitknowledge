@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="29489"/>
+<node id="25042"/>
+<node id="15511"/>
+<node id="510383"/>
+<node id="543188"/>
+<node id="34719"/>
+<node id="31487"/>
+<node id="367579"/>
+<edge id="15511-25042-u3b.tech" source="15511" target="25042">
+	<data key="topic">u3b.tech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="543188-29489-u3b.tech" source="543188" target="29489">
+	<data key="topic">u3b.tech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="543188-31487-u3b.tech" source="543188" target="31487">
+	<data key="topic">u3b.tech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="34719-510383-u3b.tech" source="34719" target="510383">
+	<data key="topic">u3b.tech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="367579-29489-u3b.tech" source="367579" target="29489">
+	<data key="topic">u3b.tech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="367579-15511-u3b.tech" source="367579" target="15511">
+	<data key="topic">u3b.tech</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

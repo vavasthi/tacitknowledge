@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1077121"/>
+<node id="274"/>
+<node id="352885"/>
+<node id="413780"/>
+<node id="279"/>
+<node id="1172362"/>
+<node id="282"/>
+<node id="283"/>
+<node id="853972"/>
+<node id="224"/>
+<node id="226"/>
+<node id="779945"/>
+<node id="651310"/>
+<node id="2412"/>
+<node id="268"/>
+<node id="844"/>
+<node id="271"/>
+<node id="272"/>
+<edge id="1077121-282-bionet.population-bio" source="1077121" target="282">
+	<data key="topic">bionet.population-bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1077121-224-bionet.population-bio" source="1077121" target="224">
+	<data key="topic">bionet.population-bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1077121-272-bionet.population-bio" source="1077121" target="272">
+	<data key="topic">bionet.population-bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="274-282-bionet.population-bio" source="274" target="282">
+	<data key="topic">bionet.population-bio</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="352885-651310-bionet.population-bio" source="352885" target="651310">
+	<data key="topic">bionet.population-bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="352885-271-bionet.population-bio" source="352885" target="271">
+	<data key="topic">bionet.population-bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="279-274-bionet.population-bio" source="279" target="274">
+	<data key="topic">bionet.population-bio</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="279-282-bionet.population-bio" source="279" target="282">
+	<data key="topic">bionet.population-bio</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="224-282-bionet.population-bio" source="224" target="282">
+	<data key="topic">bionet.population-bio</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="224-272-bionet.population-bio" source="224" target="272">
+	<data key="topic">bionet.population-bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="226-2412-bionet.population-bio" source="226" target="2412">
+	<data key="topic">bionet.population-bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="779945-413780-bionet.population-bio" source="779945" target="413780">
+	<data key="topic">bionet.population-bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="651310-853972-bionet.population-bio" source="651310" target="853972">
+	<data key="topic">bionet.population-bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="651310-271-bionet.population-bio" source="651310" target="271">
+	<data key="topic">bionet.population-bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="268-283-bionet.population-bio" source="268" target="283">
+	<data key="topic">bionet.population-bio</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="844-271-bionet.population-bio" source="844" target="271">
+	<data key="topic">bionet.population-bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="272-1172362-bionet.population-bio" source="272" target="1172362">
+	<data key="topic">bionet.population-bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="272-282-bionet.population-bio" source="272" target="282">
+	<data key="topic">bionet.population-bio</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="272-224-bionet.population-bio" source="272" target="224">
+	<data key="topic">bionet.population-bio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="272-271-bionet.population-bio" source="272" target="271">
+	<data key="topic">bionet.population-bio</data>
+	<data key="weight">2</data>
+</edge>
+</graph>
+</graphml>

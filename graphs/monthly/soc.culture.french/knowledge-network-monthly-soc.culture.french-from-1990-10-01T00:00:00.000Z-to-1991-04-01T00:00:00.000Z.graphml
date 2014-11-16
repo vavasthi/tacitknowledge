@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1941950"/>
+<node id="642281"/>
+<node id="880640"/>
+<node id="412449"/>
+<node id="351038"/>
+<node id="1153370"/>
+<node id="2351"/>
+<node id="444314"/>
+<edge id="1941950-444314-soc.culture.french" source="1941950" target="444314">
+	<data key="topic">soc.culture.french</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="880640-444314-soc.culture.french" source="880640" target="444314">
+	<data key="topic">soc.culture.french</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="412449-444314-soc.culture.french" source="412449" target="444314">
+	<data key="topic">soc.culture.french</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2351-642281-soc.culture.french" source="2351" target="642281">
+	<data key="topic">soc.culture.french</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2351-351038-soc.culture.french" source="2351" target="351038">
+	<data key="topic">soc.culture.french</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2351-1153370-soc.culture.french" source="2351" target="1153370">
+	<data key="topic">soc.culture.french</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="444314-880640-soc.culture.french" source="444314" target="880640">
+	<data key="topic">soc.culture.french</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

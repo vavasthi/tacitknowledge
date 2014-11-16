@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1237284"/>
+<node id="1237282"/>
+<node id="2765888"/>
+<node id="35863"/>
+<node id="1237286"/>
+<node id="697758"/>
+<node id="1193254"/>
+<node id="788892"/>
+<node id="349087"/>
+<node id="812056"/>
+<node id="1237295"/>
+<node id="28959"/>
+<node id="1193262"/>
+<node id="1206417"/>
+<node id="510244"/>
+<node id="1702"/>
+<node id="1193"/>
+<node id="1237280"/>
+<node id="709798"/>
+<node id="2765894"/>
+<node id="696764"/>
+<node id="909368"/>
+<node id="850398"/>
+<node id="802656"/>
+<node id="13268"/>
+<node id="509908"/>
+<node id="24662"/>
+<node id="1164776"/>
+<node id="612050"/>
+<node id="802646"/>
+<node id="3292"/>
+<node id="30817"/>
+<node id="515687"/>
+<node id="15204"/>
+<node id="28900"/>
+<node id="376679"/>
+<node id="32357"/>
+<node id="743533"/>
+<node id="2690575"/>
+<node id="802661"/>
+<node id="2033"/>
+<node id="739449"/>
+<node id="1015"/>
+<node id="1285003"/>
+<node id="2131034"/>
+<node id="509310"/>
+<node id="434681"/>
+<node id="4865"/>
+<node id="548875"/>
+<node id="609551"/>
+<node id="1528817"/>
+<node id="512142"/>
+<node id="709506"/>
+<node id="17165"/>
+<edge id="1237284-2033-comp.compilers" source="1237284" target="2033">
+	<data key="topic">comp.compilers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="788892-376679-comp.compilers" source="788892" target="376679">
+	<data key="topic">comp.compilers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="349087-709798-comp.compilers" source="349087" target="709798">
+	<data key="topic">comp.compilers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="349087-24662-comp.compilers" source="349087" target="24662">
+	<data key="topic">comp.compilers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="349087-515687-comp.compilers" source="349087" target="515687">
+	<data key="topic">comp.compilers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="349087-512142-comp.compilers" source="349087" target="512142">
+	<data key="topic">comp.compilers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="812056-15204-comp.compilers" source="812056" target="15204">
+	<data key="topic">comp.compilers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28959-35863-comp.compilers" source="28959" target="35863">
+	<data key="topic">comp.compilers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1193262-2690575-comp.compilers" source="1193262" target="2690575">
+	<data key="topic">comp.compilers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510244-1164776-comp.compilers" source="510244" target="1164776">
+	<data key="topic">comp.compilers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1702-1193-comp.compilers" source="1702" target="1193">
+	<data key="topic">comp.compilers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1702-743533-comp.compilers" source="1702" target="743533">
+	<data key="topic">comp.compilers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1193-697758-comp.compilers" source="1193" target="697758">
+	<data key="topic">comp.compilers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2765894-3292-comp.compilers" source="2765894" target="3292">
+	<data key="topic">comp.compilers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696764-509310-comp.compilers" source="696764" target="509310">
+	<data key="topic">comp.compilers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="909368-2765888-comp.compilers" source="909368" target="2765888">
+	<data key="topic">comp.compilers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="909368-15204-comp.compilers" source="909368" target="15204">
+	<data key="topic">comp.compilers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="850398-13268-comp.compilers" source="850398" target="13268">
+	<data key="topic">comp.compilers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="802656-1237295-comp.compilers" source="802656" target="1237295">
+	<data key="topic">comp.compilers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509908-1193-comp.compilers" source="509908" target="1193">
+	<data key="topic">comp.compilers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24662-709798-comp.compilers" source="24662" target="709798">
+	<data key="topic">comp.compilers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24662-802646-comp.compilers" source="24662" target="802646">
+	<data key="topic">comp.compilers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24662-2033-comp.compilers" source="24662" target="2033">
+	<data key="topic">comp.compilers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="612050-24662-comp.compilers" source="612050" target="24662">
+	<data key="topic">comp.compilers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="612050-2033-comp.compilers" source="612050" target="2033">
+	<data key="topic">comp.compilers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="612050-739449-comp.compilers" source="612050" target="739449">
+	<data key="topic">comp.compilers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="515687-709798-comp.compilers" source="515687" target="709798">
+	<data key="topic">comp.compilers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="515687-24662-comp.compilers" source="515687" target="24662">
+	<data key="topic">comp.compilers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="515687-512142-comp.compilers" source="515687" target="512142">
+	<data key="topic">comp.compilers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15204-2765888-comp.compilers" source="15204" target="2765888">
+	<data key="topic">comp.compilers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28900-3292-comp.compilers" source="28900" target="3292">
+	<data key="topic">comp.compilers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="32357-1206417-comp.compilers" source="32357" target="1206417">
+	<data key="topic">comp.compilers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="743533-1193-comp.compilers" source="743533" target="1193">
+	<data key="topic">comp.compilers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="802661-24662-comp.compilers" source="802661" target="24662">
+	<data key="topic">comp.compilers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="802661-802646-comp.compilers" source="802661" target="802646">
+	<data key="topic">comp.compilers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="739449-24662-comp.compilers" source="739449" target="24662">
+	<data key="topic">comp.compilers</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="739449-2033-comp.compilers" source="739449" target="2033">
+	<data key="topic">comp.compilers</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1015-1237286-comp.compilers" source="1015" target="1237286">
+	<data key="topic">comp.compilers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="434681-1193254-comp.compilers" source="434681" target="1193254">
+	<data key="topic">comp.compilers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4865-697758-comp.compilers" source="4865" target="697758">
+	<data key="topic">comp.compilers</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="4865-1193-comp.compilers" source="4865" target="1193">
+	<data key="topic">comp.compilers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="548875-24662-comp.compilers" source="548875" target="24662">
+	<data key="topic">comp.compilers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="548875-30817-comp.compilers" source="548875" target="30817">
+	<data key="topic">comp.compilers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="609551-2131034-comp.compilers" source="609551" target="2131034">
+	<data key="topic">comp.compilers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1528817-739449-comp.compilers" source="1528817" target="739449">
+	<data key="topic">comp.compilers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="512142-1237280-comp.compilers" source="512142" target="1237280">
+	<data key="topic">comp.compilers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="709506-1237282-comp.compilers" source="709506" target="1237282">
+	<data key="topic">comp.compilers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17165-1285003-comp.compilers" source="17165" target="1285003">
+	<data key="topic">comp.compilers</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

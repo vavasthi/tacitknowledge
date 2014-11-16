@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="611930"/>
+<node id="1236193"/>
+<node id="554523"/>
+<node id="621915"/>
+<node id="617310"/>
+<node id="2518387"/>
+<node id="349073"/>
+<node id="1540067"/>
+<node id="511441"/>
+<node id="29977"/>
+<node id="1010326"/>
+<node id="1013718"/>
+<node id="865559"/>
+<node id="1696"/>
+<node id="445082"/>
+<node id="1670183"/>
+<node id="374566"/>
+<node id="696361"/>
+<node id="2571920"/>
+<node id="20971"/>
+<node id="7087"/>
+<node id="550695"/>
+<node id="371755"/>
+<node id="402612"/>
+<node id="520243"/>
+<node id="2518545"/>
+<node id="651660"/>
+<node id="2884"/>
+<node id="622093"/>
+<node id="2518564"/>
+<node id="621840"/>
+<node id="610639"/>
+<node id="371086"/>
+<node id="2518256"/>
+<node id="15691"/>
+<node id="790082"/>
+<node id="434188"/>
+<edge id="611930-696361-rec.arts.movies" source="611930" target="696361">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1236193-696361-rec.arts.movies" source="1236193" target="696361">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1236193-790082-rec.arts.movies" source="1236193" target="790082">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="554523-1010326-rec.arts.movies" source="554523" target="1010326">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="621915-1236193-rec.arts.movies" source="621915" target="1236193">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="621915-1696-rec.arts.movies" source="621915" target="1696">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="621915-7087-rec.arts.movies" source="621915" target="7087">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="617310-1696-rec.arts.movies" source="617310" target="1696">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="617310-696361-rec.arts.movies" source="617310" target="696361">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1540067-865559-rec.arts.movies" source="1540067" target="865559">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1540067-696361-rec.arts.movies" source="1540067" target="696361">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="29977-621915-rec.arts.movies" source="29977" target="621915">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29977-349073-rec.arts.movies" source="29977" target="349073">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29977-511441-rec.arts.movies" source="29977" target="511441">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="29977-1696-rec.arts.movies" source="29977" target="1696">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29977-445082-rec.arts.movies" source="29977" target="445082">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="29977-696361-rec.arts.movies" source="29977" target="696361">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">7</data>
+</edge>
+<edge id="29977-2884-rec.arts.movies" source="29977" target="2884">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="29977-622093-rec.arts.movies" source="29977" target="622093">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29977-2518564-rec.arts.movies" source="29977" target="2518564">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1013718-621915-rec.arts.movies" source="1013718" target="621915">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1013718-621840-rec.arts.movies" source="1013718" target="621840">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1696-696361-rec.arts.movies" source="1696" target="696361">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="1696-622093-rec.arts.movies" source="1696" target="622093">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="445082-696361-rec.arts.movies" source="445082" target="696361">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1670183-696361-rec.arts.movies" source="1670183" target="696361">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1670183-2884-rec.arts.movies" source="1670183" target="2884">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696361-611930-rec.arts.movies" source="696361" target="611930">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696361-1236193-rec.arts.movies" source="696361" target="1236193">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="696361-621915-rec.arts.movies" source="696361" target="621915">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696361-2518387-rec.arts.movies" source="696361" target="2518387">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696361-865559-rec.arts.movies" source="696361" target="865559">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696361-1696-rec.arts.movies" source="696361" target="1696">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="696361-445082-rec.arts.movies" source="696361" target="445082">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="696361-520243-rec.arts.movies" source="696361" target="520243">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696361-651660-rec.arts.movies" source="696361" target="651660">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696361-2884-rec.arts.movies" source="696361" target="2884">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="696361-622093-rec.arts.movies" source="696361" target="622093">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696361-610639-rec.arts.movies" source="696361" target="610639">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696361-790082-rec.arts.movies" source="696361" target="790082">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="20971-611930-rec.arts.movies" source="20971" target="611930">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20971-621915-rec.arts.movies" source="20971" target="621915">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20971-1696-rec.arts.movies" source="20971" target="1696">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20971-696361-rec.arts.movies" source="20971" target="696361">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="20971-621840-rec.arts.movies" source="20971" target="621840">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7087-1696-rec.arts.movies" source="7087" target="1696">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7087-445082-rec.arts.movies" source="7087" target="445082">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7087-696361-rec.arts.movies" source="7087" target="696361">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="371755-1236193-rec.arts.movies" source="371755" target="1236193">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="371755-696361-rec.arts.movies" source="371755" target="696361">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="371755-790082-rec.arts.movies" source="371755" target="790082">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="402612-445082-rec.arts.movies" source="402612" target="445082">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="402612-696361-rec.arts.movies" source="402612" target="696361">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="402612-2884-rec.arts.movies" source="402612" target="2884">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="520243-696361-rec.arts.movies" source="520243" target="696361">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2518545-696361-rec.arts.movies" source="2518545" target="696361">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2518545-520243-rec.arts.movies" source="2518545" target="520243">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="651660-696361-rec.arts.movies" source="651660" target="696361">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="651660-550695-rec.arts.movies" source="651660" target="550695">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2884-445082-rec.arts.movies" source="2884" target="445082">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2884-696361-rec.arts.movies" source="2884" target="696361">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="622093-1236193-rec.arts.movies" source="622093" target="1236193">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="622093-1696-rec.arts.movies" source="622093" target="1696">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="622093-445082-rec.arts.movies" source="622093" target="445082">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="622093-696361-rec.arts.movies" source="622093" target="696361">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">7</data>
+</edge>
+<edge id="622093-2884-rec.arts.movies" source="622093" target="2884">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="622093-790082-rec.arts.movies" source="622093" target="790082">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="610639-1696-rec.arts.movies" source="610639" target="1696">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="610639-696361-rec.arts.movies" source="610639" target="696361">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2518256-445082-rec.arts.movies" source="2518256" target="445082">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2518256-696361-rec.arts.movies" source="2518256" target="696361">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15691-374566-rec.arts.movies" source="15691" target="374566">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15691-2571920-rec.arts.movies" source="15691" target="2571920">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15691-371086-rec.arts.movies" source="15691" target="371086">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="790082-696361-rec.arts.movies" source="790082" target="696361">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="434188-865559-rec.arts.movies" source="434188" target="865559">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="434188-696361-rec.arts.movies" source="434188" target="696361">
+	<data key="topic">rec.arts.movies</data>
+	<data key="weight">2</data>
+</edge>
+</graph>
+</graphml>

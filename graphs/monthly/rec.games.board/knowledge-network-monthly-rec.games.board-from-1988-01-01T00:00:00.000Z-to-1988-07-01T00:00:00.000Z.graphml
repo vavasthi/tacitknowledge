@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="599129"/>
+<node id="589361"/>
+<node id="22255"/>
+<node id="537831"/>
+<edge id="589361-599129-rec.games.board" source="589361" target="599129">
+	<data key="topic">rec.games.board</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="22255-599129-rec.games.board" source="22255" target="599129">
+	<data key="topic">rec.games.board</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="22255-589361-rec.games.board" source="22255" target="589361">
+	<data key="topic">rec.games.board</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="537831-599129-rec.games.board" source="537831" target="599129">
+	<data key="topic">rec.games.board</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="537831-589361-rec.games.board" source="537831" target="589361">
+	<data key="topic">rec.games.board</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="537831-22255-rec.games.board" source="537831" target="22255">
+	<data key="topic">rec.games.board</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

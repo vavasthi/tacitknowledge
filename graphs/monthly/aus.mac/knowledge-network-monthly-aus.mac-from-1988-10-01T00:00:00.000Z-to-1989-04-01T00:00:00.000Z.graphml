@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="739004"/>
+<node id="509943"/>
+<node id="514678"/>
+<node id="515299"/>
+<node id="515186"/>
+<node id="1385246"/>
+<node id="30442"/>
+<node id="511835"/>
+<edge id="509943-515186-aus.mac" source="509943" target="515186">
+	<data key="topic">aus.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="514678-515186-aus.mac" source="514678" target="515186">
+	<data key="topic">aus.mac</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="515299-515186-aus.mac" source="515299" target="515186">
+	<data key="topic">aus.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="515299-1385246-aus.mac" source="515299" target="1385246">
+	<data key="topic">aus.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="515299-30442-aus.mac" source="515299" target="30442">
+	<data key="topic">aus.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="511835-739004-aus.mac" source="511835" target="739004">
+	<data key="topic">aus.mac</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

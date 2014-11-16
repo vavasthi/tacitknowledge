@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2581687"/>
+<node id="15667"/>
+<node id="1922768"/>
+<node id="965230"/>
+<node id="17158"/>
+<node id="5625"/>
+<node id="14922"/>
+<node id="1129417"/>
+<node id="592113"/>
+<node id="32173"/>
+<node id="2581691"/>
+<edge id="2581687-592113-comp.org.decus" source="2581687" target="592113">
+	<data key="topic">comp.org.decus</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17158-2581691-comp.org.decus" source="17158" target="2581691">
+	<data key="topic">comp.org.decus</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5625-965230-comp.org.decus" source="5625" target="965230">
+	<data key="topic">comp.org.decus</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="14922-15667-comp.org.decus" source="14922" target="15667">
+	<data key="topic">comp.org.decus</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1129417-592113-comp.org.decus" source="1129417" target="592113">
+	<data key="topic">comp.org.decus</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="32173-1922768-comp.org.decus" source="32173" target="1922768">
+	<data key="topic">comp.org.decus</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

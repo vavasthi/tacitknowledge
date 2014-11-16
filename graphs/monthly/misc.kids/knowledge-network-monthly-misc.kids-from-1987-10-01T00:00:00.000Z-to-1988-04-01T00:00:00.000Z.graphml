@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="20084"/>
+<node id="20118"/>
+<node id="15288"/>
+<node id="21176"/>
+<node id="458929"/>
+<node id="18553"/>
+<node id="15579"/>
+<node id="505958"/>
+<node id="20036"/>
+<node id="489540"/>
+<node id="661359"/>
+<node id="15462"/>
+<node id="18503"/>
+<node id="963944"/>
+<node id="20971"/>
+<node id="16816"/>
+<node id="20496"/>
+<edge id="20084-20118-misc.kids" source="20084" target="20118">
+	<data key="topic">misc.kids</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20084-20036-misc.kids" source="20084" target="20036">
+	<data key="topic">misc.kids</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20084-489540-misc.kids" source="20084" target="489540">
+	<data key="topic">misc.kids</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20118-20084-misc.kids" source="20118" target="20084">
+	<data key="topic">misc.kids</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20118-20036-misc.kids" source="20118" target="20036">
+	<data key="topic">misc.kids</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="20118-489540-misc.kids" source="20118" target="489540">
+	<data key="topic">misc.kids</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="15288-20084-misc.kids" source="15288" target="20084">
+	<data key="topic">misc.kids</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15288-20118-misc.kids" source="15288" target="20118">
+	<data key="topic">misc.kids</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="15288-20036-misc.kids" source="15288" target="20036">
+	<data key="topic">misc.kids</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15288-489540-misc.kids" source="15288" target="489540">
+	<data key="topic">misc.kids</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="21176-15462-misc.kids" source="21176" target="15462">
+	<data key="topic">misc.kids</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15579-489540-misc.kids" source="15579" target="489540">
+	<data key="topic">misc.kids</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="505958-15579-misc.kids" source="505958" target="15579">
+	<data key="topic">misc.kids</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="505958-489540-misc.kids" source="505958" target="489540">
+	<data key="topic">misc.kids</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20036-489540-misc.kids" source="20036" target="489540">
+	<data key="topic">misc.kids</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="661359-489540-misc.kids" source="661359" target="489540">
+	<data key="topic">misc.kids</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18503-18553-misc.kids" source="18503" target="18553">
+	<data key="topic">misc.kids</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="963944-18553-misc.kids" source="963944" target="18553">
+	<data key="topic">misc.kids</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20971-458929-misc.kids" source="20971" target="458929">
+	<data key="topic">misc.kids</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16816-21176-misc.kids" source="16816" target="21176">
+	<data key="topic">misc.kids</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16816-15462-misc.kids" source="16816" target="15462">
+	<data key="topic">misc.kids</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20496-489540-misc.kids" source="20496" target="489540">
+	<data key="topic">misc.kids</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20496-661359-misc.kids" source="20496" target="661359">
+	<data key="topic">misc.kids</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

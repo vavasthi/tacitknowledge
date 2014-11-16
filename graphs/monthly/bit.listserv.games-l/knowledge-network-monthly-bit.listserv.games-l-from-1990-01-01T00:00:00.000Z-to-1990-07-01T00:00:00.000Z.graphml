@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="621194"/>
+<node id="1616874"/>
+<node id="621209"/>
+<node id="1616891"/>
+<node id="620926"/>
+<node id="1616862"/>
+<node id="1013547"/>
+<node id="416097"/>
+<node id="1616886"/>
+<node id="1616855"/>
+<node id="431338"/>
+<node id="621175"/>
+<edge id="1616891-1616855-bit.listserv.games-l" source="1616891" target="1616855">
+	<data key="topic">bit.listserv.games-l</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1616862-620926-bit.listserv.games-l" source="1616862" target="620926">
+	<data key="topic">bit.listserv.games-l</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1616862-1013547-bit.listserv.games-l" source="1616862" target="1013547">
+	<data key="topic">bit.listserv.games-l</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="416097-621194-bit.listserv.games-l" source="416097" target="621194">
+	<data key="topic">bit.listserv.games-l</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="431338-1616886-bit.listserv.games-l" source="431338" target="1616886">
+	<data key="topic">bit.listserv.games-l</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="621175-1616874-bit.listserv.games-l" source="621175" target="1616874">
+	<data key="topic">bit.listserv.games-l</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="621175-621209-bit.listserv.games-l" source="621175" target="621209">
+	<data key="topic">bit.listserv.games-l</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

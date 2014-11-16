@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="921913"/>
+<node id="344127"/>
+<node id="923892"/>
+<node id="16063"/>
+<node id="923888"/>
+<node id="338533"/>
+<node id="392805"/>
+<node id="15331"/>
+<node id="345922"/>
+<node id="6022"/>
+<node id="394800"/>
+<node id="15243"/>
+<node id="20013"/>
+<edge id="344127-15331-net.audio" source="344127" target="15331">
+	<data key="topic">net.audio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="344127-394800-net.audio" source="344127" target="394800">
+	<data key="topic">net.audio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="923892-16063-net.audio" source="923892" target="16063">
+	<data key="topic">net.audio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="923892-923888-net.audio" source="923892" target="923888">
+	<data key="topic">net.audio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="923892-345922-net.audio" source="923892" target="345922">
+	<data key="topic">net.audio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="923892-15243-net.audio" source="923892" target="15243">
+	<data key="topic">net.audio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16063-923888-net.audio" source="16063" target="923888">
+	<data key="topic">net.audio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="923888-6022-net.audio" source="923888" target="6022">
+	<data key="topic">net.audio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338533-394800-net.audio" source="338533" target="394800">
+	<data key="topic">net.audio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392805-16063-net.audio" source="392805" target="16063">
+	<data key="topic">net.audio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392805-923888-net.audio" source="392805" target="923888">
+	<data key="topic">net.audio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392805-345922-net.audio" source="392805" target="345922">
+	<data key="topic">net.audio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15243-16063-net.audio" source="15243" target="16063">
+	<data key="topic">net.audio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15243-923888-net.audio" source="15243" target="923888">
+	<data key="topic">net.audio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15243-345922-net.audio" source="15243" target="345922">
+	<data key="topic">net.audio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20013-921913-net.audio" source="20013" target="921913">
+	<data key="topic">net.audio</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="20013-16063-net.audio" source="20013" target="16063">
+	<data key="topic">net.audio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20013-923888-net.audio" source="20013" target="923888">
+	<data key="topic">net.audio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20013-345922-net.audio" source="20013" target="345922">
+	<data key="topic">net.audio</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

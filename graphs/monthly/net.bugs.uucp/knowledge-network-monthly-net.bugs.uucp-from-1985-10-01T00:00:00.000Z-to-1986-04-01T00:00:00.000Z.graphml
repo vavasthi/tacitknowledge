@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="488727"/>
+<node id="488599"/>
+<node id="984223"/>
+<node id="521873"/>
+<node id="665374"/>
+<node id="483473"/>
+<node id="486289"/>
+<node id="502429"/>
+<node id="341914"/>
+<node id="472475"/>
+<node id="2849"/>
+<node id="485416"/>
+<node id="397735"/>
+<node id="23333"/>
+<node id="392225"/>
+<node id="2486478"/>
+<node id="397487"/>
+<node id="485424"/>
+<node id="474286"/>
+<node id="339760"/>
+<node id="34739"/>
+<node id="390712"/>
+<node id="16052"/>
+<node id="1911113"/>
+<node id="486962"/>
+<node id="483648"/>
+<node id="341950"/>
+<node id="482880"/>
+<node id="483897"/>
+<node id="466361"/>
+<node id="1467447"/>
+<node id="465862"/>
+<node id="15945"/>
+<node id="14922"/>
+<node id="341965"/>
+<node id="29006"/>
+<node id="483658"/>
+<node id="484810"/>
+<node id="338134"/>
+<node id="341718"/>
+<node id="466386"/>
+<node id="490706"/>
+<node id="489169"/>
+<node id="337376"/>
+<node id="493927"/>
+<node id="16099"/>
+<node id="469220"/>
+<node id="16106"/>
+<node id="396909"/>
+<node id="391934"/>
+<node id="491515"/>
+<node id="17537"/>
+<node id="491911"/>
+<node id="464133"/>
+<node id="724489"/>
+<node id="338308"/>
+<node id="487297"/>
+<node id="447234"/>
+<node id="500238"/>
+<node id="17420"/>
+<edge id="488727-2849-net.bugs.uucp" source="488727" target="2849">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="488727-23333-net.bugs.uucp" source="488727" target="23333">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="488727-486962-net.bugs.uucp" source="488727" target="486962">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="488727-341965-net.bugs.uucp" source="488727" target="341965">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="488727-483658-net.bugs.uucp" source="488727" target="483658">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="488727-17420-net.bugs.uucp" source="488727" target="17420">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="488599-483897-net.bugs.uucp" source="488599" target="483897">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="984223-465862-net.bugs.uucp" source="984223" target="465862">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="483473-482880-net.bugs.uucp" source="483473" target="482880">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="483473-483658-net.bugs.uucp" source="483473" target="483658">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="483473-491911-net.bugs.uucp" source="483473" target="491911">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="502429-472475-net.bugs.uucp" source="502429" target="472475">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341914-341718-net.bugs.uucp" source="341914" target="341718">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="472475-469220-net.bugs.uucp" source="472475" target="469220">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2849-17420-net.bugs.uucp" source="2849" target="17420">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="397735-483897-net.bugs.uucp" source="397735" target="483897">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23333-2849-net.bugs.uucp" source="23333" target="2849">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23333-17420-net.bugs.uucp" source="23333" target="17420">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392225-483658-net.bugs.uucp" source="392225" target="483658">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="485424-2849-net.bugs.uucp" source="485424" target="2849">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="485424-23333-net.bugs.uucp" source="485424" target="23333">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="485424-17420-net.bugs.uucp" source="485424" target="17420">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="474286-34739-net.bugs.uucp" source="474286" target="34739">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="474286-390712-net.bugs.uucp" source="474286" target="390712">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339760-1911113-net.bugs.uucp" source="339760" target="1911113">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339760-482880-net.bugs.uucp" source="339760" target="482880">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="34739-474286-net.bugs.uucp" source="34739" target="474286">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="34739-390712-net.bugs.uucp" source="34739" target="390712">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="390712-521873-net.bugs.uucp" source="390712" target="521873">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390712-2849-net.bugs.uucp" source="390712" target="2849">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390712-34739-net.bugs.uucp" source="390712" target="34739">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390712-16106-net.bugs.uucp" source="390712" target="16106">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390712-338308-net.bugs.uucp" source="390712" target="338308">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390712-17420-net.bugs.uucp" source="390712" target="17420">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16052-341965-net.bugs.uucp" source="16052" target="341965">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="16052-483658-net.bugs.uucp" source="16052" target="483658">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1911113-482880-net.bugs.uucp" source="1911113" target="482880">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="486962-2849-net.bugs.uucp" source="486962" target="2849">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="486962-23333-net.bugs.uucp" source="486962" target="23333">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="486962-17420-net.bugs.uucp" source="486962" target="17420">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="483648-488727-net.bugs.uucp" source="483648" target="488727">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="483648-341965-net.bugs.uucp" source="483648" target="341965">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="483648-483658-net.bugs.uucp" source="483648" target="483658">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341950-2849-net.bugs.uucp" source="341950" target="2849">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341950-29006-net.bugs.uucp" source="341950" target="29006">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341950-487297-net.bugs.uucp" source="341950" target="487297">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341950-17420-net.bugs.uucp" source="341950" target="17420">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="483897-392225-net.bugs.uucp" source="483897" target="392225">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="483897-483658-net.bugs.uucp" source="483897" target="483658">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="466361-464133-net.bugs.uucp" source="466361" target="464133">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15945-488727-net.bugs.uucp" source="15945" target="488727">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15945-341965-net.bugs.uucp" source="15945" target="341965">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15945-483658-net.bugs.uucp" source="15945" target="483658">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14922-1467447-net.bugs.uucp" source="14922" target="1467447">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14922-466386-net.bugs.uucp" source="14922" target="466386">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341965-483658-net.bugs.uucp" source="341965" target="483658">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="484810-488727-net.bugs.uucp" source="484810" target="488727">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="484810-341965-net.bugs.uucp" source="484810" target="341965">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="484810-483658-net.bugs.uucp" source="484810" target="483658">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338134-488727-net.bugs.uucp" source="338134" target="488727">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338134-341965-net.bugs.uucp" source="338134" target="341965">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338134-483658-net.bugs.uucp" source="338134" target="483658">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="466386-665374-net.bugs.uucp" source="466386" target="665374">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="466386-472475-net.bugs.uucp" source="466386" target="472475">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="466386-2849-net.bugs.uucp" source="466386" target="2849">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="466386-341950-net.bugs.uucp" source="466386" target="341950">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="466386-1467447-net.bugs.uucp" source="466386" target="1467447">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="466386-465862-net.bugs.uucp" source="466386" target="465862">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="466386-396909-net.bugs.uucp" source="466386" target="396909">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="466386-17420-net.bugs.uucp" source="466386" target="17420">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="490706-483473-net.bugs.uucp" source="490706" target="483473">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="490706-485416-net.bugs.uucp" source="490706" target="485416">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="490706-483658-net.bugs.uucp" source="490706" target="483658">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="489169-1467447-net.bugs.uucp" source="489169" target="1467447">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337376-485416-net.bugs.uucp" source="337376" target="485416">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337376-490706-net.bugs.uucp" source="337376" target="490706">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="493927-392225-net.bugs.uucp" source="493927" target="392225">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="493927-483658-net.bugs.uucp" source="493927" target="483658">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16099-2486478-net.bugs.uucp" source="16099" target="2486478">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16106-2849-net.bugs.uucp" source="16106" target="2849">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16106-17420-net.bugs.uucp" source="16106" target="17420">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="396909-2849-net.bugs.uucp" source="396909" target="2849">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="396909-341950-net.bugs.uucp" source="396909" target="341950">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="396909-17420-net.bugs.uucp" source="396909" target="17420">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391934-397487-net.bugs.uucp" source="391934" target="397487">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="491515-23333-net.bugs.uucp" source="491515" target="23333">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="491515-486962-net.bugs.uucp" source="491515" target="486962">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17537-488727-net.bugs.uucp" source="17537" target="488727">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17537-483648-net.bugs.uucp" source="17537" target="483648">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17537-341965-net.bugs.uucp" source="17537" target="341965">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17537-483658-net.bugs.uucp" source="17537" target="483658">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="491911-482880-net.bugs.uucp" source="491911" target="482880">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="724489-472475-net.bugs.uucp" source="724489" target="472475">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="724489-466386-net.bugs.uucp" source="724489" target="466386">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338308-341950-net.bugs.uucp" source="338308" target="341950">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338308-487297-net.bugs.uucp" source="338308" target="487297">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="447234-488727-net.bugs.uucp" source="447234" target="488727">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="447234-341965-net.bugs.uucp" source="447234" target="341965">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="447234-483658-net.bugs.uucp" source="447234" target="483658">
+	<data key="topic">net.bugs.uucp</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

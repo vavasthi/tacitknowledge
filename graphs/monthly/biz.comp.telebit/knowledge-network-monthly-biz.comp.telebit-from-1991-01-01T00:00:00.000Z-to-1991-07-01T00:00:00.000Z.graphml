@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="644604"/>
+<node id="353799"/>
+<node id="348963"/>
+<node id="348494"/>
+<node id="348893"/>
+<node id="358106"/>
+<node id="348908"/>
+<edge id="644604-348963-biz.comp.telebit" source="644604" target="348963">
+	<data key="topic">biz.comp.telebit</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="644604-348494-biz.comp.telebit" source="644604" target="348494">
+	<data key="topic">biz.comp.telebit</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="644604-348893-biz.comp.telebit" source="644604" target="348893">
+	<data key="topic">biz.comp.telebit</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="353799-348893-biz.comp.telebit" source="353799" target="348893">
+	<data key="topic">biz.comp.telebit</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348963-348893-biz.comp.telebit" source="348963" target="348893">
+	<data key="topic">biz.comp.telebit</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348494-348963-biz.comp.telebit" source="348494" target="348963">
+	<data key="topic">biz.comp.telebit</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348494-348893-biz.comp.telebit" source="348494" target="348893">
+	<data key="topic">biz.comp.telebit</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="358106-348963-biz.comp.telebit" source="358106" target="348963">
+	<data key="topic">biz.comp.telebit</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="358106-348494-biz.comp.telebit" source="358106" target="348494">
+	<data key="topic">biz.comp.telebit</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348908-348963-biz.comp.telebit" source="348908" target="348963">
+	<data key="topic">biz.comp.telebit</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348908-348494-biz.comp.telebit" source="348908" target="348494">
+	<data key="topic">biz.comp.telebit</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348908-348893-biz.comp.telebit" source="348908" target="348893">
+	<data key="topic">biz.comp.telebit</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="239059"/>
+<node id="141975"/>
+<node id="174072"/>
+<node id="41689"/>
+<node id="73948"/>
+<node id="41861"/>
+<node id="67590"/>
+<node id="237607"/>
+<node id="43975"/>
+<node id="96874"/>
+<node id="224236"/>
+<node id="204779"/>
+<node id="37227"/>
+<node id="39789"/>
+<node id="41166"/>
+<node id="38000"/>
+<edge id="239059-141975-sci.physics.computational" source="239059" target="141975">
+	<data key="topic">sci.physics.computational</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="239059-43975-sci.physics.computational" source="239059" target="43975">
+	<data key="topic">sci.physics.computational</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="239059-37227-sci.physics.computational" source="239059" target="37227">
+	<data key="topic">sci.physics.computational</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="141975-43975-sci.physics.computational" source="141975" target="43975">
+	<data key="topic">sci.physics.computational</data>
+	<data key="weight">18</data>
+</edge>
+<edge id="141975-37227-sci.physics.computational" source="141975" target="37227">
+	<data key="topic">sci.physics.computational</data>
+	<data key="weight">13</data>
+</edge>
+<edge id="174072-141975-sci.physics.computational" source="174072" target="141975">
+	<data key="topic">sci.physics.computational</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="174072-43975-sci.physics.computational" source="174072" target="43975">
+	<data key="topic">sci.physics.computational</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="174072-37227-sci.physics.computational" source="174072" target="37227">
+	<data key="topic">sci.physics.computational</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41689-141975-sci.physics.computational" source="41689" target="141975">
+	<data key="topic">sci.physics.computational</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41689-37227-sci.physics.computational" source="41689" target="37227">
+	<data key="topic">sci.physics.computational</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="41689-38000-sci.physics.computational" source="41689" target="38000">
+	<data key="topic">sci.physics.computational</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="73948-37227-sci.physics.computational" source="73948" target="37227">
+	<data key="topic">sci.physics.computational</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41861-73948-sci.physics.computational" source="41861" target="73948">
+	<data key="topic">sci.physics.computational</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="41861-37227-sci.physics.computational" source="41861" target="37227">
+	<data key="topic">sci.physics.computational</data>
+	<data key="weight">7</data>
+</edge>
+<edge id="41861-39789-sci.physics.computational" source="41861" target="39789">
+	<data key="topic">sci.physics.computational</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="67590-96874-sci.physics.computational" source="67590" target="96874">
+	<data key="topic">sci.physics.computational</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="67590-37227-sci.physics.computational" source="67590" target="37227">
+	<data key="topic">sci.physics.computational</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="237607-73948-sci.physics.computational" source="237607" target="73948">
+	<data key="topic">sci.physics.computational</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="237607-37227-sci.physics.computational" source="237607" target="37227">
+	<data key="topic">sci.physics.computational</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="43975-141975-sci.physics.computational" source="43975" target="141975">
+	<data key="topic">sci.physics.computational</data>
+	<data key="weight">24</data>
+</edge>
+<edge id="43975-174072-sci.physics.computational" source="43975" target="174072">
+	<data key="topic">sci.physics.computational</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="43975-73948-sci.physics.computational" source="43975" target="73948">
+	<data key="topic">sci.physics.computational</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="43975-37227-sci.physics.computational" source="43975" target="37227">
+	<data key="topic">sci.physics.computational</data>
+	<data key="weight">11</data>
+</edge>
+<edge id="96874-37227-sci.physics.computational" source="96874" target="37227">
+	<data key="topic">sci.physics.computational</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="224236-37227-sci.physics.computational" source="224236" target="37227">
+	<data key="topic">sci.physics.computational</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="204779-73948-sci.physics.computational" source="204779" target="73948">
+	<data key="topic">sci.physics.computational</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="204779-37227-sci.physics.computational" source="204779" target="37227">
+	<data key="topic">sci.physics.computational</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="37227-141975-sci.physics.computational" source="37227" target="141975">
+	<data key="topic">sci.physics.computational</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="37227-41689-sci.physics.computational" source="37227" target="41689">
+	<data key="topic">sci.physics.computational</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37227-73948-sci.physics.computational" source="37227" target="73948">
+	<data key="topic">sci.physics.computational</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="37227-41861-sci.physics.computational" source="37227" target="41861">
+	<data key="topic">sci.physics.computational</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37227-43975-sci.physics.computational" source="37227" target="43975">
+	<data key="topic">sci.physics.computational</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37227-96874-sci.physics.computational" source="37227" target="96874">
+	<data key="topic">sci.physics.computational</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37227-224236-sci.physics.computational" source="37227" target="224236">
+	<data key="topic">sci.physics.computational</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37227-204779-sci.physics.computational" source="37227" target="204779">
+	<data key="topic">sci.physics.computational</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="37227-41166-sci.physics.computational" source="37227" target="41166">
+	<data key="topic">sci.physics.computational</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37227-38000-sci.physics.computational" source="37227" target="38000">
+	<data key="topic">sci.physics.computational</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="39789-73948-sci.physics.computational" source="39789" target="73948">
+	<data key="topic">sci.physics.computational</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="39789-41861-sci.physics.computational" source="39789" target="41861">
+	<data key="topic">sci.physics.computational</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="39789-37227-sci.physics.computational" source="39789" target="37227">
+	<data key="topic">sci.physics.computational</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="41166-37227-sci.physics.computational" source="41166" target="37227">
+	<data key="topic">sci.physics.computational</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="38000-141975-sci.physics.computational" source="38000" target="141975">
+	<data key="topic">sci.physics.computational</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="38000-73948-sci.physics.computational" source="38000" target="73948">
+	<data key="topic">sci.physics.computational</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="38000-37227-sci.physics.computational" source="38000" target="37227">
+	<data key="topic">sci.physics.computational</data>
+	<data key="weight">4</data>
+</edge>
+</graph>
+</graphml>

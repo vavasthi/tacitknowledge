@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="719689"/>
+<node id="559452"/>
+<node id="2245"/>
+<node id="1867146"/>
+<node id="521586"/>
+<node id="10568"/>
+<node id="543728"/>
+<node id="719859"/>
+<node id="12906"/>
+<node id="23754"/>
+<node id="12940"/>
+<node id="719858"/>
+<edge id="559452-23754-uw.mfcf.bugs" source="559452" target="23754">
+	<data key="topic">uw.mfcf.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2245-12906-uw.mfcf.bugs" source="2245" target="12906">
+	<data key="topic">uw.mfcf.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521586-12940-uw.mfcf.bugs" source="521586" target="12940">
+	<data key="topic">uw.mfcf.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10568-1867146-uw.mfcf.bugs" source="10568" target="1867146">
+	<data key="topic">uw.mfcf.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10568-12906-uw.mfcf.bugs" source="10568" target="12906">
+	<data key="topic">uw.mfcf.bugs</data>
+	<data key="weight">6</data>
+</edge>
+<edge id="10568-23754-uw.mfcf.bugs" source="10568" target="23754">
+	<data key="topic">uw.mfcf.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10568-12940-uw.mfcf.bugs" source="10568" target="12940">
+	<data key="topic">uw.mfcf.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="543728-719689-uw.mfcf.bugs" source="543728" target="719689">
+	<data key="topic">uw.mfcf.bugs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="12906-10568-uw.mfcf.bugs" source="12906" target="10568">
+	<data key="topic">uw.mfcf.bugs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="12906-719859-uw.mfcf.bugs" source="12906" target="719859">
+	<data key="topic">uw.mfcf.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23754-10568-uw.mfcf.bugs" source="23754" target="10568">
+	<data key="topic">uw.mfcf.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23754-719859-uw.mfcf.bugs" source="23754" target="719859">
+	<data key="topic">uw.mfcf.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12940-719859-uw.mfcf.bugs" source="12940" target="719859">
+	<data key="topic">uw.mfcf.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12940-12906-uw.mfcf.bugs" source="12940" target="12906">
+	<data key="topic">uw.mfcf.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12940-23754-uw.mfcf.bugs" source="12940" target="23754">
+	<data key="topic">uw.mfcf.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="719858-12906-uw.mfcf.bugs" source="719858" target="12906">
+	<data key="topic">uw.mfcf.bugs</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

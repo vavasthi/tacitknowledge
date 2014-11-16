@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1086753"/>
+<node id="3474"/>
+<node id="386450"/>
+<node id="386321"/>
+<node id="786330"/>
+<node id="642205"/>
+<node id="358814"/>
+<node id="10906"/>
+<node id="1086762"/>
+<node id="1086766"/>
+<node id="11553"/>
+<node id="1086739"/>
+<node id="1086740"/>
+<node id="445606"/>
+<node id="362274"/>
+<node id="11558"/>
+<node id="786851"/>
+<node id="10929"/>
+<node id="11441"/>
+<node id="359094"/>
+<node id="734905"/>
+<node id="11446"/>
+<node id="411837"/>
+<node id="442814"/>
+<node id="1086797"/>
+<node id="1591624"/>
+<node id="716982"/>
+<node id="1086513"/>
+<node id="1078835"/>
+<node id="434117"/>
+<node id="557387"/>
+<node id="915407"/>
+<node id="10822"/>
+<node id="11336"/>
+<node id="644674"/>
+<node id="1086779"/>
+<node id="11595"/>
+<node id="855874"/>
+<node id="1286079"/>
+<node id="880708"/>
+<node id="36688"/>
+<node id="26833"/>
+<node id="386389"/>
+<node id="1874"/>
+<node id="944861"/>
+<node id="1750"/>
+<node id="4569"/>
+<node id="30041"/>
+<node id="618197"/>
+<node id="12255"/>
+<node id="1891"/>
+<node id="1893"/>
+<node id="11495"/>
+<node id="360"/>
+<node id="11880"/>
+<node id="365422"/>
+<node id="442862"/>
+<node id="10734"/>
+<node id="11502"/>
+<node id="1906"/>
+<node id="11257"/>
+<node id="2298"/>
+<node id="557426"/>
+<node id="2812"/>
+<node id="374650"/>
+<node id="855410"/>
+<node id="11519"/>
+<node id="2560"/>
+<node id="1078513"/>
+<node id="2307"/>
+<node id="12549"/>
+<node id="649357"/>
+<node id="835851"/>
+<node id="369422"/>
+<node id="371855"/>
+<node id="399"/>
+<edge id="386450-11336-comp.unix.xenix.sco" source="386450" target="11336">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="386321-1086740-comp.unix.xenix.sco" source="386321" target="1086740">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1086762-1086739-comp.unix.xenix.sco" source="1086762" target="1086739">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="445606-855410-comp.unix.xenix.sco" source="445606" target="855410">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362274-369422-comp.unix.xenix.sco" source="362274" target="369422">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11558-386321-comp.unix.xenix.sco" source="11558" target="386321">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="786851-1078835-comp.unix.xenix.sco" source="786851" target="1078835">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="786851-1891-comp.unix.xenix.sco" source="786851" target="1891">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="786851-2298-comp.unix.xenix.sco" source="786851" target="2298">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="10929-434117-comp.unix.xenix.sco" source="10929" target="434117">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10929-1874-comp.unix.xenix.sco" source="10929" target="1874">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10929-1893-comp.unix.xenix.sco" source="10929" target="1893">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11441-855410-comp.unix.xenix.sco" source="11441" target="855410">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="359094-1086739-comp.unix.xenix.sco" source="359094" target="1086739">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="359094-944861-comp.unix.xenix.sco" source="359094" target="944861">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="359094-374650-comp.unix.xenix.sco" source="359094" target="374650">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="734905-618197-comp.unix.xenix.sco" source="734905" target="618197">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="411837-30041-comp.unix.xenix.sco" source="411837" target="30041">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="442814-11441-comp.unix.xenix.sco" source="442814" target="11441">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="442814-855410-comp.unix.xenix.sco" source="442814" target="855410">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="434117-1893-comp.unix.xenix.sco" source="434117" target="1893">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11336-386450-comp.unix.xenix.sco" source="11336" target="386450">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11336-10906-comp.unix.xenix.sco" source="11336" target="10906">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11595-716982-comp.unix.xenix.sco" source="11595" target="716982">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11595-644674-comp.unix.xenix.sco" source="11595" target="644674">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1286079-855874-comp.unix.xenix.sco" source="1286079" target="855874">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="880708-1086797-comp.unix.xenix.sco" source="880708" target="1086797">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="880708-26833-comp.unix.xenix.sco" source="880708" target="26833">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="36688-11502-comp.unix.xenix.sco" source="36688" target="11502">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36688-557426-comp.unix.xenix.sco" source="36688" target="557426">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="386389-1078835-comp.unix.xenix.sco" source="386389" target="1078835">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="386389-1891-comp.unix.xenix.sco" source="386389" target="1891">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4569-618197-comp.unix.xenix.sco" source="4569" target="618197">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12255-1750-comp.unix.xenix.sco" source="12255" target="1750">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12255-10734-comp.unix.xenix.sco" source="12255" target="10734">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11495-1591624-comp.unix.xenix.sco" source="11495" target="1591624">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11495-12549-comp.unix.xenix.sco" source="11495" target="12549">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="360-11519-comp.unix.xenix.sco" source="360" target="11519">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="360-2307-comp.unix.xenix.sco" source="360" target="2307">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11880-30041-comp.unix.xenix.sco" source="11880" target="30041">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="365422-855410-comp.unix.xenix.sco" source="365422" target="855410">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="365422-835851-comp.unix.xenix.sco" source="365422" target="835851">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="442862-786330-comp.unix.xenix.sco" source="442862" target="786330">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="442862-642205-comp.unix.xenix.sco" source="442862" target="642205">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="442862-11446-comp.unix.xenix.sco" source="442862" target="11446">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1906-1086753-comp.unix.xenix.sco" source="1906" target="1086753">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1906-386321-comp.unix.xenix.sco" source="1906" target="386321">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1906-11553-comp.unix.xenix.sco" source="1906" target="11553">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1906-835851-comp.unix.xenix.sco" source="1906" target="835851">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11257-944861-comp.unix.xenix.sco" source="11257" target="944861">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="11257-11519-comp.unix.xenix.sco" source="11257" target="11519">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2298-1078835-comp.unix.xenix.sco" source="2298" target="1078835">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2298-386389-comp.unix.xenix.sco" source="2298" target="386389">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2298-1891-comp.unix.xenix.sco" source="2298" target="1891">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2812-11257-comp.unix.xenix.sco" source="2812" target="11257">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2812-399-comp.unix.xenix.sco" source="2812" target="399">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="855410-915407-comp.unix.xenix.sco" source="855410" target="915407">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="855410-649357-comp.unix.xenix.sco" source="855410" target="649357">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11519-358814-comp.unix.xenix.sco" source="11519" target="358814">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11519-1086766-comp.unix.xenix.sco" source="11519" target="1086766">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11519-1086513-comp.unix.xenix.sco" source="11519" target="1086513">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11519-10822-comp.unix.xenix.sco" source="11519" target="10822">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11519-880708-comp.unix.xenix.sco" source="11519" target="880708">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11519-944861-comp.unix.xenix.sco" source="11519" target="944861">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11519-855410-comp.unix.xenix.sco" source="11519" target="855410">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2560-1086779-comp.unix.xenix.sco" source="2560" target="1086779">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1078513-1893-comp.unix.xenix.sco" source="1078513" target="1893">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2307-2298-comp.unix.xenix.sco" source="2307" target="2298">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2307-11519-comp.unix.xenix.sco" source="2307" target="11519">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="371855-3474-comp.unix.xenix.sco" source="371855" target="3474">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="399-3474-comp.unix.xenix.sco" source="399" target="3474">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="399-1086740-comp.unix.xenix.sco" source="399" target="1086740">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="399-10822-comp.unix.xenix.sco" source="399" target="10822">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="399-374650-comp.unix.xenix.sco" source="399" target="374650">
+	<data key="topic">comp.unix.xenix.sco</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="922831"/>
+<node id="342405"/>
+<node id="390563"/>
+<node id="449097"/>
+<edge id="342405-922831-net.rec.birds" source="342405" target="922831">
+	<data key="topic">net.rec.birds</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="342405-449097-net.rec.birds" source="342405" target="449097">
+	<data key="topic">net.rec.birds</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390563-922831-net.rec.birds" source="390563" target="922831">
+	<data key="topic">net.rec.birds</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="449097-922831-net.rec.birds" source="449097" target="922831">
+	<data key="topic">net.rec.birds</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

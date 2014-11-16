@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="738281"/>
+<node id="1193766"/>
+<node id="790757"/>
+<node id="557826"/>
+<node id="740114"/>
+<node id="701329"/>
+<node id="698599"/>
+<node id="395865"/>
+<node id="740197"/>
+<edge id="738281-1193766-rec.games.rogue" source="738281" target="1193766">
+	<data key="topic">rec.games.rogue</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="790757-557826-rec.games.rogue" source="790757" target="557826">
+	<data key="topic">rec.games.rogue</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="790757-740114-rec.games.rogue" source="790757" target="740114">
+	<data key="topic">rec.games.rogue</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="790757-701329-rec.games.rogue" source="790757" target="701329">
+	<data key="topic">rec.games.rogue</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="790757-740197-rec.games.rogue" source="790757" target="740197">
+	<data key="topic">rec.games.rogue</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="557826-740197-rec.games.rogue" source="557826" target="740197">
+	<data key="topic">rec.games.rogue</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="740114-557826-rec.games.rogue" source="740114" target="557826">
+	<data key="topic">rec.games.rogue</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="740114-701329-rec.games.rogue" source="740114" target="701329">
+	<data key="topic">rec.games.rogue</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="740114-740197-rec.games.rogue" source="740114" target="740197">
+	<data key="topic">rec.games.rogue</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="395865-698599-rec.games.rogue" source="395865" target="698599">
+	<data key="topic">rec.games.rogue</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

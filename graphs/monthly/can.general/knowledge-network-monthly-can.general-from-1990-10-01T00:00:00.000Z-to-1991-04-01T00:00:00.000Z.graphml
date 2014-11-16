@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="11010"/>
+<node id="435942"/>
+<node id="434961"/>
+<node id="2626768"/>
+<node id="385453"/>
+<node id="1707"/>
+<node id="349583"/>
+<node id="374651"/>
+<edge id="11010-385453-can.general" source="11010" target="385453">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="435942-385453-can.general" source="435942" target="385453">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="349583-434961-can.general" source="349583" target="434961">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="349583-2626768-can.general" source="349583" target="2626768">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="349583-1707-can.general" source="349583" target="1707">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="349583-374651-can.general" source="349583" target="374651">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="374651-434961-can.general" source="374651" target="434961">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="374651-2626768-can.general" source="374651" target="2626768">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="374651-1707-can.general" source="374651" target="1707">
+	<data key="topic">can.general</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

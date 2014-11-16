@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2291511"/>
+<node id="2180981"/>
+<node id="2852081"/>
+<node id="2276480"/>
+<node id="170717"/>
+<node id="173278"/>
+<node id="2291268"/>
+<node id="2302403"/>
+<node id="205603"/>
+<node id="2253956"/>
+<node id="2250504"/>
+<node id="172265"/>
+<node id="2291274"/>
+<node id="2854597"/>
+<node id="2175825"/>
+<node id="38196"/>
+<node id="2302357"/>
+<node id="2292124"/>
+<node id="2297182"/>
+<node id="2211876"/>
+<node id="2851760"/>
+<node id="2257702"/>
+<node id="2247590"/>
+<node id="205712"/>
+<node id="234447"/>
+<node id="2291757"/>
+<node id="327883"/>
+<edge id="2291511-2291268-comp.security.misc" source="2291511" target="2291268">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2291511-38196-comp.security.misc" source="2291511" target="38196">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2180981-2291511-comp.security.misc" source="2180981" target="2291511">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2180981-2291268-comp.security.misc" source="2180981" target="2291268">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2180981-38196-comp.security.misc" source="2180981" target="38196">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2180981-2257702-comp.security.misc" source="2180981" target="2257702">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2180981-2291757-comp.security.misc" source="2180981" target="2291757">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2276480-2291268-comp.security.misc" source="2276480" target="2291268">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="170717-2851760-comp.security.misc" source="170717" target="2851760">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="170717-234447-comp.security.misc" source="170717" target="234447">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="173278-2291268-comp.security.misc" source="173278" target="2291268">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="173278-2302403-comp.security.misc" source="173278" target="2302403">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="173278-2291274-comp.security.misc" source="173278" target="2291274">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="173278-38196-comp.security.misc" source="173278" target="38196">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2291268-2291274-comp.security.misc" source="2291268" target="2291274">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2291268-38196-comp.security.misc" source="2291268" target="38196">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2291268-205712-comp.security.misc" source="2291268" target="205712">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="205603-2291268-comp.security.misc" source="205603" target="2291268">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="205603-2302403-comp.security.misc" source="205603" target="2302403">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="205603-2250504-comp.security.misc" source="205603" target="2250504">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="205603-2291274-comp.security.misc" source="205603" target="2291274">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="205603-38196-comp.security.misc" source="205603" target="38196">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="205603-2302357-comp.security.misc" source="205603" target="2302357">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2253956-327883-comp.security.misc" source="2253956" target="327883">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2250504-2291268-comp.security.misc" source="2250504" target="2291268">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2250504-2302403-comp.security.misc" source="2250504" target="2302403">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2250504-2291274-comp.security.misc" source="2250504" target="2291274">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2250504-2302357-comp.security.misc" source="2250504" target="2302357">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="172265-2276480-comp.security.misc" source="172265" target="2276480">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="172265-2291268-comp.security.misc" source="172265" target="2291268">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="172265-2291274-comp.security.misc" source="172265" target="2291274">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2291274-2291511-comp.security.misc" source="2291274" target="2291511">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2291274-2276480-comp.security.misc" source="2291274" target="2276480">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2291274-2291268-comp.security.misc" source="2291274" target="2291268">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">9</data>
+</edge>
+<edge id="2291274-2302403-comp.security.misc" source="2291274" target="2302403">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2291274-38196-comp.security.misc" source="2291274" target="38196">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2291274-2302357-comp.security.misc" source="2291274" target="2302357">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2291274-2291757-comp.security.misc" source="2291274" target="2291757">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2854597-2851760-comp.security.misc" source="2854597" target="2851760">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="2854597-234447-comp.security.misc" source="2854597" target="234447">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2175825-2291268-comp.security.misc" source="2175825" target="2291268">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="2175825-2302403-comp.security.misc" source="2175825" target="2302403">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2175825-2250504-comp.security.misc" source="2175825" target="2250504">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2175825-2291274-comp.security.misc" source="2175825" target="2291274">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2175825-38196-comp.security.misc" source="2175825" target="38196">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2175825-2302357-comp.security.misc" source="2175825" target="2302357">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2175825-2297182-comp.security.misc" source="2175825" target="2297182">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="38196-2291511-comp.security.misc" source="38196" target="2291511">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="38196-2291268-comp.security.misc" source="38196" target="2291268">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">7</data>
+</edge>
+<edge id="38196-2302403-comp.security.misc" source="38196" target="2302403">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="38196-2291274-comp.security.misc" source="38196" target="2291274">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="38196-2302357-comp.security.misc" source="38196" target="2302357">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="38196-205712-comp.security.misc" source="38196" target="205712">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="38196-2291757-comp.security.misc" source="38196" target="2291757">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2302357-2291268-comp.security.misc" source="2302357" target="2291268">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2292124-2291511-comp.security.misc" source="2292124" target="2291511">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2292124-2291268-comp.security.misc" source="2292124" target="2291268">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2292124-38196-comp.security.misc" source="2292124" target="38196">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2292124-2291757-comp.security.misc" source="2292124" target="2291757">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2297182-2291268-comp.security.misc" source="2297182" target="2291268">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2297182-38196-comp.security.misc" source="2297182" target="38196">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2211876-2851760-comp.security.misc" source="2211876" target="2851760">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2851760-234447-comp.security.misc" source="2851760" target="234447">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2257702-2291268-comp.security.misc" source="2257702" target="2291268">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2257702-38196-comp.security.misc" source="2257702" target="38196">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2247590-327883-comp.security.misc" source="2247590" target="327883">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="205712-2291268-comp.security.misc" source="205712" target="2291268">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="205712-38196-comp.security.misc" source="205712" target="38196">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="234447-2852081-comp.security.misc" source="234447" target="2852081">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="234447-170717-comp.security.misc" source="234447" target="170717">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="234447-2851760-comp.security.misc" source="234447" target="2851760">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2291757-2291511-comp.security.misc" source="2291757" target="2291511">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="2291757-2180981-comp.security.misc" source="2291757" target="2180981">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2291757-2291268-comp.security.misc" source="2291757" target="2291268">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">8</data>
+</edge>
+<edge id="2291757-2291274-comp.security.misc" source="2291757" target="2291274">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2291757-38196-comp.security.misc" source="2291757" target="38196">
+	<data key="topic">comp.security.misc</data>
+	<data key="weight">5</data>
+</edge>
+</graph>
+</graphml>

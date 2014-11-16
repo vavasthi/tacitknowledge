@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2117187"/>
+<node id="1682588"/>
+<node id="1682558"/>
+<node id="16491"/>
+<node id="1675301"/>
+<edge id="1682588-16491-soc.culture.indian" source="1682588" target="16491">
+	<data key="topic">soc.culture.indian</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="1682558-16491-soc.culture.indian" source="1682558" target="16491">
+	<data key="topic">soc.culture.indian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1675301-2117187-soc.culture.indian" source="1675301" target="2117187">
+	<data key="topic">soc.culture.indian</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

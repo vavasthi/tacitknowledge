@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="413814"/>
+<node id="583180"/>
+<node id="35621"/>
+<node id="388782"/>
+<node id="1033191"/>
+<node id="830947"/>
+<node id="128"/>
+<edge id="413814-128-alt.activism.d" source="413814" target="128">
+	<data key="topic">alt.activism.d</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="583180-413814-alt.activism.d" source="583180" target="413814">
+	<data key="topic">alt.activism.d</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="583180-830947-alt.activism.d" source="583180" target="830947">
+	<data key="topic">alt.activism.d</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="583180-128-alt.activism.d" source="583180" target="128">
+	<data key="topic">alt.activism.d</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="35621-413814-alt.activism.d" source="35621" target="413814">
+	<data key="topic">alt.activism.d</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="35621-128-alt.activism.d" source="35621" target="128">
+	<data key="topic">alt.activism.d</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="388782-128-alt.activism.d" source="388782" target="128">
+	<data key="topic">alt.activism.d</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1033191-413814-alt.activism.d" source="1033191" target="413814">
+	<data key="topic">alt.activism.d</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1033191-128-alt.activism.d" source="1033191" target="128">
+	<data key="topic">alt.activism.d</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="830947-413814-alt.activism.d" source="830947" target="413814">
+	<data key="topic">alt.activism.d</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="830947-128-alt.activism.d" source="830947" target="128">
+	<data key="topic">alt.activism.d</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

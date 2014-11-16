@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1653420"/>
+<node id="518997"/>
+<node id="1653422"/>
+<node id="514132"/>
+<node id="701150"/>
+<node id="717267"/>
+<node id="4634"/>
+<node id="1215216"/>
+<node id="928"/>
+<node id="15333"/>
+<node id="876714"/>
+<node id="612144"/>
+<node id="706020"/>
+<node id="706017"/>
+<node id="706018"/>
+<node id="402731"/>
+<node id="446956"/>
+<node id="714853"/>
+<node id="426360"/>
+<node id="708410"/>
+<node id="386675"/>
+<node id="696692"/>
+<node id="811062"/>
+<node id="615411"/>
+<node id="36480"/>
+<node id="1659513"/>
+<node id="709961"/>
+<node id="10757"/>
+<node id="36487"/>
+<node id="556930"/>
+<node id="802438"/>
+<node id="508878"/>
+<node id="810503"/>
+<node id="429006"/>
+<node id="805954"/>
+<edge id="1653420-1215216-comp.unix.cray" source="1653420" target="1215216">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="518997-556930-comp.unix.cray" source="518997" target="556930">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1653422-1215216-comp.unix.cray" source="1653422" target="1215216">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="514132-426360-comp.unix.cray" source="514132" target="426360">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="514132-802438-comp.unix.cray" source="514132" target="802438">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="701150-429006-comp.unix.cray" source="701150" target="429006">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="717267-701150-comp.unix.cray" source="717267" target="701150">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="717267-429006-comp.unix.cray" source="717267" target="429006">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4634-706017-comp.unix.cray" source="4634" target="706017">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1215216-1653422-comp.unix.cray" source="1215216" target="1653422">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1215216-1659513-comp.unix.cray" source="1215216" target="1659513">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="928-1215216-comp.unix.cray" source="928" target="1215216">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="876714-1653422-comp.unix.cray" source="876714" target="1653422">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="876714-1215216-comp.unix.cray" source="876714" target="1215216">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="876714-928-comp.unix.cray" source="876714" target="928">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="612144-15333-comp.unix.cray" source="612144" target="15333">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="706020-706017-comp.unix.cray" source="706020" target="706017">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="706018-706017-comp.unix.cray" source="706018" target="706017">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="446956-426360-comp.unix.cray" source="446956" target="426360">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="714853-36480-comp.unix.cray" source="714853" target="36480">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="714853-10757-comp.unix.cray" source="714853" target="10757">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="714853-36487-comp.unix.cray" source="714853" target="36487">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="714853-429006-comp.unix.cray" source="714853" target="429006">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="426360-446956-comp.unix.cray" source="426360" target="446956">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="708410-402731-comp.unix.cray" source="708410" target="402731">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="708410-508878-comp.unix.cray" source="708410" target="508878">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="708410-429006-comp.unix.cray" source="708410" target="429006">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="386675-1653422-comp.unix.cray" source="386675" target="1653422">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="386675-1215216-comp.unix.cray" source="386675" target="1215216">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696692-714853-comp.unix.cray" source="696692" target="714853">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696692-10757-comp.unix.cray" source="696692" target="10757">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="811062-426360-comp.unix.cray" source="811062" target="426360">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="615411-714853-comp.unix.cray" source="615411" target="714853">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="615411-36480-comp.unix.cray" source="615411" target="36480">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="615411-10757-comp.unix.cray" source="615411" target="10757">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="615411-36487-comp.unix.cray" source="615411" target="36487">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36480-714853-comp.unix.cray" source="36480" target="714853">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36480-10757-comp.unix.cray" source="36480" target="10757">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1659513-1653422-comp.unix.cray" source="1659513" target="1653422">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1659513-1215216-comp.unix.cray" source="1659513" target="1215216">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36487-714853-comp.unix.cray" source="36487" target="714853">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36487-36480-comp.unix.cray" source="36487" target="36480">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36487-10757-comp.unix.cray" source="36487" target="10757">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="802438-426360-comp.unix.cray" source="802438" target="426360">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="508878-706017-comp.unix.cray" source="508878" target="706017">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="508878-708410-comp.unix.cray" source="508878" target="708410">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="508878-709961-comp.unix.cray" source="508878" target="709961">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="508878-556930-comp.unix.cray" source="508878" target="556930">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="508878-429006-comp.unix.cray" source="508878" target="429006">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="810503-706017-comp.unix.cray" source="810503" target="706017">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="805954-612144-comp.unix.cray" source="805954" target="612144">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

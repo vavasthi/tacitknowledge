@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="406391"/>
+<node id="2063710"/>
+<node id="575547"/>
+<node id="347971"/>
+<node id="414655"/>
+<node id="415551"/>
+<node id="350240"/>
+<node id="355696"/>
+<node id="31131"/>
+<node id="348428"/>
+<node id="579831"/>
+<node id="1632344"/>
+<edge id="406391-579831-sci.math.stat" source="406391" target="579831">
+	<data key="topic">sci.math.stat</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="575547-1632344-sci.math.stat" source="575547" target="1632344">
+	<data key="topic">sci.math.stat</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347971-2063710-sci.math.stat" source="347971" target="2063710">
+	<data key="topic">sci.math.stat</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="414655-1632344-sci.math.stat" source="414655" target="1632344">
+	<data key="topic">sci.math.stat</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="415551-1632344-sci.math.stat" source="415551" target="1632344">
+	<data key="topic">sci.math.stat</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350240-355696-sci.math.stat" source="350240" target="355696">
+	<data key="topic">sci.math.stat</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350240-31131-sci.math.stat" source="350240" target="31131">
+	<data key="topic">sci.math.stat</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348428-2063710-sci.math.stat" source="348428" target="2063710">
+	<data key="topic">sci.math.stat</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348428-347971-sci.math.stat" source="348428" target="347971">
+	<data key="topic">sci.math.stat</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

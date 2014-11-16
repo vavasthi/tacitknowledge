@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="608601"/>
+<node id="801567"/>
+<node id="801561"/>
+<node id="426068"/>
+<node id="558687"/>
+<node id="669405"/>
+<node id="801564"/>
+<node id="1306"/>
+<node id="2652"/>
+<node id="436444"/>
+<node id="696555"/>
+<node id="1392920"/>
+<node id="840944"/>
+<node id="696624"/>
+<node id="844780"/>
+<node id="696761"/>
+<node id="706809"/>
+<node id="840955"/>
+<node id="696574"/>
+<node id="2529183"/>
+<node id="608563"/>
+<node id="608694"/>
+<node id="435708"/>
+<node id="373318"/>
+<node id="2005886"/>
+<node id="864649"/>
+<node id="804491"/>
+<node id="373379"/>
+<node id="707016"/>
+<node id="364044"/>
+<edge id="608601-2652-gnu.g++.lib.bug" source="608601" target="2652">
+	<data key="topic">gnu.g++.lib.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="801567-707016-gnu.g++.lib.bug" source="801567" target="707016">
+	<data key="topic">gnu.g++.lib.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="558687-608694-gnu.g++.lib.bug" source="558687" target="608694">
+	<data key="topic">gnu.g++.lib.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="558687-373379-gnu.g++.lib.bug" source="558687" target="373379">
+	<data key="topic">gnu.g++.lib.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="669405-2529183-gnu.g++.lib.bug" source="669405" target="2529183">
+	<data key="topic">gnu.g++.lib.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="669405-373318-gnu.g++.lib.bug" source="669405" target="373318">
+	<data key="topic">gnu.g++.lib.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="669405-864649-gnu.g++.lib.bug" source="669405" target="864649">
+	<data key="topic">gnu.g++.lib.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1306-373318-gnu.g++.lib.bug" source="1306" target="373318">
+	<data key="topic">gnu.g++.lib.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="844780-373318-gnu.g++.lib.bug" source="844780" target="373318">
+	<data key="topic">gnu.g++.lib.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="706809-801561-gnu.g++.lib.bug" source="706809" target="801561">
+	<data key="topic">gnu.g++.lib.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="706809-373318-gnu.g++.lib.bug" source="706809" target="373318">
+	<data key="topic">gnu.g++.lib.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="840955-373318-gnu.g++.lib.bug" source="840955" target="373318">
+	<data key="topic">gnu.g++.lib.bug</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="696574-373318-gnu.g++.lib.bug" source="696574" target="373318">
+	<data key="topic">gnu.g++.lib.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696574-864649-gnu.g++.lib.bug" source="696574" target="864649">
+	<data key="topic">gnu.g++.lib.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="435708-1392920-gnu.g++.lib.bug" source="435708" target="1392920">
+	<data key="topic">gnu.g++.lib.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="373318-801561-gnu.g++.lib.bug" source="373318" target="801561">
+	<data key="topic">gnu.g++.lib.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="373318-801564-gnu.g++.lib.bug" source="373318" target="801564">
+	<data key="topic">gnu.g++.lib.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="373318-436444-gnu.g++.lib.bug" source="373318" target="436444">
+	<data key="topic">gnu.g++.lib.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="373318-696555-gnu.g++.lib.bug" source="373318" target="696555">
+	<data key="topic">gnu.g++.lib.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="373318-840944-gnu.g++.lib.bug" source="373318" target="840944">
+	<data key="topic">gnu.g++.lib.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="373318-696761-gnu.g++.lib.bug" source="373318" target="696761">
+	<data key="topic">gnu.g++.lib.bug</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="373318-608563-gnu.g++.lib.bug" source="373318" target="608563">
+	<data key="topic">gnu.g++.lib.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="373318-2005886-gnu.g++.lib.bug" source="373318" target="2005886">
+	<data key="topic">gnu.g++.lib.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="373318-864649-gnu.g++.lib.bug" source="373318" target="864649">
+	<data key="topic">gnu.g++.lib.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="864649-373318-gnu.g++.lib.bug" source="864649" target="373318">
+	<data key="topic">gnu.g++.lib.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="864649-804491-gnu.g++.lib.bug" source="864649" target="804491">
+	<data key="topic">gnu.g++.lib.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="804491-426068-gnu.g++.lib.bug" source="804491" target="426068">
+	<data key="topic">gnu.g++.lib.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="804491-373318-gnu.g++.lib.bug" source="804491" target="373318">
+	<data key="topic">gnu.g++.lib.bug</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

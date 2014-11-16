@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="463512"/>
+<node id="680636"/>
+<node id="571406"/>
+<node id="526063"/>
+<node id="460177"/>
+<node id="522895"/>
+<node id="524914"/>
+<node id="521917"/>
+<node id="341098"/>
+<node id="395659"/>
+<node id="561509"/>
+<node id="459723"/>
+<edge id="526063-561509-net.lang.mod2" source="526063" target="561509">
+	<data key="topic">net.lang.mod2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460177-571406-net.lang.mod2" source="460177" target="571406">
+	<data key="topic">net.lang.mod2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460177-521917-net.lang.mod2" source="460177" target="521917">
+	<data key="topic">net.lang.mod2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460177-459723-net.lang.mod2" source="460177" target="459723">
+	<data key="topic">net.lang.mod2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522895-680636-net.lang.mod2" source="522895" target="680636">
+	<data key="topic">net.lang.mod2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522895-459723-net.lang.mod2" source="522895" target="459723">
+	<data key="topic">net.lang.mod2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="524914-526063-net.lang.mod2" source="524914" target="526063">
+	<data key="topic">net.lang.mod2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521917-680636-net.lang.mod2" source="521917" target="680636">
+	<data key="topic">net.lang.mod2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521917-460177-net.lang.mod2" source="521917" target="460177">
+	<data key="topic">net.lang.mod2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521917-459723-net.lang.mod2" source="521917" target="459723">
+	<data key="topic">net.lang.mod2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341098-522895-net.lang.mod2" source="341098" target="522895">
+	<data key="topic">net.lang.mod2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341098-459723-net.lang.mod2" source="341098" target="459723">
+	<data key="topic">net.lang.mod2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="395659-463512-net.lang.mod2" source="395659" target="463512">
+	<data key="topic">net.lang.mod2</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

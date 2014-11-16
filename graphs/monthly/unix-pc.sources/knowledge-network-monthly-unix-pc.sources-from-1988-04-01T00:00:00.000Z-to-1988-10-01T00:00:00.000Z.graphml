@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="16081"/>
+<node id="501784"/>
+<node id="501687"/>
+<node id="15251"/>
+<node id="431829"/>
+<node id="687833"/>
+<node id="33940"/>
+<node id="30712"/>
+<node id="16249"/>
+<node id="584914"/>
+<node id="18719"/>
+<node id="16354"/>
+<node id="26306"/>
+<node id="18694"/>
+<node id="30540"/>
+<node id="511467"/>
+<node id="507145"/>
+<edge id="16081-507145-unix-pc.sources" source="16081" target="507145">
+	<data key="topic">unix-pc.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15251-501687-unix-pc.sources" source="15251" target="501687">
+	<data key="topic">unix-pc.sources</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="431829-501784-unix-pc.sources" source="431829" target="501784">
+	<data key="topic">unix-pc.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="431829-16354-unix-pc.sources" source="431829" target="16354">
+	<data key="topic">unix-pc.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="431829-30540-unix-pc.sources" source="431829" target="30540">
+	<data key="topic">unix-pc.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="687833-18719-unix-pc.sources" source="687833" target="18719">
+	<data key="topic">unix-pc.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="33940-26306-unix-pc.sources" source="33940" target="26306">
+	<data key="topic">unix-pc.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30712-511467-unix-pc.sources" source="30712" target="511467">
+	<data key="topic">unix-pc.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16249-584914-unix-pc.sources" source="16249" target="584914">
+	<data key="topic">unix-pc.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16354-501784-unix-pc.sources" source="16354" target="501784">
+	<data key="topic">unix-pc.sources</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="16354-18694-unix-pc.sources" source="16354" target="18694">
+	<data key="topic">unix-pc.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18694-501784-unix-pc.sources" source="18694" target="501784">
+	<data key="topic">unix-pc.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18694-16354-unix-pc.sources" source="18694" target="16354">
+	<data key="topic">unix-pc.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30540-501784-unix-pc.sources" source="30540" target="501784">
+	<data key="topic">unix-pc.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30540-16354-unix-pc.sources" source="30540" target="16354">
+	<data key="topic">unix-pc.sources</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

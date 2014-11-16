@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="426087"/>
+<node id="509047"/>
+<node id="498116"/>
+<node id="426084"/>
+<node id="685921"/>
+<node id="32510"/>
+<edge id="509047-685921-bionet.molbio.methds-reagnts" source="509047" target="685921">
+	<data key="topic">bionet.molbio.methds-reagnts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="498116-685921-bionet.molbio.methds-reagnts" source="498116" target="685921">
+	<data key="topic">bionet.molbio.methds-reagnts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="426084-426087-bionet.molbio.methds-reagnts" source="426084" target="426087">
+	<data key="topic">bionet.molbio.methds-reagnts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="32510-685921-bionet.molbio.methds-reagnts" source="32510" target="685921">
+	<data key="topic">bionet.molbio.methds-reagnts</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

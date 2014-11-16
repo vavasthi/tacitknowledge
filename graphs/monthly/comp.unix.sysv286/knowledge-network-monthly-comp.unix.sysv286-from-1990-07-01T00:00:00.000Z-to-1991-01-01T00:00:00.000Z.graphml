@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="3218"/>
+<node id="388504"/>
+<node id="422677"/>
+<node id="3220"/>
+<node id="11989"/>
+<node id="422804"/>
+<node id="4634"/>
+<node id="351837"/>
+<node id="28510"/>
+<node id="12897"/>
+<node id="5857"/>
+<node id="11681"/>
+<node id="1233811"/>
+<node id="951279"/>
+<node id="882096"/>
+<node id="1893"/>
+<node id="2153"/>
+<node id="12010"/>
+<node id="2648133"/>
+<node id="4334"/>
+<node id="6574"/>
+<node id="378806"/>
+<node id="12723"/>
+<node id="779577"/>
+<node id="949"/>
+<node id="11829"/>
+<node id="370482"/>
+<node id="11383"/>
+<node id="11644"/>
+<node id="348986"/>
+<node id="557877"/>
+<node id="423931"/>
+<node id="2817"/>
+<node id="443909"/>
+<node id="29827"/>
+<node id="613451"/>
+<node id="11781"/>
+<node id="1308984"/>
+<node id="358145"/>
+<node id="11847"/>
+<node id="371268"/>
+<node id="1003209"/>
+<node id="7818"/>
+<node id="14986"/>
+<node id="5260"/>
+<node id="1181946"/>
+<node id="786563"/>
+<node id="443914"/>
+<edge id="3218-3220-comp.unix.sysv286" source="3218" target="3220">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="388504-12897-comp.unix.sysv286" source="388504" target="12897">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="388504-1233811-comp.unix.sysv286" source="388504" target="1233811">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="388504-443909-comp.unix.sysv286" source="388504" target="443909">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="388504-443914-comp.unix.sysv286" source="388504" target="443914">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="422804-351837-comp.unix.sysv286" source="422804" target="351837">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="422804-557877-comp.unix.sysv286" source="422804" target="557877">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4634-882096-comp.unix.sysv286" source="4634" target="882096">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4634-2648133-comp.unix.sysv286" source="4634" target="2648133">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="351837-422804-comp.unix.sysv286" source="351837" target="422804">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="351837-2153-comp.unix.sysv286" source="351837" target="2153">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="351837-557877-comp.unix.sysv286" source="351837" target="557877">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="351837-29827-comp.unix.sysv286" source="351837" target="29827">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="351837-1181946-comp.unix.sysv286" source="351837" target="1181946">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="351837-786563-comp.unix.sysv286" source="351837" target="786563">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28510-14986-comp.unix.sysv286" source="28510" target="14986">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5857-12897-comp.unix.sysv286" source="5857" target="12897">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11681-422677-comp.unix.sysv286" source="11681" target="422677">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="951279-1003209-comp.unix.sysv286" source="951279" target="1003209">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="882096-2648133-comp.unix.sysv286" source="882096" target="2648133">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1893-12897-comp.unix.sysv286" source="1893" target="12897">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1893-443909-comp.unix.sysv286" source="1893" target="443909">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1893-5260-comp.unix.sysv286" source="1893" target="5260">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2153-613451-comp.unix.sysv286" source="2153" target="613451">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12010-2648133-comp.unix.sysv286" source="12010" target="2648133">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4334-378806-comp.unix.sysv286" source="4334" target="378806">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="6574-11383-comp.unix.sysv286" source="6574" target="11383">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="6574-2817-comp.unix.sysv286" source="6574" target="2817">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12723-388504-comp.unix.sysv286" source="12723" target="388504">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12723-443914-comp.unix.sysv286" source="12723" target="443914">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="779577-2153-comp.unix.sysv286" source="779577" target="2153">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="779577-1181946-comp.unix.sysv286" source="779577" target="1181946">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="949-388504-comp.unix.sysv286" source="949" target="388504">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="949-443914-comp.unix.sysv286" source="949" target="443914">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11829-2153-comp.unix.sysv286" source="11829" target="2153">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="370482-2153-comp.unix.sysv286" source="370482" target="2153">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="370482-613451-comp.unix.sysv286" source="370482" target="613451">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11383-2817-comp.unix.sysv286" source="11383" target="2817">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11644-351837-comp.unix.sysv286" source="11644" target="351837">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11644-2153-comp.unix.sysv286" source="11644" target="2153">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11644-1181946-comp.unix.sysv286" source="11644" target="1181946">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348986-11847-comp.unix.sysv286" source="348986" target="11847">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="423931-2153-comp.unix.sysv286" source="423931" target="2153">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="423931-1181946-comp.unix.sysv286" source="423931" target="1181946">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="443909-12897-comp.unix.sysv286" source="443909" target="12897">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11781-12897-comp.unix.sysv286" source="11781" target="12897">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1308984-14986-comp.unix.sysv286" source="1308984" target="14986">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="358145-11989-comp.unix.sysv286" source="358145" target="11989">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="371268-12897-comp.unix.sysv286" source="371268" target="12897">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="371268-11781-comp.unix.sysv286" source="371268" target="11781">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7818-2817-comp.unix.sysv286" source="7818" target="2817">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5260-12897-comp.unix.sysv286" source="5260" target="12897">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5260-443909-comp.unix.sysv286" source="5260" target="443909">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1181946-2153-comp.unix.sysv286" source="1181946" target="2153">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="786563-422804-comp.unix.sysv286" source="786563" target="422804">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="786563-351837-comp.unix.sysv286" source="786563" target="351837">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="786563-557877-comp.unix.sysv286" source="786563" target="557877">
+	<data key="topic">comp.unix.sysv286</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

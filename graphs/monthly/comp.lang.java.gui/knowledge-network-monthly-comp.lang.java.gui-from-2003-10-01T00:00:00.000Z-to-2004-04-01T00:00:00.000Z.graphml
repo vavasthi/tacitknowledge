@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2827230"/>
+<node id="2189982"/>
+<edge id="2827230-2189982-comp.lang.java.gui" source="2827230" target="2189982">
+	<data key="topic">comp.lang.java.gui</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2189982-2827230-comp.lang.java.gui" source="2189982" target="2827230">
+	<data key="topic">comp.lang.java.gui</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

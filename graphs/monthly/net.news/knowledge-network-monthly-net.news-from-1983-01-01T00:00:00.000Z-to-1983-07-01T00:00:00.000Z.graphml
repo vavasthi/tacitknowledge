@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="339190"/>
+<node id="338134"/>
+<node id="523128"/>
+<node id="522231"/>
+<node id="562236"/>
+<node id="398998"/>
+<node id="459701"/>
+<node id="459186"/>
+<node id="460383"/>
+<node id="337919"/>
+<node id="462299"/>
+<node id="564822"/>
+<node id="347301"/>
+<node id="339975"/>
+<node id="565933"/>
+<node id="1424497"/>
+<node id="563303"/>
+<edge id="339190-562236-net.news" source="339190" target="562236">
+	<data key="topic">net.news</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339190-565933-net.news" source="339190" target="565933">
+	<data key="topic">net.news</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="523128-1424497-net.news" source="523128" target="1424497">
+	<data key="topic">net.news</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="398998-459186-net.news" source="398998" target="459186">
+	<data key="topic">net.news</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459701-347301-net.news" source="459701" target="347301">
+	<data key="topic">net.news</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459186-522231-net.news" source="459186" target="522231">
+	<data key="topic">net.news</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="462299-338134-net.news" source="462299" target="338134">
+	<data key="topic">net.news</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="564822-460383-net.news" source="564822" target="460383">
+	<data key="topic">net.news</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339975-462299-net.news" source="339975" target="462299">
+	<data key="topic">net.news</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="563303-337919-net.news" source="563303" target="337919">
+	<data key="topic">net.news</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

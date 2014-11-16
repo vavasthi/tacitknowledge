@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="337749"/>
+<node id="624704"/>
+<node id="341278"/>
+<node id="342879"/>
+<node id="392570"/>
+<node id="523515"/>
+<node id="523066"/>
+<node id="339196"/>
+<node id="461992"/>
+<node id="342405"/>
+<node id="653388"/>
+<node id="522437"/>
+<node id="336769"/>
+<node id="560846"/>
+<node id="522895"/>
+<node id="460750"/>
+<node id="1405375"/>
+<node id="526980"/>
+<node id="341098"/>
+<edge id="624704-337749-net.cse" source="624704" target="337749">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341278-523066-net.cse" source="341278" target="523066">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341278-339196-net.cse" source="341278" target="339196">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341278-560846-net.cse" source="341278" target="560846">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="342879-337749-net.cse" source="342879" target="337749">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392570-342405-net.cse" source="392570" target="342405">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="523515-522437-net.cse" source="523515" target="522437">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="461992-522895-net.cse" source="461992" target="522895">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="461992-460750-net.cse" source="461992" target="460750">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="653388-342405-net.cse" source="653388" target="342405">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="653388-336769-net.cse" source="653388" target="336769">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="336769-342405-net.cse" source="336769" target="342405">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522895-460750-net.cse" source="522895" target="460750">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1405375-526980-net.cse" source="1405375" target="526980">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341098-522895-net.cse" source="341098" target="522895">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341098-460750-net.cse" source="341098" target="460750">
+	<data key="topic">net.cse</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

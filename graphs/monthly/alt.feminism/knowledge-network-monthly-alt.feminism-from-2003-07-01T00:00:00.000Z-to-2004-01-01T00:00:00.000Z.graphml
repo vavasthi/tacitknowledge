@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="43106"/>
+<node id="41178"/>
+<node id="40506"/>
+<node id="37019"/>
+<node id="37227"/>
+<node id="133226"/>
+<node id="196079"/>
+<node id="40221"/>
+<node id="39630"/>
+<node id="196112"/>
+<node id="39519"/>
+<edge id="43106-196079-alt.feminism" source="43106" target="196079">
+	<data key="topic">alt.feminism</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41178-40506-alt.feminism" source="41178" target="40506">
+	<data key="topic">alt.feminism</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41178-40221-alt.feminism" source="41178" target="40221">
+	<data key="topic">alt.feminism</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41178-39630-alt.feminism" source="41178" target="39630">
+	<data key="topic">alt.feminism</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41178-39519-alt.feminism" source="41178" target="39519">
+	<data key="topic">alt.feminism</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37019-133226-alt.feminism" source="37019" target="133226">
+	<data key="topic">alt.feminism</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37227-196079-alt.feminism" source="37227" target="196079">
+	<data key="topic">alt.feminism</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="196112-196079-alt.feminism" source="196112" target="196079">
+	<data key="topic">alt.feminism</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

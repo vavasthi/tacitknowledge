@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="338040"/>
+<node id="339975"/>
+<node id="459877"/>
+<node id="631323"/>
+<node id="342978"/>
+<node id="561806"/>
+<node id="459746"/>
+<node id="338336"/>
+<node id="345600"/>
+<node id="561877"/>
+<node id="459817"/>
+<edge id="339975-459877-net.games.frp" source="339975" target="459877">
+	<data key="topic">net.games.frp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="631323-459877-net.games.frp" source="631323" target="459877">
+	<data key="topic">net.games.frp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="342978-561806-net.games.frp" source="342978" target="561806">
+	<data key="topic">net.games.frp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459746-338040-net.games.frp" source="459746" target="338040">
+	<data key="topic">net.games.frp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338336-342978-net.games.frp" source="338336" target="342978">
+	<data key="topic">net.games.frp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="561877-561806-net.games.frp" source="561877" target="561806">
+	<data key="topic">net.games.frp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459817-345600-net.games.frp" source="459817" target="345600">
+	<data key="topic">net.games.frp</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

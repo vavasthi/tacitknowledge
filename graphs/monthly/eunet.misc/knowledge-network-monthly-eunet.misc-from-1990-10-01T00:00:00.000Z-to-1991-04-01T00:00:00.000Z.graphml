@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1218275"/>
+<node id="11540"/>
+<node id="1672"/>
+<node id="10025"/>
+<node id="1079052"/>
+<node id="7197"/>
+<node id="10829"/>
+<edge id="1218275-10829-eunet.misc" source="1218275" target="10829">
+	<data key="topic">eunet.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1672-1079052-eunet.misc" source="1672" target="1079052">
+	<data key="topic">eunet.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10025-1218275-eunet.misc" source="10025" target="1218275">
+	<data key="topic">eunet.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10025-10829-eunet.misc" source="10025" target="10829">
+	<data key="topic">eunet.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7197-11540-eunet.misc" source="7197" target="11540">
+	<data key="topic">eunet.misc</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

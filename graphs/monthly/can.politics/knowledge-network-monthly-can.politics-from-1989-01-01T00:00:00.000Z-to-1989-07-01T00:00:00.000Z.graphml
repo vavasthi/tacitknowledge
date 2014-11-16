@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2633402"/>
+<node id="19315"/>
+<node id="705338"/>
+<node id="32149"/>
+<node id="347921"/>
+<node id="36795"/>
+<node id="20063"/>
+<node id="17537"/>
+<node id="519976"/>
+<node id="520104"/>
+<node id="852238"/>
+<node id="1205272"/>
+<node id="507329"/>
+<node id="17609"/>
+<node id="510320"/>
+<node id="740129"/>
+<node id="23311"/>
+<edge id="2633402-19315-can.politics" source="2633402" target="19315">
+	<data key="topic">can.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2633402-852238-can.politics" source="2633402" target="852238">
+	<data key="topic">can.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2633402-23311-can.politics" source="2633402" target="23311">
+	<data key="topic">can.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="705338-2633402-can.politics" source="705338" target="2633402">
+	<data key="topic">can.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="705338-852238-can.politics" source="705338" target="852238">
+	<data key="topic">can.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="705338-23311-can.politics" source="705338" target="23311">
+	<data key="topic">can.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="32149-519976-can.politics" source="32149" target="519976">
+	<data key="topic">can.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="32149-520104-can.politics" source="32149" target="520104">
+	<data key="topic">can.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347921-519976-can.politics" source="347921" target="519976">
+	<data key="topic">can.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347921-520104-can.politics" source="347921" target="520104">
+	<data key="topic">can.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36795-519976-can.politics" source="36795" target="519976">
+	<data key="topic">can.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36795-520104-can.politics" source="36795" target="520104">
+	<data key="topic">can.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36795-17609-can.politics" source="36795" target="17609">
+	<data key="topic">can.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36795-510320-can.politics" source="36795" target="510320">
+	<data key="topic">can.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20063-17537-can.politics" source="20063" target="17537">
+	<data key="topic">can.politics</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="20063-507329-can.politics" source="20063" target="507329">
+	<data key="topic">can.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20063-740129-can.politics" source="20063" target="740129">
+	<data key="topic">can.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17537-507329-can.politics" source="17537" target="507329">
+	<data key="topic">can.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="520104-519976-can.politics" source="520104" target="519976">
+	<data key="topic">can.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1205272-705338-can.politics" source="1205272" target="705338">
+	<data key="topic">can.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1205272-852238-can.politics" source="1205272" target="852238">
+	<data key="topic">can.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1205272-23311-can.politics" source="1205272" target="23311">
+	<data key="topic">can.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17609-519976-can.politics" source="17609" target="519976">
+	<data key="topic">can.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17609-520104-can.politics" source="17609" target="520104">
+	<data key="topic">can.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17609-510320-can.politics" source="17609" target="510320">
+	<data key="topic">can.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510320-519976-can.politics" source="510320" target="519976">
+	<data key="topic">can.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510320-520104-can.politics" source="510320" target="520104">
+	<data key="topic">can.politics</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

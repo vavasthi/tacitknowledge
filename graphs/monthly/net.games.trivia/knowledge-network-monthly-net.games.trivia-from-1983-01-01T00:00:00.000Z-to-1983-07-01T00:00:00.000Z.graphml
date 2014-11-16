@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="459814"/>
+<node id="459701"/>
+<node id="1262135"/>
+<node id="561999"/>
+<node id="459822"/>
+<node id="459197"/>
+<node id="459533"/>
+<node id="459946"/>
+<edge id="459814-1262135-net.games.trivia" source="459814" target="1262135">
+	<data key="topic">net.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459701-459533-net.games.trivia" source="459701" target="459533">
+	<data key="topic">net.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="561999-459946-net.games.trivia" source="561999" target="459946">
+	<data key="topic">net.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459197-459822-net.games.trivia" source="459197" target="459822">
+	<data key="topic">net.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

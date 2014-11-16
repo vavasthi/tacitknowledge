@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="16081"/>
+<node id="17297"/>
+<node id="501687"/>
+<node id="26306"/>
+<node id="15251"/>
+<node id="670527"/>
+<node id="16249"/>
+<node id="584914"/>
+<node id="26284"/>
+<node id="26286"/>
+<node id="18719"/>
+<edge id="16081-670527-unix-pc.sources" source="16081" target="670527">
+	<data key="topic">unix-pc.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="26306-18719-unix-pc.sources" source="26306" target="18719">
+	<data key="topic">unix-pc.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15251-501687-unix-pc.sources" source="15251" target="501687">
+	<data key="topic">unix-pc.sources</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="16249-584914-unix-pc.sources" source="16249" target="584914">
+	<data key="topic">unix-pc.sources</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="26286-17297-unix-pc.sources" source="26286" target="17297">
+	<data key="topic">unix-pc.sources</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

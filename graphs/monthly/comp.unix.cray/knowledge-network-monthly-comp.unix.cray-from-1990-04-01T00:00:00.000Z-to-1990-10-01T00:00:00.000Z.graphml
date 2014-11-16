@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="4433"/>
+<node id="1087361"/>
+<node id="362997"/>
+<node id="609657"/>
+<node id="737658"/>
+<node id="557212"/>
+<node id="712864"/>
+<node id="12310"/>
+<node id="1078312"/>
+<node id="1085644"/>
+<node id="2208"/>
+<node id="371643"/>
+<node id="1061"/>
+<node id="557198"/>
+<node id="1235125"/>
+<node id="12271"/>
+<edge id="4433-1087361-comp.unix.cray" source="4433" target="1087361">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4433-1078312-comp.unix.cray" source="4433" target="1078312">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1087361-1078312-comp.unix.cray" source="1087361" target="1078312">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362997-609657-comp.unix.cray" source="362997" target="609657">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362997-2208-comp.unix.cray" source="362997" target="2208">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="609657-2208-comp.unix.cray" source="609657" target="2208">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="737658-1085644-comp.unix.cray" source="737658" target="1085644">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="712864-1085644-comp.unix.cray" source="712864" target="1085644">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1061-712864-comp.unix.cray" source="1061" target="712864">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1061-12310-comp.unix.cray" source="1061" target="12310">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1061-1085644-comp.unix.cray" source="1061" target="1085644">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="557198-557212-comp.unix.cray" source="557198" target="557212">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="557198-371643-comp.unix.cray" source="557198" target="371643">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1235125-2208-comp.unix.cray" source="1235125" target="2208">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12271-1085644-comp.unix.cray" source="12271" target="1085644">
+	<data key="topic">comp.unix.cray</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

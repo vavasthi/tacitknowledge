@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="15505"/>
+<node id="24050"/>
+<node id="398998"/>
+<node id="446454"/>
+<node id="15482"/>
+<node id="16187"/>
+<node id="15164"/>
+<node id="446462"/>
+<node id="2886771"/>
+<node id="431898"/>
+<node id="15300"/>
+<node id="389479"/>
+<node id="15206"/>
+<node id="19718"/>
+<node id="2886764"/>
+<node id="18893"/>
+<node id="721255"/>
+<node id="389516"/>
+<edge id="15505-16187-comp.society" source="15505" target="16187">
+	<data key="topic">comp.society</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24050-2886771-comp.society" source="24050" target="2886771">
+	<data key="topic">comp.society</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="446454-398998-comp.society" source="446454" target="398998">
+	<data key="topic">comp.society</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15482-721255-comp.society" source="15482" target="721255">
+	<data key="topic">comp.society</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15164-389516-comp.society" source="15164" target="389516">
+	<data key="topic">comp.society</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="446462-398998-comp.society" source="446462" target="398998">
+	<data key="topic">comp.society</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="431898-19718-comp.society" source="431898" target="19718">
+	<data key="topic">comp.society</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="431898-389516-comp.society" source="431898" target="389516">
+	<data key="topic">comp.society</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15300-398998-comp.society" source="15300" target="398998">
+	<data key="topic">comp.society</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="389479-18893-comp.society" source="389479" target="18893">
+	<data key="topic">comp.society</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15206-389516-comp.society" source="15206" target="389516">
+	<data key="topic">comp.society</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2886764-389516-comp.society" source="2886764" target="389516">
+	<data key="topic">comp.society</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

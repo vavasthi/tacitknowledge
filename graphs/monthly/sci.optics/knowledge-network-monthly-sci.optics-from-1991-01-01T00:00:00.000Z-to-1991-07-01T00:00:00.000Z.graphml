@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="7474"/>
+<node id="375160"/>
+<node id="375256"/>
+<node id="375543"/>
+<node id="2625788"/>
+<node id="361714"/>
+<node id="648253"/>
+<node id="364573"/>
+<node id="348348"/>
+<node id="2118"/>
+<node id="6022"/>
+<node id="7080"/>
+<node id="14922"/>
+<node id="1771"/>
+<node id="350128"/>
+<node id="948228"/>
+<node id="361708"/>
+<node id="939969"/>
+<node id="2615593"/>
+<edge id="7474-375543-sci.optics" source="7474" target="375543">
+	<data key="topic">sci.optics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="375160-364573-sci.optics" source="375160" target="364573">
+	<data key="topic">sci.optics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="375256-375543-sci.optics" source="375256" target="375543">
+	<data key="topic">sci.optics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2625788-2615593-sci.optics" source="2625788" target="2615593">
+	<data key="topic">sci.optics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="648253-364573-sci.optics" source="648253" target="364573">
+	<data key="topic">sci.optics</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="364573-648253-sci.optics" source="364573" target="648253">
+	<data key="topic">sci.optics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348348-375160-sci.optics" source="348348" target="375160">
+	<data key="topic">sci.optics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348348-364573-sci.optics" source="348348" target="364573">
+	<data key="topic">sci.optics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2118-7474-sci.optics" source="2118" target="7474">
+	<data key="topic">sci.optics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2118-375543-sci.optics" source="2118" target="375543">
+	<data key="topic">sci.optics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="6022-350128-sci.optics" source="6022" target="350128">
+	<data key="topic">sci.optics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7080-375160-sci.optics" source="7080" target="375160">
+	<data key="topic">sci.optics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7080-364573-sci.optics" source="7080" target="364573">
+	<data key="topic">sci.optics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14922-361714-sci.optics" source="14922" target="361714">
+	<data key="topic">sci.optics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14922-350128-sci.optics" source="14922" target="350128">
+	<data key="topic">sci.optics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1771-7474-sci.optics" source="1771" target="7474">
+	<data key="topic">sci.optics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1771-375543-sci.optics" source="1771" target="375543">
+	<data key="topic">sci.optics</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1771-2118-sci.optics" source="1771" target="2118">
+	<data key="topic">sci.optics</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="948228-2625788-sci.optics" source="948228" target="2625788">
+	<data key="topic">sci.optics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="948228-2615593-sci.optics" source="948228" target="2615593">
+	<data key="topic">sci.optics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="361708-361714-sci.optics" source="361708" target="361714">
+	<data key="topic">sci.optics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="939969-2625788-sci.optics" source="939969" target="2625788">
+	<data key="topic">sci.optics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="939969-2615593-sci.optics" source="939969" target="2615593">
+	<data key="topic">sci.optics</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

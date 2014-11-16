@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1208067"/>
+<node id="517524"/>
+<node id="501203"/>
+<node id="446452"/>
+<node id="792600"/>
+<node id="671256"/>
+<node id="29920"/>
+<node id="362310"/>
+<node id="30243"/>
+<node id="790319"/>
+<node id="429187"/>
+<node id="743599"/>
+<node id="670691"/>
+<node id="687236"/>
+<node id="514509"/>
+<node id="674018"/>
+<node id="3374"/>
+<edge id="1208067-446452-comp.ivideodisc" source="1208067" target="446452">
+	<data key="topic">comp.ivideodisc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="501203-792600-comp.ivideodisc" source="501203" target="792600">
+	<data key="topic">comp.ivideodisc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="671256-514509-comp.ivideodisc" source="671256" target="514509">
+	<data key="topic">comp.ivideodisc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="29920-517524-comp.ivideodisc" source="29920" target="517524">
+	<data key="topic">comp.ivideodisc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362310-514509-comp.ivideodisc" source="362310" target="514509">
+	<data key="topic">comp.ivideodisc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30243-517524-comp.ivideodisc" source="30243" target="517524">
+	<data key="topic">comp.ivideodisc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="429187-687236-comp.ivideodisc" source="429187" target="687236">
+	<data key="topic">comp.ivideodisc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="743599-790319-comp.ivideodisc" source="743599" target="790319">
+	<data key="topic">comp.ivideodisc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="743599-674018-comp.ivideodisc" source="743599" target="674018">
+	<data key="topic">comp.ivideodisc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="743599-3374-comp.ivideodisc" source="743599" target="3374">
+	<data key="topic">comp.ivideodisc</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

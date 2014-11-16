@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="129042"/>
+<node id="40981"/>
+<node id="37019"/>
+<node id="37405"/>
+<node id="51625"/>
+<node id="37161"/>
+<node id="37163"/>
+<node id="37552"/>
+<node id="44977"/>
+<node id="57651"/>
+<node id="126646"/>
+<node id="37046"/>
+<node id="105528"/>
+<node id="48696"/>
+<node id="95287"/>
+<node id="37433"/>
+<node id="38202"/>
+<node id="68921"/>
+<node id="37435"/>
+<node id="54332"/>
+<node id="38207"/>
+<node id="127682"/>
+<node id="37443"/>
+<node id="37699"/>
+<node id="37701"/>
+<node id="54854"/>
+<node id="125509"/>
+<node id="62535"/>
+<node id="37964"/>
+<node id="47693"/>
+<node id="56913"/>
+<node id="137301"/>
+<node id="106462"/>
+<node id="42849"/>
+<node id="94690"/>
+<node id="104165"/>
+<node id="37480"/>
+<node id="37227"/>
+<node id="37484"/>
+<node id="47213"/>
+<node id="45550"/>
+<node id="46062"/>
+<node id="40687"/>
+<node id="43247"/>
+<node id="37488"/>
+<node id="62964"/>
+<node id="72822"/>
+<node id="45945"/>
+<node id="49657"/>
+<node id="95865"/>
+<node id="37248"/>
+<node id="37633"/>
+<node id="48514"/>
+<node id="49285"/>
+<node id="37512"/>
+<node id="37514"/>
+<edge id="129042-126646-sci.environment" source="129042" target="126646">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="129042-104165-sci.environment" source="129042" target="104165">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="40981-37435-sci.environment" source="40981" target="37435">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="40981-45945-sci.environment" source="40981" target="45945">
+	<data key="topic">sci.environment</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37019-51625-sci.environment" source="37019" target="51625">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37019-37512-sci.environment" source="37019" target="37512">
+	<data key="topic">sci.environment</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37405-37227-sci.environment" source="37405" target="37227">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37405-37514-sci.environment" source="37405" target="37514">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="51625-37019-sci.environment" source="51625" target="37019">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="51625-37512-sci.environment" source="51625" target="37512">
+	<data key="topic">sci.environment</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="37161-37633-sci.environment" source="37161" target="37633">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37161-37514-sci.environment" source="37161" target="37514">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37163-37552-sci.environment" source="37163" target="37552">
+	<data key="topic">sci.environment</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="37163-37433-sci.environment" source="37163" target="37433">
+	<data key="topic">sci.environment</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37163-37435-sci.environment" source="37163" target="37435">
+	<data key="topic">sci.environment</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="37163-37443-sci.environment" source="37163" target="37443">
+	<data key="topic">sci.environment</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37163-37227-sci.environment" source="37163" target="37227">
+	<data key="topic">sci.environment</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="37163-37484-sci.environment" source="37163" target="37484">
+	<data key="topic">sci.environment</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37163-37514-sci.environment" source="37163" target="37514">
+	<data key="topic">sci.environment</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37552-37163-sci.environment" source="37552" target="37163">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37552-37433-sci.environment" source="37552" target="37433">
+	<data key="topic">sci.environment</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="37552-38202-sci.environment" source="37552" target="38202">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37552-37435-sci.environment" source="37552" target="37435">
+	<data key="topic">sci.environment</data>
+	<data key="weight">11</data>
+</edge>
+<edge id="37552-37443-sci.environment" source="37552" target="37443">
+	<data key="topic">sci.environment</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="37552-37227-sci.environment" source="37552" target="37227">
+	<data key="topic">sci.environment</data>
+	<data key="weight">11</data>
+</edge>
+<edge id="37552-37484-sci.environment" source="37552" target="37484">
+	<data key="topic">sci.environment</data>
+	<data key="weight">6</data>
+</edge>
+<edge id="37552-37514-sci.environment" source="37552" target="37514">
+	<data key="topic">sci.environment</data>
+	<data key="weight">6</data>
+</edge>
+<edge id="44977-42849-sci.environment" source="44977" target="42849">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="44977-37227-sci.environment" source="44977" target="37227">
+	<data key="topic">sci.environment</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="44977-37512-sci.environment" source="44977" target="37512">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="126646-37046-sci.environment" source="126646" target="37046">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="126646-127682-sci.environment" source="126646" target="127682">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="126646-104165-sci.environment" source="126646" target="104165">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37046-126646-sci.environment" source="37046" target="126646">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="105528-106462-sci.environment" source="105528" target="106462">
+	<data key="topic">sci.environment</data>
+	<data key="weight">6</data>
+</edge>
+<edge id="48696-48514-sci.environment" source="48696" target="48514">
+	<data key="topic">sci.environment</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="48696-49285-sci.environment" source="48696" target="49285">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="48696-37512-sci.environment" source="48696" target="37512">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="95287-37435-sci.environment" source="95287" target="37435">
+	<data key="topic">sci.environment</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="95287-94690-sci.environment" source="95287" target="94690">
+	<data key="topic">sci.environment</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="95287-43247-sci.environment" source="95287" target="43247">
+	<data key="topic">sci.environment</data>
+	<data key="weight">11</data>
+</edge>
+<edge id="37433-37443-sci.environment" source="37433" target="37443">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37433-37227-sci.environment" source="37433" target="37227">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37433-37514-sci.environment" source="37433" target="37514">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="38202-37552-sci.environment" source="38202" target="37552">
+	<data key="topic">sci.environment</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="38202-37433-sci.environment" source="38202" target="37433">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="38202-37435-sci.environment" source="38202" target="37435">
+	<data key="topic">sci.environment</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="38202-37443-sci.environment" source="38202" target="37443">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="38202-37227-sci.environment" source="38202" target="37227">
+	<data key="topic">sci.environment</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="38202-37484-sci.environment" source="38202" target="37484">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="38202-37514-sci.environment" source="38202" target="37514">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37435-37552-sci.environment" source="37435" target="37552">
+	<data key="topic">sci.environment</data>
+	<data key="weight">8</data>
+</edge>
+<edge id="37435-48696-sci.environment" source="37435" target="48696">
+	<data key="topic">sci.environment</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="37435-37433-sci.environment" source="37435" target="37433">
+	<data key="topic">sci.environment</data>
+	<data key="weight">6</data>
+</edge>
+<edge id="37435-38207-sci.environment" source="37435" target="38207">
+	<data key="topic">sci.environment</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37435-37443-sci.environment" source="37435" target="37443">
+	<data key="topic">sci.environment</data>
+	<data key="weight">6</data>
+</edge>
+<edge id="37435-54854-sci.environment" source="37435" target="54854">
+	<data key="topic">sci.environment</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37435-37227-sci.environment" source="37435" target="37227">
+	<data key="topic">sci.environment</data>
+	<data key="weight">14</data>
+</edge>
+<edge id="37435-37484-sci.environment" source="37435" target="37484">
+	<data key="topic">sci.environment</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="37435-40687-sci.environment" source="37435" target="40687">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37435-45945-sci.environment" source="37435" target="45945">
+	<data key="topic">sci.environment</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37435-48514-sci.environment" source="37435" target="48514">
+	<data key="topic">sci.environment</data>
+	<data key="weight">8</data>
+</edge>
+<edge id="37435-49285-sci.environment" source="37435" target="49285">
+	<data key="topic">sci.environment</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="37435-37512-sci.environment" source="37435" target="37512">
+	<data key="topic">sci.environment</data>
+	<data key="weight">7</data>
+</edge>
+<edge id="37435-37514-sci.environment" source="37435" target="37514">
+	<data key="topic">sci.environment</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="54332-37512-sci.environment" source="54332" target="37512">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="38207-54854-sci.environment" source="38207" target="54854">
+	<data key="topic">sci.environment</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="38207-37227-sci.environment" source="38207" target="37227">
+	<data key="topic">sci.environment</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="38207-37512-sci.environment" source="38207" target="37512">
+	<data key="topic">sci.environment</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="127682-126646-sci.environment" source="127682" target="126646">
+	<data key="topic">sci.environment</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="127682-37046-sci.environment" source="127682" target="37046">
+	<data key="topic">sci.environment</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37443-37435-sci.environment" source="37443" target="37435">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37443-37227-sci.environment" source="37443" target="37227">
+	<data key="topic">sci.environment</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37443-45945-sci.environment" source="37443" target="45945">
+	<data key="topic">sci.environment</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37443-37514-sci.environment" source="37443" target="37514">
+	<data key="topic">sci.environment</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37699-37161-sci.environment" source="37699" target="37161">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37699-37633-sci.environment" source="37699" target="37633">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37699-37514-sci.environment" source="37699" target="37514">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37701-37433-sci.environment" source="37701" target="37433">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37701-37443-sci.environment" source="37701" target="37443">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37701-37227-sci.environment" source="37701" target="37227">
+	<data key="topic">sci.environment</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37701-37514-sci.environment" source="37701" target="37514">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="54854-37227-sci.environment" source="54854" target="37227">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="54854-37512-sci.environment" source="54854" target="37512">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="125509-105528-sci.environment" source="125509" target="105528">
+	<data key="topic">sci.environment</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="125509-106462-sci.environment" source="125509" target="106462">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="62535-57651-sci.environment" source="62535" target="57651">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="62535-54854-sci.environment" source="62535" target="54854">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="62535-37227-sci.environment" source="62535" target="37227">
+	<data key="topic">sci.environment</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="62535-37512-sci.environment" source="62535" target="37512">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37964-37514-sci.environment" source="37964" target="37514">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="56913-51625-sci.environment" source="56913" target="51625">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="56913-37512-sci.environment" source="56913" target="37512">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="137301-47693-sci.environment" source="137301" target="47693">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="106462-105528-sci.environment" source="106462" target="105528">
+	<data key="topic">sci.environment</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="42849-37227-sci.environment" source="42849" target="37227">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="42849-37512-sci.environment" source="42849" target="37512">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="104165-126646-sci.environment" source="104165" target="126646">
+	<data key="topic">sci.environment</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37480-37433-sci.environment" source="37480" target="37433">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37480-37443-sci.environment" source="37480" target="37443">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37480-37227-sci.environment" source="37480" target="37227">
+	<data key="topic">sci.environment</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37480-37514-sci.environment" source="37480" target="37514">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37227-57651-sci.environment" source="37227" target="57651">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37227-37433-sci.environment" source="37227" target="37433">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37227-37443-sci.environment" source="37227" target="37443">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37227-54854-sci.environment" source="37227" target="54854">
+	<data key="topic">sci.environment</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37227-47693-sci.environment" source="37227" target="47693">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37227-42849-sci.environment" source="37227" target="42849">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37227-37512-sci.environment" source="37227" target="37512">
+	<data key="topic">sci.environment</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="37227-37514-sci.environment" source="37227" target="37514">
+	<data key="topic">sci.environment</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37484-37433-sci.environment" source="37484" target="37433">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37484-37435-sci.environment" source="37484" target="37435">
+	<data key="topic">sci.environment</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37484-37443-sci.environment" source="37484" target="37443">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37484-37227-sci.environment" source="37484" target="37227">
+	<data key="topic">sci.environment</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="37484-45945-sci.environment" source="37484" target="45945">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37484-37514-sci.environment" source="37484" target="37514">
+	<data key="topic">sci.environment</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="47213-42849-sci.environment" source="47213" target="42849">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="47213-37227-sci.environment" source="47213" target="37227">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="47213-37512-sci.environment" source="47213" target="37512">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="45550-45945-sci.environment" source="45550" target="45945">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="46062-37227-sci.environment" source="46062" target="37227">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="46062-37512-sci.environment" source="46062" target="37512">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="40687-37435-sci.environment" source="40687" target="37435">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="40687-48514-sci.environment" source="40687" target="48514">
+	<data key="topic">sci.environment</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="40687-37512-sci.environment" source="40687" target="37512">
+	<data key="topic">sci.environment</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="43247-105528-sci.environment" source="43247" target="105528">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="43247-95287-sci.environment" source="43247" target="95287">
+	<data key="topic">sci.environment</data>
+	<data key="weight">14</data>
+</edge>
+<edge id="43247-37435-sci.environment" source="43247" target="37435">
+	<data key="topic">sci.environment</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="43247-106462-sci.environment" source="43247" target="106462">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="43247-94690-sci.environment" source="43247" target="94690">
+	<data key="topic">sci.environment</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="37488-37514-sci.environment" source="37488" target="37514">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="62964-57651-sci.environment" source="62964" target="57651">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="62964-54854-sci.environment" source="62964" target="54854">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="62964-37227-sci.environment" source="62964" target="37227">
+	<data key="topic">sci.environment</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="62964-37512-sci.environment" source="62964" target="37512">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="72822-47693-sci.environment" source="72822" target="47693">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="72822-37227-sci.environment" source="72822" target="37227">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="45945-37435-sci.environment" source="45945" target="37435">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="49657-45945-sci.environment" source="49657" target="45945">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="95865-68921-sci.environment" source="95865" target="68921">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37248-105528-sci.environment" source="37248" target="105528">
+	<data key="topic">sci.environment</data>
+	<data key="weight">8</data>
+</edge>
+<edge id="37248-125509-sci.environment" source="37248" target="125509">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37248-106462-sci.environment" source="37248" target="106462">
+	<data key="topic">sci.environment</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="37633-45945-sci.environment" source="37633" target="45945">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37633-37514-sci.environment" source="37633" target="37514">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="48514-48696-sci.environment" source="48514" target="48696">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="48514-37512-sci.environment" source="48514" target="37512">
+	<data key="topic">sci.environment</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="49285-48696-sci.environment" source="49285" target="48696">
+	<data key="topic">sci.environment</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="49285-37435-sci.environment" source="49285" target="37435">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="49285-48514-sci.environment" source="49285" target="48514">
+	<data key="topic">sci.environment</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="49285-37512-sci.environment" source="49285" target="37512">
+	<data key="topic">sci.environment</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37512-37019-sci.environment" source="37512" target="37019">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37512-51625-sci.environment" source="37512" target="51625">
+	<data key="topic">sci.environment</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37512-37227-sci.environment" source="37512" target="37227">
+	<data key="topic">sci.environment</data>
+	<data key="weight">2</data>
+</edge>
+</graph>
+</graphml>

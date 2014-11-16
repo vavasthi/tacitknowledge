@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="3092"/>
+<node id="6581"/>
+<node id="578974"/>
+<node id="388740"/>
+<node id="389006"/>
+<node id="445646"/>
+<node id="910850"/>
+<node id="361737"/>
+<node id="416233"/>
+<edge id="3092-578974-rec.video.satellite" source="3092" target="578974">
+	<data key="topic">rec.video.satellite</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="388740-445646-rec.video.satellite" source="388740" target="445646">
+	<data key="topic">rec.video.satellite</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="388740-416233-rec.video.satellite" source="388740" target="416233">
+	<data key="topic">rec.video.satellite</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="445646-388740-rec.video.satellite" source="445646" target="388740">
+	<data key="topic">rec.video.satellite</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="445646-416233-rec.video.satellite" source="445646" target="416233">
+	<data key="topic">rec.video.satellite</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="910850-6581-rec.video.satellite" source="910850" target="6581">
+	<data key="topic">rec.video.satellite</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="361737-389006-rec.video.satellite" source="361737" target="389006">
+	<data key="topic">rec.video.satellite</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="416233-388740-rec.video.satellite" source="416233" target="388740">
+	<data key="topic">rec.video.satellite</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="416233-445646-rec.video.satellite" source="416233" target="445646">
+	<data key="topic">rec.video.satellite</data>
+	<data key="weight">2</data>
+</edge>
+</graph>
+</graphml>

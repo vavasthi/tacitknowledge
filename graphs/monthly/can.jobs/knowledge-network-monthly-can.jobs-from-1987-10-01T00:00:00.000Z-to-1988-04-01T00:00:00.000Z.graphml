@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="26833"/>
+<node id="22033"/>
+<node id="28357"/>
+<node id="710207"/>
+<node id="597920"/>
+<node id="347380"/>
+<node id="24439"/>
+<node id="396511"/>
+<node id="391517"/>
+<node id="15595"/>
+<node id="20063"/>
+<node id="498105"/>
+<edge id="22033-597920-can.jobs" source="22033" target="597920">
+	<data key="topic">can.jobs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="22033-347380-can.jobs" source="22033" target="347380">
+	<data key="topic">can.jobs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="22033-20063-can.jobs" source="22033" target="20063">
+	<data key="topic">can.jobs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28357-597920-can.jobs" source="28357" target="597920">
+	<data key="topic">can.jobs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28357-396511-can.jobs" source="28357" target="396511">
+	<data key="topic">can.jobs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="710207-498105-can.jobs" source="710207" target="498105">
+	<data key="topic">can.jobs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347380-597920-can.jobs" source="347380" target="597920">
+	<data key="topic">can.jobs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24439-597920-can.jobs" source="24439" target="597920">
+	<data key="topic">can.jobs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="396511-597920-can.jobs" source="396511" target="597920">
+	<data key="topic">can.jobs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391517-28357-can.jobs" source="391517" target="28357">
+	<data key="topic">can.jobs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391517-597920-can.jobs" source="391517" target="597920">
+	<data key="topic">can.jobs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391517-396511-can.jobs" source="391517" target="396511">
+	<data key="topic">can.jobs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15595-26833-can.jobs" source="15595" target="26833">
+	<data key="topic">can.jobs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15595-597920-can.jobs" source="15595" target="597920">
+	<data key="topic">can.jobs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="15595-347380-can.jobs" source="15595" target="347380">
+	<data key="topic">can.jobs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15595-20063-can.jobs" source="15595" target="20063">
+	<data key="topic">can.jobs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20063-597920-can.jobs" source="20063" target="597920">
+	<data key="topic">can.jobs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20063-347380-can.jobs" source="20063" target="347380">
+	<data key="topic">can.jobs</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

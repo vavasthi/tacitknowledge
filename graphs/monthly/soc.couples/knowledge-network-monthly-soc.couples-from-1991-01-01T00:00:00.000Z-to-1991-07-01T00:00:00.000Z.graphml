@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="352981"/>
+<node id="413974"/>
+<node id="1193"/>
+<node id="347725"/>
+<node id="389184"/>
+<edge id="352981-413974-soc.couples" source="352981" target="413974">
+	<data key="topic">soc.couples</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="413974-389184-soc.couples" source="413974" target="389184">
+	<data key="topic">soc.couples</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1193-352981-soc.couples" source="1193" target="352981">
+	<data key="topic">soc.couples</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1193-413974-soc.couples" source="1193" target="413974">
+	<data key="topic">soc.couples</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347725-413974-soc.couples" source="347725" target="413974">
+	<data key="topic">soc.couples</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347725-389184-soc.couples" source="347725" target="389184">
+	<data key="topic">soc.couples</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

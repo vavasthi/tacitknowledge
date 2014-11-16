@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="37042"/>
+<node id="46002"/>
+<node id="42292"/>
+<node id="69397"/>
+<node id="41046"/>
+<node id="103189"/>
+<node id="37019"/>
+<node id="75707"/>
+<node id="54974"/>
+<node id="42400"/>
+<node id="77983"/>
+<node id="100804"/>
+<node id="62886"/>
+<node id="102149"/>
+<node id="42347"/>
+<node id="37227"/>
+<node id="40655"/>
+<node id="37424"/>
+<edge id="37042-42347-alt.sci.planetary" source="37042" target="42347">
+	<data key="topic">alt.sci.planetary</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="46002-42400-alt.sci.planetary" source="46002" target="42400">
+	<data key="topic">alt.sci.planetary</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="46002-100804-alt.sci.planetary" source="46002" target="100804">
+	<data key="topic">alt.sci.planetary</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="42292-46002-alt.sci.planetary" source="42292" target="46002">
+	<data key="topic">alt.sci.planetary</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="42292-54974-alt.sci.planetary" source="42292" target="54974">
+	<data key="topic">alt.sci.planetary</data>
+	<data key="weight">6</data>
+</edge>
+<edge id="42292-42400-alt.sci.planetary" source="42292" target="42400">
+	<data key="topic">alt.sci.planetary</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="42292-100804-alt.sci.planetary" source="42292" target="100804">
+	<data key="topic">alt.sci.planetary</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="69397-37042-alt.sci.planetary" source="69397" target="37042">
+	<data key="topic">alt.sci.planetary</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="69397-42347-alt.sci.planetary" source="69397" target="42347">
+	<data key="topic">alt.sci.planetary</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="103189-100804-alt.sci.planetary" source="103189" target="100804">
+	<data key="topic">alt.sci.planetary</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="103189-102149-alt.sci.planetary" source="103189" target="102149">
+	<data key="topic">alt.sci.planetary</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="75707-37042-alt.sci.planetary" source="75707" target="37042">
+	<data key="topic">alt.sci.planetary</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="75707-41046-alt.sci.planetary" source="75707" target="41046">
+	<data key="topic">alt.sci.planetary</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="75707-37019-alt.sci.planetary" source="75707" target="37019">
+	<data key="topic">alt.sci.planetary</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="75707-42347-alt.sci.planetary" source="75707" target="42347">
+	<data key="topic">alt.sci.planetary</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="75707-37227-alt.sci.planetary" source="75707" target="37227">
+	<data key="topic">alt.sci.planetary</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="75707-40655-alt.sci.planetary" source="75707" target="40655">
+	<data key="topic">alt.sci.planetary</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="54974-46002-alt.sci.planetary" source="54974" target="46002">
+	<data key="topic">alt.sci.planetary</data>
+	<data key="weight">8</data>
+</edge>
+<edge id="54974-42292-alt.sci.planetary" source="54974" target="42292">
+	<data key="topic">alt.sci.planetary</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="54974-42400-alt.sci.planetary" source="54974" target="42400">
+	<data key="topic">alt.sci.planetary</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="54974-100804-alt.sci.planetary" source="54974" target="100804">
+	<data key="topic">alt.sci.planetary</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="42400-46002-alt.sci.planetary" source="42400" target="46002">
+	<data key="topic">alt.sci.planetary</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="42400-100804-alt.sci.planetary" source="42400" target="100804">
+	<data key="topic">alt.sci.planetary</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="77983-37042-alt.sci.planetary" source="77983" target="37042">
+	<data key="topic">alt.sci.planetary</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="77983-69397-alt.sci.planetary" source="77983" target="69397">
+	<data key="topic">alt.sci.planetary</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="77983-42347-alt.sci.planetary" source="77983" target="42347">
+	<data key="topic">alt.sci.planetary</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="100804-103189-alt.sci.planetary" source="100804" target="103189">
+	<data key="topic">alt.sci.planetary</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="100804-102149-alt.sci.planetary" source="100804" target="102149">
+	<data key="topic">alt.sci.planetary</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="102149-100804-alt.sci.planetary" source="102149" target="100804">
+	<data key="topic">alt.sci.planetary</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37227-100804-alt.sci.planetary" source="37227" target="100804">
+	<data key="topic">alt.sci.planetary</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37424-100804-alt.sci.planetary" source="37424" target="100804">
+	<data key="topic">alt.sci.planetary</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="42849"/>
+<node id="269190"/>
+<node id="268695"/>
+<node id="37011"/>
+<node id="243458"/>
+<node id="42089"/>
+<node id="211739"/>
+<node id="38204"/>
+<node id="268672"/>
+<node id="43247"/>
+<node id="268140"/>
+<node id="195726"/>
+<edge id="269190-268695-soc.history.science" source="269190" target="268695">
+	<data key="topic">soc.history.science</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="269190-43247-soc.history.science" source="269190" target="43247">
+	<data key="topic">soc.history.science</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="269190-268140-soc.history.science" source="269190" target="268140">
+	<data key="topic">soc.history.science</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="268695-43247-soc.history.science" source="268695" target="43247">
+	<data key="topic">soc.history.science</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="268695-268140-soc.history.science" source="268695" target="268140">
+	<data key="topic">soc.history.science</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="243458-211739-soc.history.science" source="243458" target="211739">
+	<data key="topic">soc.history.science</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="243458-43247-soc.history.science" source="243458" target="43247">
+	<data key="topic">soc.history.science</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="42089-268695-soc.history.science" source="42089" target="268695">
+	<data key="topic">soc.history.science</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="42089-43247-soc.history.science" source="42089" target="43247">
+	<data key="topic">soc.history.science</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="42089-268140-soc.history.science" source="42089" target="268140">
+	<data key="topic">soc.history.science</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="211739-43247-soc.history.science" source="211739" target="43247">
+	<data key="topic">soc.history.science</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="38204-43247-soc.history.science" source="38204" target="43247">
+	<data key="topic">soc.history.science</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="38204-268140-soc.history.science" source="38204" target="268140">
+	<data key="topic">soc.history.science</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="268672-43247-soc.history.science" source="268672" target="43247">
+	<data key="topic">soc.history.science</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="43247-268695-soc.history.science" source="43247" target="268695">
+	<data key="topic">soc.history.science</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="43247-42089-soc.history.science" source="43247" target="42089">
+	<data key="topic">soc.history.science</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="43247-268140-soc.history.science" source="43247" target="268140">
+	<data key="topic">soc.history.science</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="195726-42849-soc.history.science" source="195726" target="42849">
+	<data key="topic">soc.history.science</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="195726-37011-soc.history.science" source="195726" target="37011">
+	<data key="topic">soc.history.science</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

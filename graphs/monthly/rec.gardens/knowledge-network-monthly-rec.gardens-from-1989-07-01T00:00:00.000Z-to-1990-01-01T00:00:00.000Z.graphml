@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="30611"/>
+<node id="814234"/>
+<node id="520225"/>
+<node id="426960"/>
+<node id="612326"/>
+<node id="1213840"/>
+<node id="511642"/>
+<edge id="30611-814234-rec.gardens" source="30611" target="814234">
+	<data key="topic">rec.gardens</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30611-520225-rec.gardens" source="30611" target="520225">
+	<data key="topic">rec.gardens</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30611-426960-rec.gardens" source="30611" target="426960">
+	<data key="topic">rec.gardens</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30611-1213840-rec.gardens" source="30611" target="1213840">
+	<data key="topic">rec.gardens</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="426960-814234-rec.gardens" source="426960" target="814234">
+	<data key="topic">rec.gardens</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="426960-520225-rec.gardens" source="426960" target="520225">
+	<data key="topic">rec.gardens</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="612326-814234-rec.gardens" source="612326" target="814234">
+	<data key="topic">rec.gardens</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1213840-814234-rec.gardens" source="1213840" target="814234">
+	<data key="topic">rec.gardens</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1213840-520225-rec.gardens" source="1213840" target="520225">
+	<data key="topic">rec.gardens</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1213840-426960-rec.gardens" source="1213840" target="426960">
+	<data key="topic">rec.gardens</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

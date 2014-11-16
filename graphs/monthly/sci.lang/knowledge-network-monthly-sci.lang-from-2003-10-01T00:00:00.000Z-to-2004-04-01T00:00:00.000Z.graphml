@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2858495"/>
+<node id="181120"/>
+<node id="324508"/>
+<node id="2189153"/>
+<node id="230466"/>
+<node id="41734"/>
+<node id="237607"/>
+<node id="37159"/>
+<node id="267811"/>
+<node id="268099"/>
+<node id="317007"/>
+<node id="268496"/>
+<node id="172303"/>
+<node id="2858439"/>
+<node id="43631"/>
+<node id="2858277"/>
+<edge id="2858495-2189153-sci.lang" source="2858495" target="2189153">
+	<data key="topic">sci.lang</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2858495-2858439-sci.lang" source="2858495" target="2858439">
+	<data key="topic">sci.lang</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2858495-2858277-sci.lang" source="2858495" target="2858277">
+	<data key="topic">sci.lang</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="181120-267811-sci.lang" source="181120" target="267811">
+	<data key="topic">sci.lang</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="324508-267811-sci.lang" source="324508" target="267811">
+	<data key="topic">sci.lang</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="324508-317007-sci.lang" source="324508" target="317007">
+	<data key="topic">sci.lang</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="230466-41734-sci.lang" source="230466" target="41734">
+	<data key="topic">sci.lang</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="230466-43631-sci.lang" source="230466" target="43631">
+	<data key="topic">sci.lang</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41734-230466-sci.lang" source="41734" target="230466">
+	<data key="topic">sci.lang</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="237607-230466-sci.lang" source="237607" target="230466">
+	<data key="topic">sci.lang</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="237607-41734-sci.lang" source="237607" target="41734">
+	<data key="topic">sci.lang</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37159-181120-sci.lang" source="37159" target="181120">
+	<data key="topic">sci.lang</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37159-267811-sci.lang" source="37159" target="267811">
+	<data key="topic">sci.lang</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37159-268099-sci.lang" source="37159" target="268099">
+	<data key="topic">sci.lang</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="267811-181120-sci.lang" source="267811" target="181120">
+	<data key="topic">sci.lang</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="268099-181120-sci.lang" source="268099" target="181120">
+	<data key="topic">sci.lang</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="268099-267811-sci.lang" source="268099" target="267811">
+	<data key="topic">sci.lang</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="317007-267811-sci.lang" source="317007" target="267811">
+	<data key="topic">sci.lang</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="268496-267811-sci.lang" source="268496" target="267811">
+	<data key="topic">sci.lang</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="268496-268099-sci.lang" source="268496" target="268099">
+	<data key="topic">sci.lang</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="172303-2189153-sci.lang" source="172303" target="2189153">
+	<data key="topic">sci.lang</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="172303-2858439-sci.lang" source="172303" target="2858439">
+	<data key="topic">sci.lang</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="172303-2858277-sci.lang" source="172303" target="2858277">
+	<data key="topic">sci.lang</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2858439-2189153-sci.lang" source="2858439" target="2189153">
+	<data key="topic">sci.lang</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2858439-2858277-sci.lang" source="2858439" target="2858277">
+	<data key="topic">sci.lang</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="43631-230466-sci.lang" source="43631" target="230466">
+	<data key="topic">sci.lang</data>
+	<data key="weight">2</data>
+</edge>
+</graph>
+</graphml>

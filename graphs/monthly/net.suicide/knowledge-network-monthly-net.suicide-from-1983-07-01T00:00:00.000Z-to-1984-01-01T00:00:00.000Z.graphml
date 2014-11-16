@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="566761"/>
+<node id="565018"/>
+<node id="460548"/>
+<node id="459219"/>
+<node id="523538"/>
+<node id="461407"/>
+<node id="459231"/>
+<node id="459580"/>
+<node id="459658"/>
+<node id="459738"/>
+<node id="461481"/>
+<edge id="566761-523538-net.suicide" source="566761" target="523538">
+	<data key="topic">net.suicide</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460548-565018-net.suicide" source="460548" target="565018">
+	<data key="topic">net.suicide</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459219-461407-net.suicide" source="459219" target="461407">
+	<data key="topic">net.suicide</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459231-459580-net.suicide" source="459231" target="459580">
+	<data key="topic">net.suicide</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="459658-565018-net.suicide" source="459658" target="565018">
+	<data key="topic">net.suicide</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459738-459219-net.suicide" source="459738" target="459219">
+	<data key="topic">net.suicide</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459738-461481-net.suicide" source="459738" target="461481">
+	<data key="topic">net.suicide</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="461481-459219-net.suicide" source="461481" target="459219">
+	<data key="topic">net.suicide</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

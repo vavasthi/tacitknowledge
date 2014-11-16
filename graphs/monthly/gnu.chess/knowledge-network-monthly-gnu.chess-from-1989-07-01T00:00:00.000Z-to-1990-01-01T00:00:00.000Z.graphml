@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1173638"/>
+<node id="1351809"/>
+<node id="2529151"/>
+<node id="11644"/>
+<node id="2529148"/>
+<node id="708841"/>
+<node id="1376855"/>
+<node id="1192408"/>
+<node id="613392"/>
+<node id="2130343"/>
+<node id="1352275"/>
+<node id="1392926"/>
+<node id="1250009"/>
+<node id="512076"/>
+<node id="29901"/>
+<node id="1376857"/>
+<node id="1304765"/>
+<edge id="1173638-1351809-gnu.chess" source="1173638" target="1351809">
+	<data key="topic">gnu.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11644-512076-gnu.chess" source="11644" target="512076">
+	<data key="topic">gnu.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2529148-2529151-gnu.chess" source="2529148" target="2529151">
+	<data key="topic">gnu.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1376855-512076-gnu.chess" source="1376855" target="512076">
+	<data key="topic">gnu.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1192408-2529148-gnu.chess" source="1192408" target="2529148">
+	<data key="topic">gnu.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1192408-1352275-gnu.chess" source="1192408" target="1352275">
+	<data key="topic">gnu.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="613392-2130343-gnu.chess" source="613392" target="2130343">
+	<data key="topic">gnu.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="613392-1250009-gnu.chess" source="613392" target="1250009">
+	<data key="topic">gnu.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2130343-1250009-gnu.chess" source="2130343" target="1250009">
+	<data key="topic">gnu.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29901-2529151-gnu.chess" source="29901" target="2529151">
+	<data key="topic">gnu.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1376857-1376855-gnu.chess" source="1376857" target="1376855">
+	<data key="topic">gnu.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1376857-512076-gnu.chess" source="1376857" target="512076">
+	<data key="topic">gnu.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1304765-1392926-gnu.chess" source="1304765" target="1392926">
+	<data key="topic">gnu.chess</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

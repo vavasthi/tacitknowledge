@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1524552"/>
+<node id="1176049"/>
+<node id="1733"/>
+<node id="573871"/>
+<node id="1707"/>
+<node id="10827"/>
+<node id="378224"/>
+<node id="10749"/>
+<node id="1981"/>
+<edge id="1707-1733-comp.dcom.fax" source="1707" target="1733">
+	<data key="topic">comp.dcom.fax</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10827-1176049-comp.dcom.fax" source="10827" target="1176049">
+	<data key="topic">comp.dcom.fax</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="378224-573871-comp.dcom.fax" source="378224" target="573871">
+	<data key="topic">comp.dcom.fax</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="378224-1981-comp.dcom.fax" source="378224" target="1981">
+	<data key="topic">comp.dcom.fax</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10749-1524552-comp.dcom.fax" source="10749" target="1524552">
+	<data key="topic">comp.dcom.fax</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

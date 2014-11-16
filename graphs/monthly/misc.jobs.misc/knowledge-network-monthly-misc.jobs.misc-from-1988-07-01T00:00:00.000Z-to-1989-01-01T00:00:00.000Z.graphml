@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="17953"/>
+<node id="2977"/>
+<node id="15595"/>
+<node id="29519"/>
+<node id="20063"/>
+<node id="509018"/>
+<node id="35056"/>
+<node id="16272"/>
+<edge id="17953-2977-misc.jobs.misc" source="17953" target="2977">
+	<data key="topic">misc.jobs.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17953-29519-misc.jobs.misc" source="17953" target="29519">
+	<data key="topic">misc.jobs.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17953-20063-misc.jobs.misc" source="17953" target="20063">
+	<data key="topic">misc.jobs.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17953-35056-misc.jobs.misc" source="17953" target="35056">
+	<data key="topic">misc.jobs.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17953-16272-misc.jobs.misc" source="17953" target="16272">
+	<data key="topic">misc.jobs.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509018-15595-misc.jobs.misc" source="509018" target="15595">
+	<data key="topic">misc.jobs.misc</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

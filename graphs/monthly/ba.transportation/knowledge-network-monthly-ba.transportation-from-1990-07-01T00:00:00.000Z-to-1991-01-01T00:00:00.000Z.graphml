@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2977"/>
+<node id="380882"/>
+<node id="1311156"/>
+<node id="349891"/>
+<node id="1193"/>
+<node id="14171"/>
+<node id="831425"/>
+<node id="1311273"/>
+<node id="991"/>
+<node id="389308"/>
+<node id="14975"/>
+<node id="751093"/>
+<edge id="2977-991-ba.transportation" source="2977" target="991">
+	<data key="topic">ba.transportation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2977-389308-ba.transportation" source="2977" target="389308">
+	<data key="topic">ba.transportation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="380882-1311156-ba.transportation" source="380882" target="1311156">
+	<data key="topic">ba.transportation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="380882-349891-ba.transportation" source="380882" target="349891">
+	<data key="topic">ba.transportation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="380882-831425-ba.transportation" source="380882" target="831425">
+	<data key="topic">ba.transportation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="380882-389308-ba.transportation" source="380882" target="389308">
+	<data key="topic">ba.transportation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1311156-380882-ba.transportation" source="1311156" target="380882">
+	<data key="topic">ba.transportation</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1311156-349891-ba.transportation" source="1311156" target="349891">
+	<data key="topic">ba.transportation</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1311156-831425-ba.transportation" source="1311156" target="831425">
+	<data key="topic">ba.transportation</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1311156-1311273-ba.transportation" source="1311156" target="1311273">
+	<data key="topic">ba.transportation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1311156-991-ba.transportation" source="1311156" target="991">
+	<data key="topic">ba.transportation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1311156-389308-ba.transportation" source="1311156" target="389308">
+	<data key="topic">ba.transportation</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="349891-991-ba.transportation" source="349891" target="991">
+	<data key="topic">ba.transportation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="349891-389308-ba.transportation" source="349891" target="389308">
+	<data key="topic">ba.transportation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1193-380882-ba.transportation" source="1193" target="380882">
+	<data key="topic">ba.transportation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1193-1311156-ba.transportation" source="1193" target="1311156">
+	<data key="topic">ba.transportation</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1193-831425-ba.transportation" source="1193" target="831425">
+	<data key="topic">ba.transportation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1193-991-ba.transportation" source="1193" target="991">
+	<data key="topic">ba.transportation</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="14171-1311156-ba.transportation" source="14171" target="1311156">
+	<data key="topic">ba.transportation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14171-991-ba.transportation" source="14171" target="991">
+	<data key="topic">ba.transportation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1311273-380882-ba.transportation" source="1311273" target="380882">
+	<data key="topic">ba.transportation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1311273-1311156-ba.transportation" source="1311273" target="1311156">
+	<data key="topic">ba.transportation</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1311273-349891-ba.transportation" source="1311273" target="349891">
+	<data key="topic">ba.transportation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1311273-831425-ba.transportation" source="1311273" target="831425">
+	<data key="topic">ba.transportation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1311273-389308-ba.transportation" source="1311273" target="389308">
+	<data key="topic">ba.transportation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="991-380882-ba.transportation" source="991" target="380882">
+	<data key="topic">ba.transportation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="991-1311156-ba.transportation" source="991" target="1311156">
+	<data key="topic">ba.transportation</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="991-14171-ba.transportation" source="991" target="14171">
+	<data key="topic">ba.transportation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="991-831425-ba.transportation" source="991" target="831425">
+	<data key="topic">ba.transportation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="991-1311273-ba.transportation" source="991" target="1311273">
+	<data key="topic">ba.transportation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="389308-1311156-ba.transportation" source="389308" target="1311156">
+	<data key="topic">ba.transportation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="389308-349891-ba.transportation" source="389308" target="349891">
+	<data key="topic">ba.transportation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="389308-991-ba.transportation" source="389308" target="991">
+	<data key="topic">ba.transportation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14975-1311156-ba.transportation" source="14975" target="1311156">
+	<data key="topic">ba.transportation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14975-14171-ba.transportation" source="14975" target="14171">
+	<data key="topic">ba.transportation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14975-991-ba.transportation" source="14975" target="991">
+	<data key="topic">ba.transportation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="751093-1311156-ba.transportation" source="751093" target="1311156">
+	<data key="topic">ba.transportation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="751093-1193-ba.transportation" source="751093" target="1193">
+	<data key="topic">ba.transportation</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="751093-991-ba.transportation" source="751093" target="991">
+	<data key="topic">ba.transportation</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

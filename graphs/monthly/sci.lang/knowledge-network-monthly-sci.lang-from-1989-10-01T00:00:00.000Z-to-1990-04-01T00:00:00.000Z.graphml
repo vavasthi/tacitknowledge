@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="13268"/>
+<node id="24662"/>
+<node id="347921"/>
+<node id="35888"/>
+<edge id="347921-13268-sci.lang" source="347921" target="13268">
+	<data key="topic">sci.lang</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347921-24662-sci.lang" source="347921" target="24662">
+	<data key="topic">sci.lang</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347921-35888-sci.lang" source="347921" target="35888">
+	<data key="topic">sci.lang</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="35888-13268-sci.lang" source="35888" target="13268">
+	<data key="topic">sci.lang</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="35888-24662-sci.lang" source="35888" target="24662">
+	<data key="topic">sci.lang</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

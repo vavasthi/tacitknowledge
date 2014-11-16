@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="482872"/>
+<node id="1324677"/>
+<node id="390135"/>
+<node id="483058"/>
+<node id="486738"/>
+<node id="992537"/>
+<node id="483040"/>
+<node id="1324685"/>
+<node id="483039"/>
+<node id="390394"/>
+<node id="1363318"/>
+<node id="482950"/>
+<node id="483046"/>
+<node id="1363320"/>
+<node id="483053"/>
+<node id="1324602"/>
+<node id="977764"/>
+<node id="482890"/>
+<node id="483082"/>
+<edge id="482872-482950-mod.protocols.tcp-ip" source="482872" target="482950">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="483058-390135-mod.protocols.tcp-ip" source="483058" target="390135">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="483058-1324685-mod.protocols.tcp-ip" source="483058" target="1324685">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="483058-1324602-mod.protocols.tcp-ip" source="483058" target="1324602">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="992537-390394-mod.protocols.tcp-ip" source="992537" target="390394">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="483040-483039-mod.protocols.tcp-ip" source="483040" target="483039">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="483040-1363318-mod.protocols.tcp-ip" source="483040" target="1363318">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="483046-482872-mod.protocols.tcp-ip" source="483046" target="482872">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="483046-483082-mod.protocols.tcp-ip" source="483046" target="483082">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1363320-482872-mod.protocols.tcp-ip" source="1363320" target="482872">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="483053-483082-mod.protocols.tcp-ip" source="483053" target="483082">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="977764-1324677-mod.protocols.tcp-ip" source="977764" target="1324677">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="977764-486738-mod.protocols.tcp-ip" source="977764" target="486738">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="977764-483046-mod.protocols.tcp-ip" source="977764" target="483046">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="482890-1363318-mod.protocols.tcp-ip" source="482890" target="1363318">
+	<data key="topic">mod.protocols.tcp-ip</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

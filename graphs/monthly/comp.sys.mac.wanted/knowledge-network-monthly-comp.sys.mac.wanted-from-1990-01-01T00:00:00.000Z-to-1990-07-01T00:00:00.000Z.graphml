@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="26833"/>
+<node id="645657"/>
+<node id="446166"/>
+<node id="553500"/>
+<node id="553504"/>
+<node id="438303"/>
+<node id="6747"/>
+<node id="783895"/>
+<node id="553495"/>
+<node id="911891"/>
+<node id="553325"/>
+<node id="354466"/>
+<node id="6822"/>
+<node id="368161"/>
+<node id="355172"/>
+<node id="368237"/>
+<node id="3563"/>
+<node id="6763"/>
+<node id="869608"/>
+<node id="35566"/>
+<node id="6894"/>
+<node id="553467"/>
+<node id="431743"/>
+<node id="553335"/>
+<node id="1567989"/>
+<node id="30660"/>
+<node id="1606"/>
+<node id="6855"/>
+<node id="836491"/>
+<node id="1567985"/>
+<node id="553473"/>
+<node id="382922"/>
+<node id="645510"/>
+<node id="883652"/>
+<node id="553480"/>
+<edge id="553500-553473-comp.sys.mac.wanted" source="553500" target="553473">
+	<data key="topic">comp.sys.mac.wanted</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="438303-30660-comp.sys.mac.wanted" source="438303" target="30660">
+	<data key="topic">comp.sys.mac.wanted</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="6747-6763-comp.sys.mac.wanted" source="6747" target="6763">
+	<data key="topic">comp.sys.mac.wanted</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="783895-869608-comp.sys.mac.wanted" source="783895" target="869608">
+	<data key="topic">comp.sys.mac.wanted</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="783895-645510-comp.sys.mac.wanted" source="783895" target="645510">
+	<data key="topic">comp.sys.mac.wanted</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="553495-1567985-comp.sys.mac.wanted" source="553495" target="1567985">
+	<data key="topic">comp.sys.mac.wanted</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="911891-354466-comp.sys.mac.wanted" source="911891" target="354466">
+	<data key="topic">comp.sys.mac.wanted</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="911891-6894-comp.sys.mac.wanted" source="911891" target="6894">
+	<data key="topic">comp.sys.mac.wanted</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="911891-1606-comp.sys.mac.wanted" source="911891" target="1606">
+	<data key="topic">comp.sys.mac.wanted</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="553325-553467-comp.sys.mac.wanted" source="553325" target="553467">
+	<data key="topic">comp.sys.mac.wanted</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="355172-6822-comp.sys.mac.wanted" source="355172" target="6822">
+	<data key="topic">comp.sys.mac.wanted</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="355172-883652-comp.sys.mac.wanted" source="355172" target="883652">
+	<data key="topic">comp.sys.mac.wanted</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="368237-1567989-comp.sys.mac.wanted" source="368237" target="1567989">
+	<data key="topic">comp.sys.mac.wanted</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3563-446166-comp.sys.mac.wanted" source="3563" target="446166">
+	<data key="topic">comp.sys.mac.wanted</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="869608-645510-comp.sys.mac.wanted" source="869608" target="645510">
+	<data key="topic">comp.sys.mac.wanted</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="35566-26833-comp.sys.mac.wanted" source="35566" target="26833">
+	<data key="topic">comp.sys.mac.wanted</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="431743-553504-comp.sys.mac.wanted" source="431743" target="553504">
+	<data key="topic">comp.sys.mac.wanted</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="553335-368161-comp.sys.mac.wanted" source="553335" target="368161">
+	<data key="topic">comp.sys.mac.wanted</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="6855-6763-comp.sys.mac.wanted" source="6855" target="6763">
+	<data key="topic">comp.sys.mac.wanted</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="836491-645657-comp.sys.mac.wanted" source="836491" target="645657">
+	<data key="topic">comp.sys.mac.wanted</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="382922-553325-comp.sys.mac.wanted" source="382922" target="553325">
+	<data key="topic">comp.sys.mac.wanted</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="382922-553467-comp.sys.mac.wanted" source="382922" target="553467">
+	<data key="topic">comp.sys.mac.wanted</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="883652-6822-comp.sys.mac.wanted" source="883652" target="6822">
+	<data key="topic">comp.sys.mac.wanted</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

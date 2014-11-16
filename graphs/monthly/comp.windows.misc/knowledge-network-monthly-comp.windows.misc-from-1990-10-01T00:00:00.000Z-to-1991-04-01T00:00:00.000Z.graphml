@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="3601"/>
+<node id="737568"/>
+<node id="887708"/>
+<node id="1174954"/>
+<node id="1227945"/>
+<node id="1222442"/>
+<node id="365210"/>
+<node id="822673"/>
+<node id="1451306"/>
+<node id="162"/>
+<node id="2595"/>
+<node id="2724"/>
+<node id="349095"/>
+<node id="2854"/>
+<node id="435631"/>
+<node id="1176731"/>
+<node id="1414297"/>
+<node id="446377"/>
+<node id="368822"/>
+<node id="3891"/>
+<node id="3893"/>
+<node id="358450"/>
+<node id="1518148"/>
+<node id="415668"/>
+<node id="358835"/>
+<node id="1721"/>
+<node id="365376"/>
+<node id="352448"/>
+<node id="11452"/>
+<node id="1218125"/>
+<node id="1445194"/>
+<node id="2115"/>
+<node id="365384"/>
+<node id="6855"/>
+<node id="365379"/>
+<node id="434370"/>
+<node id="13518"/>
+<node id="1445223"/>
+<node id="1746"/>
+<node id="13906"/>
+<node id="363608"/>
+<node id="364627"/>
+<node id="350046"/>
+<node id="550225"/>
+<node id="439904"/>
+<node id="502622"/>
+<node id="822871"/>
+<node id="362585"/>
+<node id="1445225"/>
+<node id="351579"/>
+<node id="371944"/>
+<node id="2403"/>
+<node id="349799"/>
+<node id="3944"/>
+<node id="371824"/>
+<node id="12912"/>
+<node id="11120"/>
+<node id="521193"/>
+<node id="379510"/>
+<node id="355318"/>
+<node id="880253"/>
+<node id="2042634"/>
+<node id="370420"/>
+<node id="2054663"/>
+<node id="613240"/>
+<node id="405511"/>
+<node id="11010"/>
+<node id="402312"/>
+<node id="880525"/>
+<node id="648201"/>
+<node id="1341814"/>
+<node id="880016"/>
+<node id="1445235"/>
+<node id="365188"/>
+<node id="352910"/>
+<node id="413708"/>
+<node id="3599"/>
+<node id="351755"/>
+<edge id="3601-435631-comp.windows.misc" source="3601" target="435631">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="887708-1227945-comp.windows.misc" source="887708" target="1227945">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="887708-371944-comp.windows.misc" source="887708" target="371944">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1227945-887708-comp.windows.misc" source="1227945" target="887708">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1227945-371944-comp.windows.misc" source="1227945" target="371944">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="365210-880253-comp.windows.misc" source="365210" target="880253">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="822673-365376-comp.windows.misc" source="822673" target="365376">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1451306-371824-comp.windows.misc" source="1451306" target="371824">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1451306-352910-comp.windows.misc" source="1451306" target="352910">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2595-368822-comp.windows.misc" source="2595" target="368822">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2595-12912-comp.windows.misc" source="2595" target="12912">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2724-162-comp.windows.misc" source="2724" target="162">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="349095-2854-comp.windows.misc" source="349095" target="2854">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2854-363608-comp.windows.misc" source="2854" target="363608">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2854-362585-comp.windows.misc" source="2854" target="362585">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2854-405511-comp.windows.misc" source="2854" target="405511">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2854-352910-comp.windows.misc" source="2854" target="352910">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1414297-613240-comp.windows.misc" source="1414297" target="613240">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="368822-363608-comp.windows.misc" source="368822" target="363608">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="368822-362585-comp.windows.misc" source="368822" target="362585">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="368822-12912-comp.windows.misc" source="368822" target="12912">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="368822-2042634-comp.windows.misc" source="368822" target="2042634">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="368822-352910-comp.windows.misc" source="368822" target="352910">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3891-1174954-comp.windows.misc" source="3891" target="1174954">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3891-1222442-comp.windows.misc" source="3891" target="1222442">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3893-1174954-comp.windows.misc" source="3893" target="1174954">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3893-1222442-comp.windows.misc" source="3893" target="1222442">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1721-446377-comp.windows.misc" source="1721" target="446377">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="365376-365379-comp.windows.misc" source="365376" target="365379">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11452-352910-comp.windows.misc" source="11452" target="352910">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1445194-737568-comp.windows.misc" source="1445194" target="737568">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2115-887708-comp.windows.misc" source="2115" target="887708">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2115-1227945-comp.windows.misc" source="2115" target="1227945">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2115-1176731-comp.windows.misc" source="2115" target="1176731">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2115-350046-comp.windows.misc" source="2115" target="350046">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2115-371944-comp.windows.misc" source="2115" target="371944">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="365384-352448-comp.windows.misc" source="365384" target="352448">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="6855-363608-comp.windows.misc" source="6855" target="363608">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="6855-439904-comp.windows.misc" source="6855" target="439904">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="6855-362585-comp.windows.misc" source="6855" target="362585">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="6855-2042634-comp.windows.misc" source="6855" target="2042634">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="6855-405511-comp.windows.misc" source="6855" target="405511">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="6855-352910-comp.windows.misc" source="6855" target="352910">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="434370-2054663-comp.windows.misc" source="434370" target="2054663">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="13518-379510-comp.windows.misc" source="13518" target="379510">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1445223-1445225-comp.windows.misc" source="1445223" target="1445225">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1746-352910-comp.windows.misc" source="1746" target="352910">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="363608-362585-comp.windows.misc" source="363608" target="362585">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="363608-352910-comp.windows.misc" source="363608" target="352910">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="364627-365376-comp.windows.misc" source="364627" target="365376">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="550225-379510-comp.windows.misc" source="550225" target="379510">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="550225-880525-comp.windows.misc" source="550225" target="880525">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="439904-6855-comp.windows.misc" source="439904" target="6855">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="439904-2042634-comp.windows.misc" source="439904" target="2042634">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="502622-351755-comp.windows.misc" source="502622" target="351755">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="822871-1218125-comp.windows.misc" source="822871" target="1218125">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362585-352910-comp.windows.misc" source="362585" target="352910">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1445225-415668-comp.windows.misc" source="1445225" target="415668">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="351579-371824-comp.windows.misc" source="351579" target="371824">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="351579-352910-comp.windows.misc" source="351579" target="352910">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="371944-887708-comp.windows.misc" source="371944" target="887708">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="371944-1227945-comp.windows.misc" source="371944" target="1227945">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2403-352910-comp.windows.misc" source="2403" target="352910">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="349799-358450-comp.windows.misc" source="349799" target="358450">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3944-413708-comp.windows.misc" source="3944" target="413708">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="371824-352910-comp.windows.misc" source="371824" target="352910">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12912-363608-comp.windows.misc" source="12912" target="363608">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12912-362585-comp.windows.misc" source="12912" target="362585">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12912-2042634-comp.windows.misc" source="12912" target="2042634">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12912-405511-comp.windows.misc" source="12912" target="405511">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12912-352910-comp.windows.misc" source="12912" target="352910">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11120-379510-comp.windows.misc" source="11120" target="379510">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521193-502622-comp.windows.misc" source="521193" target="502622">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521193-351755-comp.windows.misc" source="521193" target="351755">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="379510-880525-comp.windows.misc" source="379510" target="880525">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="355318-6855-comp.windows.misc" source="355318" target="6855">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="355318-2042634-comp.windows.misc" source="355318" target="2042634">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="370420-12912-comp.windows.misc" source="370420" target="12912">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="370420-2042634-comp.windows.misc" source="370420" target="2042634">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="405511-363608-comp.windows.misc" source="405511" target="363608">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="405511-362585-comp.windows.misc" source="405511" target="362585">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="405511-352910-comp.windows.misc" source="405511" target="352910">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11010-402312-comp.windows.misc" source="11010" target="402312">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="648201-1176731-comp.windows.misc" source="648201" target="1176731">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="648201-2115-comp.windows.misc" source="648201" target="2115">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="648201-350046-comp.windows.misc" source="648201" target="350046">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1341814-352910-comp.windows.misc" source="1341814" target="352910">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="880016-2042634-comp.windows.misc" source="880016" target="2042634">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1445235-13906-comp.windows.misc" source="1445235" target="13906">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="365188-1518148-comp.windows.misc" source="365188" target="1518148">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3599-887708-comp.windows.misc" source="3599" target="887708">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3599-1227945-comp.windows.misc" source="3599" target="1227945">
+	<data key="topic">comp.windows.misc</data>
+	<data key="weight">2</data>
+</edge>
+</graph>
+</graphml>

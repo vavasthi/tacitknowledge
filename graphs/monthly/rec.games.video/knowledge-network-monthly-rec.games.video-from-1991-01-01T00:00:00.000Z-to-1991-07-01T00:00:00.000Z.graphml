@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1618"/>
+<node id="353368"/>
+<node id="8982"/>
+<node id="353082"/>
+<node id="364421"/>
+<node id="356136"/>
+<node id="353889"/>
+<node id="366532"/>
+<node id="366537"/>
+<node id="939588"/>
+<node id="372172"/>
+<node id="826276"/>
+<node id="1077376"/>
+<edge id="1618-364421-rec.games.video" source="1618" target="364421">
+	<data key="topic">rec.games.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1618-372172-rec.games.video" source="1618" target="372172">
+	<data key="topic">rec.games.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="353368-8982-rec.games.video" source="353368" target="8982">
+	<data key="topic">rec.games.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="353082-353889-rec.games.video" source="353082" target="353889">
+	<data key="topic">rec.games.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="364421-372172-rec.games.video" source="364421" target="372172">
+	<data key="topic">rec.games.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="366532-356136-rec.games.video" source="366532" target="356136">
+	<data key="topic">rec.games.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="366537-939588-rec.games.video" source="366537" target="939588">
+	<data key="topic">rec.games.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="826276-939588-rec.games.video" source="826276" target="939588">
+	<data key="topic">rec.games.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1077376-372172-rec.games.video" source="1077376" target="372172">
+	<data key="topic">rec.games.video</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

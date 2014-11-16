@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2038064"/>
+<node id="522775"/>
+<node id="524700"/>
+<node id="339218"/>
+<node id="344978"/>
+<node id="524958"/>
+<node id="524191"/>
+<node id="531232"/>
+<node id="522399"/>
+<node id="656145"/>
+<node id="488091"/>
+<node id="338460"/>
+<node id="344485"/>
+<node id="460199"/>
+<node id="562347"/>
+<node id="341282"/>
+<node id="521635"/>
+<node id="681392"/>
+<node id="1143189"/>
+<node id="524207"/>
+<node id="460208"/>
+<node id="461359"/>
+<node id="524194"/>
+<node id="338986"/>
+<node id="459692"/>
+<node id="339241"/>
+<node id="459690"/>
+<node id="524200"/>
+<node id="459817"/>
+<node id="470057"/>
+<node id="338742"/>
+<node id="339511"/>
+<node id="460468"/>
+<node id="460211"/>
+<node id="460210"/>
+<node id="524224"/>
+<node id="2075720"/>
+<node id="562740"/>
+<node id="2075717"/>
+<node id="338116"/>
+<node id="343364"/>
+<node id="459585"/>
+<node id="624591"/>
+<node id="476353"/>
+<node id="523087"/>
+<node id="624708"/>
+<node id="337866"/>
+<node id="459723"/>
+<node id="522825"/>
+<node id="524249"/>
+<node id="459864"/>
+<node id="524254"/>
+<node id="461395"/>
+<node id="460127"/>
+<node id="459231"/>
+<node id="336733"/>
+<node id="486747"/>
+<node id="465499"/>
+<node id="459994"/>
+<node id="682453"/>
+<node id="460121"/>
+<node id="522856"/>
+<node id="484454"/>
+<node id="525931"/>
+<node id="459748"/>
+<node id="341604"/>
+<node id="339950"/>
+<node id="522857"/>
+<node id="342136"/>
+<node id="561147"/>
+<node id="466549"/>
+<node id="524149"/>
+<node id="337265"/>
+<node id="562676"/>
+<node id="469242"/>
+<node id="337799"/>
+<node id="339975"/>
+<node id="462468"/>
+<node id="393218"/>
+<node id="460161"/>
+<node id="341635"/>
+<node id="562695"/>
+<edge id="524700-524200-net.comics" source="524700" target="524200">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="344978-460208-net.comics" source="344978" target="460208">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="344978-524200-net.comics" source="344978" target="524200">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="524191-341282-net.comics" source="524191" target="341282">
+	<data key="topic">net.comics</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="524191-521635-net.comics" source="524191" target="521635">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="524191-338986-net.comics" source="524191" target="338986">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="524191-339511-net.comics" source="524191" target="339511">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="524191-524249-net.comics" source="524191" target="524249">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="524191-524254-net.comics" source="524191" target="524254">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="524191-341604-net.comics" source="524191" target="341604">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="524191-339950-net.comics" source="524191" target="339950">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="524191-522857-net.comics" source="524191" target="522857">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="531232-344978-net.comics" source="531232" target="344978">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="531232-460208-net.comics" source="531232" target="460208">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="531232-524200-net.comics" source="531232" target="524200">
+	<data key="topic">net.comics</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="522399-338460-net.comics" source="522399" target="338460">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522399-486747-net.comics" source="522399" target="486747">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338460-562347-net.comics" source="338460" target="562347">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338460-460208-net.comics" source="338460" target="460208">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338460-461359-net.comics" source="338460" target="461359">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338460-338986-net.comics" source="338460" target="338986">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338460-522825-net.comics" source="338460" target="522825">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338460-524249-net.comics" source="338460" target="524249">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338460-486747-net.comics" source="338460" target="486747">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338460-522856-net.comics" source="338460" target="522856">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338460-459748-net.comics" source="338460" target="459748">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338460-522857-net.comics" source="338460" target="522857">
+	<data key="topic">net.comics</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="338460-469242-net.comics" source="338460" target="469242">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="344485-344978-net.comics" source="344485" target="344978">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="344485-460208-net.comics" source="344485" target="460208">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="344485-524200-net.comics" source="344485" target="524200">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460199-460208-net.comics" source="460199" target="460208">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460199-524200-net.comics" source="460199" target="524200">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521635-338460-net.comics" source="521635" target="338460">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521635-339511-net.comics" source="521635" target="339511">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521635-336733-net.comics" source="521635" target="336733">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521635-522856-net.comics" source="521635" target="522856">
+	<data key="topic">net.comics</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="681392-459585-net.comics" source="681392" target="459585">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="681392-682453-net.comics" source="681392" target="682453">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1143189-476353-net.comics" source="1143189" target="476353">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460208-339218-net.comics" source="460208" target="339218">
+	<data key="topic">net.comics</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="460208-338460-net.comics" source="460208" target="338460">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460208-562347-net.comics" source="460208" target="562347">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460208-461359-net.comics" source="460208" target="461359">
+	<data key="topic">net.comics</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="460208-562740-net.comics" source="460208" target="562740">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460208-338116-net.comics" source="460208" target="338116">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460208-337866-net.comics" source="460208" target="337866">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460208-460127-net.comics" source="460208" target="460127">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460208-459994-net.comics" source="460208" target="459994">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460208-341604-net.comics" source="460208" target="341604">
+	<data key="topic">net.comics</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="460208-561147-net.comics" source="460208" target="561147">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460208-466549-net.comics" source="460208" target="466549">
+	<data key="topic">net.comics</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="460208-469242-net.comics" source="460208" target="469242">
+	<data key="topic">net.comics</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="460208-460161-net.comics" source="460208" target="460161">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="461359-460208-net.comics" source="461359" target="460208">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="461359-524200-net.comics" source="461359" target="524200">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="461359-460211-net.comics" source="461359" target="460211">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="461359-486747-net.comics" source="461359" target="486747">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="461359-522856-net.comics" source="461359" target="522856">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="461359-341604-net.comics" source="461359" target="341604">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459692-524200-net.comics" source="459692" target="524200">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459692-459817-net.comics" source="459692" target="459817">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339241-524207-net.comics" source="339241" target="524207">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339241-524254-net.comics" source="339241" target="524254">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339241-339950-net.comics" source="339241" target="339950">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459690-524200-net.comics" source="459690" target="524200">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459690-459817-net.comics" source="459690" target="459817">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="524200-344978-net.comics" source="524200" target="344978">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="524200-460208-net.comics" source="524200" target="460208">
+	<data key="topic">net.comics</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="524200-338742-net.comics" source="524200" target="338742">
+	<data key="topic">net.comics</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="524200-460210-net.comics" source="524200" target="460210">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="524200-459864-net.comics" source="524200" target="459864">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="524200-459231-net.comics" source="524200" target="459231">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="524200-341604-net.comics" source="524200" target="341604">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="524200-469242-net.comics" source="524200" target="469242">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459817-522775-net.comics" source="459817" target="522775">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459817-524200-net.comics" source="459817" target="524200">
+	<data key="topic">net.comics</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="459817-461395-net.comics" source="459817" target="461395">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459817-465499-net.comics" source="459817" target="465499">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459817-341604-net.comics" source="459817" target="341604">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460468-522825-net.comics" source="460468" target="522825">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460468-337265-net.comics" source="460468" target="337265">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460210-524200-net.comics" source="460210" target="524200">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460210-459748-net.comics" source="460210" target="459748">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460210-469242-net.comics" source="460210" target="469242">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="524224-470057-net.comics" source="524224" target="470057">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2075720-460208-net.comics" source="2075720" target="460208">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338116-466549-net.comics" source="338116" target="466549">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="523087-339241-net.comics" source="523087" target="339241">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="523087-459994-net.comics" source="523087" target="459994">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="624708-523087-net.comics" source="624708" target="523087">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-339218-net.comics" source="337866" target="339218">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-459994-net.comics" source="337866" target="459994">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-460121-net.comics" source="337866" target="460121">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-484454-net.comics" source="337866" target="484454">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-522857-net.comics" source="337866" target="522857">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-393218-net.comics" source="337866" target="393218">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459864-460210-net.comics" source="459864" target="460210">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459864-469242-net.comics" source="459864" target="469242">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="524254-522399-net.comics" source="524254" target="522399">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="524254-656145-net.comics" source="524254" target="656145">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="524254-486747-net.comics" source="524254" target="486747">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="524254-339950-net.comics" source="524254" target="339950">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460127-460208-net.comics" source="460127" target="460208">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459231-460208-net.comics" source="459231" target="460208">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459231-524200-net.comics" source="459231" target="524200">
+	<data key="topic">net.comics</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="459231-459817-net.comics" source="459231" target="459817">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459994-339218-net.comics" source="459994" target="339218">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459994-339241-net.comics" source="459994" target="339241">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460121-459817-net.comics" source="460121" target="459817">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460121-337866-net.comics" source="460121" target="337866">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460121-465499-net.comics" source="460121" target="465499">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460121-522857-net.comics" source="460121" target="522857">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522856-2038064-net.comics" source="522856" target="2038064">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522856-522775-net.comics" source="522856" target="522775">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522856-339218-net.comics" source="522856" target="339218">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522856-488091-net.comics" source="522856" target="488091">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522856-460208-net.comics" source="522856" target="460208">
+	<data key="topic">net.comics</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="522856-459817-net.comics" source="522856" target="459817">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522856-343364-net.comics" source="522856" target="343364">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522856-459585-net.comics" source="522856" target="459585">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522856-336733-net.comics" source="522856" target="336733">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522856-341635-net.comics" source="522856" target="341635">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459748-338460-net.comics" source="459748" target="338460">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459748-522856-net.comics" source="459748" target="522856">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459748-341604-net.comics" source="459748" target="341604">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459748-522857-net.comics" source="459748" target="522857">
+	<data key="topic">net.comics</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="459748-466549-net.comics" source="459748" target="466549">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459748-469242-net.comics" source="459748" target="469242">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341604-524200-net.comics" source="341604" target="524200">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341604-460127-net.comics" source="341604" target="460127">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341604-525931-net.comics" source="341604" target="525931">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341604-342136-net.comics" source="341604" target="342136">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522857-339218-net.comics" source="522857" target="339218">
+	<data key="topic">net.comics</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="522857-524958-net.comics" source="522857" target="524958">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522857-341282-net.comics" source="522857" target="341282">
+	<data key="topic">net.comics</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="522857-460208-net.comics" source="522857" target="460208">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522857-524194-net.comics" source="522857" target="524194">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522857-524200-net.comics" source="522857" target="524200">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522857-460210-net.comics" source="522857" target="460210">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522857-2075717-net.comics" source="522857" target="2075717">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522857-337866-net.comics" source="522857" target="337866">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522857-522825-net.comics" source="522857" target="522825">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522857-525931-net.comics" source="522857" target="525931">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522857-459748-net.comics" source="522857" target="459748">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522857-562676-net.comics" source="522857" target="562676">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522857-469242-net.comics" source="522857" target="469242">
+	<data key="topic">net.comics</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="561147-466549-net.comics" source="561147" target="466549">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="466549-459723-net.comics" source="466549" target="459723">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="524149-624591-net.comics" source="524149" target="624591">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337265-522825-net.comics" source="337265" target="522825">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337799-459748-net.comics" source="337799" target="459748">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339975-339218-net.comics" source="339975" target="339218">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="462468-339218-net.comics" source="462468" target="339218">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="393218-524200-net.comics" source="393218" target="524200">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="393218-338742-net.comics" source="393218" target="338742">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="393218-337866-net.comics" source="393218" target="337866">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="393218-460121-net.comics" source="393218" target="460121">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="393218-522857-net.comics" source="393218" target="522857">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="562695-461359-net.comics" source="562695" target="461359">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="562695-460211-net.comics" source="562695" target="460211">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

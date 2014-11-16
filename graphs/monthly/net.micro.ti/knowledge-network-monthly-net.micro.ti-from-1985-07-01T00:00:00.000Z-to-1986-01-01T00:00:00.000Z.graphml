@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="488824"/>
+<node id="471030"/>
+<node id="471028"/>
+<node id="20582"/>
+<node id="982060"/>
+<node id="979737"/>
+<node id="339901"/>
+<node id="1364478"/>
+<node id="472398"/>
+<node id="471036"/>
+<node id="1048338"/>
+<edge id="488824-979737-net.micro.ti" source="488824" target="979737">
+	<data key="topic">net.micro.ti</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="471030-471028-net.micro.ti" source="471030" target="471028">
+	<data key="topic">net.micro.ti</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="471030-472398-net.micro.ti" source="471030" target="472398">
+	<data key="topic">net.micro.ti</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="471028-982060-net.micro.ti" source="471028" target="982060">
+	<data key="topic">net.micro.ti</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20582-339901-net.micro.ti" source="20582" target="339901">
+	<data key="topic">net.micro.ti</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="471036-471028-net.micro.ti" source="471036" target="471028">
+	<data key="topic">net.micro.ti</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1048338-1364478-net.micro.ti" source="1048338" target="1364478">
+	<data key="topic">net.micro.ti</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

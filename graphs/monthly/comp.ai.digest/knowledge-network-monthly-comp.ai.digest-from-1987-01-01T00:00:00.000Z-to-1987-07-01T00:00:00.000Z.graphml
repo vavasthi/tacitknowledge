@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1473639"/>
+<node id="485494"/>
+<node id="389495"/>
+<node id="1473636"/>
+<node id="1161928"/>
+<node id="1869387"/>
+<node id="1869377"/>
+<node id="1473609"/>
+<node id="446567"/>
+<node id="1868766"/>
+<node id="16995"/>
+<node id="389479"/>
+<node id="1869401"/>
+<node id="1473619"/>
+<node id="1481715"/>
+<node id="389442"/>
+<node id="15462"/>
+<node id="19718"/>
+<node id="1473617"/>
+<node id="1544562"/>
+<node id="15431"/>
+<node id="1869397"/>
+<node id="1869363"/>
+<node id="1473594"/>
+<edge id="485494-16995-comp.ai.digest" source="485494" target="16995">
+	<data key="topic">comp.ai.digest</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="485494-1473617-comp.ai.digest" source="485494" target="1473617">
+	<data key="topic">comp.ai.digest</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1869387-389442-comp.ai.digest" source="1869387" target="389442">
+	<data key="topic">comp.ai.digest</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1869387-15431-comp.ai.digest" source="1869387" target="15431">
+	<data key="topic">comp.ai.digest</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1869377-1869363-comp.ai.digest" source="1869377" target="1869363">
+	<data key="topic">comp.ai.digest</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="389479-1473594-comp.ai.digest" source="389479" target="1473594">
+	<data key="topic">comp.ai.digest</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1473619-1473636-comp.ai.digest" source="1473619" target="1473636">
+	<data key="topic">comp.ai.digest</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1481715-1473639-comp.ai.digest" source="1481715" target="1473639">
+	<data key="topic">comp.ai.digest</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15462-1869401-comp.ai.digest" source="15462" target="1869401">
+	<data key="topic">comp.ai.digest</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19718-1473609-comp.ai.digest" source="19718" target="1473609">
+	<data key="topic">comp.ai.digest</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1544562-389495-comp.ai.digest" source="1544562" target="389495">
+	<data key="topic">comp.ai.digest</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1869397-1868766-comp.ai.digest" source="1869397" target="1868766">
+	<data key="topic">comp.ai.digest</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1473594-1161928-comp.ai.digest" source="1473594" target="1161928">
+	<data key="topic">comp.ai.digest</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1473594-446567-comp.ai.digest" source="1473594" target="446567">
+	<data key="topic">comp.ai.digest</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

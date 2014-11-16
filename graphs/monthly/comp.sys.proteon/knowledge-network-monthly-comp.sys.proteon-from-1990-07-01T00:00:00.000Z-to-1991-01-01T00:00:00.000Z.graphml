@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="433815"/>
+<node id="512822"/>
+<node id="716305"/>
+<node id="371450"/>
+<node id="4606"/>
+<node id="1303764"/>
+<node id="550987"/>
+<node id="887082"/>
+<node id="617838"/>
+<node id="442692"/>
+<node id="2119"/>
+<node id="867883"/>
+<node id="428111"/>
+<node id="10794"/>
+<node id="1989909"/>
+<node id="422990"/>
+<node id="407691"/>
+<node id="1081342"/>
+<node id="1081344"/>
+<node id="1303773"/>
+<edge id="433815-716305-comp.sys.proteon" source="433815" target="716305">
+	<data key="topic">comp.sys.proteon</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="716305-550987-comp.sys.proteon" source="716305" target="550987">
+	<data key="topic">comp.sys.proteon</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1303764-1303773-comp.sys.proteon" source="1303764" target="1303773">
+	<data key="topic">comp.sys.proteon</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="887082-4606-comp.sys.proteon" source="887082" target="4606">
+	<data key="topic">comp.sys.proteon</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="887082-2119-comp.sys.proteon" source="887082" target="2119">
+	<data key="topic">comp.sys.proteon</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="617838-371450-comp.sys.proteon" source="617838" target="371450">
+	<data key="topic">comp.sys.proteon</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="442692-4606-comp.sys.proteon" source="442692" target="4606">
+	<data key="topic">comp.sys.proteon</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2119-4606-comp.sys.proteon" source="2119" target="4606">
+	<data key="topic">comp.sys.proteon</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2119-1303764-comp.sys.proteon" source="2119" target="1303764">
+	<data key="topic">comp.sys.proteon</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="867883-1989909-comp.sys.proteon" source="867883" target="1989909">
+	<data key="topic">comp.sys.proteon</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="428111-1303764-comp.sys.proteon" source="428111" target="1303764">
+	<data key="topic">comp.sys.proteon</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="428111-422990-comp.sys.proteon" source="428111" target="422990">
+	<data key="topic">comp.sys.proteon</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10794-512822-comp.sys.proteon" source="10794" target="512822">
+	<data key="topic">comp.sys.proteon</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="407691-4606-comp.sys.proteon" source="407691" target="4606">
+	<data key="topic">comp.sys.proteon</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="407691-887082-comp.sys.proteon" source="407691" target="887082">
+	<data key="topic">comp.sys.proteon</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="407691-2119-comp.sys.proteon" source="407691" target="2119">
+	<data key="topic">comp.sys.proteon</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1081342-1081344-comp.sys.proteon" source="1081342" target="1081344">
+	<data key="topic">comp.sys.proteon</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

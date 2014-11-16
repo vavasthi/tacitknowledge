@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1088802"/>
+<node id="13269"/>
+<node id="1463841"/>
+<node id="5079"/>
+<node id="1088810"/>
+<node id="375199"/>
+<node id="1745378"/>
+<node id="1731942"/>
+<node id="617514"/>
+<node id="373223"/>
+<node id="830053"/>
+<node id="648869"/>
+<node id="3823"/>
+<node id="363372"/>
+<node id="1751381"/>
+<node id="1960399"/>
+<node id="582141"/>
+<node id="387636"/>
+<node id="5625"/>
+<node id="559601"/>
+<node id="1960392"/>
+<node id="645811"/>
+<node id="376006"/>
+<node id="541132"/>
+<node id="4236"/>
+<node id="352015"/>
+<node id="854020"/>
+<node id="370827"/>
+<node id="464"/>
+<edge id="5079-1731942-comp.lang.apl" source="5079" target="1731942">
+	<data key="topic">comp.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5079-645811-comp.lang.apl" source="5079" target="645811">
+	<data key="topic">comp.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5079-352015-comp.lang.apl" source="5079" target="352015">
+	<data key="topic">comp.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1088810-1088802-comp.lang.apl" source="1088810" target="1088802">
+	<data key="topic">comp.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1088810-1463841-comp.lang.apl" source="1088810" target="1463841">
+	<data key="topic">comp.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="375199-464-comp.lang.apl" source="375199" target="464">
+	<data key="topic">comp.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1745378-1463841-comp.lang.apl" source="1745378" target="1463841">
+	<data key="topic">comp.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1745378-1751381-comp.lang.apl" source="1745378" target="1751381">
+	<data key="topic">comp.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="373223-13269-comp.lang.apl" source="373223" target="13269">
+	<data key="topic">comp.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="830053-376006-comp.lang.apl" source="830053" target="376006">
+	<data key="topic">comp.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="648869-617514-comp.lang.apl" source="648869" target="617514">
+	<data key="topic">comp.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3823-1463841-comp.lang.apl" source="3823" target="1463841">
+	<data key="topic">comp.lang.apl</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="3823-617514-comp.lang.apl" source="3823" target="617514">
+	<data key="topic">comp.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3823-376006-comp.lang.apl" source="3823" target="376006">
+	<data key="topic">comp.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="363372-5625-comp.lang.apl" source="363372" target="5625">
+	<data key="topic">comp.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1751381-1463841-comp.lang.apl" source="1751381" target="1463841">
+	<data key="topic">comp.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="582141-376006-comp.lang.apl" source="582141" target="376006">
+	<data key="topic">comp.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="387636-1088802-comp.lang.apl" source="387636" target="1088802">
+	<data key="topic">comp.lang.apl</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="387636-3823-comp.lang.apl" source="387636" target="3823">
+	<data key="topic">comp.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="387636-376006-comp.lang.apl" source="387636" target="376006">
+	<data key="topic">comp.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="387636-370827-comp.lang.apl" source="387636" target="370827">
+	<data key="topic">comp.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="559601-1088802-comp.lang.apl" source="559601" target="1088802">
+	<data key="topic">comp.lang.apl</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="559601-387636-comp.lang.apl" source="559601" target="387636">
+	<data key="topic">comp.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="559601-854020-comp.lang.apl" source="559601" target="854020">
+	<data key="topic">comp.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1960392-1960399-comp.lang.apl" source="1960392" target="1960399">
+	<data key="topic">comp.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="645811-5079-comp.lang.apl" source="645811" target="5079">
+	<data key="topic">comp.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="645811-1731942-comp.lang.apl" source="645811" target="1731942">
+	<data key="topic">comp.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="645811-352015-comp.lang.apl" source="645811" target="352015">
+	<data key="topic">comp.lang.apl</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="541132-376006-comp.lang.apl" source="541132" target="376006">
+	<data key="topic">comp.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4236-617514-comp.lang.apl" source="4236" target="617514">
+	<data key="topic">comp.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="352015-1731942-comp.lang.apl" source="352015" target="1731942">
+	<data key="topic">comp.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="370827-1088802-comp.lang.apl" source="370827" target="1088802">
+	<data key="topic">comp.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="370827-617514-comp.lang.apl" source="370827" target="617514">
+	<data key="topic">comp.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="370827-3823-comp.lang.apl" source="370827" target="3823">
+	<data key="topic">comp.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

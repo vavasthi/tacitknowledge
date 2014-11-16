@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1991792"/>
+<node id="357525"/>
+<node id="357592"/>
+<node id="2901"/>
+<node id="2907"/>
+<node id="414174"/>
+<node id="4316"/>
+<node id="2150"/>
+<node id="357665"/>
+<node id="644399"/>
+<node id="348782"/>
+<node id="14956"/>
+<node id="348214"/>
+<node id="827837"/>
+<node id="2931"/>
+<node id="409206"/>
+<node id="510322"/>
+<node id="2936"/>
+<node id="9211"/>
+<node id="4923"/>
+<node id="438393"/>
+<node id="1936702"/>
+<node id="559306"/>
+<node id="371777"/>
+<node id="348748"/>
+<node id="353740"/>
+<node id="1222014"/>
+<edge id="2901-348748-comp.sys.acorn" source="2901" target="348748">
+	<data key="topic">comp.sys.acorn</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2907-348782-comp.sys.acorn" source="2907" target="348782">
+	<data key="topic">comp.sys.acorn</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2907-353740-comp.sys.acorn" source="2907" target="353740">
+	<data key="topic">comp.sys.acorn</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4316-2901-comp.sys.acorn" source="4316" target="2901">
+	<data key="topic">comp.sys.acorn</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4316-438393-comp.sys.acorn" source="4316" target="438393">
+	<data key="topic">comp.sys.acorn</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2150-1991792-comp.sys.acorn" source="2150" target="1991792">
+	<data key="topic">comp.sys.acorn</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2150-1936702-comp.sys.acorn" source="2150" target="1936702">
+	<data key="topic">comp.sys.acorn</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348782-2907-comp.sys.acorn" source="348782" target="2907">
+	<data key="topic">comp.sys.acorn</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14956-4923-comp.sys.acorn" source="14956" target="4923">
+	<data key="topic">comp.sys.acorn</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348214-357525-comp.sys.acorn" source="348214" target="357525">
+	<data key="topic">comp.sys.acorn</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348214-357592-comp.sys.acorn" source="348214" target="357592">
+	<data key="topic">comp.sys.acorn</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348214-2901-comp.sys.acorn" source="348214" target="2901">
+	<data key="topic">comp.sys.acorn</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348214-510322-comp.sys.acorn" source="348214" target="510322">
+	<data key="topic">comp.sys.acorn</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348214-2936-comp.sys.acorn" source="348214" target="2936">
+	<data key="topic">comp.sys.acorn</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="348214-371777-comp.sys.acorn" source="348214" target="371777">
+	<data key="topic">comp.sys.acorn</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348214-348748-comp.sys.acorn" source="348214" target="348748">
+	<data key="topic">comp.sys.acorn</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="827837-357665-comp.sys.acorn" source="827837" target="357665">
+	<data key="topic">comp.sys.acorn</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2931-414174-comp.sys.acorn" source="2931" target="414174">
+	<data key="topic">comp.sys.acorn</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="409206-2901-comp.sys.acorn" source="409206" target="2901">
+	<data key="topic">comp.sys.acorn</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="409206-1222014-comp.sys.acorn" source="409206" target="1222014">
+	<data key="topic">comp.sys.acorn</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510322-2901-comp.sys.acorn" source="510322" target="2901">
+	<data key="topic">comp.sys.acorn</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510322-348748-comp.sys.acorn" source="510322" target="348748">
+	<data key="topic">comp.sys.acorn</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2936-644399-comp.sys.acorn" source="2936" target="644399">
+	<data key="topic">comp.sys.acorn</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2936-9211-comp.sys.acorn" source="2936" target="9211">
+	<data key="topic">comp.sys.acorn</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="438393-2901-comp.sys.acorn" source="438393" target="2901">
+	<data key="topic">comp.sys.acorn</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="559306-1991792-comp.sys.acorn" source="559306" target="1991792">
+	<data key="topic">comp.sys.acorn</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="559306-2150-comp.sys.acorn" source="559306" target="2150">
+	<data key="topic">comp.sys.acorn</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="559306-1936702-comp.sys.acorn" source="559306" target="1936702">
+	<data key="topic">comp.sys.acorn</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

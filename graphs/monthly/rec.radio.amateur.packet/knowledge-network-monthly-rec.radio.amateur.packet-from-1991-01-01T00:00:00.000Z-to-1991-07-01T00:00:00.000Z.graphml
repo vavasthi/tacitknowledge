@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="704732"/>
+<node id="359281"/>
+<node id="2279"/>
+<node id="831419"/>
+<node id="1807581"/>
+<node id="1164327"/>
+<node id="826198"/>
+<node id="375293"/>
+<node id="714321"/>
+<node id="3500"/>
+<node id="1040979"/>
+<node id="2256"/>
+<edge id="359281-2279-rec.radio.amateur.packet" source="359281" target="2279">
+	<data key="topic">rec.radio.amateur.packet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="359281-1807581-rec.radio.amateur.packet" source="359281" target="1807581">
+	<data key="topic">rec.radio.amateur.packet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2279-359281-rec.radio.amateur.packet" source="2279" target="359281">
+	<data key="topic">rec.radio.amateur.packet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2279-1807581-rec.radio.amateur.packet" source="2279" target="1807581">
+	<data key="topic">rec.radio.amateur.packet</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="831419-714321-rec.radio.amateur.packet" source="831419" target="714321">
+	<data key="topic">rec.radio.amateur.packet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1164327-1807581-rec.radio.amateur.packet" source="1164327" target="1807581">
+	<data key="topic">rec.radio.amateur.packet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="826198-714321-rec.radio.amateur.packet" source="826198" target="714321">
+	<data key="topic">rec.radio.amateur.packet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3500-704732-rec.radio.amateur.packet" source="3500" target="704732">
+	<data key="topic">rec.radio.amateur.packet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1040979-375293-rec.radio.amateur.packet" source="1040979" target="375293">
+	<data key="topic">rec.radio.amateur.packet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2256-2279-rec.radio.amateur.packet" source="2256" target="2279">
+	<data key="topic">rec.radio.amateur.packet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2256-1807581-rec.radio.amateur.packet" source="2256" target="1807581">
+	<data key="topic">rec.radio.amateur.packet</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="39746"/>
+<node id="40135"/>
+<node id="41178"/>
+<node id="40506"/>
+<node id="40221"/>
+<node id="39630"/>
+<node id="39519"/>
+<edge id="39746-40221-alt.education" source="39746" target="40221">
+	<data key="topic">alt.education</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="39746-39519-alt.education" source="39746" target="39519">
+	<data key="topic">alt.education</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="40135-40221-alt.education" source="40135" target="40221">
+	<data key="topic">alt.education</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="40135-39519-alt.education" source="40135" target="39519">
+	<data key="topic">alt.education</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41178-40506-alt.education" source="41178" target="40506">
+	<data key="topic">alt.education</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41178-40221-alt.education" source="41178" target="40221">
+	<data key="topic">alt.education</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41178-39630-alt.education" source="41178" target="39630">
+	<data key="topic">alt.education</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41178-39519-alt.education" source="41178" target="39519">
+	<data key="topic">alt.education</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="39630-40221-alt.education" source="39630" target="40221">
+	<data key="topic">alt.education</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="39630-39519-alt.education" source="39630" target="39519">
+	<data key="topic">alt.education</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="39519-40221-alt.education" source="39519" target="40221">
+	<data key="topic">alt.education</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="39519-39630-alt.education" source="39519" target="39630">
+	<data key="topic">alt.education</data>
+	<data key="weight">2</data>
+</edge>
+</graph>
+</graphml>

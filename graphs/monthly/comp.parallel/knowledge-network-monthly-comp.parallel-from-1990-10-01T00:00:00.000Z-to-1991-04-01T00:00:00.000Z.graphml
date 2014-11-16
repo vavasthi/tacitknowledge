@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="433560"/>
+<node id="6805"/>
+<node id="378257"/>
+<node id="1431"/>
+<node id="395167"/>
+<node id="1434"/>
+<node id="375712"/>
+<node id="433566"/>
+<node id="539797"/>
+<node id="882577"/>
+<node id="376501"/>
+<node id="400822"/>
+<node id="1632717"/>
+<node id="442312"/>
+<node id="351687"/>
+<node id="967"/>
+<node id="549826"/>
+<node id="1215936"/>
+<node id="348625"/>
+<node id="351453"/>
+<node id="1896422"/>
+<node id="2051814"/>
+<node id="1896424"/>
+<node id="1517036"/>
+<node id="1173229"/>
+<node id="1896419"/>
+<node id="348635"/>
+<node id="501222"/>
+<node id="357857"/>
+<node id="1225941"/>
+<node id="1896412"/>
+<node id="362992"/>
+<node id="379887"/>
+<node id="362991"/>
+<node id="1340635"/>
+<node id="878077"/>
+<node id="865536"/>
+<node id="916992"/>
+<node id="1778953"/>
+<node id="362999"/>
+<node id="1778960"/>
+<node id="362993"/>
+<node id="362995"/>
+<node id="580352"/>
+<node id="878075"/>
+<node id="352253"/>
+<node id="878071"/>
+<node id="376826"/>
+<node id="798449"/>
+<node id="583178"/>
+<node id="350216"/>
+<node id="376836"/>
+<node id="436226"/>
+<node id="1173239"/>
+<node id="878086"/>
+<node id="878084"/>
+<node id="878083"/>
+<node id="2579"/>
+<node id="993565"/>
+<node id="661536"/>
+<node id="1300775"/>
+<node id="1306"/>
+<node id="400928"/>
+<node id="1109804"/>
+<node id="12317"/>
+<node id="1515799"/>
+<node id="641323"/>
+<node id="2626637"/>
+<node id="347937"/>
+<node id="1412638"/>
+<node id="2626627"/>
+<node id="1412634"/>
+<node id="360257"/>
+<node id="2626608"/>
+<node id="348238"/>
+<node id="819521"/>
+<node id="4433"/>
+<node id="1555046"/>
+<node id="360020"/>
+<node id="1216357"/>
+<node id="1216363"/>
+<node id="1216364"/>
+<node id="1216362"/>
+<node id="360795"/>
+<node id="1930846"/>
+<node id="509542"/>
+<node id="1215580"/>
+<node id="401264"/>
+<node id="401259"/>
+<node id="401260"/>
+<node id="2626695"/>
+<node id="434281"/>
+<node id="13171"/>
+<node id="401266"/>
+<node id="401280"/>
+<node id="4477"/>
+<node id="2701654"/>
+<node id="1833340"/>
+<node id="401285"/>
+<node id="1216370"/>
+<node id="820106"/>
+<node id="1416"/>
+<node id="2440"/>
+<node id="1216374"/>
+<node id="1216379"/>
+<node id="1962615"/>
+<node id="937092"/>
+<node id="1934"/>
+<node id="2040945"/>
+<edge id="378257-2626695-comp.parallel" source="378257" target="2626695">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1431-1416-comp.parallel" source="1431" target="1416">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="395167-347937-comp.parallel" source="395167" target="347937">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="395167-1216379-comp.parallel" source="395167" target="1216379">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1434-433560-comp.parallel" source="1434" target="433560">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="539797-375712-comp.parallel" source="539797" target="375712">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="882577-357857-comp.parallel" source="882577" target="357857">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="400822-376826-comp.parallel" source="400822" target="376826">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="967-1517036-comp.parallel" source="967" target="1517036">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1215936-1216362-comp.parallel" source="1215936" target="1216362">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1215936-1216374-comp.parallel" source="1215936" target="1216374">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348625-6805-comp.parallel" source="348625" target="6805">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348625-376826-comp.parallel" source="348625" target="376826">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348625-360020-comp.parallel" source="348625" target="360020">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348625-1215580-comp.parallel" source="348625" target="1215580">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348625-401264-comp.parallel" source="348625" target="401264">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348625-401259-comp.parallel" source="348625" target="401259">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1896422-376826-comp.parallel" source="1896422" target="376826">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2051814-2701654-comp.parallel" source="2051814" target="2701654">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1173229-1216364-comp.parallel" source="1173229" target="1216364">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1896419-362999-comp.parallel" source="1896419" target="362999">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348635-1225941-comp.parallel" source="348635" target="1225941">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="501222-1216363-comp.parallel" source="501222" target="1216363">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1896412-549826-comp.parallel" source="1896412" target="549826">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362992-376826-comp.parallel" source="362992" target="376826">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="379887-1412634-comp.parallel" source="379887" target="1412634">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1340635-1934-comp.parallel" source="1340635" target="1934">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="878077-376836-comp.parallel" source="878077" target="376836">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="865536-375712-comp.parallel" source="865536" target="375712">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="865536-376501-comp.parallel" source="865536" target="376501">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="916992-362991-comp.parallel" source="916992" target="362991">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362993-1896424-comp.parallel" source="362993" target="1896424">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362993-1778960-comp.parallel" source="362993" target="1778960">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362993-12317-comp.parallel" source="362993" target="12317">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362993-641323-comp.parallel" source="362993" target="641323">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362993-819521-comp.parallel" source="362993" target="819521">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="362995-1778953-comp.parallel" source="362995" target="1778953">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="580352-1109804-comp.parallel" source="580352" target="1109804">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="878075-376836-comp.parallel" source="878075" target="376836">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="376826-352253-comp.parallel" source="376826" target="352253">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="798449-362993-comp.parallel" source="798449" target="362993">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="583178-1216379-comp.parallel" source="583178" target="1216379">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350216-878083-comp.parallel" source="350216" target="878083">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="436226-1412638-comp.parallel" source="436226" target="1412638">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1173239-1416-comp.parallel" source="1173239" target="1416">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="878084-878071-comp.parallel" source="878084" target="878071">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2579-395167-comp.parallel" source="2579" target="395167">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="993565-357857-comp.parallel" source="993565" target="357857">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="661536-400928-comp.parallel" source="661536" target="400928">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1300775-433560-comp.parallel" source="1300775" target="433560">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1306-878086-comp.parallel" source="1306" target="878086">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12317-362993-comp.parallel" source="12317" target="362993">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12317-641323-comp.parallel" source="12317" target="641323">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12317-819521-comp.parallel" source="12317" target="819521">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1515799-395167-comp.parallel" source="1515799" target="395167">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1515799-2579-comp.parallel" source="1515799" target="2579">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="641323-362993-comp.parallel" source="641323" target="362993">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="641323-819521-comp.parallel" source="641323" target="819521">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2626637-362993-comp.parallel" source="2626637" target="362993">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2626637-12317-comp.parallel" source="2626637" target="12317">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2626637-641323-comp.parallel" source="2626637" target="641323">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2626637-819521-comp.parallel" source="2626637" target="819521">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347937-1216379-comp.parallel" source="347937" target="1216379">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2626627-2040945-comp.parallel" source="2626627" target="2040945">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="360257-1896424-comp.parallel" source="360257" target="1896424">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="360257-1778960-comp.parallel" source="360257" target="1778960">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="360257-401264-comp.parallel" source="360257" target="401264">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348238-351687-comp.parallel" source="348238" target="351687">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4433-362993-comp.parallel" source="4433" target="362993">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1555046-509542-comp.parallel" source="1555046" target="509542">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1216357-351453-comp.parallel" source="1216357" target="351453">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="360795-1225941-comp.parallel" source="360795" target="1225941">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1930846-1225941-comp.parallel" source="1930846" target="1225941">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1215580-348625-comp.parallel" source="1215580" target="348625">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="434281-2626608-comp.parallel" source="434281" target="2626608">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="13171-937092-comp.parallel" source="13171" target="937092">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="401266-348625-comp.parallel" source="401266" target="348625">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="401266-401259-comp.parallel" source="401266" target="401259">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="401280-1632717-comp.parallel" source="401280" target="1632717">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4477-433566-comp.parallel" source="4477" target="433566">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="401285-433566-comp.parallel" source="401285" target="433566">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="401285-401260-comp.parallel" source="401285" target="401260">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1216370-1216379-comp.parallel" source="1216370" target="1216379">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="820106-878083-comp.parallel" source="820106" target="878083">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2440-442312-comp.parallel" source="2440" target="442312">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1216374-1216362-comp.parallel" source="1216374" target="1216362">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1962615-1833340-comp.parallel" source="1962615" target="1833340">
+	<data key="topic">comp.parallel</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

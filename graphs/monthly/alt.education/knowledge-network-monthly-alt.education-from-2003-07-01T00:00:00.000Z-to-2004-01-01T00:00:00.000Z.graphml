@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="127682"/>
+<node id="188948"/>
+<node id="172977"/>
+<node id="188802"/>
+<node id="132242"/>
+<node id="41178"/>
+<node id="40506"/>
+<node id="37227"/>
+<node id="47693"/>
+<node id="40221"/>
+<node id="39630"/>
+<node id="39519"/>
+<edge id="127682-132242-alt.education" source="127682" target="132242">
+	<data key="topic">alt.education</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="127682-37227-alt.education" source="127682" target="37227">
+	<data key="topic">alt.education</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="127682-47693-alt.education" source="127682" target="47693">
+	<data key="topic">alt.education</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="172977-188948-alt.education" source="172977" target="188948">
+	<data key="topic">alt.education</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="172977-47693-alt.education" source="172977" target="47693">
+	<data key="topic">alt.education</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="188802-47693-alt.education" source="188802" target="47693">
+	<data key="topic">alt.education</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="132242-127682-alt.education" source="132242" target="127682">
+	<data key="topic">alt.education</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="132242-37227-alt.education" source="132242" target="37227">
+	<data key="topic">alt.education</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="132242-47693-alt.education" source="132242" target="47693">
+	<data key="topic">alt.education</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="41178-40506-alt.education" source="41178" target="40506">
+	<data key="topic">alt.education</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41178-40221-alt.education" source="41178" target="40221">
+	<data key="topic">alt.education</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41178-39630-alt.education" source="41178" target="39630">
+	<data key="topic">alt.education</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41178-39519-alt.education" source="41178" target="39519">
+	<data key="topic">alt.education</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37227-47693-alt.education" source="37227" target="47693">
+	<data key="topic">alt.education</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="47693-188802-alt.education" source="47693" target="188802">
+	<data key="topic">alt.education</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

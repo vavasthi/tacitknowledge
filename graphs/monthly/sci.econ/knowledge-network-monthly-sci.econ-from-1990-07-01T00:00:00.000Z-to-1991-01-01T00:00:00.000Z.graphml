@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="339"/>
+<node id="1093"/>
+<node id="433252"/>
+<node id="1412388"/>
+<node id="1208"/>
+<node id="1322"/>
+<node id="362768"/>
+<node id="3292"/>
+<node id="1117"/>
+<node id="2606"/>
+<edge id="339-1093-sci.econ" source="339" target="1093">
+	<data key="topic">sci.econ</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339-433252-sci.econ" source="339" target="433252">
+	<data key="topic">sci.econ</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339-1412388-sci.econ" source="339" target="1412388">
+	<data key="topic">sci.econ</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339-1208-sci.econ" source="339" target="1208">
+	<data key="topic">sci.econ</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339-1322-sci.econ" source="339" target="1322">
+	<data key="topic">sci.econ</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="433252-1093-sci.econ" source="433252" target="1093">
+	<data key="topic">sci.econ</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="433252-1412388-sci.econ" source="433252" target="1412388">
+	<data key="topic">sci.econ</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="433252-1208-sci.econ" source="433252" target="1208">
+	<data key="topic">sci.econ</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="433252-1322-sci.econ" source="433252" target="1322">
+	<data key="topic">sci.econ</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1322-1093-sci.econ" source="1322" target="1093">
+	<data key="topic">sci.econ</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1322-433252-sci.econ" source="1322" target="433252">
+	<data key="topic">sci.econ</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1322-1412388-sci.econ" source="1322" target="1412388">
+	<data key="topic">sci.econ</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1322-1208-sci.econ" source="1322" target="1208">
+	<data key="topic">sci.econ</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3292-362768-sci.econ" source="3292" target="362768">
+	<data key="topic">sci.econ</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1117-1093-sci.econ" source="1117" target="1093">
+	<data key="topic">sci.econ</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1117-1412388-sci.econ" source="1117" target="1412388">
+	<data key="topic">sci.econ</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1117-1208-sci.econ" source="1117" target="1208">
+	<data key="topic">sci.econ</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1117-1322-sci.econ" source="1117" target="1322">
+	<data key="topic">sci.econ</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2606-1093-sci.econ" source="2606" target="1093">
+	<data key="topic">sci.econ</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2606-433252-sci.econ" source="2606" target="433252">
+	<data key="topic">sci.econ</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2606-1322-sci.econ" source="2606" target="1322">
+	<data key="topic">sci.econ</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

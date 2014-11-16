@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="32372"/>
+<node id="676244"/>
+<node id="32926"/>
+<node id="507195"/>
+<node id="707480"/>
+<node id="508582"/>
+<node id="1484629"/>
+<node id="3429"/>
+<node id="508836"/>
+<node id="723309"/>
+<node id="596033"/>
+<node id="1762482"/>
+<node id="28206"/>
+<edge id="32372-676244-rec.misc" source="32372" target="676244">
+	<data key="topic">rec.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="32372-1484629-rec.misc" source="32372" target="1484629">
+	<data key="topic">rec.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="32926-676244-rec.misc" source="32926" target="676244">
+	<data key="topic">rec.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="707480-676244-rec.misc" source="707480" target="676244">
+	<data key="topic">rec.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3429-28206-rec.misc" source="3429" target="28206">
+	<data key="topic">rec.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="508836-3429-rec.misc" source="508836" target="3429">
+	<data key="topic">rec.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="508836-28206-rec.misc" source="508836" target="28206">
+	<data key="topic">rec.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="723309-676244-rec.misc" source="723309" target="676244">
+	<data key="topic">rec.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="596033-507195-rec.misc" source="596033" target="507195">
+	<data key="topic">rec.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1762482-507195-rec.misc" source="1762482" target="507195">
+	<data key="topic">rec.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1762482-596033-rec.misc" source="1762482" target="596033">
+	<data key="topic">rec.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28206-508582-rec.misc" source="28206" target="508582">
+	<data key="topic">rec.misc</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

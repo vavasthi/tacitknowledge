@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1906"/>
+<node id="442454"/>
+<node id="1767"/>
+<node id="23384"/>
+<node id="11001"/>
+<node id="886759"/>
+<node id="364250"/>
+<node id="442443"/>
+<node id="357577"/>
+<node id="828482"/>
+<edge id="1906-1767-comp.protocols.iso.x400.gateway" source="1906" target="1767">
+	<data key="topic">comp.protocols.iso.x400.gateway</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1906-886759-comp.protocols.iso.x400.gateway" source="1906" target="886759">
+	<data key="topic">comp.protocols.iso.x400.gateway</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1767-886759-comp.protocols.iso.x400.gateway" source="1767" target="886759">
+	<data key="topic">comp.protocols.iso.x400.gateway</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23384-442454-comp.protocols.iso.x400.gateway" source="23384" target="442454">
+	<data key="topic">comp.protocols.iso.x400.gateway</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11001-364250-comp.protocols.iso.x400.gateway" source="11001" target="364250">
+	<data key="topic">comp.protocols.iso.x400.gateway</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="357577-442454-comp.protocols.iso.x400.gateway" source="357577" target="442454">
+	<data key="topic">comp.protocols.iso.x400.gateway</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="828482-11001-comp.protocols.iso.x400.gateway" source="828482" target="11001">
+	<data key="topic">comp.protocols.iso.x400.gateway</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="828482-442443-comp.protocols.iso.x400.gateway" source="828482" target="442443">
+	<data key="topic">comp.protocols.iso.x400.gateway</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

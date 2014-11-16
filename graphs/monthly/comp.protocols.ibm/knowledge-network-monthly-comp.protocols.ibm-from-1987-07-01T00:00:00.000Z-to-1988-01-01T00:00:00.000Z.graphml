@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2849"/>
+<node id="664971"/>
+<node id="449016"/>
+<node id="447384"/>
+<node id="2651837"/>
+<node id="23382"/>
+<node id="16185"/>
+<node id="752147"/>
+<node id="23840"/>
+<edge id="2849-449016-comp.protocols.ibm" source="2849" target="449016">
+	<data key="topic">comp.protocols.ibm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="447384-2651837-comp.protocols.ibm" source="447384" target="2651837">
+	<data key="topic">comp.protocols.ibm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23382-23840-comp.protocols.ibm" source="23382" target="23840">
+	<data key="topic">comp.protocols.ibm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16185-664971-comp.protocols.ibm" source="16185" target="664971">
+	<data key="topic">comp.protocols.ibm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="752147-2849-comp.protocols.ibm" source="752147" target="2849">
+	<data key="topic">comp.protocols.ibm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="752147-449016-comp.protocols.ibm" source="752147" target="449016">
+	<data key="topic">comp.protocols.ibm</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

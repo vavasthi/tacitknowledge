@@ -1,0 +1,2109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="17297"/>
+<node id="36763"/>
+<node id="507805"/>
+<node id="16285"/>
+<node id="2476474"/>
+<node id="2977"/>
+<node id="1645978"/>
+<node id="1543064"/>
+<node id="28578"/>
+<node id="18851"/>
+<node id="29606"/>
+<node id="505776"/>
+<node id="35251"/>
+<node id="949"/>
+<node id="33720"/>
+<node id="505792"/>
+<node id="36795"/>
+<node id="2028484"/>
+<node id="16322"/>
+<node id="426952"/>
+<node id="19397"/>
+<node id="500675"/>
+<node id="24009"/>
+<node id="24522"/>
+<node id="426960"/>
+<node id="20427"/>
+<node id="16334"/>
+<node id="694216"/>
+<node id="2476460"/>
+<node id="597465"/>
+<node id="20438"/>
+<node id="448977"/>
+<node id="770013"/>
+<node id="443871"/>
+<node id="430560"/>
+<node id="30683"/>
+<node id="507869"/>
+<node id="18399"/>
+<node id="686571"/>
+<node id="499687"/>
+<node id="29668"/>
+<node id="26088"/>
+<node id="30696"/>
+<node id="28648"/>
+<node id="432105"/>
+<node id="28658"/>
+<node id="766973"/>
+<node id="30715"/>
+<node id="15868"/>
+<node id="1645048"/>
+<node id="16399"/>
+<node id="30738"/>
+<node id="770080"/>
+<node id="507411"/>
+<node id="507422"/>
+<node id="337434"/>
+<node id="670231"/>
+<node id="19489"/>
+<node id="691760"/>
+<node id="29735"/>
+<node id="36906"/>
+<node id="687137"/>
+<node id="584740"/>
+<node id="36910"/>
+<node id="16944"/>
+<node id="541224"/>
+<node id="440373"/>
+<node id="2592276"/>
+<node id="29240"/>
+<node id="687155"/>
+<node id="790069"/>
+<node id="29756"/>
+<node id="36927"/>
+<node id="2113"/>
+<node id="14922"/>
+<node id="24139"/>
+<node id="584774"/>
+<node id="507478"/>
+<node id="767066"/>
+<node id="507475"/>
+<node id="28759"/>
+<node id="29276"/>
+<node id="26716"/>
+<node id="500316"/>
+<node id="20063"/>
+<node id="500314"/>
+<node id="1544280"/>
+<node id="30817"/>
+<node id="29798"/>
+<node id="427117"/>
+<node id="500330"/>
+<node id="15472"/>
+<node id="29298"/>
+<node id="503923"/>
+<node id="28280"/>
+<node id="596607"/>
+<node id="29307"/>
+<node id="454269"/>
+<node id="695927"/>
+<node id="426105"/>
+<node id="20096"/>
+<node id="21121"/>
+<node id="30857"/>
+<node id="26253"/>
+<node id="430219"/>
+<node id="512657"/>
+<node id="16550"/>
+<node id="508067"/>
+<node id="426148"/>
+<node id="29867"/>
+<node id="508074"/>
+<node id="16561"/>
+<node id="2730138"/>
+<node id="586426"/>
+<node id="732859"/>
+<node id="29374"/>
+<node id="16065"/>
+<node id="504519"/>
+<node id="29380"/>
+<node id="31949"/>
+<node id="16081"/>
+<node id="26329"/>
+<node id="695507"/>
+<node id="31965"/>
+<node id="16099"/>
+<node id="36579"/>
+<node id="508132"/>
+<node id="447215"/>
+<node id="16107"/>
+<node id="16111"/>
+<node id="35056"/>
+<node id="753401"/>
+<node id="500992"/>
+<node id="16638"/>
+<node id="16127"/>
+<node id="16131"/>
+<node id="35077"/>
+<node id="18694"/>
+<node id="28422"/>
+<node id="16140"/>
+<node id="660226"/>
+<node id="2479852"/>
+<node id="28946"/>
+<node id="2476344"/>
+<node id="5910"/>
+<node id="28439"/>
+<node id="507675"/>
+<node id="17696"/>
+<node id="2849"/>
+<node id="389921"/>
+<node id="16167"/>
+<node id="31019"/>
+<node id="29483"/>
+<node id="429355"/>
+<node id="446763"/>
+<node id="508202"/>
+<node id="28464"/>
+<node id="426794"/>
+<node id="15667"/>
+<node id="33588"/>
+<node id="26423"/>
+<node id="2581266"/>
+<node id="766260"/>
+<node id="790325"/>
+<node id="26426"/>
+<node id="16700"/>
+<node id="28477"/>
+<node id="687436"/>
+<node id="504646"/>
+<node id="426818"/>
+<node id="15178"/>
+<node id="534851"/>
+<node id="769352"/>
+<node id="29006"/>
+<node id="536390"/>
+<node id="29519"/>
+<node id="16721"/>
+<node id="2588019"/>
+<node id="29527"/>
+<node id="31064"/>
+<node id="15194"/>
+<node id="29530"/>
+<node id="15198"/>
+<node id="31070"/>
+<node id="30560"/>
+<node id="29544"/>
+<node id="29559"/>
+<node id="500081"/>
+<node id="16762"/>
+<node id="33666"/>
+<node id="15239"/>
+<node id="518017"/>
+<node id="17805"/>
+<node id="16272"/>
+<edge id="17297-16081-news.sysadmin" source="17297" target="16081">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17297-29006-news.sysadmin" source="17297" target="29006">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16285-33720-news.sysadmin" source="16285" target="33720">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16285-507478-news.sysadmin" source="16285" target="507478">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16285-29867-news.sysadmin" source="16285" target="29867">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16285-18694-news.sysadmin" source="16285" target="18694">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2977-20063-news.sysadmin" source="2977" target="20063">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2977-35056-news.sysadmin" source="2977" target="35056">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2977-29519-news.sysadmin" source="2977" target="29519">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1543064-14922-news.sysadmin" source="1543064" target="14922">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28578-20438-news.sysadmin" source="28578" target="20438">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="28578-686571-news.sysadmin" source="28578" target="686571">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="28578-30738-news.sysadmin" source="28578" target="30738">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28578-29867-news.sysadmin" source="28578" target="29867">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="28578-28464-news.sysadmin" source="28578" target="28464">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="18851-507805-news.sysadmin" source="18851" target="507805">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18851-31019-news.sysadmin" source="18851" target="31019">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29606-16081-news.sysadmin" source="29606" target="16081">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="29606-17696-news.sysadmin" source="29606" target="17696">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="505776-16322-news.sysadmin" source="505776" target="16322">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="505776-14922-news.sysadmin" source="505776" target="14922">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="949-29519-news.sysadmin" source="949" target="29519">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="33720-432105-news.sysadmin" source="33720" target="432105">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="33720-507478-news.sysadmin" source="33720" target="507478">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="33720-18694-news.sysadmin" source="33720" target="18694">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="505792-2476474-news.sysadmin" source="505792" target="2476474">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="505792-19397-news.sysadmin" source="505792" target="19397">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="505792-507675-news.sysadmin" source="505792" target="507675">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="505792-29530-news.sysadmin" source="505792" target="29530">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36795-14922-news.sysadmin" source="36795" target="14922">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36795-500314-news.sysadmin" source="36795" target="500314">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36795-29867-news.sysadmin" source="36795" target="29867">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16322-14922-news.sysadmin" source="16322" target="14922">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16322-660226-news.sysadmin" source="16322" target="660226">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="16322-29530-news.sysadmin" source="16322" target="29530">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="426952-16721-news.sysadmin" source="426952" target="16721">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19397-29530-news.sysadmin" source="19397" target="29530">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="500675-29668-news.sysadmin" source="500675" target="29668">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="500675-29756-news.sysadmin" source="500675" target="29756">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="500675-29298-news.sysadmin" source="500675" target="29298">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="500675-454269-news.sysadmin" source="500675" target="454269">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="500675-5910-news.sysadmin" source="500675" target="5910">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="500675-16167-news.sysadmin" source="500675" target="16167">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="500675-766260-news.sysadmin" source="500675" target="766260">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="500675-426818-news.sysadmin" source="500675" target="426818">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="500675-15194-news.sysadmin" source="500675" target="15194">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24009-500675-news.sysadmin" source="24009" target="500675">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24009-29668-news.sysadmin" source="24009" target="29668">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24009-15472-news.sysadmin" source="24009" target="15472">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24009-29374-news.sysadmin" source="24009" target="29374">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24009-660226-news.sysadmin" source="24009" target="660226">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24009-426794-news.sysadmin" source="24009" target="426794">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24009-426818-news.sysadmin" source="24009" target="426818">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24009-15194-news.sysadmin" source="24009" target="15194">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24009-29544-news.sysadmin" source="24009" target="29544">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="426960-29668-news.sysadmin" source="426960" target="29668">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="426960-29756-news.sysadmin" source="426960" target="29756">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="426960-5910-news.sysadmin" source="426960" target="5910">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="426960-16167-news.sysadmin" source="426960" target="16167">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20427-507475-news.sysadmin" source="20427" target="507475">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16334-518017-news.sysadmin" source="16334" target="518017">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="694216-19397-news.sysadmin" source="694216" target="19397">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="694216-446763-news.sysadmin" source="694216" target="446763">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="694216-29530-news.sysadmin" source="694216" target="29530">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2476460-29668-news.sysadmin" source="2476460" target="29668">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="597465-2849-news.sysadmin" source="597465" target="2849">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20438-28578-news.sysadmin" source="20438" target="28578">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20438-29867-news.sysadmin" source="20438" target="29867">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20438-28464-news.sysadmin" source="20438" target="28464">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="443871-2476474-news.sysadmin" source="443871" target="2476474">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="443871-2476460-news.sysadmin" source="443871" target="2476460">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="443871-29668-news.sysadmin" source="443871" target="29668">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="430560-15868-news.sysadmin" source="430560" target="15868">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="430560-2849-news.sysadmin" source="430560" target="2849">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30683-2977-news.sysadmin" source="30683" target="2977">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30683-35056-news.sysadmin" source="30683" target="35056">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30683-29519-news.sysadmin" source="30683" target="29519">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="507869-1645048-news.sysadmin" source="507869" target="1645048">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="507869-507411-news.sysadmin" source="507869" target="507411">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="686571-28578-news.sysadmin" source="686571" target="28578">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="686571-20438-news.sysadmin" source="686571" target="20438">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="686571-29867-news.sysadmin" source="686571" target="29867">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="686571-28464-news.sysadmin" source="686571" target="28464">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="499687-29798-news.sysadmin" source="499687" target="29798">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29668-500675-news.sysadmin" source="29668" target="500675">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29668-2476460-news.sysadmin" source="29668" target="2476460">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="29668-29756-news.sysadmin" source="29668" target="29756">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="29668-507478-news.sysadmin" source="29668" target="507478">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29668-507475-news.sysadmin" source="29668" target="507475">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29668-15472-news.sysadmin" source="29668" target="15472">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29668-29298-news.sysadmin" source="29668" target="29298">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="29668-29374-news.sysadmin" source="29668" target="29374">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29668-18694-news.sysadmin" source="29668" target="18694">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29668-5910-news.sysadmin" source="29668" target="5910">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="29668-507675-news.sysadmin" source="29668" target="507675">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29668-16167-news.sysadmin" source="29668" target="16167">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="29668-28477-news.sysadmin" source="29668" target="28477">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29668-29544-news.sysadmin" source="29668" target="29544">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="26088-16081-news.sysadmin" source="26088" target="16081">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30696-15472-news.sysadmin" source="30696" target="15472">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30696-29307-news.sysadmin" source="30696" target="29307">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30696-508067-news.sysadmin" source="30696" target="508067">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30696-29374-news.sysadmin" source="30696" target="29374">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30696-28946-news.sysadmin" source="30696" target="28946">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30696-29483-news.sysadmin" source="30696" target="29483">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30696-426794-news.sysadmin" source="30696" target="426794">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30696-29544-news.sysadmin" source="30696" target="29544">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28648-500675-news.sysadmin" source="28648" target="500675">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28648-16081-news.sysadmin" source="28648" target="16081">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28648-18694-news.sysadmin" source="28648" target="18694">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28648-426818-news.sysadmin" source="28648" target="426818">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28648-15194-news.sysadmin" source="28648" target="15194">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="432105-33720-news.sysadmin" source="432105" target="33720">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28658-29867-news.sysadmin" source="28658" target="29867">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="766973-770013-news.sysadmin" source="766973" target="770013">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30715-16099-news.sysadmin" source="30715" target="16099">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30715-2849-news.sysadmin" source="30715" target="2849">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30715-766260-news.sysadmin" source="30715" target="766260">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30715-29519-news.sysadmin" source="30715" target="29519">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30715-29544-news.sysadmin" source="30715" target="29544">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15868-430560-news.sysadmin" source="15868" target="430560">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15868-2849-news.sysadmin" source="15868" target="2849">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="16399-29530-news.sysadmin" source="16399" target="29530">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="770080-766260-news.sysadmin" source="770080" target="766260">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="770080-500081-news.sysadmin" source="770080" target="500081">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="507411-1645048-news.sysadmin" source="507411" target="1645048">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="507411-16140-news.sysadmin" source="507411" target="16140">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="507422-36763-news.sysadmin" source="507422" target="36763">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="507422-770013-news.sysadmin" source="507422" target="770013">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="507422-766973-news.sysadmin" source="507422" target="766973">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="507422-14922-news.sysadmin" source="507422" target="14922">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="507422-500314-news.sysadmin" source="507422" target="500314">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="507422-31949-news.sysadmin" source="507422" target="31949">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="670231-16081-news.sysadmin" source="670231" target="16081">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19489-36795-news.sysadmin" source="19489" target="36795">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19489-14922-news.sysadmin" source="19489" target="14922">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19489-500314-news.sysadmin" source="19489" target="500314">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19489-31949-news.sysadmin" source="19489" target="31949">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="691760-2476460-news.sysadmin" source="691760" target="2476460">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="691760-29668-news.sysadmin" source="691760" target="29668">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29735-499687-news.sysadmin" source="29735" target="499687">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29735-26088-news.sysadmin" source="29735" target="26088">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29735-16081-news.sysadmin" source="29735" target="16081">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="687137-500316-news.sysadmin" source="687137" target="500316">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="687137-16638-news.sysadmin" source="687137" target="16638">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36910-2977-news.sysadmin" source="36910" target="2977">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36910-20063-news.sysadmin" source="36910" target="20063">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36910-35056-news.sysadmin" source="36910" target="35056">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36910-28464-news.sysadmin" source="36910" target="28464">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36910-29519-news.sysadmin" source="36910" target="29519">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16944-18399-news.sysadmin" source="16944" target="18399">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16944-15868-news.sysadmin" source="16944" target="15868">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="16944-337434-news.sysadmin" source="16944" target="337434">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16944-21121-news.sysadmin" source="16944" target="21121">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="541224-33720-news.sysadmin" source="541224" target="33720">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="541224-507478-news.sysadmin" source="541224" target="507478">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="541224-29867-news.sysadmin" source="541224" target="29867">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="541224-18694-news.sysadmin" source="541224" target="18694">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="440373-35251-news.sysadmin" source="440373" target="35251">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="440373-770013-news.sysadmin" source="440373" target="770013">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2592276-24522-news.sysadmin" source="2592276" target="24522">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2592276-24139-news.sysadmin" source="2592276" target="24139">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29240-29867-news.sysadmin" source="29240" target="29867">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29240-16127-news.sysadmin" source="29240" target="16127">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="687155-29606-news.sysadmin" source="687155" target="29606">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="687155-2476460-news.sysadmin" source="687155" target="2476460">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="687155-29668-news.sysadmin" source="687155" target="29668">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="687155-500316-news.sysadmin" source="687155" target="500316">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="687155-500992-news.sysadmin" source="687155" target="500992">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="687155-28422-news.sysadmin" source="687155" target="28422">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="687155-17696-news.sysadmin" source="687155" target="17696">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="790069-36795-news.sysadmin" source="790069" target="36795">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="790069-19489-news.sysadmin" source="790069" target="19489">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="790069-14922-news.sysadmin" source="790069" target="14922">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="790069-500314-news.sysadmin" source="790069" target="500314">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="790069-31949-news.sysadmin" source="790069" target="31949">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36927-36906-news.sysadmin" source="36927" target="36906">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2113-430560-news.sysadmin" source="2113" target="430560">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2113-15868-news.sysadmin" source="2113" target="15868">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2113-2849-news.sysadmin" source="2113" target="2849">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="584774-28477-news.sysadmin" source="584774" target="28477">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="584774-30560-news.sysadmin" source="584774" target="30560">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="507478-18694-news.sysadmin" source="507478" target="18694">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="767066-500675-news.sysadmin" source="767066" target="500675">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="767066-16399-news.sysadmin" source="767066" target="16399">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="767066-454269-news.sysadmin" source="767066" target="454269">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="767066-766260-news.sysadmin" source="767066" target="766260">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="767066-29530-news.sysadmin" source="767066" target="29530">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29276-29668-news.sysadmin" source="29276" target="29668">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29276-15472-news.sysadmin" source="29276" target="15472">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29276-29374-news.sysadmin" source="29276" target="29374">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29276-426794-news.sysadmin" source="29276" target="426794">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29276-29544-news.sysadmin" source="29276" target="29544">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="500316-29606-news.sysadmin" source="500316" target="29606">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="500316-28422-news.sysadmin" source="500316" target="28422">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="500316-17696-news.sysadmin" source="500316" target="17696">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20063-2977-news.sysadmin" source="20063" target="2977">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20063-35056-news.sysadmin" source="20063" target="35056">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20063-29519-news.sysadmin" source="20063" target="29519">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="500314-14922-news.sysadmin" source="500314" target="14922">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30817-2476474-news.sysadmin" source="30817" target="2476474">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="427117-16081-news.sysadmin" source="427117" target="16081">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="427117-29006-news.sysadmin" source="427117" target="29006">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="500330-28578-news.sysadmin" source="500330" target="28578">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="500330-36795-news.sysadmin" source="500330" target="36795">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="500330-20438-news.sysadmin" source="500330" target="20438">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="500330-686571-news.sysadmin" source="500330" target="686571">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="500330-30738-news.sysadmin" source="500330" target="30738">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="500330-29867-news.sysadmin" source="500330" target="29867">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="500330-28464-news.sysadmin" source="500330" target="28464">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15472-28578-news.sysadmin" source="15472" target="28578">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="15472-20438-news.sysadmin" source="15472" target="20438">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15472-686571-news.sysadmin" source="15472" target="686571">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15472-432105-news.sysadmin" source="15472" target="432105">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15472-30738-news.sysadmin" source="15472" target="30738">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15472-29867-news.sysadmin" source="15472" target="29867">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15472-508074-news.sysadmin" source="15472" target="508074">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15472-35056-news.sysadmin" source="15472" target="35056">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15472-28464-news.sysadmin" source="15472" target="28464">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15472-29544-news.sysadmin" source="15472" target="29544">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29298-426960-news.sysadmin" source="29298" target="426960">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29298-29668-news.sysadmin" source="29298" target="29668">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29298-28648-news.sysadmin" source="29298" target="28648">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29298-29756-news.sysadmin" source="29298" target="29756">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29298-16081-news.sysadmin" source="29298" target="16081">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="29298-508132-news.sysadmin" source="29298" target="508132">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29298-5910-news.sysadmin" source="29298" target="5910">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29298-16167-news.sysadmin" source="29298" target="16167">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29298-426818-news.sysadmin" source="29298" target="426818">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29298-15194-news.sysadmin" source="29298" target="15194">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="503923-687137-news.sysadmin" source="503923" target="687137">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="503923-500316-news.sysadmin" source="503923" target="500316">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="503923-16638-news.sysadmin" source="503923" target="16638">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28280-2476460-news.sysadmin" source="28280" target="2476460">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28280-16561-news.sysadmin" source="28280" target="16561">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="596607-2476460-news.sysadmin" source="596607" target="2476460">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="596607-29668-news.sysadmin" source="596607" target="29668">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29307-30696-news.sysadmin" source="29307" target="30696">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29307-15472-news.sysadmin" source="29307" target="15472">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="29307-508067-news.sysadmin" source="29307" target="508067">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29307-29374-news.sysadmin" source="29307" target="29374">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="29307-28946-news.sysadmin" source="29307" target="28946">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="29307-29483-news.sysadmin" source="29307" target="29483">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="29307-426794-news.sysadmin" source="29307" target="426794">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="29307-29544-news.sysadmin" source="29307" target="29544">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="454269-766260-news.sysadmin" source="454269" target="766260">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="695927-29867-news.sysadmin" source="695927" target="29867">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="695927-16127-news.sysadmin" source="695927" target="16127">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="695927-29544-news.sysadmin" source="695927" target="29544">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20096-500081-news.sysadmin" source="20096" target="500081">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30857-790325-news.sysadmin" source="30857" target="790325">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="26253-766260-news.sysadmin" source="26253" target="766260">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="430219-29240-news.sysadmin" source="430219" target="29240">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="430219-29867-news.sysadmin" source="430219" target="29867">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="430219-16127-news.sysadmin" source="430219" target="16127">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="512657-1645978-news.sysadmin" source="512657" target="1645978">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="512657-35077-news.sysadmin" source="512657" target="35077">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="512657-5910-news.sysadmin" source="512657" target="5910">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16550-24522-news.sysadmin" source="16550" target="24522">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16550-2592276-news.sysadmin" source="16550" target="2592276">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16550-24139-news.sysadmin" source="16550" target="24139">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16550-429355-news.sysadmin" source="16550" target="429355">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16550-15239-news.sysadmin" source="16550" target="15239">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="508067-15472-news.sysadmin" source="508067" target="15472">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="508067-29307-news.sysadmin" source="508067" target="29307">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="508067-29374-news.sysadmin" source="508067" target="29374">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="508067-28946-news.sysadmin" source="508067" target="28946">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="508067-29483-news.sysadmin" source="508067" target="29483">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="508067-426794-news.sysadmin" source="508067" target="426794">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="508067-29544-news.sysadmin" source="508067" target="29544">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="426148-28578-news.sysadmin" source="426148" target="28578">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="426148-20438-news.sysadmin" source="426148" target="20438">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="426148-686571-news.sysadmin" source="426148" target="686571">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="426148-29867-news.sysadmin" source="426148" target="29867">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="426148-28464-news.sysadmin" source="426148" target="28464">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29867-33720-news.sysadmin" source="29867" target="33720">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29867-507478-news.sysadmin" source="29867" target="507478">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29867-16127-news.sysadmin" source="29867" target="16127">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="29867-18694-news.sysadmin" source="29867" target="18694">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29867-29544-news.sysadmin" source="29867" target="29544">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16561-2476460-news.sysadmin" source="16561" target="2476460">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2730138-28759-news.sysadmin" source="2730138" target="28759">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2730138-26423-news.sysadmin" source="2730138" target="26423">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="586426-29530-news.sysadmin" source="586426" target="29530">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="732859-29530-news.sysadmin" source="732859" target="29530">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29374-15472-news.sysadmin" source="29374" target="15472">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29374-29544-news.sysadmin" source="29374" target="29544">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16065-500081-news.sysadmin" source="16065" target="500081">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="504519-500081-news.sysadmin" source="504519" target="500081">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29380-507411-news.sysadmin" source="29380" target="507411">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="31949-36795-news.sysadmin" source="31949" target="36795">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="31949-29668-news.sysadmin" source="31949" target="29668">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="31949-29756-news.sysadmin" source="31949" target="29756">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="31949-14922-news.sysadmin" source="31949" target="14922">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="31949-500314-news.sysadmin" source="31949" target="500314">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="31949-508074-news.sysadmin" source="31949" target="508074">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="31949-29483-news.sysadmin" source="31949" target="29483">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="26329-2476460-news.sysadmin" source="26329" target="2476460">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="26329-29668-news.sysadmin" source="26329" target="29668">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="695507-660226-news.sysadmin" source="695507" target="660226">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="695507-29559-news.sysadmin" source="695507" target="29559">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="31965-35077-news.sysadmin" source="31965" target="35077">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="31965-5910-news.sysadmin" source="31965" target="5910">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16099-15472-news.sysadmin" source="16099" target="15472">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="16099-29307-news.sysadmin" source="16099" target="29307">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16099-29374-news.sysadmin" source="16099" target="29374">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="16099-28946-news.sysadmin" source="16099" target="28946">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16099-2849-news.sysadmin" source="16099" target="2849">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16099-29544-news.sysadmin" source="16099" target="29544">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="36579-2476460-news.sysadmin" source="36579" target="2476460">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="36579-29668-news.sysadmin" source="36579" target="29668">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36579-500992-news.sysadmin" source="36579" target="500992">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="508132-426960-news.sysadmin" source="508132" target="426960">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="508132-29668-news.sysadmin" source="508132" target="29668">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="508132-29756-news.sysadmin" source="508132" target="29756">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="508132-5910-news.sysadmin" source="508132" target="5910">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="508132-16167-news.sysadmin" source="508132" target="16167">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="447215-687137-news.sysadmin" source="447215" target="687137">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="447215-500316-news.sysadmin" source="447215" target="500316">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="447215-503923-news.sysadmin" source="447215" target="503923">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="447215-16638-news.sysadmin" source="447215" target="16638">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16111-15868-news.sysadmin" source="16111" target="15868">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="35056-432105-news.sysadmin" source="35056" target="432105">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="35056-29519-news.sysadmin" source="35056" target="29519">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="753401-448977-news.sysadmin" source="753401" target="448977">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="500992-2476460-news.sysadmin" source="500992" target="2476460">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="500992-29668-news.sysadmin" source="500992" target="29668">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="500992-687155-news.sysadmin" source="500992" target="687155">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16638-29606-news.sysadmin" source="16638" target="29606">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16638-687137-news.sysadmin" source="16638" target="687137">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16638-687155-news.sysadmin" source="16638" target="687155">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16638-500316-news.sysadmin" source="16638" target="500316">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="16638-28422-news.sysadmin" source="16638" target="28422">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16638-17696-news.sysadmin" source="16638" target="17696">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16131-507475-news.sysadmin" source="16131" target="507475">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="35077-28658-news.sysadmin" source="35077" target="28658">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="35077-26716-news.sysadmin" source="35077" target="26716">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="35077-29867-news.sysadmin" source="35077" target="29867">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="35077-31949-news.sysadmin" source="35077" target="31949">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="35077-29527-news.sysadmin" source="35077" target="29527">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28422-29606-news.sysadmin" source="28422" target="29606">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28422-17696-news.sysadmin" source="28422" target="17696">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16140-1645048-news.sysadmin" source="16140" target="1645048">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16140-507411-news.sysadmin" source="16140" target="507411">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2479852-2476474-news.sysadmin" source="2479852" target="2476474">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28946-15472-news.sysadmin" source="28946" target="15472">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28946-29374-news.sysadmin" source="28946" target="29374">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28946-426794-news.sysadmin" source="28946" target="426794">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28946-29544-news.sysadmin" source="28946" target="29544">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5910-29668-news.sysadmin" source="5910" target="29668">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5910-29756-news.sysadmin" source="5910" target="29756">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5910-16167-news.sysadmin" source="5910" target="16167">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28439-28578-news.sysadmin" source="28439" target="28578">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28439-20438-news.sysadmin" source="28439" target="20438">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28439-29867-news.sysadmin" source="28439" target="29867">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28439-28464-news.sysadmin" source="28439" target="28464">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="507675-2476474-news.sysadmin" source="507675" target="2476474">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="389921-766260-news.sysadmin" source="389921" target="766260">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16167-29668-news.sysadmin" source="16167" target="29668">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16167-29756-news.sysadmin" source="16167" target="29756">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29483-426960-news.sysadmin" source="29483" target="426960">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29483-29668-news.sysadmin" source="29483" target="29668">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29483-30696-news.sysadmin" source="29483" target="30696">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="29483-29756-news.sysadmin" source="29483" target="29756">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29483-15472-news.sysadmin" source="29483" target="15472">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="29483-29307-news.sysadmin" source="29483" target="29307">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="29483-508067-news.sysadmin" source="29483" target="508067">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="29483-29374-news.sysadmin" source="29483" target="29374">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="29483-28946-news.sysadmin" source="29483" target="28946">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="29483-5910-news.sysadmin" source="29483" target="5910">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29483-16167-news.sysadmin" source="29483" target="16167">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29483-426794-news.sysadmin" source="29483" target="426794">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="29483-29544-news.sysadmin" source="29483" target="29544">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="446763-19397-news.sysadmin" source="446763" target="19397">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="446763-426105-news.sysadmin" source="446763" target="426105">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="446763-28464-news.sysadmin" source="446763" target="28464">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="446763-29530-news.sysadmin" source="446763" target="29530">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="508202-505776-news.sysadmin" source="508202" target="505776">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="508202-16322-news.sysadmin" source="508202" target="16322">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="508202-14922-news.sysadmin" source="508202" target="14922">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28464-28578-news.sysadmin" source="28464" target="28578">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28464-29668-news.sysadmin" source="28464" target="29668">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28464-29756-news.sysadmin" source="28464" target="29756">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28464-29867-news.sysadmin" source="28464" target="29867">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28464-5910-news.sysadmin" source="28464" target="5910">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28464-16167-news.sysadmin" source="28464" target="16167">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28464-536390-news.sysadmin" source="28464" target="536390">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="426794-29668-news.sysadmin" source="426794" target="29668">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="426794-15472-news.sysadmin" source="426794" target="15472">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="426794-29374-news.sysadmin" source="426794" target="29374">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="426794-29544-news.sysadmin" source="426794" target="29544">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15667-29519-news.sysadmin" source="15667" target="29519">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="33588-427117-news.sysadmin" source="33588" target="427117">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="26423-28759-news.sysadmin" source="26423" target="28759">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2581266-18851-news.sysadmin" source="2581266" target="18851">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="766260-19397-news.sysadmin" source="766260" target="19397">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="766260-454269-news.sysadmin" source="766260" target="454269">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="766260-446763-news.sysadmin" source="766260" target="446763">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="766260-29530-news.sysadmin" source="766260" target="29530">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="26426-14922-news.sysadmin" source="26426" target="14922">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="26426-1544280-news.sysadmin" source="26426" target="1544280">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="26426-507675-news.sysadmin" source="26426" target="507675">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16700-36906-news.sysadmin" source="16700" target="36906">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16700-29519-news.sysadmin" source="16700" target="29519">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28477-507675-news.sysadmin" source="28477" target="507675">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="687436-28578-news.sysadmin" source="687436" target="28578">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="687436-29867-news.sysadmin" source="687436" target="29867">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="687436-28464-news.sysadmin" source="687436" target="28464">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="504646-29606-news.sysadmin" source="504646" target="29606">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="504646-500316-news.sysadmin" source="504646" target="500316">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="504646-28422-news.sysadmin" source="504646" target="28422">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="504646-17696-news.sysadmin" source="504646" target="17696">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="426818-15194-news.sysadmin" source="426818" target="15194">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15178-2476344-news.sysadmin" source="15178" target="2476344">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="534851-512657-news.sysadmin" source="534851" target="512657">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="769352-2028484-news.sysadmin" source="769352" target="2028484">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-30696-news.sysadmin" source="29006" target="30696">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-507475-news.sysadmin" source="29006" target="507475">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-508067-news.sysadmin" source="29006" target="508067">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-16081-news.sysadmin" source="29006" target="16081">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-29483-news.sysadmin" source="29006" target="29483">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-29544-news.sysadmin" source="29006" target="29544">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-500081-news.sysadmin" source="29006" target="500081">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2588019-507805-news.sysadmin" source="2588019" target="507805">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2588019-16107-news.sysadmin" source="2588019" target="16107">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="31064-507475-news.sysadmin" source="31064" target="507475">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="31064-16131-news.sysadmin" source="31064" target="16131">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15194-29668-news.sysadmin" source="15194" target="29668">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="15194-29756-news.sysadmin" source="15194" target="29756">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15194-29298-news.sysadmin" source="15194" target="29298">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15194-5910-news.sysadmin" source="15194" target="5910">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15194-16167-news.sysadmin" source="15194" target="16167">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29530-2476474-news.sysadmin" source="29530" target="2476474">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15198-584740-news.sysadmin" source="15198" target="584740">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15198-31965-news.sysadmin" source="15198" target="31965">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15198-35077-news.sysadmin" source="15198" target="35077">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15198-5910-news.sysadmin" source="15198" target="5910">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="31070-28578-news.sysadmin" source="31070" target="28578">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="31070-20438-news.sysadmin" source="31070" target="20438">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="31070-686571-news.sysadmin" source="31070" target="686571">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="31070-29867-news.sysadmin" source="31070" target="29867">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="31070-28464-news.sysadmin" source="31070" target="28464">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30560-584774-news.sysadmin" source="30560" target="584774">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30560-28477-news.sysadmin" source="30560" target="28477">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29544-30696-news.sysadmin" source="29544" target="30696">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="29544-15472-news.sysadmin" source="29544" target="15472">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29544-29307-news.sysadmin" source="29544" target="29307">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29544-508067-news.sysadmin" source="29544" target="508067">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="29544-29867-news.sysadmin" source="29544" target="29867">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29544-29374-news.sysadmin" source="29544" target="29374">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29544-16127-news.sysadmin" source="29544" target="16127">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29544-28946-news.sysadmin" source="29544" target="28946">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29544-29483-news.sysadmin" source="29544" target="29483">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="29544-426794-news.sysadmin" source="29544" target="426794">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29544-15667-news.sysadmin" source="29544" target="15667">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29544-29006-news.sysadmin" source="29544" target="29006">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29544-29519-news.sysadmin" source="29544" target="29519">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="29559-16322-news.sysadmin" source="29559" target="16322">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29559-660226-news.sysadmin" source="29559" target="660226">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="500081-766260-news.sysadmin" source="500081" target="766260">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16762-26088-news.sysadmin" source="16762" target="26088">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16762-30696-news.sysadmin" source="16762" target="30696">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16762-29735-news.sysadmin" source="16762" target="29735">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16762-508067-news.sysadmin" source="16762" target="508067">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16762-16081-news.sysadmin" source="16762" target="16081">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16762-31019-news.sysadmin" source="16762" target="31019">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16762-29483-news.sysadmin" source="16762" target="29483">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16762-29006-news.sysadmin" source="16762" target="29006">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16762-29544-news.sysadmin" source="16762" target="29544">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="33666-30715-news.sysadmin" source="33666" target="30715">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="33666-29519-news.sysadmin" source="33666" target="29519">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="33666-29544-news.sysadmin" source="33666" target="29544">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17805-29668-news.sysadmin" source="17805" target="29668">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17805-507478-news.sysadmin" source="17805" target="507478">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17805-18694-news.sysadmin" source="17805" target="18694">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16272-29298-news.sysadmin" source="16272" target="29298">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16272-16081-news.sysadmin" source="16272" target="16081">
+	<data key="topic">news.sysadmin</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

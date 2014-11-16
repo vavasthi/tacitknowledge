@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="509142"/>
+<node id="709129"/>
+<node id="701162"/>
+<node id="716538"/>
+<node id="553357"/>
+<node id="2677950"/>
+<node id="1010569"/>
+<node id="551362"/>
+<node id="611329"/>
+<node id="709060"/>
+<node id="427021"/>
+<node id="513614"/>
+<edge id="509142-1010569-rec.music.cd" source="509142" target="1010569">
+	<data key="topic">rec.music.cd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509142-551362-rec.music.cd" source="509142" target="551362">
+	<data key="topic">rec.music.cd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509142-611329-rec.music.cd" source="509142" target="611329">
+	<data key="topic">rec.music.cd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="701162-1010569-rec.music.cd" source="701162" target="1010569">
+	<data key="topic">rec.music.cd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="701162-427021-rec.music.cd" source="701162" target="427021">
+	<data key="topic">rec.music.cd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="701162-513614-rec.music.cd" source="701162" target="513614">
+	<data key="topic">rec.music.cd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="716538-2677950-rec.music.cd" source="716538" target="2677950">
+	<data key="topic">rec.music.cd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="716538-1010569-rec.music.cd" source="716538" target="1010569">
+	<data key="topic">rec.music.cd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="553357-2677950-rec.music.cd" source="553357" target="2677950">
+	<data key="topic">rec.music.cd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="553357-1010569-rec.music.cd" source="553357" target="1010569">
+	<data key="topic">rec.music.cd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2677950-1010569-rec.music.cd" source="2677950" target="1010569">
+	<data key="topic">rec.music.cd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="551362-1010569-rec.music.cd" source="551362" target="1010569">
+	<data key="topic">rec.music.cd</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="551362-611329-rec.music.cd" source="551362" target="611329">
+	<data key="topic">rec.music.cd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="611329-1010569-rec.music.cd" source="611329" target="1010569">
+	<data key="topic">rec.music.cd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="709060-709129-rec.music.cd" source="709060" target="709129">
+	<data key="topic">rec.music.cd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="427021-1010569-rec.music.cd" source="427021" target="1010569">
+	<data key="topic">rec.music.cd</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="427021-551362-rec.music.cd" source="427021" target="551362">
+	<data key="topic">rec.music.cd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="427021-513614-rec.music.cd" source="427021" target="513614">
+	<data key="topic">rec.music.cd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="513614-1010569-rec.music.cd" source="513614" target="1010569">
+	<data key="topic">rec.music.cd</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

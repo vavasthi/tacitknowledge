@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="948285"/>
+<node id="425887"/>
+<node id="948277"/>
+<node id="361823"/>
+<node id="831218"/>
+<node id="948237"/>
+<node id="948235"/>
+<node id="948265"/>
+<node id="14536"/>
+<node id="5482"/>
+<node id="701636"/>
+<node id="947877"/>
+<node id="948261"/>
+<node id="361840"/>
+<node id="948262"/>
+<node id="935206"/>
+<node id="948259"/>
+<node id="375276"/>
+<edge id="425887-948259-rec.hunting" source="425887" target="948259">
+	<data key="topic">rec.hunting</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="361823-375276-rec.hunting" source="361823" target="375276">
+	<data key="topic">rec.hunting</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="948235-375276-rec.hunting" source="948235" target="375276">
+	<data key="topic">rec.hunting</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14536-948285-rec.hunting" source="14536" target="948285">
+	<data key="topic">rec.hunting</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14536-948277-rec.hunting" source="14536" target="948277">
+	<data key="topic">rec.hunting</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14536-831218-rec.hunting" source="14536" target="831218">
+	<data key="topic">rec.hunting</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5482-948237-rec.hunting" source="5482" target="948237">
+	<data key="topic">rec.hunting</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5482-948265-rec.hunting" source="5482" target="948265">
+	<data key="topic">rec.hunting</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5482-947877-rec.hunting" source="5482" target="947877">
+	<data key="topic">rec.hunting</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5482-948262-rec.hunting" source="5482" target="948262">
+	<data key="topic">rec.hunting</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5482-375276-rec.hunting" source="5482" target="375276">
+	<data key="topic">rec.hunting</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="701636-948261-rec.hunting" source="701636" target="948261">
+	<data key="topic">rec.hunting</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="935206-361840-rec.hunting" source="935206" target="361840">
+	<data key="topic">rec.hunting</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

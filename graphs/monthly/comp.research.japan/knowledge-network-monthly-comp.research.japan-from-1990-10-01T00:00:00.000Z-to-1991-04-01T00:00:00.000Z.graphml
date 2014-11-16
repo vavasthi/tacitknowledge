@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="347846"/>
+<node id="936624"/>
+<node id="573776"/>
+<node id="700"/>
+<node id="386282"/>
+<node id="612454"/>
+<node id="864322"/>
+<edge id="347846-386282-comp.research.japan" source="347846" target="386282">
+	<data key="topic">comp.research.japan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="936624-864322-comp.research.japan" source="936624" target="864322">
+	<data key="topic">comp.research.japan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="700-573776-comp.research.japan" source="700" target="573776">
+	<data key="topic">comp.research.japan</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="612454-700-comp.research.japan" source="612454" target="700">
+	<data key="topic">comp.research.japan</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

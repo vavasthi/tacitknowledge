@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="559673"/>
+<node id="1139"/>
+<node id="622994"/>
+<node id="550103"/>
+<node id="613034"/>
+<node id="359366"/>
+<node id="14787"/>
+<node id="917485"/>
+<node id="618702"/>
+<node id="15243"/>
+<node id="876583"/>
+<node id="617318"/>
+<node id="28719"/>
+<edge id="1139-559673-rec.autos.tech" source="1139" target="559673">
+	<data key="topic">rec.autos.tech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1139-613034-rec.autos.tech" source="1139" target="613034">
+	<data key="topic">rec.autos.tech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="622994-559673-rec.autos.tech" source="622994" target="559673">
+	<data key="topic">rec.autos.tech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="622994-613034-rec.autos.tech" source="622994" target="613034">
+	<data key="topic">rec.autos.tech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="550103-559673-rec.autos.tech" source="550103" target="559673">
+	<data key="topic">rec.autos.tech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="359366-15243-rec.autos.tech" source="359366" target="15243">
+	<data key="topic">rec.autos.tech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="359366-617318-rec.autos.tech" source="359366" target="617318">
+	<data key="topic">rec.autos.tech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14787-559673-rec.autos.tech" source="14787" target="559673">
+	<data key="topic">rec.autos.tech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14787-613034-rec.autos.tech" source="14787" target="613034">
+	<data key="topic">rec.autos.tech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="917485-559673-rec.autos.tech" source="917485" target="559673">
+	<data key="topic">rec.autos.tech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="917485-613034-rec.autos.tech" source="917485" target="613034">
+	<data key="topic">rec.autos.tech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="618702-28719-rec.autos.tech" source="618702" target="28719">
+	<data key="topic">rec.autos.tech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15243-617318-rec.autos.tech" source="15243" target="617318">
+	<data key="topic">rec.autos.tech</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="876583-617318-rec.autos.tech" source="876583" target="617318">
+	<data key="topic">rec.autos.tech</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

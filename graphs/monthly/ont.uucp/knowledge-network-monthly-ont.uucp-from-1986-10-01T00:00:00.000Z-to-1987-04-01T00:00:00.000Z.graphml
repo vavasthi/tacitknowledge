@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="24722"/>
+<node id="36774"/>
+<node id="17352"/>
+<node id="14922"/>
+<node id="16106"/>
+<node id="16972"/>
+<node id="391482"/>
+<node id="29006"/>
+<node id="925666"/>
+<edge id="14922-24722-ont.uucp" source="14922" target="24722">
+	<data key="topic">ont.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14922-16106-ont.uucp" source="14922" target="16106">
+	<data key="topic">ont.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16106-36774-ont.uucp" source="16106" target="36774">
+	<data key="topic">ont.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391482-29006-ont.uucp" source="391482" target="29006">
+	<data key="topic">ont.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-17352-ont.uucp" source="29006" target="17352">
+	<data key="topic">ont.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-16972-ont.uucp" source="29006" target="16972">
+	<data key="topic">ont.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-925666-ont.uucp" source="29006" target="925666">
+	<data key="topic">ont.uucp</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

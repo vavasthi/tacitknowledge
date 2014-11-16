@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="457315"/>
+<node id="13253"/>
+<node id="1274826"/>
+<node id="551251"/>
+<node id="1608343"/>
+<node id="507002"/>
+<node id="2161232"/>
+<edge id="457315-1274826-comp.lang.clu" source="457315" target="1274826">
+	<data key="topic">comp.lang.clu</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="551251-1274826-comp.lang.clu" source="551251" target="1274826">
+	<data key="topic">comp.lang.clu</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2161232-13253-comp.lang.clu" source="2161232" target="13253">
+	<data key="topic">comp.lang.clu</data>
+	<data key="weight">6</data>
+</edge>
+<edge id="2161232-1608343-comp.lang.clu" source="2161232" target="1608343">
+	<data key="topic">comp.lang.clu</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2161232-507002-comp.lang.clu" source="2161232" target="507002">
+	<data key="topic">comp.lang.clu</data>
+	<data key="weight">2</data>
+</edge>
+</graph>
+</graphml>

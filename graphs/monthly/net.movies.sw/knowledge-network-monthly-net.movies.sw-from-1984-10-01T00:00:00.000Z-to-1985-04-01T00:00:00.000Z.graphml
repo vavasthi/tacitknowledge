@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="26833"/>
+<node id="340758"/>
+<node id="623772"/>
+<node id="392344"/>
+<node id="337490"/>
+<node id="632864"/>
+<node id="523345"/>
+<node id="459486"/>
+<node id="339103"/>
+<node id="340057"/>
+<node id="628693"/>
+<node id="490919"/>
+<node id="482149"/>
+<node id="467235"/>
+<node id="623341"/>
+<node id="465579"/>
+<node id="337655"/>
+<node id="337329"/>
+<node id="19831"/>
+<node id="632696"/>
+<node id="625865"/>
+<node id="337864"/>
+<node id="336771"/>
+<node id="342734"/>
+<node id="527045"/>
+<node id="341643"/>
+<node id="601351"/>
+<edge id="340758-26833-net.movies.sw" source="340758" target="26833">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="623772-337655-net.movies.sw" source="623772" target="337655">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="623772-625865-net.movies.sw" source="623772" target="625865">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392344-623772-net.movies.sw" source="392344" target="623772">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="392344-467235-net.movies.sw" source="392344" target="467235">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392344-337655-net.movies.sw" source="392344" target="337655">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="392344-625865-net.movies.sw" source="392344" target="625865">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="392344-342734-net.movies.sw" source="392344" target="342734">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337490-490919-net.movies.sw" source="337490" target="490919">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="632864-490919-net.movies.sw" source="632864" target="490919">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="523345-340057-net.movies.sw" source="523345" target="340057">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="523345-527045-net.movies.sw" source="523345" target="527045">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459486-26833-net.movies.sw" source="459486" target="26833">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459486-632696-net.movies.sw" source="459486" target="632696">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339103-26833-net.movies.sw" source="339103" target="26833">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339103-340758-net.movies.sw" source="339103" target="340758">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="628693-490919-net.movies.sw" source="628693" target="490919">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="482149-490919-net.movies.sw" source="482149" target="490919">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="482149-337655-net.movies.sw" source="482149" target="337655">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="467235-623772-net.movies.sw" source="467235" target="623772">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="467235-392344-net.movies.sw" source="467235" target="392344">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="467235-337655-net.movies.sw" source="467235" target="337655">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="467235-625865-net.movies.sw" source="467235" target="625865">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="467235-342734-net.movies.sw" source="467235" target="342734">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="623341-623772-net.movies.sw" source="623341" target="623772">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="623341-392344-net.movies.sw" source="623341" target="392344">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="623341-467235-net.movies.sw" source="623341" target="467235">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="623341-337655-net.movies.sw" source="623341" target="337655">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="623341-625865-net.movies.sw" source="623341" target="625865">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="623341-342734-net.movies.sw" source="623341" target="342734">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="465579-337655-net.movies.sw" source="465579" target="337655">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337655-490919-net.movies.sw" source="337655" target="490919">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337329-337864-net.movies.sw" source="337329" target="337864">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337329-341643-net.movies.sw" source="337329" target="341643">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19831-490919-net.movies.sw" source="19831" target="490919">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="632696-26833-net.movies.sw" source="632696" target="26833">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="625865-337655-net.movies.sw" source="625865" target="337655">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337864-341643-net.movies.sw" source="337864" target="341643">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="336771-26833-net.movies.sw" source="336771" target="26833">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="342734-623772-net.movies.sw" source="342734" target="623772">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="342734-392344-net.movies.sw" source="342734" target="392344">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="342734-337655-net.movies.sw" source="342734" target="337655">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="342734-625865-net.movies.sw" source="342734" target="625865">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="601351-340057-net.movies.sw" source="601351" target="340057">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="601351-527045-net.movies.sw" source="601351" target="527045">
+	<data key="topic">net.movies.sw</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

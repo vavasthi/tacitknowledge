@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="347846"/>
+<node id="350709"/>
+<node id="350712"/>
+<node id="347848"/>
+<node id="1823929"/>
+<node id="958730"/>
+<node id="573217"/>
+<node id="2812"/>
+<node id="347836"/>
+<edge id="347846-350712-trial.newgroups" source="347846" target="350712">
+	<data key="topic">trial.newgroups</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347846-2812-trial.newgroups" source="347846" target="2812">
+	<data key="topic">trial.newgroups</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350709-2812-trial.newgroups" source="350709" target="2812">
+	<data key="topic">trial.newgroups</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350712-2812-trial.newgroups" source="350712" target="2812">
+	<data key="topic">trial.newgroups</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347848-350709-trial.newgroups" source="347848" target="350709">
+	<data key="topic">trial.newgroups</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1823929-573217-trial.newgroups" source="1823929" target="573217">
+	<data key="topic">trial.newgroups</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1823929-2812-trial.newgroups" source="1823929" target="2812">
+	<data key="topic">trial.newgroups</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="958730-347836-trial.newgroups" source="958730" target="347836">
+	<data key="topic">trial.newgroups</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="573217-2812-trial.newgroups" source="573217" target="2812">
+	<data key="topic">trial.newgroups</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

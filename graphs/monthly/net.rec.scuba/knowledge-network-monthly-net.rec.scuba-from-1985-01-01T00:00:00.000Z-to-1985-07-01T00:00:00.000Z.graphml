@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="532507"/>
+<node id="521908"/>
+<node id="338686"/>
+<node id="560820"/>
+<node id="337210"/>
+<node id="337915"/>
+<node id="339878"/>
+<node id="347076"/>
+<node id="1713597"/>
+<node id="340291"/>
+<node id="1713587"/>
+<node id="338255"/>
+<node id="337071"/>
+<edge id="521908-339878-net.rec.scuba" source="521908" target="339878">
+	<data key="topic">net.rec.scuba</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="560820-337210-net.rec.scuba" source="560820" target="337210">
+	<data key="topic">net.rec.scuba</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="560820-339878-net.rec.scuba" source="560820" target="339878">
+	<data key="topic">net.rec.scuba</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337210-339878-net.rec.scuba" source="337210" target="339878">
+	<data key="topic">net.rec.scuba</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337915-560820-net.rec.scuba" source="337915" target="560820">
+	<data key="topic">net.rec.scuba</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337915-337210-net.rec.scuba" source="337915" target="337210">
+	<data key="topic">net.rec.scuba</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337915-339878-net.rec.scuba" source="337915" target="339878">
+	<data key="topic">net.rec.scuba</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1713597-1713587-net.rec.scuba" source="1713597" target="1713587">
+	<data key="topic">net.rec.scuba</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1713597-337071-net.rec.scuba" source="1713597" target="337071">
+	<data key="topic">net.rec.scuba</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340291-338686-net.rec.scuba" source="340291" target="338686">
+	<data key="topic">net.rec.scuba</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340291-337071-net.rec.scuba" source="340291" target="337071">
+	<data key="topic">net.rec.scuba</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1713587-337071-net.rec.scuba" source="1713587" target="337071">
+	<data key="topic">net.rec.scuba</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338255-532507-net.rec.scuba" source="338255" target="532507">
+	<data key="topic">net.rec.scuba</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338255-347076-net.rec.scuba" source="338255" target="347076">
+	<data key="topic">net.rec.scuba</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

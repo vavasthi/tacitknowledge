@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="34995"/>
+<node id="510709"/>
+<node id="714112"/>
+<node id="31002"/>
+<node id="16866"/>
+<node id="18694"/>
+<node id="28422"/>
+<node id="1196344"/>
+<node id="512290"/>
+<node id="510465"/>
+<node id="28648"/>
+<node id="20427"/>
+<node id="515213"/>
+<node id="511467"/>
+<node id="354188"/>
+<node id="740101"/>
+<node id="24400"/>
+<node id="538760"/>
+<edge id="34995-740101-alt.bbs" source="34995" target="740101">
+	<data key="topic">alt.bbs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18694-34995-alt.bbs" source="18694" target="34995">
+	<data key="topic">alt.bbs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18694-740101-alt.bbs" source="18694" target="740101">
+	<data key="topic">alt.bbs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28422-740101-alt.bbs" source="28422" target="740101">
+	<data key="topic">alt.bbs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1196344-16866-alt.bbs" source="1196344" target="16866">
+	<data key="topic">alt.bbs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20427-510709-alt.bbs" source="20427" target="510709">
+	<data key="topic">alt.bbs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="511467-714112-alt.bbs" source="511467" target="714112">
+	<data key="topic">alt.bbs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="511467-31002-alt.bbs" source="511467" target="31002">
+	<data key="topic">alt.bbs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="354188-24400-alt.bbs" source="354188" target="24400">
+	<data key="topic">alt.bbs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24400-512290-alt.bbs" source="24400" target="512290">
+	<data key="topic">alt.bbs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="538760-28648-alt.bbs" source="538760" target="28648">
+	<data key="topic">alt.bbs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="538760-515213-alt.bbs" source="538760" target="515213">
+	<data key="topic">alt.bbs</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2179698"/>
+<node id="2179701"/>
+<node id="2199705"/>
+<node id="2176604"/>
+<node id="2179803"/>
+<node id="170720"/>
+<node id="2198749"/>
+<node id="2189917"/>
+<node id="170717"/>
+<node id="172125"/>
+<node id="217853"/>
+<node id="2179682"/>
+<node id="205603"/>
+<node id="2786380"/>
+<node id="2791049"/>
+<node id="2286565"/>
+<node id="2216392"/>
+<node id="163178"/>
+<node id="2786338"/>
+<node id="2180592"/>
+<node id="2199632"/>
+<node id="2785414"/>
+<edge id="2179698-2179803-gnu.gcc.help" source="2179698" target="2179803">
+	<data key="topic">gnu.gcc.help</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2179701-2179682-gnu.gcc.help" source="2179701" target="2179682">
+	<data key="topic">gnu.gcc.help</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="170720-2176604-gnu.gcc.help" source="170720" target="2176604">
+	<data key="topic">gnu.gcc.help</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="170720-2179803-gnu.gcc.help" source="170720" target="2179803">
+	<data key="topic">gnu.gcc.help</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="170720-2198749-gnu.gcc.help" source="170720" target="2198749">
+	<data key="topic">gnu.gcc.help</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2198749-2176604-gnu.gcc.help" source="2198749" target="2176604">
+	<data key="topic">gnu.gcc.help</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2198749-170720-gnu.gcc.help" source="2198749" target="170720">
+	<data key="topic">gnu.gcc.help</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2189917-2179701-gnu.gcc.help" source="2189917" target="2179701">
+	<data key="topic">gnu.gcc.help</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2189917-163178-gnu.gcc.help" source="2189917" target="163178">
+	<data key="topic">gnu.gcc.help</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2189917-2199632-gnu.gcc.help" source="2189917" target="2199632">
+	<data key="topic">gnu.gcc.help</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="170717-2176604-gnu.gcc.help" source="170717" target="2176604">
+	<data key="topic">gnu.gcc.help</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="172125-2179701-gnu.gcc.help" source="172125" target="2179701">
+	<data key="topic">gnu.gcc.help</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="217853-2176604-gnu.gcc.help" source="217853" target="2176604">
+	<data key="topic">gnu.gcc.help</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="205603-2286565-gnu.gcc.help" source="205603" target="2286565">
+	<data key="topic">gnu.gcc.help</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2786380-2786338-gnu.gcc.help" source="2786380" target="2786338">
+	<data key="topic">gnu.gcc.help</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2791049-2199705-gnu.gcc.help" source="2791049" target="2199705">
+	<data key="topic">gnu.gcc.help</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2216392-2286565-gnu.gcc.help" source="2216392" target="2286565">
+	<data key="topic">gnu.gcc.help</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="163178-2179701-gnu.gcc.help" source="163178" target="2179701">
+	<data key="topic">gnu.gcc.help</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2180592-2179701-gnu.gcc.help" source="2180592" target="2179701">
+	<data key="topic">gnu.gcc.help</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2199632-2179701-gnu.gcc.help" source="2199632" target="2179701">
+	<data key="topic">gnu.gcc.help</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2199632-163178-gnu.gcc.help" source="2199632" target="163178">
+	<data key="topic">gnu.gcc.help</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2785414-2199705-gnu.gcc.help" source="2785414" target="2199705">
+	<data key="topic">gnu.gcc.help</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2785414-2791049-gnu.gcc.help" source="2785414" target="2791049">
+	<data key="topic">gnu.gcc.help</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

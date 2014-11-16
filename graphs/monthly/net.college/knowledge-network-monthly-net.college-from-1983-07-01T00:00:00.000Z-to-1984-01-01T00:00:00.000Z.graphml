@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="339975"/>
+<node id="459989"/>
+<node id="459630"/>
+<node id="459181"/>
+<node id="1144734"/>
+<node id="459483"/>
+<node id="1145776"/>
+<node id="462330"/>
+<edge id="339975-459630-net.college" source="339975" target="459630">
+	<data key="topic">net.college</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459181-1145776-net.college" source="459181" target="1145776">
+	<data key="topic">net.college</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459181-462330-net.college" source="459181" target="462330">
+	<data key="topic">net.college</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459483-459989-net.college" source="459483" target="459989">
+	<data key="topic">net.college</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459483-1144734-net.college" source="459483" target="1144734">
+	<data key="topic">net.college</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

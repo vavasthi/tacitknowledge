@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="11089"/>
+<node id="908542"/>
+<node id="352280"/>
+<node id="388930"/>
+<node id="5990"/>
+<node id="352286"/>
+<node id="1181388"/>
+<node id="403645"/>
+<node id="11501"/>
+<node id="496"/>
+<edge id="908542-5990-bit.listserv.novell" source="908542" target="5990">
+	<data key="topic">bit.listserv.novell</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="352280-388930-bit.listserv.novell" source="352280" target="388930">
+	<data key="topic">bit.listserv.novell</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="352280-403645-bit.listserv.novell" source="352280" target="403645">
+	<data key="topic">bit.listserv.novell</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="352286-388930-bit.listserv.novell" source="352286" target="388930">
+	<data key="topic">bit.listserv.novell</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11501-1181388-bit.listserv.novell" source="11501" target="1181388">
+	<data key="topic">bit.listserv.novell</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="496-11089-bit.listserv.novell" source="496" target="11089">
+	<data key="topic">bit.listserv.novell</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

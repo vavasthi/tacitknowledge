@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="532586"/>
+<node id="532588"/>
+<node id="463620"/>
+<node id="532592"/>
+<node id="526851"/>
+<node id="460843"/>
+<node id="16591"/>
+<node id="343179"/>
+<node id="341995"/>
+<node id="571384"/>
+<edge id="532586-341995-net.lang.prolog" source="532586" target="341995">
+	<data key="topic">net.lang.prolog</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="532588-526851-net.lang.prolog" source="532588" target="526851">
+	<data key="topic">net.lang.prolog</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="532592-463620-net.lang.prolog" source="532592" target="463620">
+	<data key="topic">net.lang.prolog</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460843-526851-net.lang.prolog" source="460843" target="526851">
+	<data key="topic">net.lang.prolog</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="343179-16591-net.lang.prolog" source="343179" target="16591">
+	<data key="topic">net.lang.prolog</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="571384-463620-net.lang.prolog" source="571384" target="463620">
+	<data key="topic">net.lang.prolog</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="571384-532592-net.lang.prolog" source="571384" target="532592">
+	<data key="topic">net.lang.prolog</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

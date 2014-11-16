@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1746"/>
+<node id="8114"/>
+<node id="348017"/>
+<node id="350015"/>
+<edge id="1746-348017-nyc.general" source="1746" target="348017">
+	<data key="topic">nyc.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1746-350015-nyc.general" source="1746" target="350015">
+	<data key="topic">nyc.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="8114-1746-nyc.general" source="8114" target="1746">
+	<data key="topic">nyc.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="8114-350015-nyc.general" source="8114" target="350015">
+	<data key="topic">nyc.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348017-1746-nyc.general" source="348017" target="1746">
+	<data key="topic">nyc.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348017-350015-nyc.general" source="348017" target="350015">
+	<data key="topic">nyc.general</data>
+	<data key="weight">2</data>
+</edge>
+</graph>
+</graphml>

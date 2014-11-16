@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="710427"/>
+<node id="353368"/>
+<node id="403654"/>
+<node id="378663"/>
+<node id="364113"/>
+<node id="443471"/>
+<node id="364093"/>
+<node id="435819"/>
+<node id="841026"/>
+<node id="991"/>
+<node id="2767"/>
+<edge id="403654-841026-misc.kids" source="403654" target="841026">
+	<data key="topic">misc.kids</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="403654-2767-misc.kids" source="403654" target="2767">
+	<data key="topic">misc.kids</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="378663-841026-misc.kids" source="378663" target="841026">
+	<data key="topic">misc.kids</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="364113-710427-misc.kids" source="364113" target="710427">
+	<data key="topic">misc.kids</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="364113-364093-misc.kids" source="364113" target="364093">
+	<data key="topic">misc.kids</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="443471-353368-misc.kids" source="443471" target="353368">
+	<data key="topic">misc.kids</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="443471-991-misc.kids" source="443471" target="991">
+	<data key="topic">misc.kids</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="364093-710427-misc.kids" source="364093" target="710427">
+	<data key="topic">misc.kids</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="364093-364113-misc.kids" source="364093" target="364113">
+	<data key="topic">misc.kids</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="435819-403654-misc.kids" source="435819" target="403654">
+	<data key="topic">misc.kids</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="435819-841026-misc.kids" source="435819" target="841026">
+	<data key="topic">misc.kids</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="435819-2767-misc.kids" source="435819" target="2767">
+	<data key="topic">misc.kids</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="991-353368-misc.kids" source="991" target="353368">
+	<data key="topic">misc.kids</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2767-403654-misc.kids" source="2767" target="403654">
+	<data key="topic">misc.kids</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2767-841026-misc.kids" source="2767" target="841026">
+	<data key="topic">misc.kids</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

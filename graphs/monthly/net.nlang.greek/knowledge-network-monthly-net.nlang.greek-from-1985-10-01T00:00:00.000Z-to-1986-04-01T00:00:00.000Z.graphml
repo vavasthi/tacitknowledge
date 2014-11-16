@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1325125"/>
+<node id="1122562"/>
+<node id="338391"/>
+<node id="2667058"/>
+<node id="497855"/>
+<node id="1327408"/>
+<node id="398777"/>
+<node id="1327414"/>
+<node id="1327410"/>
+<node id="338948"/>
+<node id="979335"/>
+<node id="1366590"/>
+<node id="470317"/>
+<node id="979846"/>
+<node id="487211"/>
+<node id="486122"/>
+<node id="1327419"/>
+<node id="487209"/>
+<edge id="1122562-470317-net.nlang.greek" source="1122562" target="470317">
+	<data key="topic">net.nlang.greek</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338391-1325125-net.nlang.greek" source="338391" target="1325125">
+	<data key="topic">net.nlang.greek</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338391-1327408-net.nlang.greek" source="338391" target="1327408">
+	<data key="topic">net.nlang.greek</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338391-1366590-net.nlang.greek" source="338391" target="1366590">
+	<data key="topic">net.nlang.greek</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="497855-338391-net.nlang.greek" source="497855" target="338391">
+	<data key="topic">net.nlang.greek</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="497855-1327408-net.nlang.greek" source="497855" target="1327408">
+	<data key="topic">net.nlang.greek</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="398777-2667058-net.nlang.greek" source="398777" target="2667058">
+	<data key="topic">net.nlang.greek</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338948-487209-net.nlang.greek" source="338948" target="487209">
+	<data key="topic">net.nlang.greek</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="979335-1327408-net.nlang.greek" source="979335" target="1327408">
+	<data key="topic">net.nlang.greek</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="470317-1327410-net.nlang.greek" source="470317" target="1327410">
+	<data key="topic">net.nlang.greek</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="979846-1327414-net.nlang.greek" source="979846" target="1327414">
+	<data key="topic">net.nlang.greek</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1327419-1327410-net.nlang.greek" source="1327419" target="1327410">
+	<data key="topic">net.nlang.greek</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1327419-470317-net.nlang.greek" source="1327419" target="470317">
+	<data key="topic">net.nlang.greek</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="487209-486122-net.nlang.greek" source="487209" target="486122">
+	<data key="topic">net.nlang.greek</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

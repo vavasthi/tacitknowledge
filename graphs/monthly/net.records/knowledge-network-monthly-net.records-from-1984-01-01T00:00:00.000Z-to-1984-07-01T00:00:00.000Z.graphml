@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="528729"/>
+<node id="680778"/>
+<node id="681326"/>
+<node id="525520"/>
+<node id="339107"/>
+<node id="450368"/>
+<node id="459231"/>
+<node id="960776"/>
+<node id="460046"/>
+<node id="529619"/>
+<edge id="528729-681326-net.records" source="528729" target="681326">
+	<data key="topic">net.records</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="528729-525520-net.records" source="528729" target="525520">
+	<data key="topic">net.records</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="528729-450368-net.records" source="528729" target="450368">
+	<data key="topic">net.records</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="525520-681326-net.records" source="525520" target="681326">
+	<data key="topic">net.records</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="450368-528729-net.records" source="450368" target="528729">
+	<data key="topic">net.records</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="450368-681326-net.records" source="450368" target="681326">
+	<data key="topic">net.records</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="450368-525520-net.records" source="450368" target="525520">
+	<data key="topic">net.records</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="459231-339107-net.records" source="459231" target="339107">
+	<data key="topic">net.records</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459231-960776-net.records" source="459231" target="960776">
+	<data key="topic">net.records</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460046-680778-net.records" source="460046" target="680778">
+	<data key="topic">net.records</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460046-529619-net.records" source="460046" target="529619">
+	<data key="topic">net.records</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

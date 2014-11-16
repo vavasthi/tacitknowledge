@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="28305"/>
+<node id="548124"/>
+<node id="32149"/>
+<node id="347921"/>
+<node id="36795"/>
+<node id="428125"/>
+<node id="17436"/>
+<node id="1272240"/>
+<node id="7360"/>
+<node id="519976"/>
+<node id="520104"/>
+<node id="2108482"/>
+<node id="511297"/>
+<node id="750244"/>
+<node id="17609"/>
+<node id="510320"/>
+<node id="2107785"/>
+<node id="23754"/>
+<node id="819912"/>
+<node id="1683062"/>
+<edge id="548124-17436-ont.events" source="548124" target="17436">
+	<data key="topic">ont.events</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="548124-750244-ont.events" source="548124" target="750244">
+	<data key="topic">ont.events</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="32149-519976-ont.events" source="32149" target="519976">
+	<data key="topic">ont.events</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="32149-520104-ont.events" source="32149" target="520104">
+	<data key="topic">ont.events</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347921-519976-ont.events" source="347921" target="519976">
+	<data key="topic">ont.events</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347921-520104-ont.events" source="347921" target="520104">
+	<data key="topic">ont.events</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36795-519976-ont.events" source="36795" target="519976">
+	<data key="topic">ont.events</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36795-520104-ont.events" source="36795" target="520104">
+	<data key="topic">ont.events</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36795-17609-ont.events" source="36795" target="17609">
+	<data key="topic">ont.events</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36795-510320-ont.events" source="36795" target="510320">
+	<data key="topic">ont.events</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="428125-511297-ont.events" source="428125" target="511297">
+	<data key="topic">ont.events</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17436-7360-ont.events" source="17436" target="7360">
+	<data key="topic">ont.events</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17436-750244-ont.events" source="17436" target="750244">
+	<data key="topic">ont.events</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1272240-17436-ont.events" source="1272240" target="17436">
+	<data key="topic">ont.events</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1272240-750244-ont.events" source="1272240" target="750244">
+	<data key="topic">ont.events</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7360-17436-ont.events" source="7360" target="17436">
+	<data key="topic">ont.events</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="7360-1272240-ont.events" source="7360" target="1272240">
+	<data key="topic">ont.events</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7360-750244-ont.events" source="7360" target="750244">
+	<data key="topic">ont.events</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="520104-519976-ont.events" source="520104" target="519976">
+	<data key="topic">ont.events</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2108482-819912-ont.events" source="2108482" target="819912">
+	<data key="topic">ont.events</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="750244-17436-ont.events" source="750244" target="17436">
+	<data key="topic">ont.events</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17609-519976-ont.events" source="17609" target="519976">
+	<data key="topic">ont.events</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17609-520104-ont.events" source="17609" target="520104">
+	<data key="topic">ont.events</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17609-510320-ont.events" source="17609" target="510320">
+	<data key="topic">ont.events</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510320-519976-ont.events" source="510320" target="519976">
+	<data key="topic">ont.events</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510320-520104-ont.events" source="510320" target="520104">
+	<data key="topic">ont.events</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2107785-28305-ont.events" source="2107785" target="28305">
+	<data key="topic">ont.events</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23754-17436-ont.events" source="23754" target="17436">
+	<data key="topic">ont.events</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1683062-819912-ont.events" source="1683062" target="819912">
+	<data key="topic">ont.events</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

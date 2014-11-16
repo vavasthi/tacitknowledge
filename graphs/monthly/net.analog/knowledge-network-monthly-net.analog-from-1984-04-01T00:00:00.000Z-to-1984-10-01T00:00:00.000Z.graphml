@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="337568"/>
+<node id="344144"/>
+<node id="466780"/>
+<node id="521835"/>
+<node id="341243"/>
+<edge id="337568-521835-net.analog" source="337568" target="521835">
+	<data key="topic">net.analog</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="344144-337568-net.analog" source="344144" target="337568">
+	<data key="topic">net.analog</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="466780-521835-net.analog" source="466780" target="521835">
+	<data key="topic">net.analog</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521835-337568-net.analog" source="521835" target="337568">
+	<data key="topic">net.analog</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521835-344144-net.analog" source="521835" target="344144">
+	<data key="topic">net.analog</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521835-341243-net.analog" source="521835" target="341243">
+	<data key="topic">net.analog</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341243-337568-net.analog" source="341243" target="337568">
+	<data key="topic">net.analog</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341243-344144-net.analog" source="341243" target="344144">
+	<data key="topic">net.analog</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

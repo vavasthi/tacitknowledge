@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1109969"/>
+<node id="439317"/>
+<node id="1109971"/>
+<node id="583197"/>
+<node id="958762"/>
+<node id="1807469"/>
+<node id="1110009"/>
+<node id="1676"/>
+<node id="362202"/>
+<node id="1110014"/>
+<node id="573079"/>
+<node id="388731"/>
+<edge id="1109969-439317-sci.environment" source="1109969" target="439317">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1109971-439317-sci.environment" source="1109971" target="439317">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1109971-583197-sci.environment" source="1109971" target="583197">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="583197-439317-sci.environment" source="583197" target="439317">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="958762-388731-sci.environment" source="958762" target="388731">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1807469-573079-sci.environment" source="1807469" target="573079">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1110009-439317-sci.environment" source="1110009" target="439317">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1676-1109969-sci.environment" source="1676" target="1109969">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1676-439317-sci.environment" source="1676" target="439317">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362202-439317-sci.environment" source="362202" target="439317">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362202-1109971-sci.environment" source="362202" target="1109971">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362202-583197-sci.environment" source="362202" target="583197">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1110014-439317-sci.environment" source="1110014" target="439317">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1110014-583197-sci.environment" source="1110014" target="583197">
+	<data key="topic">sci.environment</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

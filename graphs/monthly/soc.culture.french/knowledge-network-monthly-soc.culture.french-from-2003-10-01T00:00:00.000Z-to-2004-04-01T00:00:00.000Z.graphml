@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="37042"/>
+<node id="331989"/>
+<node id="141975"/>
+<node id="41769"/>
+<node id="88106"/>
+<node id="38490"/>
+<node id="192729"/>
+<node id="141519"/>
+<node id="39789"/>
+<node id="147231"/>
+<node id="133616"/>
+<node id="332409"/>
+<edge id="331989-38490-soc.culture.french" source="331989" target="38490">
+	<data key="topic">soc.culture.french</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="331989-192729-soc.culture.french" source="331989" target="192729">
+	<data key="topic">soc.culture.french</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="331989-147231-soc.culture.french" source="331989" target="147231">
+	<data key="topic">soc.culture.french</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="331989-332409-soc.culture.french" source="331989" target="332409">
+	<data key="topic">soc.culture.french</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="141975-41769-soc.culture.french" source="141975" target="41769">
+	<data key="topic">soc.culture.french</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="141975-88106-soc.culture.french" source="141975" target="88106">
+	<data key="topic">soc.culture.french</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="141975-141519-soc.culture.french" source="141975" target="141519">
+	<data key="topic">soc.culture.french</data>
+	<data key="weight">6</data>
+</edge>
+<edge id="141975-39789-soc.culture.french" source="141975" target="39789">
+	<data key="topic">soc.culture.french</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="141975-133616-soc.culture.french" source="141975" target="133616">
+	<data key="topic">soc.culture.french</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="141519-37042-soc.culture.french" source="141519" target="37042">
+	<data key="topic">soc.culture.french</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="141519-141975-soc.culture.french" source="141519" target="141975">
+	<data key="topic">soc.culture.french</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="141519-41769-soc.culture.french" source="141519" target="41769">
+	<data key="topic">soc.culture.french</data>
+	<data key="weight">11</data>
+</edge>
+<edge id="141519-88106-soc.culture.french" source="141519" target="88106">
+	<data key="topic">soc.culture.french</data>
+	<data key="weight">6</data>
+</edge>
+<edge id="141519-39789-soc.culture.french" source="141519" target="39789">
+	<data key="topic">soc.culture.french</data>
+	<data key="weight">6</data>
+</edge>
+<edge id="141519-133616-soc.culture.french" source="141519" target="133616">
+	<data key="topic">soc.culture.french</data>
+	<data key="weight">17</data>
+</edge>
+<edge id="147231-38490-soc.culture.french" source="147231" target="38490">
+	<data key="topic">soc.culture.french</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="147231-192729-soc.culture.french" source="147231" target="192729">
+	<data key="topic">soc.culture.french</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="147231-332409-soc.culture.french" source="147231" target="332409">
+	<data key="topic">soc.culture.french</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="332409-38490-soc.culture.french" source="332409" target="38490">
+	<data key="topic">soc.culture.french</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="332409-192729-soc.culture.french" source="332409" target="192729">
+	<data key="topic">soc.culture.french</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

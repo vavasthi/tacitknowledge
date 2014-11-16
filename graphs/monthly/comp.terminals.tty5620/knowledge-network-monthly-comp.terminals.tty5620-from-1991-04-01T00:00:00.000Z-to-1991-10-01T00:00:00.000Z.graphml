@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1820249"/>
+<node id="4180"/>
+<node id="820617"/>
+<node id="4634"/>
+<node id="4363"/>
+<node id="349056"/>
+<node id="371904"/>
+<node id="400985"/>
+<edge id="4634-4363-comp.terminals.tty5620" source="4634" target="4363">
+	<data key="topic">comp.terminals.tty5620</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="349056-1820249-comp.terminals.tty5620" source="349056" target="1820249">
+	<data key="topic">comp.terminals.tty5620</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="371904-4180-comp.terminals.tty5620" source="371904" target="4180">
+	<data key="topic">comp.terminals.tty5620</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="371904-820617-comp.terminals.tty5620" source="371904" target="820617">
+	<data key="topic">comp.terminals.tty5620</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="400985-1820249-comp.terminals.tty5620" source="400985" target="1820249">
+	<data key="topic">comp.terminals.tty5620</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

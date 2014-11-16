@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="16081"/>
+<node id="17050"/>
+<node id="722387"/>
+<node id="16091"/>
+<node id="730798"/>
+<node id="469167"/>
+<node id="722850"/>
+<node id="701474"/>
+<node id="2740378"/>
+<node id="442040"/>
+<node id="16184"/>
+<node id="16186"/>
+<node id="16314"/>
+<node id="17341"/>
+<node id="30718"/>
+<node id="449596"/>
+<node id="16063"/>
+<node id="448378"/>
+<node id="658806"/>
+<node id="395015"/>
+<node id="28417"/>
+<node id="19783"/>
+<node id="593807"/>
+<node id="17100"/>
+<node id="15952"/>
+<node id="397642"/>
+<edge id="722387-701474-comp.mail.elm" source="722387" target="701474">
+	<data key="topic">comp.mail.elm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="722387-17341-comp.mail.elm" source="722387" target="17341">
+	<data key="topic">comp.mail.elm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="730798-442040-comp.mail.elm" source="730798" target="442040">
+	<data key="topic">comp.mail.elm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="469167-17050-comp.mail.elm" source="469167" target="17050">
+	<data key="topic">comp.mail.elm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="469167-442040-comp.mail.elm" source="469167" target="442040">
+	<data key="topic">comp.mail.elm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="469167-16186-comp.mail.elm" source="469167" target="16186">
+	<data key="topic">comp.mail.elm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="722850-16314-comp.mail.elm" source="722850" target="16314">
+	<data key="topic">comp.mail.elm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="442040-16091-comp.mail.elm" source="442040" target="16091">
+	<data key="topic">comp.mail.elm</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="442040-701474-comp.mail.elm" source="442040" target="701474">
+	<data key="topic">comp.mail.elm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="442040-2740378-comp.mail.elm" source="442040" target="2740378">
+	<data key="topic">comp.mail.elm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16184-701474-comp.mail.elm" source="16184" target="701474">
+	<data key="topic">comp.mail.elm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17341-701474-comp.mail.elm" source="17341" target="701474">
+	<data key="topic">comp.mail.elm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30718-16091-comp.mail.elm" source="30718" target="16091">
+	<data key="topic">comp.mail.elm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="449596-701474-comp.mail.elm" source="449596" target="701474">
+	<data key="topic">comp.mail.elm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="449596-16184-comp.mail.elm" source="449596" target="16184">
+	<data key="topic">comp.mail.elm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="448378-16184-comp.mail.elm" source="448378" target="16184">
+	<data key="topic">comp.mail.elm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="448378-16063-comp.mail.elm" source="448378" target="16063">
+	<data key="topic">comp.mail.elm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="658806-28417-comp.mail.elm" source="658806" target="28417">
+	<data key="topic">comp.mail.elm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19783-16091-comp.mail.elm" source="19783" target="16091">
+	<data key="topic">comp.mail.elm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="593807-448378-comp.mail.elm" source="593807" target="448378">
+	<data key="topic">comp.mail.elm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17100-16091-comp.mail.elm" source="17100" target="16091">
+	<data key="topic">comp.mail.elm</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="17100-28417-comp.mail.elm" source="17100" target="28417">
+	<data key="topic">comp.mail.elm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15952-395015-comp.mail.elm" source="15952" target="395015">
+	<data key="topic">comp.mail.elm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="397642-16081-comp.mail.elm" source="397642" target="16081">
+	<data key="topic">comp.mail.elm</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="841310"/>
+<node id="514230"/>
+<node id="1168325"/>
+<node id="559711"/>
+<node id="697683"/>
+<node id="28889"/>
+<node id="852408"/>
+<node id="423417"/>
+<node id="350726"/>
+<node id="1614458"/>
+<node id="983724"/>
+<node id="1959"/>
+<node id="2149384"/>
+<node id="865639"/>
+<node id="417258"/>
+<edge id="1168325-514230-comp.infosystems" source="1168325" target="514230">
+	<data key="topic">comp.infosystems</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1168325-2149384-comp.infosystems" source="1168325" target="2149384">
+	<data key="topic">comp.infosystems</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="697683-559711-comp.infosystems" source="697683" target="559711">
+	<data key="topic">comp.infosystems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="697683-852408-comp.infosystems" source="697683" target="852408">
+	<data key="topic">comp.infosystems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="697683-423417-comp.infosystems" source="697683" target="423417">
+	<data key="topic">comp.infosystems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="697683-983724-comp.infosystems" source="697683" target="983724">
+	<data key="topic">comp.infosystems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="697683-1959-comp.infosystems" source="697683" target="1959">
+	<data key="topic">comp.infosystems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="697683-417258-comp.infosystems" source="697683" target="417258">
+	<data key="topic">comp.infosystems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28889-697683-comp.infosystems" source="28889" target="697683">
+	<data key="topic">comp.infosystems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28889-1959-comp.infosystems" source="28889" target="1959">
+	<data key="topic">comp.infosystems</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="28889-865639-comp.infosystems" source="28889" target="865639">
+	<data key="topic">comp.infosystems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28889-417258-comp.infosystems" source="28889" target="417258">
+	<data key="topic">comp.infosystems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="852408-697683-comp.infosystems" source="852408" target="697683">
+	<data key="topic">comp.infosystems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350726-1614458-comp.infosystems" source="350726" target="1614458">
+	<data key="topic">comp.infosystems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1959-697683-comp.infosystems" source="1959" target="697683">
+	<data key="topic">comp.infosystems</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2149384-514230-comp.infosystems" source="2149384" target="514230">
+	<data key="topic">comp.infosystems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2149384-1168325-comp.infosystems" source="2149384" target="1168325">
+	<data key="topic">comp.infosystems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="865639-697683-comp.infosystems" source="865639" target="697683">
+	<data key="topic">comp.infosystems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="865639-1959-comp.infosystems" source="865639" target="1959">
+	<data key="topic">comp.infosystems</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="417258-697683-comp.infosystems" source="417258" target="697683">
+	<data key="topic">comp.infosystems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="417258-1959-comp.infosystems" source="417258" target="1959">
+	<data key="topic">comp.infosystems</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="417258-865639-comp.infosystems" source="417258" target="865639">
+	<data key="topic">comp.infosystems</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

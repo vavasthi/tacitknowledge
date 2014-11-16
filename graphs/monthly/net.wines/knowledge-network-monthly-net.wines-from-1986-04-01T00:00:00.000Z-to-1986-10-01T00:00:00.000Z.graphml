@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1774060"/>
+<node id="1510245"/>
+<node id="470163"/>
+<node id="21176"/>
+<node id="1510273"/>
+<node id="390430"/>
+<node id="24028"/>
+<node id="447227"/>
+<node id="1122448"/>
+<node id="1506839"/>
+<node id="1510261"/>
+<node id="339233"/>
+<node id="491585"/>
+<node id="1129271"/>
+<node id="486672"/>
+<node id="922600"/>
+<node id="395370"/>
+<edge id="1510245-24028-net.wines" source="1510245" target="24028">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1510245-1510261-net.wines" source="1510245" target="1510261">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="21176-1774060-net.wines" source="21176" target="1774060">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1510273-1506839-net.wines" source="1510273" target="1506839">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1510273-922600-net.wines" source="1510273" target="922600">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390430-1510261-net.wines" source="390430" target="1510261">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24028-1510261-net.wines" source="24028" target="1510261">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="447227-24028-net.wines" source="447227" target="24028">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="447227-1510261-net.wines" source="447227" target="1510261">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1122448-1774060-net.wines" source="1122448" target="1774060">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339233-470163-net.wines" source="339233" target="470163">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="491585-1510245-net.wines" source="491585" target="1510245">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="491585-24028-net.wines" source="491585" target="24028">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="491585-1510261-net.wines" source="491585" target="1510261">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1129271-1774060-net.wines" source="1129271" target="1774060">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="486672-390430-net.wines" source="486672" target="390430">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="486672-1510261-net.wines" source="486672" target="1510261">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="922600-1506839-net.wines" source="922600" target="1506839">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="395370-1774060-net.wines" source="395370" target="1774060">
+	<data key="topic">net.wines</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

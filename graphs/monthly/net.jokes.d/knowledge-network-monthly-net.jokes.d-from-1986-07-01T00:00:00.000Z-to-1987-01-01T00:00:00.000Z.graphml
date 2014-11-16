@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="925691"/>
+<node id="668511"/>
+<node id="1132457"/>
+<node id="587446"/>
+<node id="919314"/>
+<node id="925615"/>
+<node id="1132434"/>
+<node id="399941"/>
+<node id="447974"/>
+<node id="473925"/>
+<node id="488272"/>
+<node id="14922"/>
+<node id="1122553"/>
+<node id="341965"/>
+<node id="596804"/>
+<node id="393742"/>
+<node id="1123163"/>
+<node id="508843"/>
+<edge id="925691-919314-net.jokes.d" source="925691" target="919314">
+	<data key="topic">net.jokes.d</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="925691-1132434-net.jokes.d" source="925691" target="1132434">
+	<data key="topic">net.jokes.d</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="925691-596804-net.jokes.d" source="925691" target="596804">
+	<data key="topic">net.jokes.d</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="925691-508843-net.jokes.d" source="925691" target="508843">
+	<data key="topic">net.jokes.d</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1132457-508843-net.jokes.d" source="1132457" target="508843">
+	<data key="topic">net.jokes.d</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919314-508843-net.jokes.d" source="919314" target="508843">
+	<data key="topic">net.jokes.d</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="925615-447974-net.jokes.d" source="925615" target="447974">
+	<data key="topic">net.jokes.d</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="925615-14922-net.jokes.d" source="925615" target="14922">
+	<data key="topic">net.jokes.d</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="925615-393742-net.jokes.d" source="925615" target="393742">
+	<data key="topic">net.jokes.d</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="399941-925691-net.jokes.d" source="399941" target="925691">
+	<data key="topic">net.jokes.d</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="399941-919314-net.jokes.d" source="399941" target="919314">
+	<data key="topic">net.jokes.d</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="399941-508843-net.jokes.d" source="399941" target="508843">
+	<data key="topic">net.jokes.d</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="488272-587446-net.jokes.d" source="488272" target="587446">
+	<data key="topic">net.jokes.d</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1122553-668511-net.jokes.d" source="1122553" target="668511">
+	<data key="topic">net.jokes.d</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1122553-473925-net.jokes.d" source="1122553" target="473925">
+	<data key="topic">net.jokes.d</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1122553-341965-net.jokes.d" source="1122553" target="341965">
+	<data key="topic">net.jokes.d</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1122553-1123163-net.jokes.d" source="1122553" target="1123163">
+	<data key="topic">net.jokes.d</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="596804-919314-net.jokes.d" source="596804" target="919314">
+	<data key="topic">net.jokes.d</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="596804-508843-net.jokes.d" source="596804" target="508843">
+	<data key="topic">net.jokes.d</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

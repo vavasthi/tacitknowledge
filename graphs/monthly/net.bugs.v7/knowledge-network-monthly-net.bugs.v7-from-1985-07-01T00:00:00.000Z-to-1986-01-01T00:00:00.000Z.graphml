@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="338134"/>
+<node id="1336711"/>
+<node id="497686"/>
+<node id="337367"/>
+<node id="467124"/>
+<node id="475571"/>
+<node id="466386"/>
+<node id="344831"/>
+<node id="342879"/>
+<node id="390297"/>
+<node id="341320"/>
+<node id="485670"/>
+<node id="490021"/>
+<node id="344519"/>
+<node id="16106"/>
+<node id="344144"/>
+<node id="493325"/>
+<node id="464588"/>
+<node id="29006"/>
+<node id="467114"/>
+<edge id="338134-344831-net.bugs.v7" source="338134" target="344831">
+	<data key="topic">net.bugs.v7</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337367-344831-net.bugs.v7" source="337367" target="344831">
+	<data key="topic">net.bugs.v7</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="467124-341320-net.bugs.v7" source="467124" target="341320">
+	<data key="topic">net.bugs.v7</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="475571-344519-net.bugs.v7" source="475571" target="344519">
+	<data key="topic">net.bugs.v7</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="466386-1336711-net.bugs.v7" source="466386" target="1336711">
+	<data key="topic">net.bugs.v7</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="466386-497686-net.bugs.v7" source="466386" target="497686">
+	<data key="topic">net.bugs.v7</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="342879-341320-net.bugs.v7" source="342879" target="341320">
+	<data key="topic">net.bugs.v7</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390297-493325-net.bugs.v7" source="390297" target="493325">
+	<data key="topic">net.bugs.v7</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="485670-475571-net.bugs.v7" source="485670" target="475571">
+	<data key="topic">net.bugs.v7</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="485670-344519-net.bugs.v7" source="485670" target="344519">
+	<data key="topic">net.bugs.v7</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="485670-464588-net.bugs.v7" source="485670" target="464588">
+	<data key="topic">net.bugs.v7</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="490021-493325-net.bugs.v7" source="490021" target="493325">
+	<data key="topic">net.bugs.v7</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16106-341320-net.bugs.v7" source="16106" target="341320">
+	<data key="topic">net.bugs.v7</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="344144-475571-net.bugs.v7" source="344144" target="475571">
+	<data key="topic">net.bugs.v7</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="344144-344519-net.bugs.v7" source="344144" target="344519">
+	<data key="topic">net.bugs.v7</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="344144-464588-net.bugs.v7" source="344144" target="464588">
+	<data key="topic">net.bugs.v7</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="464588-475571-net.bugs.v7" source="464588" target="475571">
+	<data key="topic">net.bugs.v7</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="464588-344519-net.bugs.v7" source="464588" target="344519">
+	<data key="topic">net.bugs.v7</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-490021-net.bugs.v7" source="29006" target="490021">
+	<data key="topic">net.bugs.v7</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="29006-493325-net.bugs.v7" source="29006" target="493325">
+	<data key="topic">net.bugs.v7</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="467114-341320-net.bugs.v7" source="467114" target="341320">
+	<data key="topic">net.bugs.v7</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

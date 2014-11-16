@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="12547"/>
+<node id="3588"/>
+<node id="7061"/>
+<node id="425778"/>
+<node id="425759"/>
+<node id="583298"/>
+<node id="2288"/>
+<edge id="12547-583298-rec.radio.cb" source="12547" target="583298">
+	<data key="topic">rec.radio.cb</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3588-583298-rec.radio.cb" source="3588" target="583298">
+	<data key="topic">rec.radio.cb</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3588-2288-rec.radio.cb" source="3588" target="2288">
+	<data key="topic">rec.radio.cb</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7061-583298-rec.radio.cb" source="7061" target="583298">
+	<data key="topic">rec.radio.cb</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7061-2288-rec.radio.cb" source="7061" target="2288">
+	<data key="topic">rec.radio.cb</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="425778-583298-rec.radio.cb" source="425778" target="583298">
+	<data key="topic">rec.radio.cb</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="425778-2288-rec.radio.cb" source="425778" target="2288">
+	<data key="topic">rec.radio.cb</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="425759-3588-rec.radio.cb" source="425759" target="3588">
+	<data key="topic">rec.radio.cb</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="425759-583298-rec.radio.cb" source="425759" target="583298">
+	<data key="topic">rec.radio.cb</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="425759-2288-rec.radio.cb" source="425759" target="2288">
+	<data key="topic">rec.radio.cb</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2288-7061-rec.radio.cb" source="2288" target="7061">
+	<data key="topic">rec.radio.cb</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2288-583298-rec.radio.cb" source="2288" target="583298">
+	<data key="topic">rec.radio.cb</data>
+	<data key="weight">2</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="17011"/>
+<node id="16999"/>
+<node id="17113"/>
+<node id="17024"/>
+<node id="17040"/>
+<edge id="16999-17011-rec.games.chess" source="16999" target="17011">
+	<data key="topic">rec.games.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17113-17011-rec.games.chess" source="17113" target="17011">
+	<data key="topic">rec.games.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17113-16999-rec.games.chess" source="17113" target="16999">
+	<data key="topic">rec.games.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17024-17011-rec.games.chess" source="17024" target="17011">
+	<data key="topic">rec.games.chess</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="17024-16999-rec.games.chess" source="17024" target="16999">
+	<data key="topic">rec.games.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17024-17113-rec.games.chess" source="17024" target="17113">
+	<data key="topic">rec.games.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17040-17011-rec.games.chess" source="17040" target="17011">
+	<data key="topic">rec.games.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17040-16999-rec.games.chess" source="17040" target="16999">
+	<data key="topic">rec.games.chess</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

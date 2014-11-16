@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1148131"/>
+<node id="1289063"/>
+<node id="1289062"/>
+<node id="348320"/>
+<node id="388959"/>
+<node id="671"/>
+<node id="375964"/>
+<node id="224"/>
+<node id="11616"/>
+<node id="738538"/>
+<node id="1028779"/>
+<node id="948521"/>
+<node id="400738"/>
+<node id="1148119"/>
+<node id="572131"/>
+<node id="831271"/>
+<node id="445097"/>
+<node id="2062418"/>
+<node id="347889"/>
+<node id="935608"/>
+<node id="885751"/>
+<node id="1743558"/>
+<node id="2049"/>
+<node id="400784"/>
+<node id="368650"/>
+<node id="831236"/>
+<edge id="1289063-1289062-bionet.neuroscience" source="1289063" target="1289062">
+	<data key="topic">bionet.neuroscience</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1289063-400738-bionet.neuroscience" source="1289063" target="400738">
+	<data key="topic">bionet.neuroscience</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1289063-1743558-bionet.neuroscience" source="1289063" target="1743558">
+	<data key="topic">bionet.neuroscience</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348320-948521-bionet.neuroscience" source="348320" target="948521">
+	<data key="topic">bionet.neuroscience</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="388959-400738-bionet.neuroscience" source="388959" target="400738">
+	<data key="topic">bionet.neuroscience</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="388959-935608-bionet.neuroscience" source="388959" target="935608">
+	<data key="topic">bionet.neuroscience</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="388959-1743558-bionet.neuroscience" source="388959" target="1743558">
+	<data key="topic">bionet.neuroscience</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="671-1148131-bionet.neuroscience" source="671" target="1148131">
+	<data key="topic">bionet.neuroscience</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="671-224-bionet.neuroscience" source="671" target="224">
+	<data key="topic">bionet.neuroscience</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="224-1148131-bionet.neuroscience" source="224" target="1148131">
+	<data key="topic">bionet.neuroscience</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="224-445097-bionet.neuroscience" source="224" target="445097">
+	<data key="topic">bionet.neuroscience</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11616-400738-bionet.neuroscience" source="11616" target="400738">
+	<data key="topic">bionet.neuroscience</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="738538-1148131-bionet.neuroscience" source="738538" target="1148131">
+	<data key="topic">bionet.neuroscience</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="738538-2049-bionet.neuroscience" source="738538" target="2049">
+	<data key="topic">bionet.neuroscience</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="738538-368650-bionet.neuroscience" source="738538" target="368650">
+	<data key="topic">bionet.neuroscience</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1148119-1148131-bionet.neuroscience" source="1148119" target="1148131">
+	<data key="topic">bionet.neuroscience</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1148119-738538-bionet.neuroscience" source="1148119" target="738538">
+	<data key="topic">bionet.neuroscience</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1148119-2049-bionet.neuroscience" source="1148119" target="2049">
+	<data key="topic">bionet.neuroscience</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1148119-368650-bionet.neuroscience" source="1148119" target="368650">
+	<data key="topic">bionet.neuroscience</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="572131-1289063-bionet.neuroscience" source="572131" target="1289063">
+	<data key="topic">bionet.neuroscience</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="572131-1289062-bionet.neuroscience" source="572131" target="1289062">
+	<data key="topic">bionet.neuroscience</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="831271-388959-bionet.neuroscience" source="831271" target="388959">
+	<data key="topic">bionet.neuroscience</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="831271-935608-bionet.neuroscience" source="831271" target="935608">
+	<data key="topic">bionet.neuroscience</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="831271-1743558-bionet.neuroscience" source="831271" target="1743558">
+	<data key="topic">bionet.neuroscience</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347889-2062418-bionet.neuroscience" source="347889" target="2062418">
+	<data key="topic">bionet.neuroscience</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="935608-400738-bionet.neuroscience" source="935608" target="400738">
+	<data key="topic">bionet.neuroscience</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="935608-1743558-bionet.neuroscience" source="935608" target="1743558">
+	<data key="topic">bionet.neuroscience</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="885751-1289062-bionet.neuroscience" source="885751" target="1289062">
+	<data key="topic">bionet.neuroscience</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1743558-400738-bionet.neuroscience" source="1743558" target="400738">
+	<data key="topic">bionet.neuroscience</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2049-1148131-bionet.neuroscience" source="2049" target="1148131">
+	<data key="topic">bionet.neuroscience</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="400784-375964-bionet.neuroscience" source="400784" target="375964">
+	<data key="topic">bionet.neuroscience</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="368650-1148131-bionet.neuroscience" source="368650" target="1148131">
+	<data key="topic">bionet.neuroscience</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="368650-2049-bionet.neuroscience" source="368650" target="2049">
+	<data key="topic">bionet.neuroscience</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="831236-388959-bionet.neuroscience" source="831236" target="388959">
+	<data key="topic">bionet.neuroscience</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="831236-375964-bionet.neuroscience" source="831236" target="375964">
+	<data key="topic">bionet.neuroscience</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="831236-935608-bionet.neuroscience" source="831236" target="935608">
+	<data key="topic">bionet.neuroscience</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="831236-1743558-bionet.neuroscience" source="831236" target="1743558">
+	<data key="topic">bionet.neuroscience</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="831236-400784-bionet.neuroscience" source="831236" target="400784">
+	<data key="topic">bionet.neuroscience</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

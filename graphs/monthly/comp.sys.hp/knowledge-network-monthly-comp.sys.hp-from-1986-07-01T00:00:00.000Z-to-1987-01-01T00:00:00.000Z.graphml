@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="19570"/>
+<node id="432120"/>
+<node id="15667"/>
+<node id="17044"/>
+<node id="931774"/>
+<node id="921899"/>
+<node id="398692"/>
+<node id="19718"/>
+<node id="922793"/>
+<node id="930762"/>
+<node id="624706"/>
+<node id="389913"/>
+<edge id="19570-398692-comp.sys.hp" source="19570" target="398692">
+	<data key="topic">comp.sys.hp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15667-921899-comp.sys.hp" source="15667" target="921899">
+	<data key="topic">comp.sys.hp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15667-922793-comp.sys.hp" source="15667" target="922793">
+	<data key="topic">comp.sys.hp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17044-398692-comp.sys.hp" source="17044" target="398692">
+	<data key="topic">comp.sys.hp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="931774-432120-comp.sys.hp" source="931774" target="432120">
+	<data key="topic">comp.sys.hp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19718-17044-comp.sys.hp" source="19718" target="17044">
+	<data key="topic">comp.sys.hp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19718-398692-comp.sys.hp" source="19718" target="398692">
+	<data key="topic">comp.sys.hp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19718-624706-comp.sys.hp" source="19718" target="624706">
+	<data key="topic">comp.sys.hp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19718-389913-comp.sys.hp" source="19718" target="389913">
+	<data key="topic">comp.sys.hp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="922793-921899-comp.sys.hp" source="922793" target="921899">
+	<data key="topic">comp.sys.hp</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="930762-17044-comp.sys.hp" source="930762" target="17044">
+	<data key="topic">comp.sys.hp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="930762-398692-comp.sys.hp" source="930762" target="398692">
+	<data key="topic">comp.sys.hp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="930762-389913-comp.sys.hp" source="930762" target="389913">
+	<data key="topic">comp.sys.hp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="624706-17044-comp.sys.hp" source="624706" target="17044">
+	<data key="topic">comp.sys.hp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="624706-398692-comp.sys.hp" source="624706" target="398692">
+	<data key="topic">comp.sys.hp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="624706-389913-comp.sys.hp" source="624706" target="389913">
+	<data key="topic">comp.sys.hp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="389913-17044-comp.sys.hp" source="389913" target="17044">
+	<data key="topic">comp.sys.hp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="389913-398692-comp.sys.hp" source="389913" target="398692">
+	<data key="topic">comp.sys.hp</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="428708"/>
+<node id="24905"/>
+<node id="16106"/>
+<node id="15595"/>
+<node id="26059"/>
+<node id="17436"/>
+<node id="17805"/>
+<node id="599302"/>
+<edge id="428708-599302-ont.general" source="428708" target="599302">
+	<data key="topic">ont.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24905-16106-ont.general" source="24905" target="16106">
+	<data key="topic">ont.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24905-26059-ont.general" source="24905" target="26059">
+	<data key="topic">ont.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15595-17436-ont.general" source="15595" target="17436">
+	<data key="topic">ont.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15595-17805-ont.general" source="15595" target="17805">
+	<data key="topic">ont.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="26059-16106-ont.general" source="26059" target="16106">
+	<data key="topic">ont.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17805-17436-ont.general" source="17805" target="17436">
+	<data key="topic">ont.general</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

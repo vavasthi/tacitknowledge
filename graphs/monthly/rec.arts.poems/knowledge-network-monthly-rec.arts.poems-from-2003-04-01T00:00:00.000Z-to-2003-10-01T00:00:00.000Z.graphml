@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="148659"/>
+<node id="139441"/>
+<node id="89315"/>
+<node id="131671"/>
+<node id="134183"/>
+<node id="135541"/>
+<node id="37019"/>
+<node id="37227"/>
+<node id="138329"/>
+<node id="43484"/>
+<node id="152126"/>
+<edge id="139441-138329-rec.arts.poems" source="139441" target="138329">
+	<data key="topic">rec.arts.poems</data>
+	<data key="weight">8</data>
+</edge>
+<edge id="89315-131671-rec.arts.poems" source="89315" target="131671">
+	<data key="topic">rec.arts.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="131671-135541-rec.arts.poems" source="131671" target="135541">
+	<data key="topic">rec.arts.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="131671-43484-rec.arts.poems" source="131671" target="43484">
+	<data key="topic">rec.arts.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="134183-148659-rec.arts.poems" source="134183" target="148659">
+	<data key="topic">rec.arts.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="135541-131671-rec.arts.poems" source="135541" target="131671">
+	<data key="topic">rec.arts.poems</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="37019-152126-rec.arts.poems" source="37019" target="152126">
+	<data key="topic">rec.arts.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37227-131671-rec.arts.poems" source="37227" target="131671">
+	<data key="topic">rec.arts.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="138329-148659-rec.arts.poems" source="138329" target="148659">
+	<data key="topic">rec.arts.poems</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="138329-131671-rec.arts.poems" source="138329" target="131671">
+	<data key="topic">rec.arts.poems</data>
+	<data key="weight">3</data>
+</edge>
+</graph>
+</graphml>

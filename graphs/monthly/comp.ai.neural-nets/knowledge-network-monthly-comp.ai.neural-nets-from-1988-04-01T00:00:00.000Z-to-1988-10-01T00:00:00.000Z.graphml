@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="426261"/>
+<node id="510614"/>
+<node id="498390"/>
+<node id="430483"/>
+<node id="426260"/>
+<node id="498449"/>
+<node id="29977"/>
+<node id="666963"/>
+<node id="508447"/>
+<node id="30042"/>
+<node id="441629"/>
+<node id="429469"/>
+<node id="485275"/>
+<node id="426265"/>
+<node id="498457"/>
+<node id="28772"/>
+<node id="426211"/>
+<node id="348333"/>
+<node id="28394"/>
+<node id="1540575"/>
+<node id="426222"/>
+<node id="583844"/>
+<node id="957350"/>
+<node id="28398"/>
+<node id="1540570"/>
+<node id="2579928"/>
+<node id="498420"/>
+<node id="509428"/>
+<node id="657920"/>
+<node id="426239"/>
+<node id="15419"/>
+<node id="1311759"/>
+<node id="2579933"/>
+<node id="585013"/>
+<node id="2026052"/>
+<node id="426233"/>
+<node id="502522"/>
+<node id="1197747"/>
+<node id="498436"/>
+<node id="21191"/>
+<node id="2026039"/>
+<node id="2579951"/>
+<node id="446795"/>
+<node id="509386"/>
+<edge id="426261-426233-comp.ai.neural-nets" source="426261" target="426233">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510614-28772-comp.ai.neural-nets" source="510614" target="28772">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510614-28394-comp.ai.neural-nets" source="510614" target="28394">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="498390-29977-comp.ai.neural-nets" source="498390" target="29977">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="498390-426265-comp.ai.neural-nets" source="498390" target="426265">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="430483-510614-comp.ai.neural-nets" source="430483" target="510614">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="430483-28772-comp.ai.neural-nets" source="430483" target="28772">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="430483-28394-comp.ai.neural-nets" source="430483" target="28394">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="430483-657920-comp.ai.neural-nets" source="430483" target="657920">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29977-426265-comp.ai.neural-nets" source="29977" target="426265">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="666963-508447-comp.ai.neural-nets" source="666963" target="508447">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="666963-657920-comp.ai.neural-nets" source="666963" target="657920">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="666963-1197747-comp.ai.neural-nets" source="666963" target="1197747">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="508447-657920-comp.ai.neural-nets" source="508447" target="657920">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="508447-502522-comp.ai.neural-nets" source="508447" target="502522">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="441629-498457-comp.ai.neural-nets" source="441629" target="498457">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="485275-509386-comp.ai.neural-nets" source="485275" target="509386">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="498457-426260-comp.ai.neural-nets" source="498457" target="426260">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="498457-498436-comp.ai.neural-nets" source="498457" target="498436">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="426211-426265-comp.ai.neural-nets" source="426211" target="426265">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="348333-426260-comp.ai.neural-nets" source="348333" target="426260">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348333-498449-comp.ai.neural-nets" source="348333" target="498449">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348333-498457-comp.ai.neural-nets" source="348333" target="498457">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348333-498420-comp.ai.neural-nets" source="348333" target="498420">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348333-498436-comp.ai.neural-nets" source="348333" target="498436">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="426222-585013-comp.ai.neural-nets" source="426222" target="585013">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="426222-2026052-comp.ai.neural-nets" source="426222" target="2026052">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28398-348333-comp.ai.neural-nets" source="28398" target="348333">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28398-498420-comp.ai.neural-nets" source="28398" target="498420">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1540570-1540575-comp.ai.neural-nets" source="1540570" target="1540575">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2579928-28772-comp.ai.neural-nets" source="2579928" target="28772">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2579928-583844-comp.ai.neural-nets" source="2579928" target="583844">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2579928-957350-comp.ai.neural-nets" source="2579928" target="957350">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2579928-585013-comp.ai.neural-nets" source="2579928" target="585013">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509428-30042-comp.ai.neural-nets" source="509428" target="30042">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15419-426265-comp.ai.neural-nets" source="15419" target="426265">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="15419-426239-comp.ai.neural-nets" source="15419" target="426239">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2579933-508447-comp.ai.neural-nets" source="2579933" target="508447">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2579933-657920-comp.ai.neural-nets" source="2579933" target="657920">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2579933-2579951-comp.ai.neural-nets" source="2579933" target="2579951">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="585013-28772-comp.ai.neural-nets" source="585013" target="28772">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="585013-583844-comp.ai.neural-nets" source="585013" target="583844">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="585013-957350-comp.ai.neural-nets" source="585013" target="957350">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2026052-585013-comp.ai.neural-nets" source="2026052" target="585013">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1197747-508447-comp.ai.neural-nets" source="1197747" target="508447">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1197747-657920-comp.ai.neural-nets" source="1197747" target="657920">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="498436-426260-comp.ai.neural-nets" source="498436" target="426260">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="21191-1311759-comp.ai.neural-nets" source="21191" target="1311759">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2026039-429469-comp.ai.neural-nets" source="2026039" target="429469">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2579951-508447-comp.ai.neural-nets" source="2579951" target="508447">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2579951-657920-comp.ai.neural-nets" source="2579951" target="657920">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="446795-426260-comp.ai.neural-nets" source="446795" target="426260">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="446795-441629-comp.ai.neural-nets" source="446795" target="441629">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="446795-498457-comp.ai.neural-nets" source="446795" target="498457">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="446795-1311759-comp.ai.neural-nets" source="446795" target="1311759">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="446795-498436-comp.ai.neural-nets" source="446795" target="498436">
+	<data key="topic">comp.ai.neural-nets</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

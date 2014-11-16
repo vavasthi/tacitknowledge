@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="719891"/>
+<node id="361150"/>
+<node id="699089"/>
+<node id="2812"/>
+<node id="719689"/>
+<node id="2245"/>
+<node id="10568"/>
+<node id="17609"/>
+<node id="12906"/>
+<node id="542690"/>
+<node id="709252"/>
+<node id="1867217"/>
+<node id="719909"/>
+<node id="1658424"/>
+<edge id="719891-719909-uw.unix" source="719891" target="719909">
+	<data key="topic">uw.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2812-719891-uw.unix" source="2812" target="719891">
+	<data key="topic">uw.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2812-719689-uw.unix" source="2812" target="719689">
+	<data key="topic">uw.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2812-719909-uw.unix" source="2812" target="719909">
+	<data key="topic">uw.unix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="719689-719891-uw.unix" source="719689" target="719891">
+	<data key="topic">uw.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="719689-12906-uw.unix" source="719689" target="12906">
+	<data key="topic">uw.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="719689-1867217-uw.unix" source="719689" target="1867217">
+	<data key="topic">uw.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="719689-719909-uw.unix" source="719689" target="719909">
+	<data key="topic">uw.unix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2245-10568-uw.unix" source="2245" target="10568">
+	<data key="topic">uw.unix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="10568-361150-uw.unix" source="10568" target="361150">
+	<data key="topic">uw.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10568-2245-uw.unix" source="10568" target="2245">
+	<data key="topic">uw.unix</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="17609-12906-uw.unix" source="17609" target="12906">
+	<data key="topic">uw.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17609-1867217-uw.unix" source="17609" target="1867217">
+	<data key="topic">uw.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12906-1867217-uw.unix" source="12906" target="1867217">
+	<data key="topic">uw.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="542690-719909-uw.unix" source="542690" target="719909">
+	<data key="topic">uw.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="709252-2245-uw.unix" source="709252" target="2245">
+	<data key="topic">uw.unix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1658424-699089-uw.unix" source="1658424" target="699089">
+	<data key="topic">uw.unix</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

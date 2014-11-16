@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2175889"/>
+<node id="2815132"/>
+<node id="234322"/>
+<node id="2183416"/>
+<node id="2187836"/>
+<node id="2176251"/>
+<node id="2815282"/>
+<node id="2801975"/>
+<node id="2808248"/>
+<node id="205023"/>
+<node id="2815893"/>
+<node id="2189153"/>
+<node id="205603"/>
+<node id="2815113"/>
+<node id="204769"/>
+<node id="2192067"/>
+<node id="2175782"/>
+<node id="43429"/>
+<node id="2191909"/>
+<node id="2808269"/>
+<node id="2188615"/>
+<node id="2207500"/>
+<edge id="2175889-2187836-comp.arch" source="2175889" target="2187836">
+	<data key="topic">comp.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2175889-205023-comp.arch" source="2175889" target="205023">
+	<data key="topic">comp.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2175889-2175782-comp.arch" source="2175889" target="2175782">
+	<data key="topic">comp.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2175889-43429-comp.arch" source="2175889" target="43429">
+	<data key="topic">comp.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2175889-2191909-comp.arch" source="2175889" target="2191909">
+	<data key="topic">comp.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2175889-2188615-comp.arch" source="2175889" target="2188615">
+	<data key="topic">comp.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="234322-2801975-comp.arch" source="234322" target="2801975">
+	<data key="topic">comp.arch</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="234322-2808248-comp.arch" source="234322" target="2808248">
+	<data key="topic">comp.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="234322-2189153-comp.arch" source="234322" target="2189153">
+	<data key="topic">comp.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="234322-2808269-comp.arch" source="234322" target="2808269">
+	<data key="topic">comp.arch</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="234322-2207500-comp.arch" source="234322" target="2207500">
+	<data key="topic">comp.arch</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2183416-2175782-comp.arch" source="2183416" target="2175782">
+	<data key="topic">comp.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2176251-2175782-comp.arch" source="2176251" target="2175782">
+	<data key="topic">comp.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="205603-2801975-comp.arch" source="205603" target="2801975">
+	<data key="topic">comp.arch</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="205603-2808248-comp.arch" source="205603" target="2808248">
+	<data key="topic">comp.arch</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="205603-2189153-comp.arch" source="205603" target="2189153">
+	<data key="topic">comp.arch</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="205603-2815113-comp.arch" source="205603" target="2815113">
+	<data key="topic">comp.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="205603-2808269-comp.arch" source="205603" target="2808269">
+	<data key="topic">comp.arch</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="205603-2207500-comp.arch" source="205603" target="2207500">
+	<data key="topic">comp.arch</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="204769-2801975-comp.arch" source="204769" target="2801975">
+	<data key="topic">comp.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="204769-2808248-comp.arch" source="204769" target="2808248">
+	<data key="topic">comp.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="204769-2189153-comp.arch" source="204769" target="2189153">
+	<data key="topic">comp.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="204769-2808269-comp.arch" source="204769" target="2808269">
+	<data key="topic">comp.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2192067-2815132-comp.arch" source="2192067" target="2815132">
+	<data key="topic">comp.arch</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2192067-2815282-comp.arch" source="2192067" target="2815282">
+	<data key="topic">comp.arch</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2192067-2801975-comp.arch" source="2192067" target="2801975">
+	<data key="topic">comp.arch</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="2192067-2808248-comp.arch" source="2192067" target="2808248">
+	<data key="topic">comp.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2192067-2815893-comp.arch" source="2192067" target="2815893">
+	<data key="topic">comp.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2192067-2189153-comp.arch" source="2192067" target="2189153">
+	<data key="topic">comp.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2192067-2808269-comp.arch" source="2192067" target="2808269">
+	<data key="topic">comp.arch</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2192067-2207500-comp.arch" source="2192067" target="2207500">
+	<data key="topic">comp.arch</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2175782-2175889-comp.arch" source="2175782" target="2175889">
+	<data key="topic">comp.arch</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2175782-2183416-comp.arch" source="2175782" target="2183416">
+	<data key="topic">comp.arch</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2175782-2187836-comp.arch" source="2175782" target="2187836">
+	<data key="topic">comp.arch</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2175782-205023-comp.arch" source="2175782" target="205023">
+	<data key="topic">comp.arch</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2175782-43429-comp.arch" source="2175782" target="43429">
+	<data key="topic">comp.arch</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2175782-2191909-comp.arch" source="2175782" target="2191909">
+	<data key="topic">comp.arch</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="2175782-2188615-comp.arch" source="2175782" target="2188615">
+	<data key="topic">comp.arch</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2191909-2175889-comp.arch" source="2191909" target="2175889">
+	<data key="topic">comp.arch</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2191909-2183416-comp.arch" source="2191909" target="2183416">
+	<data key="topic">comp.arch</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2191909-2187836-comp.arch" source="2191909" target="2187836">
+	<data key="topic">comp.arch</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2191909-205023-comp.arch" source="2191909" target="205023">
+	<data key="topic">comp.arch</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2191909-2175782-comp.arch" source="2191909" target="2175782">
+	<data key="topic">comp.arch</data>
+	<data key="weight">8</data>
+</edge>
+<edge id="2191909-43429-comp.arch" source="2191909" target="43429">
+	<data key="topic">comp.arch</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2191909-2188615-comp.arch" source="2191909" target="2188615">
+	<data key="topic">comp.arch</data>
+	<data key="weight">2</data>
+</edge>
+</graph>
+</graphml>

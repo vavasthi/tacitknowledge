@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="339"/>
+<node id="348504"/>
+<node id="1822818"/>
+<node id="442270"/>
+<node id="377823"/>
+<node id="416476"/>
+<node id="405212"/>
+<node id="13918"/>
+<node id="377627"/>
+<node id="348581"/>
+<node id="1822813"/>
+<node id="1964949"/>
+<node id="1101275"/>
+<node id="348908"/>
+<node id="414071"/>
+<node id="358581"/>
+<node id="1820683"/>
+<node id="765819"/>
+<node id="358904"/>
+<node id="353400"/>
+<node id="352308"/>
+<node id="555711"/>
+<node id="372595"/>
+<node id="350909"/>
+<node id="375293"/>
+<node id="416832"/>
+<node id="574"/>
+<node id="384710"/>
+<node id="416837"/>
+<node id="1029"/>
+<node id="380034"/>
+<node id="356289"/>
+<node id="781263"/>
+<node id="348548"/>
+<node id="578384"/>
+<node id="381518"/>
+<node id="1163"/>
+<node id="376143"/>
+<node id="401164"/>
+<node id="362380"/>
+<edge id="339-358581-comp.sys.intel" source="339" target="358581">
+	<data key="topic">comp.sys.intel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339-1820683-comp.sys.intel" source="339" target="1820683">
+	<data key="topic">comp.sys.intel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339-401164-comp.sys.intel" source="339" target="401164">
+	<data key="topic">comp.sys.intel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1822818-339-comp.sys.intel" source="1822818" target="339">
+	<data key="topic">comp.sys.intel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1822818-1820683-comp.sys.intel" source="1822818" target="1820683">
+	<data key="topic">comp.sys.intel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1822818-401164-comp.sys.intel" source="1822818" target="401164">
+	<data key="topic">comp.sys.intel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="442270-1964949-comp.sys.intel" source="442270" target="1964949">
+	<data key="topic">comp.sys.intel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="405212-1101275-comp.sys.intel" source="405212" target="1101275">
+	<data key="topic">comp.sys.intel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="405212-353400-comp.sys.intel" source="405212" target="353400">
+	<data key="topic">comp.sys.intel</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="1822813-781263-comp.sys.intel" source="1822813" target="781263">
+	<data key="topic">comp.sys.intel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1822813-401164-comp.sys.intel" source="1822813" target="401164">
+	<data key="topic">comp.sys.intel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1101275-405212-comp.sys.intel" source="1101275" target="405212">
+	<data key="topic">comp.sys.intel</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1101275-353400-comp.sys.intel" source="1101275" target="353400">
+	<data key="topic">comp.sys.intel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348908-352308-comp.sys.intel" source="348908" target="352308">
+	<data key="topic">comp.sys.intel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="414071-13918-comp.sys.intel" source="414071" target="13918">
+	<data key="topic">comp.sys.intel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="765819-377627-comp.sys.intel" source="765819" target="377627">
+	<data key="topic">comp.sys.intel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="555711-1820683-comp.sys.intel" source="555711" target="1820683">
+	<data key="topic">comp.sys.intel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="372595-416476-comp.sys.intel" source="372595" target="416476">
+	<data key="topic">comp.sys.intel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350909-358904-comp.sys.intel" source="350909" target="358904">
+	<data key="topic">comp.sys.intel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="375293-339-comp.sys.intel" source="375293" target="339">
+	<data key="topic">comp.sys.intel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="375293-1820683-comp.sys.intel" source="375293" target="1820683">
+	<data key="topic">comp.sys.intel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="375293-401164-comp.sys.intel" source="375293" target="401164">
+	<data key="topic">comp.sys.intel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="416832-358904-comp.sys.intel" source="416832" target="358904">
+	<data key="topic">comp.sys.intel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="574-442270-comp.sys.intel" source="574" target="442270">
+	<data key="topic">comp.sys.intel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="574-1964949-comp.sys.intel" source="574" target="1964949">
+	<data key="topic">comp.sys.intel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="384710-381518-comp.sys.intel" source="384710" target="381518">
+	<data key="topic">comp.sys.intel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="416837-405212-comp.sys.intel" source="416837" target="405212">
+	<data key="topic">comp.sys.intel</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="416837-1101275-comp.sys.intel" source="416837" target="1101275">
+	<data key="topic">comp.sys.intel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="416837-353400-comp.sys.intel" source="416837" target="353400">
+	<data key="topic">comp.sys.intel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1029-348548-comp.sys.intel" source="1029" target="348548">
+	<data key="topic">comp.sys.intel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="380034-377823-comp.sys.intel" source="380034" target="377823">
+	<data key="topic">comp.sys.intel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="380034-356289-comp.sys.intel" source="380034" target="356289">
+	<data key="topic">comp.sys.intel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="781263-375293-comp.sys.intel" source="781263" target="375293">
+	<data key="topic">comp.sys.intel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="781263-401164-comp.sys.intel" source="781263" target="401164">
+	<data key="topic">comp.sys.intel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1163-348581-comp.sys.intel" source="1163" target="348581">
+	<data key="topic">comp.sys.intel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="376143-405212-comp.sys.intel" source="376143" target="405212">
+	<data key="topic">comp.sys.intel</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="376143-1101275-comp.sys.intel" source="376143" target="1101275">
+	<data key="topic">comp.sys.intel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="401164-1820683-comp.sys.intel" source="401164" target="1820683">
+	<data key="topic">comp.sys.intel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362380-1820683-comp.sys.intel" source="362380" target="1820683">
+	<data key="topic">comp.sys.intel</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

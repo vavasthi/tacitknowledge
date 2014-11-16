@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="853406"/>
+<node id="32210"/>
+<node id="28371"/>
+<node id="853408"/>
+<node id="507411"/>
+<node id="5910"/>
+<node id="1750"/>
+<node id="1175"/>
+<node id="708497"/>
+<node id="642707"/>
+<node id="1387113"/>
+<node id="510440"/>
+<node id="415080"/>
+<node id="446245"/>
+<node id="2131459"/>
+<node id="750383"/>
+<node id="1002986"/>
+<node id="1807826"/>
+<node id="1002982"/>
+<node id="721121"/>
+<node id="701369"/>
+<node id="382712"/>
+<node id="2689041"/>
+<node id="737267"/>
+<node id="1387983"/>
+<node id="557812"/>
+<node id="1387914"/>
+<node id="32510"/>
+<node id="14846"/>
+<node id="366523"/>
+<node id="696822"/>
+<node id="2533032"/>
+<node id="2884"/>
+<node id="509955"/>
+<node id="14791"/>
+<node id="696077"/>
+<node id="24009"/>
+<node id="708867"/>
+<node id="14922"/>
+<node id="28938"/>
+<node id="550278"/>
+<node id="533318"/>
+<node id="2016241"/>
+<edge id="853408-853406-sci.chem" source="853408" target="853406">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="507411-1807826-sci.chem" source="507411" target="1807826">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5910-642707-sci.chem" source="5910" target="642707">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5910-2689041-sci.chem" source="5910" target="2689041">
+	<data key="topic">sci.chem</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="5910-14922-sci.chem" source="5910" target="14922">
+	<data key="topic">sci.chem</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="1175-507411-sci.chem" source="1175" target="507411">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1175-1807826-sci.chem" source="1175" target="1807826">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="642707-5910-sci.chem" source="642707" target="5910">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="642707-2689041-sci.chem" source="642707" target="2689041">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="642707-14922-sci.chem" source="642707" target="14922">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1387113-701369-sci.chem" source="1387113" target="701369">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510440-1387113-sci.chem" source="510440" target="1387113">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510440-750383-sci.chem" source="510440" target="750383">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510440-701369-sci.chem" source="510440" target="701369">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510440-1387983-sci.chem" source="510440" target="1387983">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510440-14922-sci.chem" source="510440" target="14922">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510440-533318-sci.chem" source="510440" target="533318">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="415080-28371-sci.chem" source="415080" target="28371">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="446245-32210-sci.chem" source="446245" target="32210">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="446245-708497-sci.chem" source="446245" target="708497">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="446245-721121-sci.chem" source="446245" target="721121">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2131459-2533032-sci.chem" source="2131459" target="2533032">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="750383-1387113-sci.chem" source="750383" target="1387113">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="750383-701369-sci.chem" source="750383" target="701369">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="701369-2689041-sci.chem" source="701369" target="2689041">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="382712-1750-sci.chem" source="382712" target="1750">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="382712-14846-sci.chem" source="382712" target="14846">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="737267-28371-sci.chem" source="737267" target="28371">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1387983-1387113-sci.chem" source="1387983" target="1387113">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1387983-750383-sci.chem" source="1387983" target="750383">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1387983-701369-sci.chem" source="1387983" target="701369">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="557812-1750-sci.chem" source="557812" target="1750">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1387914-510440-sci.chem" source="1387914" target="510440">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="32510-28371-sci.chem" source="32510" target="28371">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14846-1750-sci.chem" source="14846" target="1750">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="366523-28371-sci.chem" source="366523" target="28371">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="366523-32510-sci.chem" source="366523" target="32510">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="366523-14791-sci.chem" source="366523" target="14791">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696822-2689041-sci.chem" source="696822" target="2689041">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2884-1387113-sci.chem" source="2884" target="1387113">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2884-750383-sci.chem" source="2884" target="750383">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2884-701369-sci.chem" source="2884" target="701369">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2884-14922-sci.chem" source="2884" target="14922">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2884-2016241-sci.chem" source="2884" target="2016241">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509955-696077-sci.chem" source="509955" target="696077">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14791-28371-sci.chem" source="14791" target="28371">
+	<data key="topic">sci.chem</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="14791-32510-sci.chem" source="14791" target="32510">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24009-1750-sci.chem" source="24009" target="1750">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="708867-2689041-sci.chem" source="708867" target="2689041">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14922-28371-sci.chem" source="14922" target="28371">
+	<data key="topic">sci.chem</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="14922-5910-sci.chem" source="14922" target="5910">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14922-1387113-sci.chem" source="14922" target="1387113">
+	<data key="topic">sci.chem</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="14922-750383-sci.chem" source="14922" target="750383">
+	<data key="topic">sci.chem</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="14922-1002986-sci.chem" source="14922" target="1002986">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14922-1002982-sci.chem" source="14922" target="1002982">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14922-701369-sci.chem" source="14922" target="701369">
+	<data key="topic">sci.chem</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="14922-2689041-sci.chem" source="14922" target="2689041">
+	<data key="topic">sci.chem</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="14922-1387983-sci.chem" source="14922" target="1387983">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14922-32510-sci.chem" source="14922" target="32510">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14922-14791-sci.chem" source="14922" target="14791">
+	<data key="topic">sci.chem</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="14922-550278-sci.chem" source="14922" target="550278">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14922-2016241-sci.chem" source="14922" target="2016241">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28938-1387113-sci.chem" source="28938" target="1387113">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28938-750383-sci.chem" source="28938" target="750383">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28938-701369-sci.chem" source="28938" target="701369">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="533318-1387113-sci.chem" source="533318" target="1387113">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="533318-750383-sci.chem" source="533318" target="750383">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="533318-701369-sci.chem" source="533318" target="701369">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="533318-1387983-sci.chem" source="533318" target="1387983">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="533318-14922-sci.chem" source="533318" target="14922">
+	<data key="topic">sci.chem</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

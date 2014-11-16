@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2897327"/>
+<node id="737738"/>
+<node id="1175"/>
+<node id="2897335"/>
+<node id="224"/>
+<node id="362171"/>
+<edge id="1175-2897327-bionet.molbio.genome-program" source="1175" target="2897327">
+	<data key="topic">bionet.molbio.genome-program</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="224-2897327-bionet.molbio.genome-program" source="224" target="2897327">
+	<data key="topic">bionet.molbio.genome-program</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="224-737738-bionet.molbio.genome-program" source="224" target="737738">
+	<data key="topic">bionet.molbio.genome-program</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="224-2897335-bionet.molbio.genome-program" source="224" target="2897335">
+	<data key="topic">bionet.molbio.genome-program</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="224-362171-bionet.molbio.genome-program" source="224" target="362171">
+	<data key="topic">bionet.molbio.genome-program</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

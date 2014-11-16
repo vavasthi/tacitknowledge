@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="37246"/>
+<node id="36959"/>
+<node id="282459"/>
+<node id="75999"/>
+<node id="54087"/>
+<node id="57159"/>
+<node id="39304"/>
+<node id="140683"/>
+<node id="37001"/>
+<node id="70217"/>
+<node id="37163"/>
+<node id="45132"/>
+<node id="60204"/>
+<node id="141519"/>
+<node id="41485"/>
+<edge id="36959-282459-ny.general" source="36959" target="282459">
+	<data key="topic">ny.general</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="36959-140683-ny.general" source="36959" target="140683">
+	<data key="topic">ny.general</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="36959-37163-ny.general" source="36959" target="37163">
+	<data key="topic">ny.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36959-141519-ny.general" source="36959" target="141519">
+	<data key="topic">ny.general</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="282459-141519-ny.general" source="282459" target="141519">
+	<data key="topic">ny.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="75999-39304-ny.general" source="75999" target="39304">
+	<data key="topic">ny.general</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="75999-37001-ny.general" source="75999" target="37001">
+	<data key="topic">ny.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="75999-60204-ny.general" source="75999" target="60204">
+	<data key="topic">ny.general</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="54087-57159-ny.general" source="54087" target="57159">
+	<data key="topic">ny.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="54087-37001-ny.general" source="54087" target="37001">
+	<data key="topic">ny.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="57159-54087-ny.general" source="57159" target="54087">
+	<data key="topic">ny.general</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="57159-39304-ny.general" source="57159" target="39304">
+	<data key="topic">ny.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="140683-36959-ny.general" source="140683" target="36959">
+	<data key="topic">ny.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="140683-282459-ny.general" source="140683" target="282459">
+	<data key="topic">ny.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="140683-141519-ny.general" source="140683" target="141519">
+	<data key="topic">ny.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="70217-57159-ny.general" source="70217" target="57159">
+	<data key="topic">ny.general</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="70217-39304-ny.general" source="70217" target="39304">
+	<data key="topic">ny.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="70217-37001-ny.general" source="70217" target="37001">
+	<data key="topic">ny.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37163-36959-ny.general" source="37163" target="36959">
+	<data key="topic">ny.general</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37163-282459-ny.general" source="37163" target="282459">
+	<data key="topic">ny.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37163-140683-ny.general" source="37163" target="140683">
+	<data key="topic">ny.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37163-141519-ny.general" source="37163" target="141519">
+	<data key="topic">ny.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="45132-37246-ny.general" source="45132" target="37246">
+	<data key="topic">ny.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="60204-39304-ny.general" source="60204" target="39304">
+	<data key="topic">ny.general</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="60204-37001-ny.general" source="60204" target="37001">
+	<data key="topic">ny.general</data>
+	<data key="weight">33</data>
+</edge>
+<edge id="41485-37001-ny.general" source="41485" target="37001">
+	<data key="topic">ny.general</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

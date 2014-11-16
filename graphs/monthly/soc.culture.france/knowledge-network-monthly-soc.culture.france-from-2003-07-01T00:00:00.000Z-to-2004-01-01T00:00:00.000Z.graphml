@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="148659"/>
+<node id="139441"/>
+<node id="43939"/>
+<node id="137301"/>
+<node id="151068"/>
+<node id="37019"/>
+<node id="152170"/>
+<node id="151904"/>
+<node id="152222"/>
+<edge id="148659-151068-soc.culture.france" source="148659" target="151068">
+	<data key="topic">soc.culture.france</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="43939-139441-soc.culture.france" source="43939" target="139441">
+	<data key="topic">soc.culture.france</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="43939-137301-soc.culture.france" source="43939" target="137301">
+	<data key="topic">soc.culture.france</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="137301-139441-soc.culture.france" source="137301" target="139441">
+	<data key="topic">soc.culture.france</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="151068-148659-soc.culture.france" source="151068" target="148659">
+	<data key="topic">soc.culture.france</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37019-139441-soc.culture.france" source="37019" target="139441">
+	<data key="topic">soc.culture.france</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="151904-152170-soc.culture.france" source="151904" target="152170">
+	<data key="topic">soc.culture.france</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="152222-152170-soc.culture.france" source="152222" target="152170">
+	<data key="topic">soc.culture.france</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

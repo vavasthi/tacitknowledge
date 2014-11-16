@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="12054"/>
+<node id="1462148"/>
+<node id="860997"/>
+<node id="839057"/>
+<node id="832674"/>
+<node id="287"/>
+<edge id="12054-839057-comp.protocols.pcnet" source="12054" target="839057">
+	<data key="topic">comp.protocols.pcnet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1462148-839057-comp.protocols.pcnet" source="1462148" target="839057">
+	<data key="topic">comp.protocols.pcnet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1462148-832674-comp.protocols.pcnet" source="1462148" target="832674">
+	<data key="topic">comp.protocols.pcnet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="832674-839057-comp.protocols.pcnet" source="832674" target="839057">
+	<data key="topic">comp.protocols.pcnet</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="287-860997-comp.protocols.pcnet" source="287" target="860997">
+	<data key="topic">comp.protocols.pcnet</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

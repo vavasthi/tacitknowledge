@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="818861"/>
+<node id="458151"/>
+<node id="31862"/>
+<node id="20438"/>
+<node id="26055"/>
+<node id="27273"/>
+<node id="443871"/>
+<node id="15178"/>
+<node id="398160"/>
+<edge id="31862-818861-rec.games.trivia" source="31862" target="818861">
+	<data key="topic">rec.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="31862-20438-rec.games.trivia" source="31862" target="20438">
+	<data key="topic">rec.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="31862-26055-rec.games.trivia" source="31862" target="26055">
+	<data key="topic">rec.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="31862-27273-rec.games.trivia" source="31862" target="27273">
+	<data key="topic">rec.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="31862-15178-rec.games.trivia" source="31862" target="15178">
+	<data key="topic">rec.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="31862-398160-rec.games.trivia" source="31862" target="398160">
+	<data key="topic">rec.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="443871-458151-rec.games.trivia" source="443871" target="458151">
+	<data key="topic">rec.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="443871-20438-rec.games.trivia" source="443871" target="20438">
+	<data key="topic">rec.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="443871-26055-rec.games.trivia" source="443871" target="26055">
+	<data key="topic">rec.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="443871-27273-rec.games.trivia" source="443871" target="27273">
+	<data key="topic">rec.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="398160-818861-rec.games.trivia" source="398160" target="818861">
+	<data key="topic">rec.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="398160-20438-rec.games.trivia" source="398160" target="20438">
+	<data key="topic">rec.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="398160-26055-rec.games.trivia" source="398160" target="26055">
+	<data key="topic">rec.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="398160-27273-rec.games.trivia" source="398160" target="27273">
+	<data key="topic">rec.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="398160-15178-rec.games.trivia" source="398160" target="15178">
+	<data key="topic">rec.games.trivia</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

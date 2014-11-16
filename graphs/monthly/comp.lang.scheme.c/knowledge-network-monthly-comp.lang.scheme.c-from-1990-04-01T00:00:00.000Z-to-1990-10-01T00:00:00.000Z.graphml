@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1572488"/>
+<node id="787262"/>
+<node id="553466"/>
+<node id="350424"/>
+<node id="558814"/>
+<node id="10455"/>
+<node id="383572"/>
+<node id="650047"/>
+<node id="439001"/>
+<node id="862414"/>
+<node id="444323"/>
+<node id="650054"/>
+<node id="10478"/>
+<node id="13264"/>
+<edge id="553466-650047-comp.lang.scheme.c" source="553466" target="650047">
+	<data key="topic">comp.lang.scheme.c</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350424-439001-comp.lang.scheme.c" source="350424" target="439001">
+	<data key="topic">comp.lang.scheme.c</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10455-787262-comp.lang.scheme.c" source="10455" target="787262">
+	<data key="topic">comp.lang.scheme.c</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10455-558814-comp.lang.scheme.c" source="10455" target="558814">
+	<data key="topic">comp.lang.scheme.c</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="650047-553466-comp.lang.scheme.c" source="650047" target="553466">
+	<data key="topic">comp.lang.scheme.c</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="444323-1572488-comp.lang.scheme.c" source="444323" target="1572488">
+	<data key="topic">comp.lang.scheme.c</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10478-383572-comp.lang.scheme.c" source="10478" target="383572">
+	<data key="topic">comp.lang.scheme.c</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10478-862414-comp.lang.scheme.c" source="10478" target="862414">
+	<data key="topic">comp.lang.scheme.c</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="13264-650054-comp.lang.scheme.c" source="13264" target="650054">
+	<data key="topic">comp.lang.scheme.c</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

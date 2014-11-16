@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="12721"/>
+<node id="358600"/>
+<node id="1723594"/>
+<node id="538114"/>
+<node id="444349"/>
+<edge id="12721-444349-comp.lang.objective-c" source="12721" target="444349">
+	<data key="topic">comp.lang.objective-c</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="358600-1723594-comp.lang.objective-c" source="358600" target="1723594">
+	<data key="topic">comp.lang.objective-c</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="358600-538114-comp.lang.objective-c" source="358600" target="538114">
+	<data key="topic">comp.lang.objective-c</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

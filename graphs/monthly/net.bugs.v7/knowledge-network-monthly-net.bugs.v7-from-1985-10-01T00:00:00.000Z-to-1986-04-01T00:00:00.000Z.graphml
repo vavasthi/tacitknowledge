@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1336711"/>
+<node id="497686"/>
+<node id="490021"/>
+<node id="466386"/>
+<node id="485362"/>
+<node id="493325"/>
+<node id="344831"/>
+<node id="29006"/>
+<node id="390297"/>
+<edge id="490021-493325-net.bugs.v7" source="490021" target="493325">
+	<data key="topic">net.bugs.v7</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="466386-1336711-net.bugs.v7" source="466386" target="1336711">
+	<data key="topic">net.bugs.v7</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="466386-497686-net.bugs.v7" source="466386" target="497686">
+	<data key="topic">net.bugs.v7</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="485362-493325-net.bugs.v7" source="485362" target="493325">
+	<data key="topic">net.bugs.v7</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-490021-net.bugs.v7" source="29006" target="490021">
+	<data key="topic">net.bugs.v7</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="29006-493325-net.bugs.v7" source="29006" target="493325">
+	<data key="topic">net.bugs.v7</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="390297-493325-net.bugs.v7" source="390297" target="493325">
+	<data key="topic">net.bugs.v7</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

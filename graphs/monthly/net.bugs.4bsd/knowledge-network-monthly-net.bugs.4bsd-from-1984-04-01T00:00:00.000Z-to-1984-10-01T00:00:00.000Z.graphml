@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="567199"/>
+<node id="460178"/>
+<node id="524448"/>
+<node id="460191"/>
+<node id="654998"/>
+<node id="341146"/>
+<node id="521881"/>
+<node id="340902"/>
+<node id="567209"/>
+<node id="337320"/>
+<node id="498085"/>
+<node id="339107"/>
+<node id="655009"/>
+<node id="339373"/>
+<node id="337067"/>
+<node id="526266"/>
+<node id="521653"/>
+<node id="524478"/>
+<node id="341950"/>
+<node id="521917"/>
+<node id="479420"/>
+<node id="521658"/>
+<node id="526776"/>
+<node id="526539"/>
+<node id="346823"/>
+<node id="342978"/>
+<node id="342980"/>
+<node id="655042"/>
+<node id="339407"/>
+<node id="460237"/>
+<node id="461773"/>
+<node id="337866"/>
+<node id="462284"/>
+<node id="338134"/>
+<node id="337367"/>
+<node id="341458"/>
+<node id="526558"/>
+<node id="524007"/>
+<node id="393185"/>
+<node id="521711"/>
+<node id="526307"/>
+<node id="527587"/>
+<node id="339190"/>
+<node id="397559"/>
+<node id="528636"/>
+<node id="490484"/>
+<node id="481522"/>
+<node id="528639"/>
+<node id="528640"/>
+<node id="346877"/>
+<node id="341766"/>
+<node id="527886"/>
+<node id="461072"/>
+<node id="337934"/>
+<node id="460312"/>
+<node id="339477"/>
+<node id="337943"/>
+<node id="527889"/>
+<node id="338462"/>
+<node id="523296"/>
+<node id="337949"/>
+<node id="626705"/>
+<node id="566293"/>
+<node id="565526"/>
+<node id="341029"/>
+<node id="1136145"/>
+<node id="523302"/>
+<node id="339242"/>
+<node id="341816"/>
+<node id="522805"/>
+<node id="344625"/>
+<node id="460595"/>
+<node id="460095"/>
+<node id="390207"/>
+<node id="337978"/>
+<node id="342844"/>
+<node id="1137487"/>
+<node id="460360"/>
+<node id="1137457"/>
+<node id="524101"/>
+<node id="565838"/>
+<node id="339280"/>
+<node id="29006"/>
+<node id="336733"/>
+<node id="564820"/>
+<node id="341337"/>
+<node id="338787"/>
+<node id="655459"/>
+<node id="459632"/>
+<node id="338029"/>
+<node id="636004"/>
+<node id="460397"/>
+<node id="341098"/>
+<node id="1139552"/>
+<node id="24689"/>
+<node id="460152"/>
+<node id="1406599"/>
+<node id="473203"/>
+<node id="17784"/>
+<node id="339571"/>
+<node id="1136266"/>
+<node id="460154"/>
+<node id="341627"/>
+<node id="470137"/>
+<node id="341896"/>
+<node id="394883"/>
+<node id="522883"/>
+<node id="522384"/>
+<node id="525954"/>
+<node id="430219"/>
+<node id="526726"/>
+<edge id="341146-655459-net.bugs.4bsd" source="341146" target="655459">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341146-17784-net.bugs.4bsd" source="341146" target="17784">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521881-524448-net.bugs.4bsd" source="521881" target="524448">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521881-341627-net.bugs.4bsd" source="521881" target="341627">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="567209-17784-net.bugs.4bsd" source="567209" target="17784">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337320-636004-net.bugs.4bsd" source="337320" target="636004">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339107-654998-net.bugs.4bsd" source="339107" target="654998">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339107-341029-net.bugs.4bsd" source="339107" target="341029">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="526266-524448-net.bugs.4bsd" source="526266" target="524448">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="526266-337934-net.bugs.4bsd" source="526266" target="337934">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341950-342980-net.bugs.4bsd" source="341950" target="342980">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341950-525954-net.bugs.4bsd" source="341950" target="525954">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521917-527889-net.bugs.4bsd" source="521917" target="527889">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="479420-393185-net.bugs.4bsd" source="479420" target="393185">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="479420-337978-net.bugs.4bsd" source="479420" target="337978">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="479420-636004-net.bugs.4bsd" source="479420" target="636004">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521658-567199-net.bugs.4bsd" source="521658" target="567199">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="526776-524448-net.bugs.4bsd" source="526776" target="524448">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="526539-390207-net.bugs.4bsd" source="526539" target="390207">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="346823-393185-net.bugs.4bsd" source="346823" target="393185">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="346823-337978-net.bugs.4bsd" source="346823" target="337978">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="342978-521653-net.bugs.4bsd" source="342978" target="521653">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339407-523296-net.bugs.4bsd" source="339407" target="523296">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339407-524101-net.bugs.4bsd" source="339407" target="524101">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460237-567199-net.bugs.4bsd" source="460237" target="567199">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-337067-net.bugs.4bsd" source="337866" target="337067">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-524478-net.bugs.4bsd" source="337866" target="524478">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="337866-526558-net.bugs.4bsd" source="337866" target="526558">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-523302-net.bugs.4bsd" source="337866" target="523302">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-339280-net.bugs.4bsd" source="337866" target="339280">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-636004-net.bugs.4bsd" source="337866" target="636004">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-1406599-net.bugs.4bsd" source="337866" target="1406599">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="462284-498085-net.bugs.4bsd" source="462284" target="498085">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338134-654998-net.bugs.4bsd" source="338134" target="654998">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338134-341950-net.bugs.4bsd" source="338134" target="341950">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338134-521658-net.bugs.4bsd" source="338134" target="521658">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338134-342980-net.bugs.4bsd" source="338134" target="342980">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338134-655042-net.bugs.4bsd" source="338134" target="655042">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338134-341766-net.bugs.4bsd" source="338134" target="341766">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338134-337949-net.bugs.4bsd" source="338134" target="337949">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338134-565526-net.bugs.4bsd" source="338134" target="565526">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="338134-460397-net.bugs.4bsd" source="338134" target="460397">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338134-1139552-net.bugs.4bsd" source="338134" target="1139552">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338134-1136266-net.bugs.4bsd" source="338134" target="1136266">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338134-341896-net.bugs.4bsd" source="338134" target="341896">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338134-522883-net.bugs.4bsd" source="338134" target="522883">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338134-522384-net.bugs.4bsd" source="338134" target="522384">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338134-525954-net.bugs.4bsd" source="338134" target="525954">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337367-339242-net.bugs.4bsd" source="337367" target="339242">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341458-654998-net.bugs.4bsd" source="341458" target="654998">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341458-522805-net.bugs.4bsd" source="341458" target="522805">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="526558-524478-net.bugs.4bsd" source="526558" target="524478">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="526558-337866-net.bugs.4bsd" source="526558" target="337866">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="524007-341337-net.bugs.4bsd" source="524007" target="341337">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="524007-17784-net.bugs.4bsd" source="524007" target="17784">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="524007-341627-net.bugs.4bsd" source="524007" target="341627">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521711-654998-net.bugs.4bsd" source="521711" target="654998">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521711-338134-net.bugs.4bsd" source="521711" target="338134">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="526307-524448-net.bugs.4bsd" source="526307" target="524448">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="527587-526726-net.bugs.4bsd" source="527587" target="526726">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339190-340902-net.bugs.4bsd" source="339190" target="340902">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="528636-460178-net.bugs.4bsd" source="528636" target="460178">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="490484-527889-net.bugs.4bsd" source="490484" target="527889">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="528640-524448-net.bugs.4bsd" source="528640" target="524448">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341766-655009-net.bugs.4bsd" source="341766" target="655009">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341766-338134-net.bugs.4bsd" source="341766" target="338134">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="341766-481522-net.bugs.4bsd" source="341766" target="481522">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341766-565526-net.bugs.4bsd" source="341766" target="565526">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="341766-525954-net.bugs.4bsd" source="341766" target="525954">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="527886-337949-net.bugs.4bsd" source="527886" target="337949">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460312-29006-net.bugs.4bsd" source="460312" target="29006">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337943-339571-net.bugs.4bsd" source="337943" target="339571">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338462-346823-net.bugs.4bsd" source="338462" target="346823">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338462-393185-net.bugs.4bsd" source="338462" target="393185">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338462-337978-net.bugs.4bsd" source="338462" target="337978">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338462-338029-net.bugs.4bsd" source="338462" target="338029">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="523296-524101-net.bugs.4bsd" source="523296" target="524101">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="626705-479420-net.bugs.4bsd" source="626705" target="479420">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="626705-636004-net.bugs.4bsd" source="626705" target="636004">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341029-337320-net.bugs.4bsd" source="341029" target="337320">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341029-636004-net.bugs.4bsd" source="341029" target="636004">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1136145-341950-net.bugs.4bsd" source="1136145" target="341950">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1136145-342980-net.bugs.4bsd" source="1136145" target="342980">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1136145-525954-net.bugs.4bsd" source="1136145" target="525954">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="523302-524478-net.bugs.4bsd" source="523302" target="524478">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="523302-337866-net.bugs.4bsd" source="523302" target="337866">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341816-1137487-net.bugs.4bsd" source="341816" target="1137487">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460595-524448-net.bugs.4bsd" source="460595" target="524448">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460595-521881-net.bugs.4bsd" source="460595" target="521881">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460595-337067-net.bugs.4bsd" source="460595" target="337067">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460595-528640-net.bugs.4bsd" source="460595" target="528640">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460595-341627-net.bugs.4bsd" source="460595" target="341627">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460095-339373-net.bugs.4bsd" source="460095" target="339373">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460095-528639-net.bugs.4bsd" source="460095" target="528639">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337978-393185-net.bugs.4bsd" source="337978" target="393185">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337978-341337-net.bugs.4bsd" source="337978" target="341337">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="460360-461773-net.bugs.4bsd" source="460360" target="461773">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1137457-339280-net.bugs.4bsd" source="1137457" target="339280">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1137457-636004-net.bugs.4bsd" source="1137457" target="636004">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1137457-1406599-net.bugs.4bsd" source="1137457" target="1406599">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="565838-339242-net.bugs.4bsd" source="565838" target="339242">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="565838-636004-net.bugs.4bsd" source="565838" target="636004">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339280-636004-net.bugs.4bsd" source="339280" target="636004">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339280-1406599-net.bugs.4bsd" source="339280" target="1406599">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-339477-net.bugs.4bsd" source="29006" target="339477">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="336733-527889-net.bugs.4bsd" source="336733" target="527889">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="564820-342844-net.bugs.4bsd" source="564820" target="342844">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="564820-524101-net.bugs.4bsd" source="564820" target="524101">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341337-524007-net.bugs.4bsd" source="341337" target="524007">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341337-337978-net.bugs.4bsd" source="341337" target="337978">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341337-17784-net.bugs.4bsd" source="341337" target="17784">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="338787-338134-net.bugs.4bsd" source="338787" target="338134">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338787-397559-net.bugs.4bsd" source="338787" target="397559">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338787-1136266-net.bugs.4bsd" source="338787" target="1136266">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338787-341896-net.bugs.4bsd" source="338787" target="341896">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459632-340902-net.bugs.4bsd" source="459632" target="340902">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338029-346823-net.bugs.4bsd" source="338029" target="346823">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338029-393185-net.bugs.4bsd" source="338029" target="393185">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338029-337978-net.bugs.4bsd" source="338029" target="337978">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338029-342844-net.bugs.4bsd" source="338029" target="342844">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341098-337067-net.bugs.4bsd" source="341098" target="337067">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24689-344625-net.bugs.4bsd" source="24689" target="344625">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460152-565838-net.bugs.4bsd" source="460152" target="565838">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460152-636004-net.bugs.4bsd" source="460152" target="636004">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1406599-636004-net.bugs.4bsd" source="1406599" target="636004">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="473203-460191-net.bugs.4bsd" source="473203" target="460191">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17784-339190-net.bugs.4bsd" source="17784" target="339190">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17784-346877-net.bugs.4bsd" source="17784" target="346877">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1136266-460154-net.bugs.4bsd" source="1136266" target="460154">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1136266-341896-net.bugs.4bsd" source="1136266" target="341896">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460154-339373-net.bugs.4bsd" source="460154" target="339373">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460154-528639-net.bugs.4bsd" source="460154" target="528639">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460154-460095-net.bugs.4bsd" source="460154" target="460095">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="470137-346823-net.bugs.4bsd" source="470137" target="346823">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="470137-393185-net.bugs.4bsd" source="470137" target="393185">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="470137-337978-net.bugs.4bsd" source="470137" target="337978">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="470137-338029-net.bugs.4bsd" source="470137" target="338029">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="394883-390207-net.bugs.4bsd" source="394883" target="390207">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522384-344625-net.bugs.4bsd" source="522384" target="344625">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="525954-342980-net.bugs.4bsd" source="525954" target="342980">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="430219-341950-net.bugs.4bsd" source="430219" target="341950">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="430219-342980-net.bugs.4bsd" source="430219" target="342980">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="430219-525954-net.bugs.4bsd" source="430219" target="525954">
+	<data key="topic">net.bugs.4bsd</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

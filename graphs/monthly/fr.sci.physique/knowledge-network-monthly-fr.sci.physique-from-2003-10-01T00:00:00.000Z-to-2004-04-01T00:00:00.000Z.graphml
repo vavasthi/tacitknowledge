@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="42849"/>
+<node id="107089"/>
+<node id="44466"/>
+<node id="43975"/>
+<node id="37227"/>
+<node id="39789"/>
+<node id="38000"/>
+<node id="195582"/>
+<edge id="42849-107089-fr.sci.physique" source="42849" target="107089">
+	<data key="topic">fr.sci.physique</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="44466-107089-fr.sci.physique" source="44466" target="107089">
+	<data key="topic">fr.sci.physique</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="44466-37227-fr.sci.physique" source="44466" target="37227">
+	<data key="topic">fr.sci.physique</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="43975-42849-fr.sci.physique" source="43975" target="42849">
+	<data key="topic">fr.sci.physique</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="43975-107089-fr.sci.physique" source="43975" target="107089">
+	<data key="topic">fr.sci.physique</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="43975-195582-fr.sci.physique" source="43975" target="195582">
+	<data key="topic">fr.sci.physique</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37227-107089-fr.sci.physique" source="37227" target="107089">
+	<data key="topic">fr.sci.physique</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="39789-42849-fr.sci.physique" source="39789" target="42849">
+	<data key="topic">fr.sci.physique</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="39789-107089-fr.sci.physique" source="39789" target="107089">
+	<data key="topic">fr.sci.physique</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="38000-42849-fr.sci.physique" source="38000" target="42849">
+	<data key="topic">fr.sci.physique</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="38000-107089-fr.sci.physique" source="38000" target="107089">
+	<data key="topic">fr.sci.physique</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="195582-42849-fr.sci.physique" source="195582" target="42849">
+	<data key="topic">fr.sci.physique</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="195582-107089-fr.sci.physique" source="195582" target="107089">
+	<data key="topic">fr.sci.physique</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="195582-43975-fr.sci.physique" source="195582" target="43975">
+	<data key="topic">fr.sci.physique</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

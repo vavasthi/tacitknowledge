@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="997918"/>
+<node id="642011"/>
+<node id="642334"/>
+<node id="994200"/>
+<node id="887790"/>
+<node id="642025"/>
+<node id="908207"/>
+<node id="908201"/>
+<node id="679"/>
+<node id="2024"/>
+<node id="348846"/>
+<node id="642018"/>
+<node id="1744915"/>
+<node id="642019"/>
+<node id="642022"/>
+<node id="446252"/>
+<node id="5745"/>
+<node id="1036352"/>
+<node id="832955"/>
+<node id="908209"/>
+<node id="908212"/>
+<node id="994192"/>
+<node id="1455985"/>
+<node id="365776"/>
+<node id="376393"/>
+<node id="608519"/>
+<edge id="997918-1455985-comp.theory.cell-automata" source="997918" target="1455985">
+	<data key="topic">comp.theory.cell-automata</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="642011-642025-comp.theory.cell-automata" source="642011" target="642025">
+	<data key="topic">comp.theory.cell-automata</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="642011-376393-comp.theory.cell-automata" source="642011" target="376393">
+	<data key="topic">comp.theory.cell-automata</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="642334-348846-comp.theory.cell-automata" source="642334" target="348846">
+	<data key="topic">comp.theory.cell-automata</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="642334-365776-comp.theory.cell-automata" source="642334" target="365776">
+	<data key="topic">comp.theory.cell-automata</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="994200-642334-comp.theory.cell-automata" source="994200" target="642334">
+	<data key="topic">comp.theory.cell-automata</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="994200-348846-comp.theory.cell-automata" source="994200" target="348846">
+	<data key="topic">comp.theory.cell-automata</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="994200-642019-comp.theory.cell-automata" source="994200" target="642019">
+	<data key="topic">comp.theory.cell-automata</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="994200-365776-comp.theory.cell-automata" source="994200" target="365776">
+	<data key="topic">comp.theory.cell-automata</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="908207-908212-comp.theory.cell-automata" source="908207" target="908212">
+	<data key="topic">comp.theory.cell-automata</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="908201-908209-comp.theory.cell-automata" source="908201" target="908209">
+	<data key="topic">comp.theory.cell-automata</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="679-642025-comp.theory.cell-automata" source="679" target="642025">
+	<data key="topic">comp.theory.cell-automata</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="679-376393-comp.theory.cell-automata" source="679" target="376393">
+	<data key="topic">comp.theory.cell-automata</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348846-365776-comp.theory.cell-automata" source="348846" target="365776">
+	<data key="topic">comp.theory.cell-automata</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="642019-642334-comp.theory.cell-automata" source="642019" target="642334">
+	<data key="topic">comp.theory.cell-automata</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="642019-348846-comp.theory.cell-automata" source="642019" target="348846">
+	<data key="topic">comp.theory.cell-automata</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="642019-642018-comp.theory.cell-automata" source="642019" target="642018">
+	<data key="topic">comp.theory.cell-automata</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="642019-1744915-comp.theory.cell-automata" source="642019" target="1744915">
+	<data key="topic">comp.theory.cell-automata</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="642019-365776-comp.theory.cell-automata" source="642019" target="365776">
+	<data key="topic">comp.theory.cell-automata</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="642022-642025-comp.theory.cell-automata" source="642022" target="642025">
+	<data key="topic">comp.theory.cell-automata</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="446252-642018-comp.theory.cell-automata" source="446252" target="642018">
+	<data key="topic">comp.theory.cell-automata</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5745-348846-comp.theory.cell-automata" source="5745" target="348846">
+	<data key="topic">comp.theory.cell-automata</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5745-365776-comp.theory.cell-automata" source="5745" target="365776">
+	<data key="topic">comp.theory.cell-automata</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1036352-2024-comp.theory.cell-automata" source="1036352" target="2024">
+	<data key="topic">comp.theory.cell-automata</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="832955-887790-comp.theory.cell-automata" source="832955" target="887790">
+	<data key="topic">comp.theory.cell-automata</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="832955-994192-comp.theory.cell-automata" source="832955" target="994192">
+	<data key="topic">comp.theory.cell-automata</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="994192-887790-comp.theory.cell-automata" source="994192" target="887790">
+	<data key="topic">comp.theory.cell-automata</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="376393-642025-comp.theory.cell-automata" source="376393" target="642025">
+	<data key="topic">comp.theory.cell-automata</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="608519-642025-comp.theory.cell-automata" source="608519" target="642025">
+	<data key="topic">comp.theory.cell-automata</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="608519-679-comp.theory.cell-automata" source="608519" target="679">
+	<data key="topic">comp.theory.cell-automata</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="608519-376393-comp.theory.cell-automata" source="608519" target="376393">
+	<data key="topic">comp.theory.cell-automata</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

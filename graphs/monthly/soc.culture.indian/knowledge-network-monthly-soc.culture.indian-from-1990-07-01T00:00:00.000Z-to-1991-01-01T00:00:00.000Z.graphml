@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="4754"/>
+<node id="1229195"/>
+<node id="406030"/>
+<node id="418700"/>
+<node id="7327"/>
+<node id="1720678"/>
+<edge id="4754-418700-soc.culture.indian" source="4754" target="418700">
+	<data key="topic">soc.culture.indian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1229195-418700-soc.culture.indian" source="1229195" target="418700">
+	<data key="topic">soc.culture.indian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="406030-4754-soc.culture.indian" source="406030" target="4754">
+	<data key="topic">soc.culture.indian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="406030-418700-soc.culture.indian" source="406030" target="418700">
+	<data key="topic">soc.culture.indian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7327-1229195-soc.culture.indian" source="7327" target="1229195">
+	<data key="topic">soc.culture.indian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7327-418700-soc.culture.indian" source="7327" target="418700">
+	<data key="topic">soc.culture.indian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1720678-4754-soc.culture.indian" source="1720678" target="4754">
+	<data key="topic">soc.culture.indian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1720678-418700-soc.culture.indian" source="1720678" target="418700">
+	<data key="topic">soc.culture.indian</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

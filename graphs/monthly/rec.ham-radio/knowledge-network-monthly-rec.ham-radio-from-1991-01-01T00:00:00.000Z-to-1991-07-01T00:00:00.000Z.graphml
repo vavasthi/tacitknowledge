@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1972208"/>
+<node id="402582"/>
+<node id="357783"/>
+<node id="7061"/>
+<node id="353876"/>
+<node id="7130"/>
+<node id="361693"/>
+<node id="375584"/>
+<node id="991"/>
+<node id="353435"/>
+<node id="409957"/>
+<node id="357857"/>
+<node id="1691680"/>
+<node id="353379"/>
+<node id="1193"/>
+<node id="366958"/>
+<node id="14955"/>
+<node id="358575"/>
+<node id="402414"/>
+<node id="2712643"/>
+<node id="375594"/>
+<node id="359402"/>
+<node id="302"/>
+<node id="375273"/>
+<node id="364786"/>
+<node id="935932"/>
+<node id="701"/>
+<node id="412986"/>
+<node id="12547"/>
+<node id="1454390"/>
+<node id="422534"/>
+<node id="361666"/>
+<node id="350222"/>
+<node id="14922"/>
+<node id="2052021"/>
+<node id="370764"/>
+<edge id="402582-7130-rec.ham-radio" source="402582" target="7130">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="402582-1454390-rec.ham-radio" source="402582" target="1454390">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="357783-1454390-rec.ham-radio" source="357783" target="1454390">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7061-402582-rec.ham-radio" source="7061" target="402582">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7061-7130-rec.ham-radio" source="7061" target="7130">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7061-1454390-rec.ham-radio" source="7061" target="1454390">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="353876-1972208-rec.ham-radio" source="353876" target="1972208">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="353876-402414-rec.ham-radio" source="353876" target="402414">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7130-402582-rec.ham-radio" source="7130" target="402582">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7130-1454390-rec.ham-radio" source="7130" target="1454390">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="375584-357783-rec.ham-radio" source="375584" target="357783">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="375584-991-rec.ham-radio" source="375584" target="991">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="375584-1193-rec.ham-radio" source="375584" target="1193">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="375584-1454390-rec.ham-radio" source="375584" target="1454390">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="991-1193-rec.ham-radio" source="991" target="1193">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="991-1454390-rec.ham-radio" source="991" target="1454390">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="353435-361693-rec.ham-radio" source="353435" target="361693">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="353435-357857-rec.ham-radio" source="353435" target="357857">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="353435-375594-rec.ham-radio" source="353435" target="375594">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="353435-364786-rec.ham-radio" source="353435" target="364786">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="353379-361693-rec.ham-radio" source="353379" target="361693">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="353379-364786-rec.ham-radio" source="353379" target="364786">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1193-402582-rec.ham-radio" source="1193" target="402582">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1193-7130-rec.ham-radio" source="1193" target="7130">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1193-991-rec.ham-radio" source="1193" target="991">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1193-1454390-rec.ham-radio" source="1193" target="1454390">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="14955-361693-rec.ham-radio" source="14955" target="361693">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14955-353435-rec.ham-radio" source="14955" target="353435">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14955-357857-rec.ham-radio" source="14955" target="357857">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14955-375594-rec.ham-radio" source="14955" target="375594">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14955-364786-rec.ham-radio" source="14955" target="364786">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="358575-701-rec.ham-radio" source="358575" target="701">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="375594-361693-rec.ham-radio" source="375594" target="361693">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="375594-357857-rec.ham-radio" source="375594" target="357857">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="375594-364786-rec.ham-radio" source="375594" target="364786">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="359402-358575-rec.ham-radio" source="359402" target="358575">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="359402-701-rec.ham-radio" source="359402" target="701">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="302-14922-rec.ham-radio" source="302" target="14922">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="375273-364786-rec.ham-radio" source="375273" target="364786">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="364786-361693-rec.ham-radio" source="364786" target="361693">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="364786-2712643-rec.ham-radio" source="364786" target="2712643">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="935932-1454390-rec.ham-radio" source="935932" target="1454390">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="412986-1193-rec.ham-radio" source="412986" target="1193">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="412986-1454390-rec.ham-radio" source="412986" target="1454390">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12547-991-rec.ham-radio" source="12547" target="991">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12547-1193-rec.ham-radio" source="12547" target="1193">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12547-1454390-rec.ham-radio" source="12547" target="1454390">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="422534-991-rec.ham-radio" source="422534" target="991">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="422534-409957-rec.ham-radio" source="422534" target="409957">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="422534-1193-rec.ham-radio" source="422534" target="1193">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="422534-1454390-rec.ham-radio" source="422534" target="1454390">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350222-1691680-rec.ham-radio" source="350222" target="1691680">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350222-366958-rec.ham-radio" source="350222" target="366958">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350222-358575-rec.ham-radio" source="350222" target="358575">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350222-361666-rec.ham-radio" source="350222" target="361666">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350222-2052021-rec.ham-radio" source="350222" target="2052021">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="370764-361693-rec.ham-radio" source="370764" target="361693">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="370764-357857-rec.ham-radio" source="370764" target="357857">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="370764-364786-rec.ham-radio" source="370764" target="364786">
+	<data key="topic">rec.ham-radio</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

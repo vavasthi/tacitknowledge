@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="375798"/>
+<node id="434417"/>
+<node id="951657"/>
+<node id="348110"/>
+<node id="352653"/>
+<edge id="434417-375798-comp.sys.apple" source="434417" target="375798">
+	<data key="topic">comp.sys.apple</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="434417-348110-comp.sys.apple" source="434417" target="348110">
+	<data key="topic">comp.sys.apple</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="951657-352653-comp.sys.apple" source="951657" target="352653">
+	<data key="topic">comp.sys.apple</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

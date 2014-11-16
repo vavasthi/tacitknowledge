@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="7314"/>
+<node id="696346"/>
+<node id="36661"/>
+<node id="33079"/>
+<node id="513918"/>
+<node id="2119999"/>
+<node id="608407"/>
+<node id="716427"/>
+<node id="696361"/>
+<node id="1161588"/>
+<node id="2120009"/>
+<node id="511117"/>
+<node id="498156"/>
+<node id="696360"/>
+<node id="35246"/>
+<node id="28719"/>
+<node id="458793"/>
+<node id="2120016"/>
+<edge id="7314-696361-soc.feminism" source="7314" target="696361">
+	<data key="topic">soc.feminism</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7314-696360-soc.feminism" source="7314" target="696360">
+	<data key="topic">soc.feminism</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696346-608407-soc.feminism" source="696346" target="608407">
+	<data key="topic">soc.feminism</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696346-35246-soc.feminism" source="696346" target="35246">
+	<data key="topic">soc.feminism</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="33079-513918-soc.feminism" source="33079" target="513918">
+	<data key="topic">soc.feminism</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="608407-35246-soc.feminism" source="608407" target="35246">
+	<data key="topic">soc.feminism</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="716427-36661-soc.feminism" source="716427" target="36661">
+	<data key="topic">soc.feminism</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="716427-2120016-soc.feminism" source="716427" target="2120016">
+	<data key="topic">soc.feminism</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="511117-2119999-soc.feminism" source="511117" target="2119999">
+	<data key="topic">soc.feminism</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="498156-2119999-soc.feminism" source="498156" target="2119999">
+	<data key="topic">soc.feminism</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="498156-2120009-soc.feminism" source="498156" target="2120009">
+	<data key="topic">soc.feminism</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28719-1161588-soc.feminism" source="28719" target="1161588">
+	<data key="topic">soc.feminism</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="458793-1161588-soc.feminism" source="458793" target="1161588">
+	<data key="topic">soc.feminism</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="458793-28719-soc.feminism" source="458793" target="28719">
+	<data key="topic">soc.feminism</data>
+	<data key="weight">2</data>
+</edge>
+</graph>
+</graphml>

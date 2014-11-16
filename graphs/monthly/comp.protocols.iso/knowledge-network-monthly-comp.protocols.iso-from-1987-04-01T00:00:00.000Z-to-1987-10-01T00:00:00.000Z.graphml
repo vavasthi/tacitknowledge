@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1319846"/>
+<node id="390631"/>
+<node id="390679"/>
+<node id="398035"/>
+<node id="2657952"/>
+<node id="391055"/>
+<node id="1480427"/>
+<node id="3230"/>
+<node id="392140"/>
+<node id="412906"/>
+<edge id="2657952-3230-comp.protocols.iso" source="2657952" target="3230">
+	<data key="topic">comp.protocols.iso</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2657952-392140-comp.protocols.iso" source="2657952" target="392140">
+	<data key="topic">comp.protocols.iso</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391055-3230-comp.protocols.iso" source="391055" target="3230">
+	<data key="topic">comp.protocols.iso</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391055-392140-comp.protocols.iso" source="391055" target="392140">
+	<data key="topic">comp.protocols.iso</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392140-1319846-comp.protocols.iso" source="392140" target="1319846">
+	<data key="topic">comp.protocols.iso</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392140-390631-comp.protocols.iso" source="392140" target="390631">
+	<data key="topic">comp.protocols.iso</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392140-390679-comp.protocols.iso" source="392140" target="390679">
+	<data key="topic">comp.protocols.iso</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="392140-398035-comp.protocols.iso" source="392140" target="398035">
+	<data key="topic">comp.protocols.iso</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392140-2657952-comp.protocols.iso" source="392140" target="2657952">
+	<data key="topic">comp.protocols.iso</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="392140-1480427-comp.protocols.iso" source="392140" target="1480427">
+	<data key="topic">comp.protocols.iso</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392140-3230-comp.protocols.iso" source="392140" target="3230">
+	<data key="topic">comp.protocols.iso</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="392140-412906-comp.protocols.iso" source="392140" target="412906">
+	<data key="topic">comp.protocols.iso</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

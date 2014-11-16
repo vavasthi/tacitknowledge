@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="406407"/>
+<node id="400456"/>
+<node id="3829"/>
+<node id="1736"/>
+<node id="12617"/>
+<node id="266"/>
+<node id="1079770"/>
+<node id="362266"/>
+<node id="10749"/>
+<node id="15005"/>
+<node id="417147"/>
+<node id="435882"/>
+<edge id="400456-362266-misc.jobs.contract" source="400456" target="362266">
+	<data key="topic">misc.jobs.contract</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3829-400456-misc.jobs.contract" source="3829" target="400456">
+	<data key="topic">misc.jobs.contract</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3829-362266-misc.jobs.contract" source="3829" target="362266">
+	<data key="topic">misc.jobs.contract</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="12617-1079770-misc.jobs.contract" source="12617" target="1079770">
+	<data key="topic">misc.jobs.contract</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12617-10749-misc.jobs.contract" source="12617" target="10749">
+	<data key="topic">misc.jobs.contract</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="266-435882-misc.jobs.contract" source="266" target="435882">
+	<data key="topic">misc.jobs.contract</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362266-400456-misc.jobs.contract" source="362266" target="400456">
+	<data key="topic">misc.jobs.contract</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="10749-1079770-misc.jobs.contract" source="10749" target="1079770">
+	<data key="topic">misc.jobs.contract</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15005-1736-misc.jobs.contract" source="15005" target="1736">
+	<data key="topic">misc.jobs.contract</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="417147-406407-misc.jobs.contract" source="417147" target="406407">
+	<data key="topic">misc.jobs.contract</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

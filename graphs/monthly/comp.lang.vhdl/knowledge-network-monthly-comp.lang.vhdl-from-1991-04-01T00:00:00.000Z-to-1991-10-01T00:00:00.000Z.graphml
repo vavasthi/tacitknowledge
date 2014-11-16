@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="830654"/>
+<node id="582748"/>
+<node id="949726"/>
+<node id="2506067"/>
+<node id="1109416"/>
+<node id="374173"/>
+<node id="1109418"/>
+<node id="352956"/>
+<node id="360902"/>
+<node id="412391"/>
+<node id="930"/>
+<node id="582732"/>
+<node id="1691165"/>
+<node id="1961820"/>
+<node id="552"/>
+<node id="1806877"/>
+<node id="33576"/>
+<node id="572449"/>
+<node id="425135"/>
+<node id="347920"/>
+<node id="425133"/>
+<node id="374188"/>
+<edge id="830654-949726-comp.lang.vhdl" source="830654" target="949726">
+	<data key="topic">comp.lang.vhdl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1109416-412391-comp.lang.vhdl" source="1109416" target="412391">
+	<data key="topic">comp.lang.vhdl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="374173-33576-comp.lang.vhdl" source="374173" target="33576">
+	<data key="topic">comp.lang.vhdl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="582732-582748-comp.lang.vhdl" source="582732" target="582748">
+	<data key="topic">comp.lang.vhdl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="582732-572449-comp.lang.vhdl" source="582732" target="572449">
+	<data key="topic">comp.lang.vhdl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1691165-2506067-comp.lang.vhdl" source="1691165" target="2506067">
+	<data key="topic">comp.lang.vhdl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1961820-425135-comp.lang.vhdl" source="1961820" target="425135">
+	<data key="topic">comp.lang.vhdl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="552-360902-comp.lang.vhdl" source="552" target="360902">
+	<data key="topic">comp.lang.vhdl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347920-930-comp.lang.vhdl" source="347920" target="930">
+	<data key="topic">comp.lang.vhdl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347920-1806877-comp.lang.vhdl" source="347920" target="1806877">
+	<data key="topic">comp.lang.vhdl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="425133-1109418-comp.lang.vhdl" source="425133" target="1109418">
+	<data key="topic">comp.lang.vhdl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="425133-352956-comp.lang.vhdl" source="425133" target="352956">
+	<data key="topic">comp.lang.vhdl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="374188-352956-comp.lang.vhdl" source="374188" target="352956">
+	<data key="topic">comp.lang.vhdl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="374188-425133-comp.lang.vhdl" source="374188" target="425133">
+	<data key="topic">comp.lang.vhdl</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

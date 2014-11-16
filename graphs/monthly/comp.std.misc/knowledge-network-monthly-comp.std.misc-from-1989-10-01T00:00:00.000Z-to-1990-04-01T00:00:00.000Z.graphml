@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="434359"/>
+<node id="6612"/>
+<node id="363762"/>
+<node id="6680"/>
+<node id="20569"/>
+<node id="33950"/>
+<node id="15360"/>
+<node id="3429"/>
+<node id="16135"/>
+<node id="10696"/>
+<node id="710467"/>
+<node id="1815891"/>
+<node id="15691"/>
+<node id="617862"/>
+<node id="372937"/>
+<node id="549991"/>
+<node id="613191"/>
+<edge id="6612-549991-comp.std.misc" source="6612" target="549991">
+	<data key="topic">comp.std.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="6680-1815891-comp.std.misc" source="6680" target="1815891">
+	<data key="topic">comp.std.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20569-1815891-comp.std.misc" source="20569" target="1815891">
+	<data key="topic">comp.std.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="33950-6612-comp.std.misc" source="33950" target="6612">
+	<data key="topic">comp.std.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="33950-549991-comp.std.misc" source="33950" target="549991">
+	<data key="topic">comp.std.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15360-20569-comp.std.misc" source="15360" target="20569">
+	<data key="topic">comp.std.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15360-1815891-comp.std.misc" source="15360" target="1815891">
+	<data key="topic">comp.std.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16135-363762-comp.std.misc" source="16135" target="363762">
+	<data key="topic">comp.std.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10696-363762-comp.std.misc" source="10696" target="363762">
+	<data key="topic">comp.std.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="710467-3429-comp.std.misc" source="710467" target="3429">
+	<data key="topic">comp.std.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15691-372937-comp.std.misc" source="15691" target="372937">
+	<data key="topic">comp.std.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="617862-434359-comp.std.misc" source="617862" target="434359">
+	<data key="topic">comp.std.misc</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="699225"/>
+<node id="698911"/>
+<node id="1610768"/>
+<node id="870390"/>
+<node id="2650"/>
+<node id="21949"/>
+<node id="2011809"/>
+<node id="362310"/>
+<node id="2849"/>
+<node id="403654"/>
+<node id="499937"/>
+<node id="869573"/>
+<node id="415053"/>
+<node id="704162"/>
+<node id="741185"/>
+<node id="551814"/>
+<node id="617160"/>
+<edge id="699225-2849-alt.hypertext" source="699225" target="2849">
+	<data key="topic">alt.hypertext</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2650-1610768-alt.hypertext" source="2650" target="1610768">
+	<data key="topic">alt.hypertext</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="21949-704162-alt.hypertext" source="21949" target="704162">
+	<data key="topic">alt.hypertext</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="21949-617160-alt.hypertext" source="21949" target="617160">
+	<data key="topic">alt.hypertext</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362310-698911-alt.hypertext" source="362310" target="698911">
+	<data key="topic">alt.hypertext</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362310-2011809-alt.hypertext" source="362310" target="2011809">
+	<data key="topic">alt.hypertext</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="403654-551814-alt.hypertext" source="403654" target="551814">
+	<data key="topic">alt.hypertext</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="499937-741185-alt.hypertext" source="499937" target="741185">
+	<data key="topic">alt.hypertext</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="869573-870390-alt.hypertext" source="869573" target="870390">
+	<data key="topic">alt.hypertext</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="415053-2849-alt.hypertext" source="415053" target="2849">
+	<data key="topic">alt.hypertext</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="227"/>
+<node id="2724"/>
+<node id="443750"/>
+<node id="15447"/>
+<node id="14779"/>
+<node id="1752839"/>
+<node id="1172317"/>
+<node id="32510"/>
+<node id="7182"/>
+<node id="14975"/>
+<node id="788499"/>
+<node id="224"/>
+<edge id="227-1172317-sci.bio.technology" source="227" target="1172317">
+	<data key="topic">sci.bio.technology</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2724-1172317-sci.bio.technology" source="2724" target="1172317">
+	<data key="topic">sci.bio.technology</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2724-32510-sci.bio.technology" source="2724" target="32510">
+	<data key="topic">sci.bio.technology</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="443750-1172317-sci.bio.technology" source="443750" target="1172317">
+	<data key="topic">sci.bio.technology</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15447-14975-sci.bio.technology" source="15447" target="14975">
+	<data key="topic">sci.bio.technology</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14779-7182-sci.bio.technology" source="14779" target="7182">
+	<data key="topic">sci.bio.technology</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="32510-1172317-sci.bio.technology" source="32510" target="1172317">
+	<data key="topic">sci.bio.technology</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7182-14779-sci.bio.technology" source="7182" target="14779">
+	<data key="topic">sci.bio.technology</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="14975-15447-sci.bio.technology" source="14975" target="15447">
+	<data key="topic">sci.bio.technology</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="788499-1752839-sci.bio.technology" source="788499" target="1752839">
+	<data key="topic">sci.bio.technology</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="224-1752839-sci.bio.technology" source="224" target="1752839">
+	<data key="topic">sci.bio.technology</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1556071"/>
+<node id="13394"/>
+<node id="374229"/>
+<node id="371064"/>
+<node id="372465"/>
+<node id="443668"/>
+<node id="374"/>
+<node id="381758"/>
+<node id="435134"/>
+<node id="364506"/>
+<node id="364518"/>
+<node id="5796"/>
+<node id="367202"/>
+<node id="882121"/>
+<node id="373539"/>
+<node id="364526"/>
+<node id="350928"/>
+<node id="783334"/>
+<edge id="13394-364518-comp.sys.ibm.pc.programmer" source="13394" target="364518">
+	<data key="topic">comp.sys.ibm.pc.programmer</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="374229-882121-comp.sys.ibm.pc.programmer" source="374229" target="882121">
+	<data key="topic">comp.sys.ibm.pc.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="371064-364518-comp.sys.ibm.pc.programmer" source="371064" target="364518">
+	<data key="topic">comp.sys.ibm.pc.programmer</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="443668-372465-comp.sys.ibm.pc.programmer" source="443668" target="372465">
+	<data key="topic">comp.sys.ibm.pc.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="435134-372465-comp.sys.ibm.pc.programmer" source="435134" target="372465">
+	<data key="topic">comp.sys.ibm.pc.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5796-1556071-comp.sys.ibm.pc.programmer" source="5796" target="1556071">
+	<data key="topic">comp.sys.ibm.pc.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="367202-364506-comp.sys.ibm.pc.programmer" source="367202" target="364506">
+	<data key="topic">comp.sys.ibm.pc.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350928-381758-comp.sys.ibm.pc.programmer" source="350928" target="381758">
+	<data key="topic">comp.sys.ibm.pc.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="783334-374-comp.sys.ibm.pc.programmer" source="783334" target="374">
+	<data key="topic">comp.sys.ibm.pc.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="783334-364518-comp.sys.ibm.pc.programmer" source="783334" target="364518">
+	<data key="topic">comp.sys.ibm.pc.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="783334-373539-comp.sys.ibm.pc.programmer" source="783334" target="373539">
+	<data key="topic">comp.sys.ibm.pc.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="783334-364526-comp.sys.ibm.pc.programmer" source="783334" target="364526">
+	<data key="topic">comp.sys.ibm.pc.programmer</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

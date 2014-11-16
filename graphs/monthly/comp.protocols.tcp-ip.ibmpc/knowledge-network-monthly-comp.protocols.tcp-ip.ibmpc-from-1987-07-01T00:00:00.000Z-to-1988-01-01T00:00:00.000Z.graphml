@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="395155"/>
+<node id="23705"/>
+<node id="1090477"/>
+<node id="723991"/>
+<node id="2849"/>
+<node id="23842"/>
+<node id="23715"/>
+<node id="447021"/>
+<node id="31532"/>
+<node id="723367"/>
+<node id="23727"/>
+<node id="447543"/>
+<node id="2000720"/>
+<node id="730046"/>
+<node id="30008"/>
+<node id="501809"/>
+<node id="730036"/>
+<node id="2000712"/>
+<node id="2000708"/>
+<node id="430009"/>
+<node id="730037"/>
+<node id="729909"/>
+<node id="454842"/>
+<node id="23874"/>
+<node id="730058"/>
+<node id="20038"/>
+<node id="30406"/>
+<node id="504911"/>
+<node id="730051"/>
+<node id="29006"/>
+<node id="730076"/>
+<node id="23382"/>
+<node id="730068"/>
+<node id="665044"/>
+<node id="730072"/>
+<node id="19038"/>
+<node id="668885"/>
+<node id="671829"/>
+<node id="730091"/>
+<node id="1868895"/>
+<node id="665059"/>
+<node id="729059"/>
+<node id="412906"/>
+<node id="454390"/>
+<node id="730112"/>
+<node id="23803"/>
+<node id="397950"/>
+<node id="692344"/>
+<node id="665097"/>
+<node id="449285"/>
+<node id="1017486"/>
+<node id="23814"/>
+<node id="724879"/>
+<node id="723844"/>
+<node id="23818"/>
+<node id="389776"/>
+<node id="23820"/>
+<node id="34317"/>
+<node id="665096"/>
+<node id="24079"/>
+<node id="665094"/>
+<edge id="395155-723991-comp.protocols.tcp-ip.ibmpc" source="395155" target="723991">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="395155-34317-comp.protocols.tcp-ip.ibmpc" source="395155" target="34317">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="23705-23814-comp.protocols.tcp-ip.ibmpc" source="23705" target="23814">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1090477-2000720-comp.protocols.tcp-ip.ibmpc" source="1090477" target="2000720">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="723991-449285-comp.protocols.tcp-ip.ibmpc" source="723991" target="449285">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="723991-34317-comp.protocols.tcp-ip.ibmpc" source="723991" target="34317">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2849-23715-comp.protocols.tcp-ip.ibmpc" source="2849" target="23715">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2849-34317-comp.protocols.tcp-ip.ibmpc" source="2849" target="34317">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23842-665044-comp.protocols.tcp-ip.ibmpc" source="23842" target="665044">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="447021-2849-comp.protocols.tcp-ip.ibmpc" source="447021" target="2849">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="447021-23715-comp.protocols.tcp-ip.ibmpc" source="447021" target="23715">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="447021-34317-comp.protocols.tcp-ip.ibmpc" source="447021" target="34317">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="31532-730036-comp.protocols.tcp-ip.ibmpc" source="31532" target="730036">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="31532-23874-comp.protocols.tcp-ip.ibmpc" source="31532" target="23874">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="31532-504911-comp.protocols.tcp-ip.ibmpc" source="31532" target="504911">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="31532-23814-comp.protocols.tcp-ip.ibmpc" source="31532" target="23814">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="723367-23715-comp.protocols.tcp-ip.ibmpc" source="723367" target="23715">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23727-23874-comp.protocols.tcp-ip.ibmpc" source="23727" target="23874">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23727-665094-comp.protocols.tcp-ip.ibmpc" source="23727" target="665094">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="447543-730068-comp.protocols.tcp-ip.ibmpc" source="447543" target="730068">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="447543-668885-comp.protocols.tcp-ip.ibmpc" source="447543" target="668885">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="447543-23803-comp.protocols.tcp-ip.ibmpc" source="447543" target="23803">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30008-692344-comp.protocols.tcp-ip.ibmpc" source="30008" target="692344">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="501809-24079-comp.protocols.tcp-ip.ibmpc" source="501809" target="24079">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2000712-2000720-comp.protocols.tcp-ip.ibmpc" source="2000712" target="2000720">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="430009-2849-comp.protocols.tcp-ip.ibmpc" source="430009" target="2849">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="430009-23715-comp.protocols.tcp-ip.ibmpc" source="430009" target="23715">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="430009-730051-comp.protocols.tcp-ip.ibmpc" source="430009" target="730051">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="430009-34317-comp.protocols.tcp-ip.ibmpc" source="430009" target="34317">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="729909-730036-comp.protocols.tcp-ip.ibmpc" source="729909" target="730036">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="729909-1868895-comp.protocols.tcp-ip.ibmpc" source="729909" target="1868895">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="454842-23715-comp.protocols.tcp-ip.ibmpc" source="454842" target="23715">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="454842-23874-comp.protocols.tcp-ip.ibmpc" source="454842" target="23874">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23874-723991-comp.protocols.tcp-ip.ibmpc" source="23874" target="723991">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23874-23715-comp.protocols.tcp-ip.ibmpc" source="23874" target="23715">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23874-723367-comp.protocols.tcp-ip.ibmpc" source="23874" target="723367">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23874-23727-comp.protocols.tcp-ip.ibmpc" source="23874" target="23727">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23874-730037-comp.protocols.tcp-ip.ibmpc" source="23874" target="730037">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23874-454842-comp.protocols.tcp-ip.ibmpc" source="23874" target="454842">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23874-504911-comp.protocols.tcp-ip.ibmpc" source="23874" target="504911">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23874-19038-comp.protocols.tcp-ip.ibmpc" source="23874" target="19038">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="23874-449285-comp.protocols.tcp-ip.ibmpc" source="23874" target="449285">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20038-730036-comp.protocols.tcp-ip.ibmpc" source="20038" target="730036">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30406-23874-comp.protocols.tcp-ip.ibmpc" source="30406" target="23874">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="504911-23874-comp.protocols.tcp-ip.ibmpc" source="504911" target="23874">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="504911-23382-comp.protocols.tcp-ip.ibmpc" source="504911" target="23382">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="504911-730068-comp.protocols.tcp-ip.ibmpc" source="504911" target="730068">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="730051-2849-comp.protocols.tcp-ip.ibmpc" source="730051" target="2849">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="730051-23715-comp.protocols.tcp-ip.ibmpc" source="730051" target="23715">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="730051-34317-comp.protocols.tcp-ip.ibmpc" source="730051" target="34317">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-730076-comp.protocols.tcp-ip.ibmpc" source="29006" target="730076">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-671829-comp.protocols.tcp-ip.ibmpc" source="29006" target="671829">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="29006-665059-comp.protocols.tcp-ip.ibmpc" source="29006" target="665059">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-34317-comp.protocols.tcp-ip.ibmpc" source="29006" target="34317">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19038-23715-comp.protocols.tcp-ip.ibmpc" source="19038" target="23715">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="19038-730037-comp.protocols.tcp-ip.ibmpc" source="19038" target="730037">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19038-729909-comp.protocols.tcp-ip.ibmpc" source="19038" target="729909">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19038-23874-comp.protocols.tcp-ip.ibmpc" source="19038" target="23874">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19038-23814-comp.protocols.tcp-ip.ibmpc" source="19038" target="23814">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="671829-397950-comp.protocols.tcp-ip.ibmpc" source="671829" target="397950">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="730091-730058-comp.protocols.tcp-ip.ibmpc" source="730091" target="730058">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="730091-730072-comp.protocols.tcp-ip.ibmpc" source="730091" target="730072">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="730091-23818-comp.protocols.tcp-ip.ibmpc" source="730091" target="23818">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="665059-671829-comp.protocols.tcp-ip.ibmpc" source="665059" target="671829">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="665059-34317-comp.protocols.tcp-ip.ibmpc" source="665059" target="34317">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="729059-1017486-comp.protocols.tcp-ip.ibmpc" source="729059" target="1017486">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="412906-668885-comp.protocols.tcp-ip.ibmpc" source="412906" target="668885">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="730112-397950-comp.protocols.tcp-ip.ibmpc" source="730112" target="397950">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23803-23715-comp.protocols.tcp-ip.ibmpc" source="23803" target="23715">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23803-730046-comp.protocols.tcp-ip.ibmpc" source="23803" target="730046">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23803-2000708-comp.protocols.tcp-ip.ibmpc" source="23803" target="2000708">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23803-730058-comp.protocols.tcp-ip.ibmpc" source="23803" target="730058">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23803-668885-comp.protocols.tcp-ip.ibmpc" source="23803" target="668885">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23803-1868895-comp.protocols.tcp-ip.ibmpc" source="23803" target="1868895">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23803-665097-comp.protocols.tcp-ip.ibmpc" source="23803" target="665097">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23803-389776-comp.protocols.tcp-ip.ibmpc" source="23803" target="389776">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="665097-23727-comp.protocols.tcp-ip.ibmpc" source="665097" target="23727">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="665097-730037-comp.protocols.tcp-ip.ibmpc" source="665097" target="730037">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="449285-723991-comp.protocols.tcp-ip.ibmpc" source="449285" target="723991">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="449285-454842-comp.protocols.tcp-ip.ibmpc" source="449285" target="454842">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="449285-23874-comp.protocols.tcp-ip.ibmpc" source="449285" target="23874">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23814-19038-comp.protocols.tcp-ip.ibmpc" source="23814" target="19038">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="724879-1017486-comp.protocols.tcp-ip.ibmpc" source="724879" target="1017486">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="723844-23715-comp.protocols.tcp-ip.ibmpc" source="723844" target="23715">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23820-730036-comp.protocols.tcp-ip.ibmpc" source="23820" target="730036">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23820-23874-comp.protocols.tcp-ip.ibmpc" source="23820" target="23874">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23820-454390-comp.protocols.tcp-ip.ibmpc" source="23820" target="454390">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23820-23814-comp.protocols.tcp-ip.ibmpc" source="23820" target="23814">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="34317-395155-comp.protocols.tcp-ip.ibmpc" source="34317" target="395155">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="34317-723991-comp.protocols.tcp-ip.ibmpc" source="34317" target="723991">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="34317-2849-comp.protocols.tcp-ip.ibmpc" source="34317" target="2849">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="34317-23715-comp.protocols.tcp-ip.ibmpc" source="34317" target="23715">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="34317-454842-comp.protocols.tcp-ip.ibmpc" source="34317" target="454842">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="34317-23874-comp.protocols.tcp-ip.ibmpc" source="34317" target="23874">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="34317-19038-comp.protocols.tcp-ip.ibmpc" source="34317" target="19038">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="34317-671829-comp.protocols.tcp-ip.ibmpc" source="34317" target="671829">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="34317-449285-comp.protocols.tcp-ip.ibmpc" source="34317" target="449285">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="665094-23803-comp.protocols.tcp-ip.ibmpc" source="665094" target="23803">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="665094-665096-comp.protocols.tcp-ip.ibmpc" source="665094" target="665096">
+	<data key="topic">comp.protocols.tcp-ip.ibmpc</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

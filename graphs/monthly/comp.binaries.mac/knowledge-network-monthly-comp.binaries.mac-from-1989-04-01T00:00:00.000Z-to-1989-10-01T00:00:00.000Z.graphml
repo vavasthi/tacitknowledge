@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1236711"/>
+<node id="514706"/>
+<node id="738334"/>
+<node id="354643"/>
+<node id="2765169"/>
+<node id="1855912"/>
+<node id="21597"/>
+<node id="439399"/>
+<node id="870190"/>
+<node id="610"/>
+<node id="536107"/>
+<node id="806703"/>
+<node id="15333"/>
+<node id="3239"/>
+<node id="514657"/>
+<node id="927786"/>
+<node id="20971"/>
+<node id="354922"/>
+<node id="6576"/>
+<node id="1236702"/>
+<node id="514552"/>
+<node id="355511"/>
+<node id="7029"/>
+<node id="1265159"/>
+<node id="6967"/>
+<node id="2120471"/>
+<node id="21176"/>
+<node id="510449"/>
+<node id="514686"/>
+<node id="697015"/>
+<node id="2752"/>
+<node id="514489"/>
+<node id="807156"/>
+<node id="698699"/>
+<node id="26306"/>
+<node id="1205876"/>
+<node id="503238"/>
+<node id="438798"/>
+<node id="539592"/>
+<node id="697030"/>
+<edge id="697015-697030-comp.binaries.mac" source="697015" target="697030">
+	<data key="topic">comp.binaries.mac</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="697030-697015-comp.binaries.mac" source="697030" target="697015">
+	<data key="topic">comp.binaries.mac</data>
+	<data key="weight">5</data>
+</edge>
+</graph>
+</graphml>

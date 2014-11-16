@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="338134"/>
+<node id="461335"/>
+<node id="1145765"/>
+<node id="460369"/>
+<node id="459217"/>
+<node id="461279"/>
+<node id="18590"/>
+<node id="341337"/>
+<node id="462299"/>
+<node id="338214"/>
+<node id="459428"/>
+<node id="459620"/>
+<node id="460143"/>
+<node id="339760"/>
+<node id="459181"/>
+<node id="459692"/>
+<node id="1144734"/>
+<node id="339190"/>
+<node id="463544"/>
+<node id="562236"/>
+<node id="461255"/>
+<node id="461190"/>
+<node id="339975"/>
+<node id="459460"/>
+<node id="459330"/>
+<node id="461072"/>
+<node id="344144"/>
+<node id="339407"/>
+<node id="461261"/>
+<node id="337866"/>
+<node id="29006"/>
+<node id="461194"/>
+<edge id="338134-461072-net.news.b" source="338134" target="461072">
+	<data key="topic">net.news.b</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338134-461194-net.news.b" source="338134" target="461194">
+	<data key="topic">net.news.b</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="461335-459217-net.news.b" source="461335" target="459217">
+	<data key="topic">net.news.b</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="461279-460369-net.news.b" source="461279" target="460369">
+	<data key="topic">net.news.b</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18590-339975-net.news.b" source="18590" target="339975">
+	<data key="topic">net.news.b</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341337-463544-net.news.b" source="341337" target="463544">
+	<data key="topic">net.news.b</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="462299-1145765-net.news.b" source="462299" target="1145765">
+	<data key="topic">net.news.b</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="459428-459181-net.news.b" source="459428" target="459181">
+	<data key="topic">net.news.b</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459428-459692-net.news.b" source="459428" target="459692">
+	<data key="topic">net.news.b</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459620-460143-net.news.b" source="459620" target="460143">
+	<data key="topic">net.news.b</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339760-459181-net.news.b" source="339760" target="459181">
+	<data key="topic">net.news.b</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339190-338214-net.news.b" source="339190" target="338214">
+	<data key="topic">net.news.b</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339190-459692-net.news.b" source="339190" target="459692">
+	<data key="topic">net.news.b</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="562236-1144734-net.news.b" source="562236" target="1144734">
+	<data key="topic">net.news.b</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="461255-338134-net.news.b" source="461255" target="338134">
+	<data key="topic">net.news.b</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="461190-339975-net.news.b" source="461190" target="339975">
+	<data key="topic">net.news.b</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339975-1145765-net.news.b" source="339975" target="1145765">
+	<data key="topic">net.news.b</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459460-459620-net.news.b" source="459460" target="459620">
+	<data key="topic">net.news.b</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459460-460143-net.news.b" source="459460" target="460143">
+	<data key="topic">net.news.b</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459330-459428-net.news.b" source="459330" target="459428">
+	<data key="topic">net.news.b</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459330-337866-net.news.b" source="459330" target="337866">
+	<data key="topic">net.news.b</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="344144-459428-net.news.b" source="344144" target="459428">
+	<data key="topic">net.news.b</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="461261-18590-net.news.b" source="461261" target="18590">
+	<data key="topic">net.news.b</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="461261-339760-net.news.b" source="461261" target="339760">
+	<data key="topic">net.news.b</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="461261-339975-net.news.b" source="461261" target="339975">
+	<data key="topic">net.news.b</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-461279-net.news.b" source="337866" target="461279">
+	<data key="topic">net.news.b</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-459428-net.news.b" source="337866" target="459428">
+	<data key="topic">net.news.b</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-339190-net.news.b" source="29006" target="339190">
+	<data key="topic">net.news.b</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-339407-net.news.b" source="29006" target="339407">
+	<data key="topic">net.news.b</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="515447"/>
+<node id="700089"/>
+<node id="740671"/>
+<node id="36791"/>
+<node id="747697"/>
+<node id="20253"/>
+<node id="573228"/>
+<node id="431844"/>
+<node id="517314"/>
+<node id="701325"/>
+<node id="15209"/>
+<node id="14986"/>
+<node id="796806"/>
+<node id="500429"/>
+<node id="713191"/>
+<node id="740712"/>
+<node id="31790"/>
+<node id="701384"/>
+<node id="20784"/>
+<edge id="700089-701325-misc.consumers" source="700089" target="701325">
+	<data key="topic">misc.consumers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36791-14986-misc.consumers" source="36791" target="14986">
+	<data key="topic">misc.consumers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="747697-740671-misc.consumers" source="747697" target="740671">
+	<data key="topic">misc.consumers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="747697-573228-misc.consumers" source="747697" target="573228">
+	<data key="topic">misc.consumers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="747697-740712-misc.consumers" source="747697" target="740712">
+	<data key="topic">misc.consumers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20253-515447-misc.consumers" source="20253" target="515447">
+	<data key="topic">misc.consumers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="517314-701384-misc.consumers" source="517314" target="701384">
+	<data key="topic">misc.consumers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="500429-796806-misc.consumers" source="500429" target="796806">
+	<data key="topic">misc.consumers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="31790-15209-misc.consumers" source="31790" target="15209">
+	<data key="topic">misc.consumers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20784-431844-misc.consumers" source="20784" target="431844">
+	<data key="topic">misc.consumers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20784-713191-misc.consumers" source="20784" target="713191">
+	<data key="topic">misc.consumers</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

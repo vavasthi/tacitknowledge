@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="341432"/>
+<node id="460211"/>
+<node id="562706"/>
+<node id="561044"/>
+<node id="524245"/>
+<node id="460199"/>
+<node id="459847"/>
+<node id="459748"/>
+<node id="459428"/>
+<node id="341604"/>
+<node id="28424"/>
+<node id="461359"/>
+<node id="1144764"/>
+<node id="1423899"/>
+<node id="459817"/>
+<edge id="562706-459847-net.comics" source="562706" target="459847">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="562706-459428-net.comics" source="562706" target="459428">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="562706-1144764-net.comics" source="562706" target="1144764">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="524245-1423899-net.comics" source="524245" target="1423899">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460199-460211-net.comics" source="460199" target="460211">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460199-461359-net.comics" source="460199" target="461359">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341604-561044-net.comics" source="341604" target="561044">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341604-524245-net.comics" source="341604" target="524245">
+	<data key="topic">net.comics</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="341604-28424-net.comics" source="341604" target="28424">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341604-1423899-net.comics" source="341604" target="1423899">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="461359-341432-net.comics" source="461359" target="341432">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="461359-460211-net.comics" source="461359" target="460211">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1423899-562706-net.comics" source="1423899" target="562706">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1423899-524245-net.comics" source="1423899" target="524245">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1423899-459847-net.comics" source="1423899" target="459847">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1423899-459748-net.comics" source="1423899" target="459748">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459817-459748-net.comics" source="459817" target="459748">
+	<data key="topic">net.comics</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

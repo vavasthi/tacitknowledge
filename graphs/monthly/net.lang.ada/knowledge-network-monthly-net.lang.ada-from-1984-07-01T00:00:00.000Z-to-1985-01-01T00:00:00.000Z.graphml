@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="485335"/>
+<node id="459539"/>
+<node id="340020"/>
+<node id="341278"/>
+<node id="346941"/>
+<node id="461359"/>
+<node id="398717"/>
+<node id="338336"/>
+<node id="341098"/>
+<edge id="485335-341278-net.lang.ada" source="485335" target="341278">
+	<data key="topic">net.lang.ada</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="485335-461359-net.lang.ada" source="485335" target="461359">
+	<data key="topic">net.lang.ada</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="485335-338336-net.lang.ada" source="485335" target="338336">
+	<data key="topic">net.lang.ada</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="346941-340020-net.lang.ada" source="346941" target="340020">
+	<data key="topic">net.lang.ada</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="346941-398717-net.lang.ada" source="346941" target="398717">
+	<data key="topic">net.lang.ada</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341098-459539-net.lang.ada" source="341098" target="459539">
+	<data key="topic">net.lang.ada</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

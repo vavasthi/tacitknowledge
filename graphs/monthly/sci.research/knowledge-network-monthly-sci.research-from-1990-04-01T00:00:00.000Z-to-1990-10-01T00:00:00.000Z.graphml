@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="520151"/>
+<node id="1753017"/>
+<node id="833791"/>
+<node id="1178437"/>
+<node id="10105"/>
+<node id="351758"/>
+<node id="608641"/>
+<node id="642582"/>
+<node id="15006"/>
+<node id="1456396"/>
+<edge id="1753017-520151-sci.research" source="1753017" target="520151">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10105-1178437-sci.research" source="10105" target="1178437">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="351758-520151-sci.research" source="351758" target="520151">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="351758-1753017-sci.research" source="351758" target="1753017">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="351758-15006-sci.research" source="351758" target="15006">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="608641-1456396-sci.research" source="608641" target="1456396">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="642582-833791-sci.research" source="642582" target="833791">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15006-520151-sci.research" source="15006" target="520151">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15006-1753017-sci.research" source="15006" target="1753017">
+	<data key="topic">sci.research</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

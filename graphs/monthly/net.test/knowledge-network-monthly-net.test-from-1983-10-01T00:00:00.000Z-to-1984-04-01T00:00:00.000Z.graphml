@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="563675"/>
+<node id="564893"/>
+<node id="2635006"/>
+<node id="462813"/>
+<node id="19234"/>
+<node id="462309"/>
+<node id="530989"/>
+<node id="397295"/>
+<node id="1438496"/>
+<node id="1260761"/>
+<node id="1260766"/>
+<node id="462328"/>
+<node id="459639"/>
+<node id="459634"/>
+<node id="959862"/>
+<node id="459645"/>
+<node id="392570"/>
+<node id="340026"/>
+<node id="680373"/>
+<node id="680586"/>
+<node id="339074"/>
+<node id="522436"/>
+<node id="24584"/>
+<node id="680590"/>
+<node id="680583"/>
+<edge id="563675-459645-net.test" source="563675" target="459645">
+	<data key="topic">net.test</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="564893-680590-net.test" source="564893" target="680590">
+	<data key="topic">net.test</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="462813-462309-net.test" source="462813" target="462309">
+	<data key="topic">net.test</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="397295-959862-net.test" source="397295" target="959862">
+	<data key="topic">net.test</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1260761-462813-net.test" source="1260761" target="462813">
+	<data key="topic">net.test</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="462328-2635006-net.test" source="462328" target="2635006">
+	<data key="topic">net.test</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="462328-680373-net.test" source="462328" target="680373">
+	<data key="topic">net.test</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459634-459639-net.test" source="459634" target="459639">
+	<data key="topic">net.test</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340026-19234-net.test" source="340026" target="19234">
+	<data key="topic">net.test</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339074-1260766-net.test" source="339074" target="1260766">
+	<data key="topic">net.test</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24584-392570-net.test" source="24584" target="392570">
+	<data key="topic">net.test</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="680583-1438496-net.test" source="680583" target="1438496">
+	<data key="topic">net.test</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

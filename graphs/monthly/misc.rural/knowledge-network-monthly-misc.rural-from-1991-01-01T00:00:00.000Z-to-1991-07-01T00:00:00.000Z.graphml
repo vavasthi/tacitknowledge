@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="375414"/>
+<node id="507624"/>
+<node id="890333"/>
+<node id="379016"/>
+<node id="362978"/>
+<node id="6758"/>
+<node id="14791"/>
+<node id="2625871"/>
+<node id="373583"/>
+<node id="359402"/>
+<edge id="375414-379016-misc.rural" source="375414" target="379016">
+	<data key="topic">misc.rural</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="507624-379016-misc.rural" source="507624" target="379016">
+	<data key="topic">misc.rural</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="507624-6758-misc.rural" source="507624" target="6758">
+	<data key="topic">misc.rural</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="890333-379016-misc.rural" source="890333" target="379016">
+	<data key="topic">misc.rural</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="379016-890333-misc.rural" source="379016" target="890333">
+	<data key="topic">misc.rural</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362978-14791-misc.rural" source="362978" target="14791">
+	<data key="topic">misc.rural</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="6758-890333-misc.rural" source="6758" target="890333">
+	<data key="topic">misc.rural</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="6758-379016-misc.rural" source="6758" target="379016">
+	<data key="topic">misc.rural</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2625871-379016-misc.rural" source="2625871" target="379016">
+	<data key="topic">misc.rural</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="373583-379016-misc.rural" source="373583" target="379016">
+	<data key="topic">misc.rural</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="359402-890333-misc.rural" source="359402" target="890333">
+	<data key="topic">misc.rural</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="359402-379016-misc.rural" source="359402" target="379016">
+	<data key="topic">misc.rural</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="359402-6758-misc.rural" source="359402" target="6758">
+	<data key="topic">misc.rural</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

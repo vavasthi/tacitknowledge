@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="501208"/>
+<node id="501222"/>
+<node id="501218"/>
+<node id="446781"/>
+<edge id="501208-501222-comp.os.v" source="501208" target="501222">
+	<data key="topic">comp.os.v</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="501218-501208-comp.os.v" source="501218" target="501208">
+	<data key="topic">comp.os.v</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="501218-501222-comp.os.v" source="501218" target="501222">
+	<data key="topic">comp.os.v</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="501218-446781-comp.os.v" source="501218" target="446781">
+	<data key="topic">comp.os.v</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="446781-501208-comp.os.v" source="446781" target="501208">
+	<data key="topic">comp.os.v</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="446781-501222-comp.os.v" source="446781" target="501222">
+	<data key="topic">comp.os.v</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

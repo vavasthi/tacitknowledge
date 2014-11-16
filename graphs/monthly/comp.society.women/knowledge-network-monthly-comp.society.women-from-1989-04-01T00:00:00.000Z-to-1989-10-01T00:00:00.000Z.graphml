@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1215235"/>
+<node id="804893"/>
+<node id="704441"/>
+<node id="516117"/>
+<node id="696768"/>
+<node id="696765"/>
+<node id="2765021"/>
+<node id="498193"/>
+<node id="498211"/>
+<node id="10726"/>
+<node id="31462"/>
+<node id="1192181"/>
+<node id="696771"/>
+<node id="2120009"/>
+<node id="1265019"/>
+<node id="334"/>
+<node id="1236480"/>
+<node id="1192189"/>
+<node id="1265021"/>
+<edge id="516117-10726-comp.society.women" source="516117" target="10726">
+	<data key="topic">comp.society.women</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="516117-696771-comp.society.women" source="516117" target="696771">
+	<data key="topic">comp.society.women</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696768-10726-comp.society.women" source="696768" target="10726">
+	<data key="topic">comp.society.women</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696765-704441-comp.society.women" source="696765" target="704441">
+	<data key="topic">comp.society.women</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2765021-1192189-comp.society.women" source="2765021" target="1192189">
+	<data key="topic">comp.society.women</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="498193-1192189-comp.society.women" source="498193" target="1192189">
+	<data key="topic">comp.society.women</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="498211-804893-comp.society.women" source="498211" target="804893">
+	<data key="topic">comp.society.women</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696771-10726-comp.society.women" source="696771" target="10726">
+	<data key="topic">comp.society.women</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2120009-1192181-comp.society.women" source="2120009" target="1192181">
+	<data key="topic">comp.society.women</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="334-1215235-comp.society.women" source="334" target="1215235">
+	<data key="topic">comp.society.women</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1236480-31462-comp.society.women" source="1236480" target="31462">
+	<data key="topic">comp.society.women</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1265021-1265019-comp.society.women" source="1265021" target="1265019">
+	<data key="topic">comp.society.women</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

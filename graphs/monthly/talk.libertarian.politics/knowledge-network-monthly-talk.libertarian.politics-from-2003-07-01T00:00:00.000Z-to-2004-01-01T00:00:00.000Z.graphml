@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="44771"/>
+<node id="46405"/>
+<node id="55078"/>
+<node id="46249"/>
+<node id="41245"/>
+<node id="40687"/>
+<node id="45199"/>
+<edge id="44771-40687-talk.libertarian.politics" source="44771" target="40687">
+	<data key="topic">talk.libertarian.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="46405-41245-talk.libertarian.politics" source="46405" target="41245">
+	<data key="topic">talk.libertarian.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="46405-40687-talk.libertarian.politics" source="46405" target="40687">
+	<data key="topic">talk.libertarian.politics</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="55078-46405-talk.libertarian.politics" source="55078" target="46405">
+	<data key="topic">talk.libertarian.politics</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="55078-41245-talk.libertarian.politics" source="55078" target="41245">
+	<data key="topic">talk.libertarian.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="55078-40687-talk.libertarian.politics" source="55078" target="40687">
+	<data key="topic">talk.libertarian.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="46249-46405-talk.libertarian.politics" source="46249" target="46405">
+	<data key="topic">talk.libertarian.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="46249-40687-talk.libertarian.politics" source="46249" target="40687">
+	<data key="topic">talk.libertarian.politics</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="41245-46405-talk.libertarian.politics" source="41245" target="46405">
+	<data key="topic">talk.libertarian.politics</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="41245-55078-talk.libertarian.politics" source="41245" target="55078">
+	<data key="topic">talk.libertarian.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41245-40687-talk.libertarian.politics" source="41245" target="40687">
+	<data key="topic">talk.libertarian.politics</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="40687-46405-talk.libertarian.politics" source="40687" target="46405">
+	<data key="topic">talk.libertarian.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="45199-46405-talk.libertarian.politics" source="45199" target="46405">
+	<data key="topic">talk.libertarian.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="45199-46249-talk.libertarian.politics" source="45199" target="46249">
+	<data key="topic">talk.libertarian.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="45199-40687-talk.libertarian.politics" source="45199" target="40687">
+	<data key="topic">talk.libertarian.politics</data>
+	<data key="weight">2</data>
+</edge>
+</graph>
+</graphml>

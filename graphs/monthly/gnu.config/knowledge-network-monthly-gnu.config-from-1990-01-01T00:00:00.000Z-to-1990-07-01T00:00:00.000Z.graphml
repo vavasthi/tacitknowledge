@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2854"/>
+<node id="2038"/>
+<node id="611759"/>
+<node id="558821"/>
+<node id="559910"/>
+<node id="496"/>
+<edge id="2854-611759-gnu.config" source="2854" target="611759">
+	<data key="topic">gnu.config</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2854-558821-gnu.config" source="2854" target="558821">
+	<data key="topic">gnu.config</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2854-559910-gnu.config" source="2854" target="559910">
+	<data key="topic">gnu.config</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="611759-558821-gnu.config" source="611759" target="558821">
+	<data key="topic">gnu.config</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="611759-559910-gnu.config" source="611759" target="559910">
+	<data key="topic">gnu.config</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="558821-611759-gnu.config" source="558821" target="611759">
+	<data key="topic">gnu.config</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="558821-559910-gnu.config" source="558821" target="559910">
+	<data key="topic">gnu.config</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="559910-2038-gnu.config" source="559910" target="2038">
+	<data key="topic">gnu.config</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="496-2854-gnu.config" source="496" target="2854">
+	<data key="topic">gnu.config</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="496-611759-gnu.config" source="496" target="611759">
+	<data key="topic">gnu.config</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="496-558821-gnu.config" source="496" target="558821">
+	<data key="topic">gnu.config</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="496-559910-gnu.config" source="496" target="559910">
+	<data key="topic">gnu.config</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="6612"/>
+<node id="612475"/>
+<node id="347921"/>
+<node id="698419"/>
+<node id="740339"/>
+<node id="780721"/>
+<node id="698418"/>
+<node id="1378090"/>
+<node id="709973"/>
+<node id="1856739"/>
+<node id="673898"/>
+<node id="865836"/>
+<node id="551300"/>
+<node id="514347"/>
+<node id="517483"/>
+<node id="614248"/>
+<edge id="6612-709973-comp.ivideodisc" source="6612" target="709973">
+	<data key="topic">comp.ivideodisc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="6612-614248-comp.ivideodisc" source="6612" target="614248">
+	<data key="topic">comp.ivideodisc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="612475-780721-comp.ivideodisc" source="612475" target="780721">
+	<data key="topic">comp.ivideodisc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347921-740339-comp.ivideodisc" source="347921" target="740339">
+	<data key="topic">comp.ivideodisc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="698419-709973-comp.ivideodisc" source="698419" target="709973">
+	<data key="topic">comp.ivideodisc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="780721-551300-comp.ivideodisc" source="780721" target="551300">
+	<data key="topic">comp.ivideodisc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="780721-614248-comp.ivideodisc" source="780721" target="614248">
+	<data key="topic">comp.ivideodisc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="698418-698419-comp.ivideodisc" source="698418" target="698419">
+	<data key="topic">comp.ivideodisc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1856739-709973-comp.ivideodisc" source="1856739" target="709973">
+	<data key="topic">comp.ivideodisc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="673898-1378090-comp.ivideodisc" source="673898" target="1378090">
+	<data key="topic">comp.ivideodisc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="865836-551300-comp.ivideodisc" source="865836" target="551300">
+	<data key="topic">comp.ivideodisc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="514347-709973-comp.ivideodisc" source="514347" target="709973">
+	<data key="topic">comp.ivideodisc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="517483-780721-comp.ivideodisc" source="517483" target="780721">
+	<data key="topic">comp.ivideodisc</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

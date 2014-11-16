@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="337430"/>
+<node id="345912"/>
+<node id="338487"/>
+<node id="397332"/>
+<node id="337376"/>
+<node id="337568"/>
+<node id="339206"/>
+<node id="632009"/>
+<node id="337985"/>
+<node id="599810"/>
+<node id="624612"/>
+<node id="339244"/>
+<node id="486921"/>
+<edge id="337430-337376-net.lsi" source="337430" target="337376">
+	<data key="topic">net.lsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="345912-339206-net.lsi" source="345912" target="339206">
+	<data key="topic">net.lsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338487-397332-net.lsi" source="338487" target="397332">
+	<data key="topic">net.lsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338487-337376-net.lsi" source="338487" target="337376">
+	<data key="topic">net.lsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="397332-337376-net.lsi" source="397332" target="337376">
+	<data key="topic">net.lsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337376-339244-net.lsi" source="337376" target="339244">
+	<data key="topic">net.lsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337568-599810-net.lsi" source="337568" target="599810">
+	<data key="topic">net.lsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337985-337376-net.lsi" source="337985" target="337376">
+	<data key="topic">net.lsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337985-339244-net.lsi" source="337985" target="339244">
+	<data key="topic">net.lsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="624612-397332-net.lsi" source="624612" target="397332">
+	<data key="topic">net.lsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="624612-337376-net.lsi" source="624612" target="337376">
+	<data key="topic">net.lsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339244-337376-net.lsi" source="339244" target="337376">
+	<data key="topic">net.lsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="486921-632009-net.lsi" source="486921" target="632009">
+	<data key="topic">net.lsi</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

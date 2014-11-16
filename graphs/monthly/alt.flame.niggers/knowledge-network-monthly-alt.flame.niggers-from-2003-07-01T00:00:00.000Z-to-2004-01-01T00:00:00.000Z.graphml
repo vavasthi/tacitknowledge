@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="38465"/>
+<node id="38673"/>
+<node id="45053"/>
+<edge id="38465-45053-alt.flame.niggers" source="38465" target="45053">
+	<data key="topic">alt.flame.niggers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="38673-45053-alt.flame.niggers" source="38673" target="45053">
+	<data key="topic">alt.flame.niggers</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

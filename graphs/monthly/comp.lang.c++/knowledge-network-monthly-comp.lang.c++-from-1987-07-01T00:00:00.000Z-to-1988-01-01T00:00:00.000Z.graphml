@@ -1,0 +1,990 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="451991"/>
+<node id="2002096"/>
+<node id="28307"/>
+<node id="390813"/>
+<node id="451749"/>
+<node id="17573"/>
+<node id="666542"/>
+<node id="1026984"/>
+<node id="454061"/>
+<node id="17069"/>
+<node id="16816"/>
+<node id="1025470"/>
+<node id="17332"/>
+<node id="24758"/>
+<node id="446897"/>
+<node id="24762"/>
+<node id="24768"/>
+<node id="16068"/>
+<node id="16324"/>
+<node id="1025485"/>
+<node id="722377"/>
+<node id="504769"/>
+<node id="24780"/>
+<node id="2893729"/>
+<node id="666824"/>
+<node id="1088446"/>
+<node id="731356"/>
+<node id="24786"/>
+<node id="15573"/>
+<node id="24791"/>
+<node id="15836"/>
+<node id="24028"/>
+<node id="24796"/>
+<node id="20702"/>
+<node id="24799"/>
+<node id="666838"/>
+<node id="666859"/>
+<node id="18402"/>
+<node id="24806"/>
+<node id="448493"/>
+<node id="396782"/>
+<node id="31980"/>
+<node id="666850"/>
+<node id="27374"/>
+<node id="666853"/>
+<node id="24817"/>
+<node id="583676"/>
+<node id="2749406"/>
+<node id="24824"/>
+<node id="2749399"/>
+<node id="344584"/>
+<node id="731405"/>
+<node id="26125"/>
+<node id="2003698"/>
+<node id="17683"/>
+<node id="5915"/>
+<node id="19227"/>
+<node id="662831"/>
+<node id="1500436"/>
+<node id="390689"/>
+<node id="724270"/>
+<node id="341296"/>
+<node id="448299"/>
+<node id="18226"/>
+<node id="506679"/>
+<node id="1018173"/>
+<node id="33593"/>
+<node id="1014834"/>
+<node id="17729"/>
+<node id="2113"/>
+<node id="20802"/>
+<node id="15939"/>
+<node id="2661153"/>
+<node id="456016"/>
+<node id="456012"/>
+<node id="974148"/>
+<node id="456023"/>
+<node id="456024"/>
+<node id="395093"/>
+<node id="1322855"/>
+<node id="514131"/>
+<node id="24662"/>
+<node id="456020"/>
+<node id="15191"/>
+<node id="456031"/>
+<node id="456029"/>
+<node id="1016148"/>
+<node id="456040"/>
+<node id="453988"/>
+<node id="456036"/>
+<node id="396909"/>
+<node id="16495"/>
+<node id="21360"/>
+<node id="16498"/>
+<node id="448118"/>
+<node id="26231"/>
+<node id="17784"/>
+<node id="17020"/>
+<node id="457342"/>
+<node id="456057"/>
+<node id="1026701"/>
+<node id="726160"/>
+<node id="932748"/>
+<edge id="451991-2002096-comp.lang.c++" source="451991" target="2002096">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="451991-666824-comp.lang.c++" source="451991" target="666824">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="451991-344584-comp.lang.c++" source="451991" target="344584">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="451991-1016148-comp.lang.c++" source="451991" target="1016148">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2002096-666824-comp.lang.c++" source="2002096" target="666824">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2002096-344584-comp.lang.c++" source="2002096" target="344584">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2002096-1016148-comp.lang.c++" source="2002096" target="1016148">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28307-724270-comp.lang.c++" source="28307" target="724270">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="451749-26125-comp.lang.c++" source="451749" target="26125">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17573-666824-comp.lang.c++" source="17573" target="666824">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="17573-344584-comp.lang.c++" source="17573" target="344584">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="17573-1500436-comp.lang.c++" source="17573" target="1500436">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17573-17729-comp.lang.c++" source="17573" target="17729">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17573-1016148-comp.lang.c++" source="17573" target="1016148">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="666542-504769-comp.lang.c++" source="666542" target="504769">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="666542-666824-comp.lang.c++" source="666542" target="666824">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="666542-344584-comp.lang.c++" source="666542" target="344584">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="666542-1016148-comp.lang.c++" source="666542" target="1016148">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1026984-666824-comp.lang.c++" source="1026984" target="666824">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1026984-344584-comp.lang.c++" source="1026984" target="344584">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1026984-1016148-comp.lang.c++" source="1026984" target="1016148">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17069-1025485-comp.lang.c++" source="17069" target="1025485">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17069-18402-comp.lang.c++" source="17069" target="18402">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="16816-448493-comp.lang.c++" source="16816" target="448493">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17332-28307-comp.lang.c++" source="17332" target="28307">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17332-724270-comp.lang.c++" source="17332" target="724270">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24758-28307-comp.lang.c++" source="24758" target="28307">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24758-17573-comp.lang.c++" source="24758" target="17573">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24758-16816-comp.lang.c++" source="24758" target="16816">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24758-666824-comp.lang.c++" source="24758" target="666824">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24758-24799-comp.lang.c++" source="24758" target="24799">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24758-18402-comp.lang.c++" source="24758" target="18402">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24758-31980-comp.lang.c++" source="24758" target="31980">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24758-666853-comp.lang.c++" source="24758" target="666853">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24758-344584-comp.lang.c++" source="24758" target="344584">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24758-724270-comp.lang.c++" source="24758" target="724270">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24758-456023-comp.lang.c++" source="24758" target="456023">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24758-1016148-comp.lang.c++" source="24758" target="1016148">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24762-24768-comp.lang.c++" source="24762" target="24768">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24768-506679-comp.lang.c++" source="24768" target="506679">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16068-1088446-comp.lang.c++" source="16068" target="1088446">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16324-19227-comp.lang.c++" source="16324" target="19227">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="722377-1088446-comp.lang.c++" source="722377" target="1088446">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2893729-24758-comp.lang.c++" source="2893729" target="24758">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2893729-24806-comp.lang.c++" source="2893729" target="24806">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2893729-17729-comp.lang.c++" source="2893729" target="17729">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="666824-1016148-comp.lang.c++" source="666824" target="1016148">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24786-2002096-comp.lang.c++" source="24786" target="2002096">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24786-666824-comp.lang.c++" source="24786" target="666824">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24786-15573-comp.lang.c++" source="24786" target="15573">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24786-24817-comp.lang.c++" source="24786" target="24817">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24786-2749399-comp.lang.c++" source="24786" target="2749399">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24786-344584-comp.lang.c++" source="24786" target="344584">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24786-15939-comp.lang.c++" source="24786" target="15939">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24786-1016148-comp.lang.c++" source="24786" target="1016148">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24786-26231-comp.lang.c++" source="24786" target="26231">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15573-2002096-comp.lang.c++" source="15573" target="2002096">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15573-666824-comp.lang.c++" source="15573" target="666824">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="15573-344584-comp.lang.c++" source="15573" target="344584">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="15573-1016148-comp.lang.c++" source="15573" target="1016148">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="15573-26231-comp.lang.c++" source="15573" target="26231">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="24791-1026984-comp.lang.c++" source="24791" target="1026984">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24791-666824-comp.lang.c++" source="24791" target="666824">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24791-344584-comp.lang.c++" source="24791" target="344584">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24791-506679-comp.lang.c++" source="24791" target="506679">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24791-1016148-comp.lang.c++" source="24791" target="1016148">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15836-1014834-comp.lang.c++" source="15836" target="1014834">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24028-1026984-comp.lang.c++" source="24028" target="1026984">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24028-666824-comp.lang.c++" source="24028" target="666824">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24028-20702-comp.lang.c++" source="24028" target="20702">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24028-344584-comp.lang.c++" source="24028" target="344584">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24028-390689-comp.lang.c++" source="24028" target="390689">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24028-456012-comp.lang.c++" source="24028" target="456012">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24028-1016148-comp.lang.c++" source="24028" target="1016148">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24028-21360-comp.lang.c++" source="24028" target="21360">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24796-666824-comp.lang.c++" source="24796" target="666824">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24796-344584-comp.lang.c++" source="24796" target="344584">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24796-1016148-comp.lang.c++" source="24796" target="1016148">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="666838-666850-comp.lang.c++" source="666838" target="666850">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18402-24758-comp.lang.c++" source="18402" target="24758">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18402-1025485-comp.lang.c++" source="18402" target="1025485">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="18402-666824-comp.lang.c++" source="18402" target="666824">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18402-15573-comp.lang.c++" source="18402" target="15573">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18402-666853-comp.lang.c++" source="18402" target="666853">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18402-344584-comp.lang.c++" source="18402" target="344584">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18402-17729-comp.lang.c++" source="18402" target="17729">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18402-1016148-comp.lang.c++" source="18402" target="1016148">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18402-26231-comp.lang.c++" source="18402" target="26231">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24806-24758-comp.lang.c++" source="24806" target="24758">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24806-17729-comp.lang.c++" source="24806" target="17729">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="448493-16816-comp.lang.c++" source="448493" target="16816">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="666850-666838-comp.lang.c++" source="666850" target="666838">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="27374-1014834-comp.lang.c++" source="27374" target="1014834">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="666853-21360-comp.lang.c++" source="666853" target="21360">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24817-446897-comp.lang.c++" source="24817" target="446897">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24817-24799-comp.lang.c++" source="24817" target="24799">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24817-2749406-comp.lang.c++" source="24817" target="2749406">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24817-2749399-comp.lang.c++" source="24817" target="2749399">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24817-33593-comp.lang.c++" source="24817" target="33593">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24817-2113-comp.lang.c++" source="24817" target="2113">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24817-15939-comp.lang.c++" source="24817" target="15939">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24817-2661153-comp.lang.c++" source="24817" target="2661153">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="344584-666824-comp.lang.c++" source="344584" target="666824">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="344584-1016148-comp.lang.c++" source="344584" target="1016148">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="731405-724270-comp.lang.c++" source="731405" target="724270">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="26125-2002096-comp.lang.c++" source="26125" target="2002096">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="26125-666824-comp.lang.c++" source="26125" target="666824">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="26125-15573-comp.lang.c++" source="26125" target="15573">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="26125-344584-comp.lang.c++" source="26125" target="344584">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="26125-1016148-comp.lang.c++" source="26125" target="1016148">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="26125-26231-comp.lang.c++" source="26125" target="26231">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2003698-17573-comp.lang.c++" source="2003698" target="17573">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2003698-666824-comp.lang.c++" source="2003698" target="666824">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2003698-344584-comp.lang.c++" source="2003698" target="344584">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2003698-17729-comp.lang.c++" source="2003698" target="17729">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2003698-1016148-comp.lang.c++" source="2003698" target="1016148">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17683-24786-comp.lang.c++" source="17683" target="24786">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17683-514131-comp.lang.c++" source="17683" target="514131">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5915-666838-comp.lang.c++" source="5915" target="666838">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="662831-341296-comp.lang.c++" source="662831" target="341296">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1500436-1026984-comp.lang.c++" source="1500436" target="1026984">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1500436-666824-comp.lang.c++" source="1500436" target="666824">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1500436-344584-comp.lang.c++" source="1500436" target="344584">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1500436-1016148-comp.lang.c++" source="1500436" target="1016148">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390689-20702-comp.lang.c++" source="390689" target="20702">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="724270-21360-comp.lang.c++" source="724270" target="21360">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341296-451749-comp.lang.c++" source="341296" target="451749">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341296-26125-comp.lang.c++" source="341296" target="26125">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18226-2002096-comp.lang.c++" source="18226" target="2002096">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18226-666824-comp.lang.c++" source="18226" target="666824">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="18226-731356-comp.lang.c++" source="18226" target="731356">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18226-15573-comp.lang.c++" source="18226" target="15573">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18226-2749406-comp.lang.c++" source="18226" target="2749406">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18226-2749399-comp.lang.c++" source="18226" target="2749399">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18226-344584-comp.lang.c++" source="18226" target="344584">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="18226-1016148-comp.lang.c++" source="18226" target="1016148">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="18226-26231-comp.lang.c++" source="18226" target="26231">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1018173-20702-comp.lang.c++" source="1018173" target="20702">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="33593-446897-comp.lang.c++" source="33593" target="446897">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="33593-448299-comp.lang.c++" source="33593" target="448299">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1014834-666824-comp.lang.c++" source="1014834" target="666824">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1014834-344584-comp.lang.c++" source="1014834" target="344584">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1014834-1016148-comp.lang.c++" source="1014834" target="1016148">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17729-17573-comp.lang.c++" source="17729" target="17573">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="17729-666542-comp.lang.c++" source="17729" target="666542">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17729-1026984-comp.lang.c++" source="17729" target="1026984">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17729-1025470-comp.lang.c++" source="17729" target="1025470">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17729-1025485-comp.lang.c++" source="17729" target="1025485">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17729-666824-comp.lang.c++" source="17729" target="666824">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="17729-24796-comp.lang.c++" source="17729" target="24796">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17729-666859-comp.lang.c++" source="17729" target="666859">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17729-18402-comp.lang.c++" source="17729" target="18402">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17729-396782-comp.lang.c++" source="17729" target="396782">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17729-24824-comp.lang.c++" source="17729" target="24824">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17729-344584-comp.lang.c++" source="17729" target="344584">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="17729-1016148-comp.lang.c++" source="17729" target="1016148">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="20802-666824-comp.lang.c++" source="20802" target="666824">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20802-1016148-comp.lang.c++" source="20802" target="1016148">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15939-2749399-comp.lang.c++" source="15939" target="2749399">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="974148-1088446-comp.lang.c++" source="974148" target="1088446">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="456024-456023-comp.lang.c++" source="456024" target="456023">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="395093-731356-comp.lang.c++" source="395093" target="731356">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="395093-18226-comp.lang.c++" source="395093" target="18226">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1322855-24758-comp.lang.c++" source="1322855" target="24758">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1322855-24806-comp.lang.c++" source="1322855" target="24806">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1322855-17729-comp.lang.c++" source="1322855" target="17729">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="514131-24786-comp.lang.c++" source="514131" target="24786">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="514131-17683-comp.lang.c++" source="514131" target="17683">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="514131-726160-comp.lang.c++" source="514131" target="726160">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="24662-666824-comp.lang.c++" source="24662" target="666824">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24662-344584-comp.lang.c++" source="24662" target="344584">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24662-1014834-comp.lang.c++" source="24662" target="1014834">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24662-1016148-comp.lang.c++" source="24662" target="1016148">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15191-17069-comp.lang.c++" source="15191" target="17069">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15191-24758-comp.lang.c++" source="15191" target="24758">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15191-24768-comp.lang.c++" source="15191" target="24768">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15191-24780-comp.lang.c++" source="15191" target="24780">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15191-666824-comp.lang.c++" source="15191" target="666824">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15191-344584-comp.lang.c++" source="15191" target="344584">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15191-1016148-comp.lang.c++" source="15191" target="1016148">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="456031-24028-comp.lang.c++" source="456031" target="24028">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="456029-456031-comp.lang.c++" source="456029" target="456031">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="453988-24799-comp.lang.c++" source="453988" target="24799">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="453988-456016-comp.lang.c++" source="453988" target="456016">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="456036-454061-comp.lang.c++" source="456036" target="454061">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="456036-456040-comp.lang.c++" source="456036" target="456040">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="396909-666824-comp.lang.c++" source="396909" target="666824">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="396909-456012-comp.lang.c++" source="396909" target="456012">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="396909-1016148-comp.lang.c++" source="396909" target="1016148">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16495-1026984-comp.lang.c++" source="16495" target="1026984">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16495-666824-comp.lang.c++" source="16495" target="666824">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16495-24028-comp.lang.c++" source="16495" target="24028">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16495-344584-comp.lang.c++" source="16495" target="344584">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16495-1016148-comp.lang.c++" source="16495" target="1016148">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16498-390813-comp.lang.c++" source="16498" target="390813">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16498-583676-comp.lang.c++" source="16498" target="583676">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="448118-1026984-comp.lang.c++" source="448118" target="1026984">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="448118-16816-comp.lang.c++" source="448118" target="16816">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="448118-24758-comp.lang.c++" source="448118" target="24758">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="448118-666824-comp.lang.c++" source="448118" target="666824">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="448118-344584-comp.lang.c++" source="448118" target="344584">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="448118-456020-comp.lang.c++" source="448118" target="456020">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="448118-1016148-comp.lang.c++" source="448118" target="1016148">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="26231-2002096-comp.lang.c++" source="26231" target="2002096">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="26231-666824-comp.lang.c++" source="26231" target="666824">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="26231-15573-comp.lang.c++" source="26231" target="15573">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="26231-344584-comp.lang.c++" source="26231" target="344584">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="26231-1016148-comp.lang.c++" source="26231" target="1016148">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="17784-19227-comp.lang.c++" source="17784" target="19227">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17020-24799-comp.lang.c++" source="17020" target="24799">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="457342-19227-comp.lang.c++" source="457342" target="19227">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="456057-456016-comp.lang.c++" source="456057" target="456016">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="456057-453988-comp.lang.c++" source="456057" target="453988">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1026701-666824-comp.lang.c++" source="1026701" target="666824">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1026701-344584-comp.lang.c++" source="1026701" target="344584">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1026701-1014834-comp.lang.c++" source="1026701" target="1014834">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1026701-1016148-comp.lang.c++" source="1026701" target="1016148">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="932748-666824-comp.lang.c++" source="932748" target="666824">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="932748-20802-comp.lang.c++" source="932748" target="20802">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="932748-1016148-comp.lang.c++" source="932748" target="1016148">
+	<data key="topic">comp.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

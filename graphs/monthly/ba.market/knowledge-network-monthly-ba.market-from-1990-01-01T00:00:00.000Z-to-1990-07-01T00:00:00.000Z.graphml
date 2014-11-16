@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="550681"/>
+<node id="377234"/>
+<node id="613999"/>
+<node id="2905493"/>
+<node id="1667044"/>
+<node id="614372"/>
+<node id="2905490"/>
+<node id="553351"/>
+<edge id="613999-614372-ba.market" source="613999" target="614372">
+	<data key="topic">ba.market</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2905493-377234-ba.market" source="2905493" target="377234">
+	<data key="topic">ba.market</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2905490-377234-ba.market" source="2905490" target="377234">
+	<data key="topic">ba.market</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2905490-2905493-ba.market" source="2905490" target="2905493">
+	<data key="topic">ba.market</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="553351-1667044-ba.market" source="553351" target="1667044">
+	<data key="topic">ba.market</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

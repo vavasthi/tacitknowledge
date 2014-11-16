@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="4947"/>
+<node id="14725"/>
+<node id="28935"/>
+<node id="353987"/>
+<node id="357914"/>
+<node id="1898529"/>
+<edge id="353987-4947-alt.dcom.telecom" source="353987" target="4947">
+	<data key="topic">alt.dcom.telecom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="353987-14725-alt.dcom.telecom" source="353987" target="14725">
+	<data key="topic">alt.dcom.telecom</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="353987-28935-alt.dcom.telecom" source="353987" target="28935">
+	<data key="topic">alt.dcom.telecom</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="357914-1898529-alt.dcom.telecom" source="357914" target="1898529">
+	<data key="topic">alt.dcom.telecom</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

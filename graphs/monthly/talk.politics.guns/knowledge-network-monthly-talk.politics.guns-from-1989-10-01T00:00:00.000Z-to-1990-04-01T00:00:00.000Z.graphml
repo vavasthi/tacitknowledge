@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="549674"/>
+<node id="1011982"/>
+<node id="751215"/>
+<node id="1736"/>
+<node id="10105"/>
+<node id="552530"/>
+<node id="1011970"/>
+<node id="354539"/>
+<node id="510857"/>
+<node id="875907"/>
+<edge id="1011982-1011970-talk.politics.guns" source="1011982" target="1011970">
+	<data key="topic">talk.politics.guns</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="751215-1011970-talk.politics.guns" source="751215" target="1011970">
+	<data key="topic">talk.politics.guns</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1736-10105-talk.politics.guns" source="1736" target="10105">
+	<data key="topic">talk.politics.guns</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10105-1736-talk.politics.guns" source="10105" target="1736">
+	<data key="topic">talk.politics.guns</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="552530-751215-talk.politics.guns" source="552530" target="751215">
+	<data key="topic">talk.politics.guns</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1011970-751215-talk.politics.guns" source="1011970" target="751215">
+	<data key="topic">talk.politics.guns</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="354539-1011982-talk.politics.guns" source="354539" target="1011982">
+	<data key="topic">talk.politics.guns</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="354539-1011970-talk.politics.guns" source="354539" target="1011970">
+	<data key="topic">talk.politics.guns</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="510857-751215-talk.politics.guns" source="510857" target="751215">
+	<data key="topic">talk.politics.guns</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="875907-549674-talk.politics.guns" source="875907" target="549674">
+	<data key="topic">talk.politics.guns</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

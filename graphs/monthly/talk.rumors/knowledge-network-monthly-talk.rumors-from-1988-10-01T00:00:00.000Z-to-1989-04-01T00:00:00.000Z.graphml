@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="552025"/>
+<node id="31992"/>
+<node id="19930"/>
+<node id="20282"/>
+<node id="766775"/>
+<node id="28959"/>
+<node id="342044"/>
+<node id="1363115"/>
+<node id="1212475"/>
+<node id="763681"/>
+<node id="29868"/>
+<node id="547110"/>
+<node id="505451"/>
+<edge id="766775-552025-talk.rumors" source="766775" target="552025">
+	<data key="topic">talk.rumors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="766775-1363115-talk.rumors" source="766775" target="1363115">
+	<data key="topic">talk.rumors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="766775-1212475-talk.rumors" source="766775" target="1212475">
+	<data key="topic">talk.rumors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28959-31992-talk.rumors" source="28959" target="31992">
+	<data key="topic">talk.rumors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28959-19930-talk.rumors" source="28959" target="19930">
+	<data key="topic">talk.rumors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28959-20282-talk.rumors" source="28959" target="20282">
+	<data key="topic">talk.rumors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28959-763681-talk.rumors" source="28959" target="763681">
+	<data key="topic">talk.rumors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="342044-552025-talk.rumors" source="342044" target="552025">
+	<data key="topic">talk.rumors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="342044-1212475-talk.rumors" source="342044" target="1212475">
+	<data key="topic">talk.rumors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1363115-552025-talk.rumors" source="1363115" target="552025">
+	<data key="topic">talk.rumors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1363115-1212475-talk.rumors" source="1363115" target="1212475">
+	<data key="topic">talk.rumors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1363115-505451-talk.rumors" source="1363115" target="505451">
+	<data key="topic">talk.rumors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="547110-552025-talk.rumors" source="547110" target="552025">
+	<data key="topic">talk.rumors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="547110-1363115-talk.rumors" source="547110" target="1363115">
+	<data key="topic">talk.rumors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="547110-1212475-talk.rumors" source="547110" target="1212475">
+	<data key="topic">talk.rumors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="547110-29868-talk.rumors" source="547110" target="29868">
+	<data key="topic">talk.rumors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="547110-505451-talk.rumors" source="547110" target="505451">
+	<data key="topic">talk.rumors</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

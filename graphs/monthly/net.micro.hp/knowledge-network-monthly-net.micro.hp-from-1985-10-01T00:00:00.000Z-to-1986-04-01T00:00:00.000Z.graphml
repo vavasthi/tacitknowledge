@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="471608"/>
+<node id="482581"/>
+<node id="490101"/>
+<node id="1696619"/>
+<node id="340050"/>
+<node id="471636"/>
+<node id="469150"/>
+<node id="339103"/>
+<node id="1697958"/>
+<node id="2482332"/>
+<node id="344838"/>
+<node id="337701"/>
+<node id="486694"/>
+<node id="1773374"/>
+<node id="2718977"/>
+<node id="488207"/>
+<node id="490478"/>
+<node id="980581"/>
+<node id="1696595"/>
+<node id="496525"/>
+<node id="2486511"/>
+<node id="2486506"/>
+<node id="489417"/>
+<edge id="471608-471636-net.micro.hp" source="471608" target="471636">
+	<data key="topic">net.micro.hp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="482581-490101-net.micro.hp" source="482581" target="490101">
+	<data key="topic">net.micro.hp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="482581-486694-net.micro.hp" source="482581" target="486694">
+	<data key="topic">net.micro.hp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="482581-1696595-net.micro.hp" source="482581" target="1696595">
+	<data key="topic">net.micro.hp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1696619-490101-net.micro.hp" source="1696619" target="490101">
+	<data key="topic">net.micro.hp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340050-490478-net.micro.hp" source="340050" target="490478">
+	<data key="topic">net.micro.hp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339103-1697958-net.micro.hp" source="339103" target="1697958">
+	<data key="topic">net.micro.hp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2482332-469150-net.micro.hp" source="2482332" target="469150">
+	<data key="topic">net.micro.hp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="344838-1697958-net.micro.hp" source="344838" target="1697958">
+	<data key="topic">net.micro.hp</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="337701-2718977-net.micro.hp" source="337701" target="2718977">
+	<data key="topic">net.micro.hp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1773374-2486506-net.micro.hp" source="1773374" target="2486506">
+	<data key="topic">net.micro.hp</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1773374-489417-net.micro.hp" source="1773374" target="489417">
+	<data key="topic">net.micro.hp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="488207-2486506-net.micro.hp" source="488207" target="2486506">
+	<data key="topic">net.micro.hp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="980581-1697958-net.micro.hp" source="980581" target="1697958">
+	<data key="topic">net.micro.hp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="496525-2486511-net.micro.hp" source="496525" target="2486511">
+	<data key="topic">net.micro.hp</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="450151"/>
+<node id="920365"/>
+<node id="921549"/>
+<node id="394038"/>
+<node id="394998"/>
+<node id="600576"/>
+<node id="1770926"/>
+<node id="502016"/>
+<node id="449405"/>
+<node id="1509677"/>
+<node id="19293"/>
+<node id="1506955"/>
+<edge id="450151-1509677-net.games.hack" source="450151" target="1509677">
+	<data key="topic">net.games.hack</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="920365-1770926-net.games.hack" source="920365" target="1770926">
+	<data key="topic">net.games.hack</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="920365-449405-net.games.hack" source="920365" target="449405">
+	<data key="topic">net.games.hack</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="921549-600576-net.games.hack" source="921549" target="600576">
+	<data key="topic">net.games.hack</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="394038-600576-net.games.hack" source="394038" target="600576">
+	<data key="topic">net.games.hack</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="394998-1506955-net.games.hack" source="394998" target="1506955">
+	<data key="topic">net.games.hack</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="502016-600576-net.games.hack" source="502016" target="600576">
+	<data key="topic">net.games.hack</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19293-600576-net.games.hack" source="19293" target="600576">
+	<data key="topic">net.games.hack</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

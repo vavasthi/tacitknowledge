@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="359030"/>
+<node id="781755"/>
+<node id="711290"/>
+<node id="787827"/>
+<node id="351483"/>
+<node id="1089360"/>
+<node id="559404"/>
+<node id="386785"/>
+<node id="25992"/>
+<node id="412098"/>
+<node id="2092"/>
+<node id="3247"/>
+<node id="780997"/>
+<node id="1287645"/>
+<edge id="359030-25992-comp.lang.icon" source="359030" target="25992">
+	<data key="topic">comp.lang.icon</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="781755-2092-comp.lang.icon" source="781755" target="2092">
+	<data key="topic">comp.lang.icon</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="711290-787827-comp.lang.icon" source="711290" target="787827">
+	<data key="topic">comp.lang.icon</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="351483-1287645-comp.lang.icon" source="351483" target="1287645">
+	<data key="topic">comp.lang.icon</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1089360-386785-comp.lang.icon" source="1089360" target="386785">
+	<data key="topic">comp.lang.icon</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="386785-1089360-comp.lang.icon" source="386785" target="1089360">
+	<data key="topic">comp.lang.icon</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="412098-559404-comp.lang.icon" source="412098" target="559404">
+	<data key="topic">comp.lang.icon</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3247-780997-comp.lang.icon" source="3247" target="780997">
+	<data key="topic">comp.lang.icon</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

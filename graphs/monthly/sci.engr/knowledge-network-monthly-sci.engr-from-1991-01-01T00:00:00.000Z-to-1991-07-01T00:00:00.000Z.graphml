@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1643690"/>
+<node id="380757"/>
+<node id="389011"/>
+<node id="1635813"/>
+<node id="10974"/>
+<node id="371161"/>
+<node id="424860"/>
+<node id="347739"/>
+<node id="1193"/>
+<node id="959271"/>
+<node id="14249"/>
+<node id="2040280"/>
+<node id="877153"/>
+<node id="1743512"/>
+<node id="14639"/>
+<node id="416233"/>
+<node id="878883"/>
+<node id="378219"/>
+<node id="375093"/>
+<node id="388977"/>
+<node id="1911"/>
+<node id="358836"/>
+<node id="1798660"/>
+<node id="15868"/>
+<node id="377530"/>
+<node id="363451"/>
+<node id="6146"/>
+<node id="325"/>
+<node id="363778"/>
+<node id="414915"/>
+<node id="423235"/>
+<node id="2073977"/>
+<node id="400397"/>
+<node id="839752"/>
+<node id="445646"/>
+<edge id="10974-380757-sci.engr" source="10974" target="380757">
+	<data key="topic">sci.engr</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="371161-1635813-sci.engr" source="371161" target="1635813">
+	<data key="topic">sci.engr</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="424860-389011-sci.engr" source="424860" target="389011">
+	<data key="topic">sci.engr</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1193-380757-sci.engr" source="1193" target="380757">
+	<data key="topic">sci.engr</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1193-10974-sci.engr" source="1193" target="10974">
+	<data key="topic">sci.engr</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="959271-14249-sci.engr" source="959271" target="14249">
+	<data key="topic">sci.engr</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2040280-877153-sci.engr" source="2040280" target="877153">
+	<data key="topic">sci.engr</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1743512-378219-sci.engr" source="1743512" target="378219">
+	<data key="topic">sci.engr</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="416233-1643690-sci.engr" source="416233" target="1643690">
+	<data key="topic">sci.engr</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="416233-358836-sci.engr" source="416233" target="358836">
+	<data key="topic">sci.engr</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="416233-2073977-sci.engr" source="416233" target="2073977">
+	<data key="topic">sci.engr</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="878883-389011-sci.engr" source="878883" target="389011">
+	<data key="topic">sci.engr</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="375093-1798660-sci.engr" source="375093" target="1798660">
+	<data key="topic">sci.engr</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="388977-877153-sci.engr" source="388977" target="877153">
+	<data key="topic">sci.engr</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1911-14639-sci.engr" source="1911" target="14639">
+	<data key="topic">sci.engr</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="358836-1643690-sci.engr" source="358836" target="1643690">
+	<data key="topic">sci.engr</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="358836-416233-sci.engr" source="358836" target="416233">
+	<data key="topic">sci.engr</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="358836-2073977-sci.engr" source="358836" target="2073977">
+	<data key="topic">sci.engr</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15868-380757-sci.engr" source="15868" target="380757">
+	<data key="topic">sci.engr</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="377530-414915-sci.engr" source="377530" target="414915">
+	<data key="topic">sci.engr</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="363451-380757-sci.engr" source="363451" target="380757">
+	<data key="topic">sci.engr</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="363451-10974-sci.engr" source="363451" target="10974">
+	<data key="topic">sci.engr</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="6146-839752-sci.engr" source="6146" target="839752">
+	<data key="topic">sci.engr</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="325-363778-sci.engr" source="325" target="363778">
+	<data key="topic">sci.engr</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="325-400397-sci.engr" source="325" target="400397">
+	<data key="topic">sci.engr</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="423235-839752-sci.engr" source="423235" target="839752">
+	<data key="topic">sci.engr</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="400397-363778-sci.engr" source="400397" target="363778">
+	<data key="topic">sci.engr</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="445646-416233-sci.engr" source="445646" target="416233">
+	<data key="topic">sci.engr</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="445646-358836-sci.engr" source="445646" target="358836">
+	<data key="topic">sci.engr</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

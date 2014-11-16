@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="8081"/>
+<node id="417043"/>
+<node id="1152293"/>
+<node id="1635760"/>
+<node id="548753"/>
+<node id="365725"/>
+<node id="1635747"/>
+<node id="1310"/>
+<node id="28959"/>
+<node id="820628"/>
+<node id="358438"/>
+<node id="1102996"/>
+<node id="1635740"/>
+<node id="7589"/>
+<node id="554798"/>
+<node id="401455"/>
+<node id="1152284"/>
+<node id="356655"/>
+<node id="375466"/>
+<node id="3374"/>
+<node id="351286"/>
+<node id="380213"/>
+<node id="781755"/>
+<node id="374974"/>
+<node id="369981"/>
+<node id="387648"/>
+<node id="380224"/>
+<node id="8636"/>
+<node id="380223"/>
+<node id="351290"/>
+<node id="353082"/>
+<node id="363706"/>
+<node id="411067"/>
+<node id="380219"/>
+<node id="380229"/>
+<node id="380231"/>
+<node id="1606"/>
+<node id="380225"/>
+<node id="349889"/>
+<node id="350017"/>
+<node id="8520"/>
+<node id="356547"/>
+<node id="578384"/>
+<node id="5577"/>
+<node id="347725"/>
+<node id="353098"/>
+<node id="1153981"/>
+<node id="380233"/>
+<node id="1234"/>
+<node id="377554"/>
+<node id="8150"/>
+<node id="353754"/>
+<node id="1032403"/>
+<node id="1032303"/>
+<node id="380903"/>
+<node id="417136"/>
+<node id="364781"/>
+<node id="712571"/>
+<node id="935932"/>
+<node id="409728"/>
+<node id="616817"/>
+<node id="350720"/>
+<node id="838007"/>
+<node id="1528332"/>
+<node id="349820"/>
+<node id="364795"/>
+<node id="418695"/>
+<node id="951695"/>
+<node id="417031"/>
+<node id="938253"/>
+<node id="951693"/>
+<node id="417030"/>
+<node id="951694"/>
+<node id="1800185"/>
+<node id="416899"/>
+<node id="417026"/>
+<node id="1800189"/>
+<node id="1417"/>
+<node id="357902"/>
+<node id="1032968"/>
+<node id="352525"/>
+<node id="1800178"/>
+<node id="352527"/>
+<node id="1800184"/>
+<node id="352521"/>
+<node id="417036"/>
+<node id="352523"/>
+<node id="823300"/>
+<edge id="8081-352521-comp.sys.m68k" source="8081" target="352521">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="417043-352525-comp.sys.m68k" source="417043" target="352525">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="417043-823300-comp.sys.m68k" source="417043" target="823300">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1635760-1032968-comp.sys.m68k" source="1635760" target="1032968">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1635747-365725-comp.sys.m68k" source="1635747" target="365725">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1635747-1310-comp.sys.m68k" source="1635747" target="1310">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1635747-356547-comp.sys.m68k" source="1635747" target="356547">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1635747-380903-comp.sys.m68k" source="1635747" target="380903">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1635747-349820-comp.sys.m68k" source="1635747" target="349820">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1635747-418695-comp.sys.m68k" source="1635747" target="418695">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1635747-1800189-comp.sys.m68k" source="1635747" target="1800189">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1635747-1800178-comp.sys.m68k" source="1635747" target="1800178">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="820628-935932-comp.sys.m68k" source="820628" target="935932">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="358438-1153981-comp.sys.m68k" source="358438" target="1153981">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="7589-1635747-comp.sys.m68k" source="7589" target="1635747">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="554798-417136-comp.sys.m68k" source="554798" target="417136">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="401455-364795-comp.sys.m68k" source="401455" target="364795">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="356655-347725-comp.sys.m68k" source="356655" target="347725">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="356655-417030-comp.sys.m68k" source="356655" target="417030">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="356655-357902-comp.sys.m68k" source="356655" target="357902">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="375466-365725-comp.sys.m68k" source="375466" target="365725">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="375466-1635747-comp.sys.m68k" source="375466" target="1635747">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="375466-358438-comp.sys.m68k" source="375466" target="358438">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="375466-380225-comp.sys.m68k" source="375466" target="380225">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="375466-356547-comp.sys.m68k" source="375466" target="356547">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="375466-347725-comp.sys.m68k" source="375466" target="347725">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="375466-1153981-comp.sys.m68k" source="375466" target="1153981">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="375466-349820-comp.sys.m68k" source="375466" target="349820">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3374-417030-comp.sys.m68k" source="3374" target="417030">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="351286-387648-comp.sys.m68k" source="351286" target="387648">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="351286-349889-comp.sys.m68k" source="351286" target="349889">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="351286-353098-comp.sys.m68k" source="351286" target="353098">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="351286-1032403-comp.sys.m68k" source="351286" target="1032403">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="351286-350720-comp.sys.m68k" source="351286" target="350720">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="351286-417030-comp.sys.m68k" source="351286" target="417030">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="781755-352521-comp.sys.m68k" source="781755" target="352521">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="387648-351286-comp.sys.m68k" source="387648" target="351286">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="387648-417030-comp.sys.m68k" source="387648" target="417030">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="8636-1152293-comp.sys.m68k" source="8636" target="1152293">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="8636-1152284-comp.sys.m68k" source="8636" target="1152284">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="8636-5577-comp.sys.m68k" source="8636" target="5577">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="8636-416899-comp.sys.m68k" source="8636" target="416899">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="351290-417030-comp.sys.m68k" source="351290" target="417030">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="353082-28959-comp.sys.m68k" source="353082" target="28959">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="353082-838007-comp.sys.m68k" source="353082" target="838007">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="363706-935932-comp.sys.m68k" source="363706" target="935932">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="411067-1635747-comp.sys.m68k" source="411067" target="1635747">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="411067-1310-comp.sys.m68k" source="411067" target="1310">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="411067-1606-comp.sys.m68k" source="411067" target="1606">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="411067-418695-comp.sys.m68k" source="411067" target="418695">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="380219-1032303-comp.sys.m68k" source="380219" target="1032303">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="380229-380223-comp.sys.m68k" source="380229" target="380223">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="380231-380224-comp.sys.m68k" source="380231" target="380224">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1606-1635747-comp.sys.m68k" source="1606" target="1635747">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1606-1310-comp.sys.m68k" source="1606" target="1310">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1606-418695-comp.sys.m68k" source="1606" target="418695">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="380225-358438-comp.sys.m68k" source="380225" target="358438">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="380225-1153981-comp.sys.m68k" source="380225" target="1153981">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="349889-350720-comp.sys.m68k" source="349889" target="350720">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="349889-417030-comp.sys.m68k" source="349889" target="417030">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350017-358438-comp.sys.m68k" source="350017" target="358438">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="350017-375466-comp.sys.m68k" source="350017" target="375466">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350017-380225-comp.sys.m68k" source="350017" target="380225">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350017-347725-comp.sys.m68k" source="350017" target="347725">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350017-1153981-comp.sys.m68k" source="350017" target="1153981">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="8520-352521-comp.sys.m68k" source="8520" target="352521">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="347725-358438-comp.sys.m68k" source="347725" target="358438">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347725-380225-comp.sys.m68k" source="347725" target="380225">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347725-1153981-comp.sys.m68k" source="347725" target="1153981">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347725-938253-comp.sys.m68k" source="347725" target="938253">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347725-357902-comp.sys.m68k" source="347725" target="357902">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347725-352521-comp.sys.m68k" source="347725" target="352521">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="353098-417136-comp.sys.m68k" source="353098" target="417136">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="353098-712571-comp.sys.m68k" source="353098" target="712571">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="353098-417030-comp.sys.m68k" source="353098" target="417030">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="380233-356547-comp.sys.m68k" source="380233" target="356547">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="380233-1800184-comp.sys.m68k" source="380233" target="1800184">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1234-374974-comp.sys.m68k" source="1234" target="374974">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="377554-380213-comp.sys.m68k" source="377554" target="380213">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="353754-1635740-comp.sys.m68k" source="353754" target="1635740">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="417136-351290-comp.sys.m68k" source="417136" target="351290">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="417136-417030-comp.sys.m68k" source="417136" target="417030">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="364781-417136-comp.sys.m68k" source="364781" target="417136">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="409728-417043-comp.sys.m68k" source="409728" target="417043">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="409728-352525-comp.sys.m68k" source="409728" target="352525">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="409728-823300-comp.sys.m68k" source="409728" target="823300">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="616817-380224-comp.sys.m68k" source="616817" target="380224">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350720-417030-comp.sys.m68k" source="350720" target="417030">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1528332-548753-comp.sys.m68k" source="1528332" target="548753">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="349820-365725-comp.sys.m68k" source="349820" target="365725">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="349820-356547-comp.sys.m68k" source="349820" target="356547">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="418695-1310-comp.sys.m68k" source="418695" target="1310">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="951695-951693-comp.sys.m68k" source="951695" target="951693">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="417031-417030-comp.sys.m68k" source="417031" target="417030">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="938253-1635760-comp.sys.m68k" source="938253" target="1635760">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="938253-1032968-comp.sys.m68k" source="938253" target="1032968">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="417030-351290-comp.sys.m68k" source="417030" target="351290">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1800185-358438-comp.sys.m68k" source="1800185" target="358438">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1800185-1152284-comp.sys.m68k" source="1800185" target="1152284">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1800185-369981-comp.sys.m68k" source="1800185" target="369981">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1800185-416899-comp.sys.m68k" source="1800185" target="416899">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1032968-938253-comp.sys.m68k" source="1032968" target="938253">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="352525-823300-comp.sys.m68k" source="352525" target="823300">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="352527-951694-comp.sys.m68k" source="352527" target="951694">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="352521-1102996-comp.sys.m68k" source="352521" target="1102996">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="417036-417026-comp.sys.m68k" source="417036" target="417026">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="352523-951695-comp.sys.m68k" source="352523" target="951695">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="352523-951693-comp.sys.m68k" source="352523" target="951693">
+	<data key="topic">comp.sys.m68k</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

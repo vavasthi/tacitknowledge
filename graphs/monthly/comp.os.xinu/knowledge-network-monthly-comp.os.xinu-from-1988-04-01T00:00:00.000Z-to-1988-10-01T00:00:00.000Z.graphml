@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="517688"/>
+<node id="553466"/>
+<node id="1923152"/>
+<node id="19253"/>
+<node id="815962"/>
+<node id="21974"/>
+<node id="16666"/>
+<node id="966576"/>
+<node id="15557"/>
+<node id="20549"/>
+<node id="28523"/>
+<node id="428333"/>
+<node id="740744"/>
+<node id="2476586"/>
+<node id="502732"/>
+<node id="449452"/>
+<edge id="517688-553466-comp.os.xinu" source="517688" target="553466">
+	<data key="topic">comp.os.xinu</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1923152-815962-comp.os.xinu" source="1923152" target="815962">
+	<data key="topic">comp.os.xinu</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19253-2476586-comp.os.xinu" source="19253" target="2476586">
+	<data key="topic">comp.os.xinu</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="21974-2476586-comp.os.xinu" source="21974" target="2476586">
+	<data key="topic">comp.os.xinu</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16666-740744-comp.os.xinu" source="16666" target="740744">
+	<data key="topic">comp.os.xinu</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="966576-15557-comp.os.xinu" source="966576" target="15557">
+	<data key="topic">comp.os.xinu</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15557-815962-comp.os.xinu" source="15557" target="815962">
+	<data key="topic">comp.os.xinu</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28523-21974-comp.os.xinu" source="28523" target="21974">
+	<data key="topic">comp.os.xinu</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28523-2476586-comp.os.xinu" source="28523" target="2476586">
+	<data key="topic">comp.os.xinu</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="428333-20549-comp.os.xinu" source="428333" target="20549">
+	<data key="topic">comp.os.xinu</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="502732-449452-comp.os.xinu" source="502732" target="449452">
+	<data key="topic">comp.os.xinu</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

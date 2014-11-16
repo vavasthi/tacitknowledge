@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="465288"/>
+<node id="2671196"/>
+<node id="485424"/>
+<node id="337919"/>
+<node id="489548"/>
+<node id="447420"/>
+<node id="391515"/>
+<edge id="337919-2671196-net.news.stargate" source="337919" target="2671196">
+	<data key="topic">net.news.stargate</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337919-485424-net.news.stargate" source="337919" target="485424">
+	<data key="topic">net.news.stargate</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="489548-447420-net.news.stargate" source="489548" target="447420">
+	<data key="topic">net.news.stargate</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="447420-465288-net.news.stargate" source="447420" target="465288">
+	<data key="topic">net.news.stargate</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391515-337919-net.news.stargate" source="391515" target="337919">
+	<data key="topic">net.news.stargate</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

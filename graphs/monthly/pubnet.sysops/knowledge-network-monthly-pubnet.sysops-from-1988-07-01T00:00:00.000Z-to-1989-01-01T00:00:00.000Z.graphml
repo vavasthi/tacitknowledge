@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="16081"/>
+<node id="29298"/>
+<node id="16762"/>
+<node id="28578"/>
+<node id="29410"/>
+<node id="28548"/>
+<node id="28422"/>
+<node id="29606"/>
+<node id="518017"/>
+<node id="29867"/>
+<node id="11502"/>
+<node id="16334"/>
+<node id="505545"/>
+<node id="16272"/>
+<edge id="29298-16081-pubnet.sysops" source="29298" target="16081">
+	<data key="topic">pubnet.sysops</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16762-28578-pubnet.sysops" source="16762" target="28578">
+	<data key="topic">pubnet.sysops</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16762-28548-pubnet.sysops" source="16762" target="28548">
+	<data key="topic">pubnet.sysops</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16762-29867-pubnet.sysops" source="16762" target="29867">
+	<data key="topic">pubnet.sysops</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29410-28548-pubnet.sysops" source="29410" target="28548">
+	<data key="topic">pubnet.sysops</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="29410-29867-pubnet.sysops" source="29410" target="29867">
+	<data key="topic">pubnet.sysops</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28422-11502-pubnet.sysops" source="28422" target="11502">
+	<data key="topic">pubnet.sysops</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29606-16081-pubnet.sysops" source="29606" target="16081">
+	<data key="topic">pubnet.sysops</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="29867-29410-pubnet.sysops" source="29867" target="29410">
+	<data key="topic">pubnet.sysops</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29867-28548-pubnet.sysops" source="29867" target="28548">
+	<data key="topic">pubnet.sysops</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="11502-28548-pubnet.sysops" source="11502" target="28548">
+	<data key="topic">pubnet.sysops</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11502-505545-pubnet.sysops" source="11502" target="505545">
+	<data key="topic">pubnet.sysops</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16334-518017-pubnet.sysops" source="16334" target="518017">
+	<data key="topic">pubnet.sysops</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16272-16081-pubnet.sysops" source="16272" target="16081">
+	<data key="topic">pubnet.sysops</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16272-29298-pubnet.sysops" source="16272" target="29298">
+	<data key="topic">pubnet.sysops</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16272-518017-pubnet.sysops" source="16272" target="518017">
+	<data key="topic">pubnet.sysops</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

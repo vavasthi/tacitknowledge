@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="347878"/>
+<node id="1831772"/>
+<node id="274"/>
+<node id="347879"/>
+<node id="425651"/>
+<node id="572126"/>
+<node id="14791"/>
+<node id="1846390"/>
+<node id="2062422"/>
+<node id="354202"/>
+<node id="32510"/>
+<node id="387275"/>
+<edge id="1831772-347878-bionet.molbio.proteins" source="1831772" target="347878">
+	<data key="topic">bionet.molbio.proteins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1831772-347879-bionet.molbio.proteins" source="1831772" target="347879">
+	<data key="topic">bionet.molbio.proteins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="274-572126-bionet.molbio.proteins" source="274" target="572126">
+	<data key="topic">bionet.molbio.proteins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="274-2062422-bionet.molbio.proteins" source="274" target="2062422">
+	<data key="topic">bionet.molbio.proteins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347879-347878-bionet.molbio.proteins" source="347879" target="347878">
+	<data key="topic">bionet.molbio.proteins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="425651-14791-bionet.molbio.proteins" source="425651" target="14791">
+	<data key="topic">bionet.molbio.proteins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1846390-2062422-bionet.molbio.proteins" source="1846390" target="2062422">
+	<data key="topic">bionet.molbio.proteins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="354202-274-bionet.molbio.proteins" source="354202" target="274">
+	<data key="topic">bionet.molbio.proteins</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="354202-572126-bionet.molbio.proteins" source="354202" target="572126">
+	<data key="topic">bionet.molbio.proteins</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="354202-32510-bionet.molbio.proteins" source="354202" target="32510">
+	<data key="topic">bionet.molbio.proteins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="354202-387275-bionet.molbio.proteins" source="354202" target="387275">
+	<data key="topic">bionet.molbio.proteins</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="32510-274-bionet.molbio.proteins" source="32510" target="274">
+	<data key="topic">bionet.molbio.proteins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="32510-572126-bionet.molbio.proteins" source="32510" target="572126">
+	<data key="topic">bionet.molbio.proteins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="32510-354202-bionet.molbio.proteins" source="32510" target="354202">
+	<data key="topic">bionet.molbio.proteins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="32510-387275-bionet.molbio.proteins" source="32510" target="387275">
+	<data key="topic">bionet.molbio.proteins</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="387275-274-bionet.molbio.proteins" source="387275" target="274">
+	<data key="topic">bionet.molbio.proteins</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="387275-572126-bionet.molbio.proteins" source="387275" target="572126">
+	<data key="topic">bionet.molbio.proteins</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="387275-32510-bionet.molbio.proteins" source="387275" target="32510">
+	<data key="topic">bionet.molbio.proteins</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

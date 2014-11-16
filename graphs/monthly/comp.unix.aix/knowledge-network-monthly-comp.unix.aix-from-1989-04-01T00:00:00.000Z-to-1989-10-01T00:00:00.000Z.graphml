@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="511668"/>
+<node id="499583"/>
+<node id="3292"/>
+<node id="645173"/>
+<node id="697909"/>
+<node id="4130"/>
+<node id="702797"/>
+<node id="16232"/>
+<node id="709966"/>
+<node id="701474"/>
+<node id="1165499"/>
+<node id="1377338"/>
+<node id="716807"/>
+<node id="616998"/>
+<node id="448969"/>
+<node id="24912"/>
+<edge id="645173-1377338-comp.unix.aix" source="645173" target="1377338">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="697909-511668-comp.unix.aix" source="697909" target="511668">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="697909-3292-comp.unix.aix" source="697909" target="3292">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="697909-4130-comp.unix.aix" source="697909" target="4130">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="697909-702797-comp.unix.aix" source="697909" target="702797">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="697909-16232-comp.unix.aix" source="697909" target="16232">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="697909-701474-comp.unix.aix" source="697909" target="701474">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="697909-1165499-comp.unix.aix" source="697909" target="1165499">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="697909-1377338-comp.unix.aix" source="697909" target="1377338">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="697909-716807-comp.unix.aix" source="697909" target="716807">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="697909-616998-comp.unix.aix" source="697909" target="616998">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="697909-24912-comp.unix.aix" source="697909" target="24912">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="709966-499583-comp.unix.aix" source="709966" target="499583">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="709966-4130-comp.unix.aix" source="709966" target="4130">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="448969-1377338-comp.unix.aix" source="448969" target="1377338">
+	<data key="topic">comp.unix.aix</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

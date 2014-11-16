@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="349942"/>
+<node id="349478"/>
+<node id="361109"/>
+<node id="936624"/>
+<node id="12787"/>
+<node id="371880"/>
+<node id="1834770"/>
+<edge id="349942-349478-sco.opendesktop" source="349942" target="349478">
+	<data key="topic">sco.opendesktop</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="361109-349478-sco.opendesktop" source="361109" target="349478">
+	<data key="topic">sco.opendesktop</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12787-1834770-sco.opendesktop" source="12787" target="1834770">
+	<data key="topic">sco.opendesktop</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="371880-936624-sco.opendesktop" source="371880" target="936624">
+	<data key="topic">sco.opendesktop</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

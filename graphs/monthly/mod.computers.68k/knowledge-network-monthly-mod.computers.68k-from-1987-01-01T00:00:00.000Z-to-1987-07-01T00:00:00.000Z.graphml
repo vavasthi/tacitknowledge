@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="389975"/>
+<node id="1868970"/>
+<node id="389972"/>
+<node id="1868971"/>
+<node id="1544879"/>
+<node id="1544747"/>
+<node id="1495274"/>
+<node id="1544886"/>
+<node id="1544884"/>
+<node id="389968"/>
+<node id="389962"/>
+<node id="389961"/>
+<node id="389964"/>
+<edge id="1868970-389975-mod.computers.68k" source="1868970" target="389975">
+	<data key="topic">mod.computers.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1868970-389972-mod.computers.68k" source="1868970" target="389972">
+	<data key="topic">mod.computers.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="389972-389975-mod.computers.68k" source="389972" target="389975">
+	<data key="topic">mod.computers.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="389972-1544879-mod.computers.68k" source="389972" target="1544879">
+	<data key="topic">mod.computers.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="389972-1544747-mod.computers.68k" source="389972" target="1544747">
+	<data key="topic">mod.computers.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="389972-389968-mod.computers.68k" source="389972" target="389968">
+	<data key="topic">mod.computers.68k</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1868971-389968-mod.computers.68k" source="1868971" target="389968">
+	<data key="topic">mod.computers.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1544879-1544886-mod.computers.68k" source="1544879" target="1544886">
+	<data key="topic">mod.computers.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1544879-389968-mod.computers.68k" source="1544879" target="389968">
+	<data key="topic">mod.computers.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1544879-389961-mod.computers.68k" source="1544879" target="389961">
+	<data key="topic">mod.computers.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1495274-389961-mod.computers.68k" source="1495274" target="389961">
+	<data key="topic">mod.computers.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1544884-389961-mod.computers.68k" source="1544884" target="389961">
+	<data key="topic">mod.computers.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="389964-389972-mod.computers.68k" source="389964" target="389972">
+	<data key="topic">mod.computers.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="389964-389962-mod.computers.68k" source="389964" target="389962">
+	<data key="topic">mod.computers.68k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="389964-389961-mod.computers.68k" source="389964" target="389961">
+	<data key="topic">mod.computers.68k</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

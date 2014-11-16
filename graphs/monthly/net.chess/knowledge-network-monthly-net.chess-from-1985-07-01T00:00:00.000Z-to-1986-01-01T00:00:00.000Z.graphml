@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="339351"/>
+<node id="339186"/>
+<node id="341458"/>
+<node id="346641"/>
+<node id="344244"/>
+<node id="465234"/>
+<node id="469105"/>
+<node id="429694"/>
+<node id="2540443"/>
+<node id="341178"/>
+<node id="2540441"/>
+<node id="339611"/>
+<node id="485734"/>
+<node id="465635"/>
+<node id="336771"/>
+<node id="481985"/>
+<node id="463777"/>
+<node id="16106"/>
+<node id="459470"/>
+<node id="1368832"/>
+<edge id="339351-344244-net.chess" source="339351" target="344244">
+	<data key="topic">net.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339351-2540443-net.chess" source="339351" target="2540443">
+	<data key="topic">net.chess</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="339351-336771-net.chess" source="339351" target="336771">
+	<data key="topic">net.chess</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="339186-429694-net.chess" source="339186" target="429694">
+	<data key="topic">net.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="346641-465234-net.chess" source="346641" target="465234">
+	<data key="topic">net.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="346641-481985-net.chess" source="346641" target="481985">
+	<data key="topic">net.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="344244-339351-net.chess" source="344244" target="339351">
+	<data key="topic">net.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="344244-2540443-net.chess" source="344244" target="2540443">
+	<data key="topic">net.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="344244-336771-net.chess" source="344244" target="336771">
+	<data key="topic">net.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="469105-485734-net.chess" source="469105" target="485734">
+	<data key="topic">net.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="469105-465635-net.chess" source="469105" target="465635">
+	<data key="topic">net.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="469105-336771-net.chess" source="469105" target="336771">
+	<data key="topic">net.chess</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="469105-463777-net.chess" source="469105" target="463777">
+	<data key="topic">net.chess</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2540443-336771-net.chess" source="2540443" target="336771">
+	<data key="topic">net.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341178-485734-net.chess" source="341178" target="485734">
+	<data key="topic">net.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341178-336771-net.chess" source="341178" target="336771">
+	<data key="topic">net.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2540441-336771-net.chess" source="2540441" target="336771">
+	<data key="topic">net.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2540441-463777-net.chess" source="2540441" target="463777">
+	<data key="topic">net.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339611-341458-net.chess" source="339611" target="341458">
+	<data key="topic">net.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339611-1368832-net.chess" source="339611" target="1368832">
+	<data key="topic">net.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="485734-336771-net.chess" source="485734" target="336771">
+	<data key="topic">net.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="465635-336771-net.chess" source="465635" target="336771">
+	<data key="topic">net.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="465635-463777-net.chess" source="465635" target="463777">
+	<data key="topic">net.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="481985-465234-net.chess" source="481985" target="465234">
+	<data key="topic">net.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="463777-336771-net.chess" source="463777" target="336771">
+	<data key="topic">net.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="463777-459470-net.chess" source="463777" target="459470">
+	<data key="topic">net.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16106-429694-net.chess" source="16106" target="429694">
+	<data key="topic">net.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1368832-341458-net.chess" source="1368832" target="341458">
+	<data key="topic">net.chess</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

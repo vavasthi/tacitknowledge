@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1625225"/>
+<node id="961695"/>
+<node id="724876"/>
+<node id="482947"/>
+<node id="449871"/>
+<node id="482960"/>
+<node id="1124299"/>
+<node id="482939"/>
+<node id="1505916"/>
+<node id="1625222"/>
+<node id="389851"/>
+<edge id="961695-482947-mod.computers.apollo" source="961695" target="482947">
+	<data key="topic">mod.computers.apollo</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="482939-1625225-mod.computers.apollo" source="482939" target="1625225">
+	<data key="topic">mod.computers.apollo</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="482939-449871-mod.computers.apollo" source="482939" target="449871">
+	<data key="topic">mod.computers.apollo</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="482939-1124299-mod.computers.apollo" source="482939" target="1124299">
+	<data key="topic">mod.computers.apollo</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1505916-724876-mod.computers.apollo" source="1505916" target="724876">
+	<data key="topic">mod.computers.apollo</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1505916-389851-mod.computers.apollo" source="1505916" target="389851">
+	<data key="topic">mod.computers.apollo</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1625222-482960-mod.computers.apollo" source="1625222" target="482960">
+	<data key="topic">mod.computers.apollo</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

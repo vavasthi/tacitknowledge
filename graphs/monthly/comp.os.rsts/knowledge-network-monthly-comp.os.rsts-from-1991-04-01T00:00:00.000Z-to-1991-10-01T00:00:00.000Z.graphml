@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="3410"/>
+<node id="339"/>
+<node id="2065196"/>
+<node id="350580"/>
+<node id="389011"/>
+<node id="366846"/>
+<node id="378720"/>
+<node id="5020"/>
+<node id="363708"/>
+<node id="30784"/>
+<node id="1634649"/>
+<node id="425223"/>
+<node id="352840"/>
+<node id="422534"/>
+<node id="354017"/>
+<node id="1539794"/>
+<node id="1519569"/>
+<node id="7818"/>
+<node id="2755140"/>
+<edge id="339-2065196-comp.os.rsts" source="339" target="2065196">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350580-3410-comp.os.rsts" source="350580" target="3410">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350580-378720-comp.os.rsts" source="350580" target="378720">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="350580-422534-comp.os.rsts" source="350580" target="422534">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="389011-5020-comp.os.rsts" source="389011" target="5020">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="389011-7818-comp.os.rsts" source="389011" target="7818">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="366846-5020-comp.os.rsts" source="366846" target="5020">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5020-3410-comp.os.rsts" source="5020" target="3410">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5020-350580-comp.os.rsts" source="5020" target="350580">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5020-378720-comp.os.rsts" source="5020" target="378720">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5020-363708-comp.os.rsts" source="5020" target="363708">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5020-1634649-comp.os.rsts" source="5020" target="1634649">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5020-352840-comp.os.rsts" source="5020" target="352840">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5020-422534-comp.os.rsts" source="5020" target="422534">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5020-354017-comp.os.rsts" source="5020" target="354017">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="363708-5020-comp.os.rsts" source="363708" target="5020">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30784-5020-comp.os.rsts" source="30784" target="5020">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="30784-1634649-comp.os.rsts" source="30784" target="1634649">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="425223-5020-comp.os.rsts" source="425223" target="5020">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="425223-1634649-comp.os.rsts" source="425223" target="1634649">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="352840-5020-comp.os.rsts" source="352840" target="5020">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="352840-354017-comp.os.rsts" source="352840" target="354017">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="422534-3410-comp.os.rsts" source="422534" target="3410">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="354017-5020-comp.os.rsts" source="354017" target="5020">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1539794-3410-comp.os.rsts" source="1539794" target="3410">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1539794-350580-comp.os.rsts" source="1539794" target="350580">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1539794-422534-comp.os.rsts" source="1539794" target="422534">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1519569-389011-comp.os.rsts" source="1519569" target="389011">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1519569-5020-comp.os.rsts" source="1519569" target="5020">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1519569-7818-comp.os.rsts" source="1519569" target="7818">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7818-5020-comp.os.rsts" source="7818" target="5020">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2755140-5020-comp.os.rsts" source="2755140" target="5020">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2755140-352840-comp.os.rsts" source="2755140" target="352840">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2755140-354017-comp.os.rsts" source="2755140" target="354017">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="26748"/>
+<node id="740440"/>
+<node id="511642"/>
+<node id="1238221"/>
+<node id="697099"/>
+<node id="512839"/>
+<node id="2533"/>
+<node id="736654"/>
+<node id="446626"/>
+<node id="515809"/>
+<node id="2130282"/>
+<node id="22892"/>
+<node id="698690"/>
+<node id="697989"/>
+<edge id="26748-697099-talk.bizarre" source="26748" target="697099">
+	<data key="topic">talk.bizarre</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="26748-2130282-talk.bizarre" source="26748" target="2130282">
+	<data key="topic">talk.bizarre</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="511642-22892-talk.bizarre" source="511642" target="22892">
+	<data key="topic">talk.bizarre</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="511642-697989-talk.bizarre" source="511642" target="697989">
+	<data key="topic">talk.bizarre</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1238221-511642-talk.bizarre" source="1238221" target="511642">
+	<data key="topic">talk.bizarre</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="512839-740440-talk.bizarre" source="512839" target="740440">
+	<data key="topic">talk.bizarre</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="512839-2533-talk.bizarre" source="512839" target="2533">
+	<data key="topic">talk.bizarre</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="512839-736654-talk.bizarre" source="512839" target="736654">
+	<data key="topic">talk.bizarre</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="512839-446626-talk.bizarre" source="512839" target="446626">
+	<data key="topic">talk.bizarre</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="512839-698690-talk.bizarre" source="512839" target="698690">
+	<data key="topic">talk.bizarre</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="515809-511642-talk.bizarre" source="515809" target="511642">
+	<data key="topic">talk.bizarre</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2130282-697099-talk.bizarre" source="2130282" target="697099">
+	<data key="topic">talk.bizarre</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

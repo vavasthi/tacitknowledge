@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="337749"/>
+<node id="337717"/>
+<node id="1111362"/>
+<node id="524891"/>
+<node id="521877"/>
+<node id="459283"/>
+<node id="477234"/>
+<node id="336733"/>
+<node id="522012"/>
+<node id="523100"/>
+<node id="338460"/>
+<node id="341638"/>
+<node id="460197"/>
+<node id="340194"/>
+<node id="652592"/>
+<node id="625327"/>
+<node id="338029"/>
+<node id="477482"/>
+<edge id="337749-625327-net.research" source="337749" target="625327">
+	<data key="topic">net.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337749-477482-net.research" source="337749" target="477482">
+	<data key="topic">net.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521877-1111362-net.research" source="521877" target="1111362">
+	<data key="topic">net.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521877-524891-net.research" source="521877" target="524891">
+	<data key="topic">net.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="477234-524891-net.research" source="477234" target="524891">
+	<data key="topic">net.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="336733-524891-net.research" source="336733" target="524891">
+	<data key="topic">net.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522012-338029-net.research" source="522012" target="338029">
+	<data key="topic">net.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="523100-341638-net.research" source="523100" target="341638">
+	<data key="topic">net.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="523100-652592-net.research" source="523100" target="652592">
+	<data key="topic">net.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338460-459283-net.research" source="338460" target="459283">
+	<data key="topic">net.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341638-652592-net.research" source="341638" target="652592">
+	<data key="topic">net.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460197-337717-net.research" source="460197" target="337717">
+	<data key="topic">net.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340194-524891-net.research" source="340194" target="524891">
+	<data key="topic">net.research</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="625327-477482-net.research" source="625327" target="477482">
+	<data key="topic">net.research</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

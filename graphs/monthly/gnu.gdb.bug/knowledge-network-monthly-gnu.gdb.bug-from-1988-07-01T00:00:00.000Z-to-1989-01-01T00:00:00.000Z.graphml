@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="709897"/>
+<node id="533211"/>
+<node id="30276"/>
+<node id="29108"/>
+<node id="519684"/>
+<node id="16550"/>
+<node id="499891"/>
+<node id="518974"/>
+<node id="1264800"/>
+<node id="708920"/>
+<node id="669398"/>
+<edge id="29108-1264800-gnu.gdb.bug" source="29108" target="1264800">
+	<data key="topic">gnu.gdb.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="519684-518974-gnu.gdb.bug" source="519684" target="518974">
+	<data key="topic">gnu.gdb.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16550-709897-gnu.gdb.bug" source="16550" target="709897">
+	<data key="topic">gnu.gdb.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16550-30276-gnu.gdb.bug" source="16550" target="30276">
+	<data key="topic">gnu.gdb.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="708920-499891-gnu.gdb.bug" source="708920" target="499891">
+	<data key="topic">gnu.gdb.bug</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

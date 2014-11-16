@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="5073"/>
+<node id="14488"/>
+<node id="1380515"/>
+<node id="3242"/>
+<node id="552231"/>
+<node id="617752"/>
+<edge id="14488-1380515-comp.sys.tahoe" source="14488" target="1380515">
+	<data key="topic">comp.sys.tahoe</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3242-5073-comp.sys.tahoe" source="3242" target="5073">
+	<data key="topic">comp.sys.tahoe</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="552231-617752-comp.sys.tahoe" source="552231" target="617752">
+	<data key="topic">comp.sys.tahoe</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

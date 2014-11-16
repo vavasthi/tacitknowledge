@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="3203"/>
+<node id="366616"/>
+<node id="3204"/>
+<node id="1456930"/>
+<node id="879670"/>
+<node id="5020"/>
+<node id="363708"/>
+<node id="30784"/>
+<edge id="366616-879670-comp.os.rsts" source="366616" target="879670">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3204-3203-comp.os.rsts" source="3204" target="3203">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="5020-1456930-comp.os.rsts" source="5020" target="1456930">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5020-879670-comp.os.rsts" source="5020" target="879670">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5020-363708-comp.os.rsts" source="5020" target="363708">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5020-30784-comp.os.rsts" source="5020" target="30784">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="363708-5020-comp.os.rsts" source="363708" target="5020">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">2</data>
+</edge>
+</graph>
+</graphml>

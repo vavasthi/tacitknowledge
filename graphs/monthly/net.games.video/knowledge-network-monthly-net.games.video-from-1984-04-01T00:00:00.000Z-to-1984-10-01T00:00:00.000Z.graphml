@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="341333"/>
+<node id="523399"/>
+<node id="529658"/>
+<node id="562619"/>
+<node id="24679"/>
+<node id="526063"/>
+<node id="472561"/>
+<node id="459937"/>
+<node id="341373"/>
+<node id="461022"/>
+<edge id="341333-523399-net.games.video" source="341333" target="523399">
+	<data key="topic">net.games.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="529658-562619-net.games.video" source="529658" target="562619">
+	<data key="topic">net.games.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="529658-24679-net.games.video" source="529658" target="24679">
+	<data key="topic">net.games.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="529658-526063-net.games.video" source="529658" target="526063">
+	<data key="topic">net.games.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341373-472561-net.games.video" source="341373" target="472561">
+	<data key="topic">net.games.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="461022-459937-net.games.video" source="461022" target="459937">
+	<data key="topic">net.games.video</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

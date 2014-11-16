@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="362328"/>
+<node id="4947"/>
+<node id="362321"/>
+<node id="344"/>
+<node id="346"/>
+<node id="4634"/>
+<node id="946898"/>
+<node id="400474"/>
+<node id="1228631"/>
+<node id="4646"/>
+<node id="4710"/>
+<node id="4711"/>
+<node id="364526"/>
+<node id="365613"/>
+<node id="831719"/>
+<node id="4715"/>
+<node id="608741"/>
+<node id="1172418"/>
+<node id="4658"/>
+<node id="4661"/>
+<node id="1172421"/>
+<node id="366068"/>
+<node id="4858"/>
+<node id="417147"/>
+<node id="366139"/>
+<node id="512520"/>
+<node id="1172403"/>
+<node id="1225202"/>
+<node id="362311"/>
+<node id="380481"/>
+<node id="4679"/>
+<node id="362320"/>
+<node id="367434"/>
+<node id="352585"/>
+<edge id="4947-1225202-comp.binaries.apple2" source="4947" target="1225202">
+	<data key="topic">comp.binaries.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362321-362320-comp.binaries.apple2" source="362321" target="362320">
+	<data key="topic">comp.binaries.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="346-831719-comp.binaries.apple2" source="346" target="831719">
+	<data key="topic">comp.binaries.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="346-1172421-comp.binaries.apple2" source="346" target="1172421">
+	<data key="topic">comp.binaries.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="346-4679-comp.binaries.apple2" source="346" target="4679">
+	<data key="topic">comp.binaries.apple2</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="4634-362328-comp.binaries.apple2" source="4634" target="362328">
+	<data key="topic">comp.binaries.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4634-344-comp.binaries.apple2" source="4634" target="344">
+	<data key="topic">comp.binaries.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4711-364526-comp.binaries.apple2" source="4711" target="364526">
+	<data key="topic">comp.binaries.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4711-367434-comp.binaries.apple2" source="4711" target="367434">
+	<data key="topic">comp.binaries.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4715-366068-comp.binaries.apple2" source="4715" target="366068">
+	<data key="topic">comp.binaries.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4658-1172418-comp.binaries.apple2" source="4658" target="1172418">
+	<data key="topic">comp.binaries.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4658-1172403-comp.binaries.apple2" source="4658" target="1172403">
+	<data key="topic">comp.binaries.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4661-512520-comp.binaries.apple2" source="4661" target="512520">
+	<data key="topic">comp.binaries.apple2</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="4858-4710-comp.binaries.apple2" source="4858" target="4710">
+	<data key="topic">comp.binaries.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4858-365613-comp.binaries.apple2" source="4858" target="365613">
+	<data key="topic">comp.binaries.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4858-366139-comp.binaries.apple2" source="4858" target="366139">
+	<data key="topic">comp.binaries.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4858-512520-comp.binaries.apple2" source="4858" target="512520">
+	<data key="topic">comp.binaries.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="417147-380481-comp.binaries.apple2" source="417147" target="380481">
+	<data key="topic">comp.binaries.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362311-946898-comp.binaries.apple2" source="362311" target="946898">
+	<data key="topic">comp.binaries.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4679-1228631-comp.binaries.apple2" source="4679" target="1228631">
+	<data key="topic">comp.binaries.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4679-831719-comp.binaries.apple2" source="4679" target="831719">
+	<data key="topic">comp.binaries.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="352585-344-comp.binaries.apple2" source="352585" target="344">
+	<data key="topic">comp.binaries.apple2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="352585-4634-comp.binaries.apple2" source="352585" target="4634">
+	<data key="topic">comp.binaries.apple2</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

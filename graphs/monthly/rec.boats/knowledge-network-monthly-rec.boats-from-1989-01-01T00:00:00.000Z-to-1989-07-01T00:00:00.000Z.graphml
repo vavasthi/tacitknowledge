@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="501206"/>
+<node id="1278408"/>
+<node id="697229"/>
+<node id="482064"/>
+<node id="1278410"/>
+<node id="1267946"/>
+<node id="1269370"/>
+<node id="2142526"/>
+<node id="536152"/>
+<edge id="501206-1278410-rec.boats" source="501206" target="1278410">
+	<data key="topic">rec.boats</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1278408-1278410-rec.boats" source="1278408" target="1278410">
+	<data key="topic">rec.boats</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="697229-536152-rec.boats" source="697229" target="536152">
+	<data key="topic">rec.boats</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="482064-1278408-rec.boats" source="482064" target="1278408">
+	<data key="topic">rec.boats</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="482064-1278410-rec.boats" source="482064" target="1278410">
+	<data key="topic">rec.boats</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1267946-697229-rec.boats" source="1267946" target="697229">
+	<data key="topic">rec.boats</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1267946-536152-rec.boats" source="1267946" target="536152">
+	<data key="topic">rec.boats</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1269370-536152-rec.boats" source="1269370" target="536152">
+	<data key="topic">rec.boats</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2142526-697229-rec.boats" source="2142526" target="697229">
+	<data key="topic">rec.boats</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2142526-536152-rec.boats" source="2142526" target="536152">
+	<data key="topic">rec.boats</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

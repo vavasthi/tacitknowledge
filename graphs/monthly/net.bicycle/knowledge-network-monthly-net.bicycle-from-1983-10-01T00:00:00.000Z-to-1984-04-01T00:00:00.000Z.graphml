@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="459736"/>
+<node id="522136"/>
+<node id="529376"/>
+<node id="460635"/>
+<node id="459428"/>
+<node id="523427"/>
+<node id="342573"/>
+<node id="1135449"/>
+<node id="461997"/>
+<node id="523564"/>
+<node id="522731"/>
+<node id="346475"/>
+<node id="459704"/>
+<node id="526201"/>
+<node id="21234"/>
+<node id="680764"/>
+<node id="680762"/>
+<node id="459699"/>
+<node id="460159"/>
+<node id="523645"/>
+<node id="470137"/>
+<node id="562635"/>
+<node id="339207"/>
+<node id="459971"/>
+<node id="395659"/>
+<node id="459980"/>
+<edge id="459736-459980-net.bicycle" source="459736" target="459980">
+	<data key="topic">net.bicycle</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522136-523427-net.bicycle" source="522136" target="523427">
+	<data key="topic">net.bicycle</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522136-470137-net.bicycle" source="522136" target="470137">
+	<data key="topic">net.bicycle</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522136-562635-net.bicycle" source="522136" target="562635">
+	<data key="topic">net.bicycle</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460635-339207-net.bicycle" source="460635" target="339207">
+	<data key="topic">net.bicycle</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459428-21234-net.bicycle" source="459428" target="21234">
+	<data key="topic">net.bicycle</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1135449-342573-net.bicycle" source="1135449" target="342573">
+	<data key="topic">net.bicycle</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="523564-680762-net.bicycle" source="523564" target="680762">
+	<data key="topic">net.bicycle</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522731-529376-net.bicycle" source="522731" target="529376">
+	<data key="topic">net.bicycle</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="346475-459699-net.bicycle" source="346475" target="459699">
+	<data key="topic">net.bicycle</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="526201-342573-net.bicycle" source="526201" target="342573">
+	<data key="topic">net.bicycle</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="680764-459736-net.bicycle" source="680764" target="459736">
+	<data key="topic">net.bicycle</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="680764-459980-net.bicycle" source="680764" target="459980">
+	<data key="topic">net.bicycle</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="523645-459704-net.bicycle" source="523645" target="459704">
+	<data key="topic">net.bicycle</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="470137-562635-net.bicycle" source="470137" target="562635">
+	<data key="topic">net.bicycle</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459971-460159-net.bicycle" source="459971" target="460159">
+	<data key="topic">net.bicycle</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="395659-461997-net.bicycle" source="395659" target="461997">
+	<data key="topic">net.bicycle</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1855182"/>
+<node id="575995"/>
+<node id="702025"/>
+<node id="572142"/>
+<node id="1855194"/>
+<node id="349156"/>
+<node id="419711"/>
+<node id="350541"/>
+<node id="1445225"/>
+<edge id="1855182-349156-alt.great-lakes" source="1855182" target="349156">
+	<data key="topic">alt.great-lakes</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="575995-349156-alt.great-lakes" source="575995" target="349156">
+	<data key="topic">alt.great-lakes</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="575995-419711-alt.great-lakes" source="575995" target="419711">
+	<data key="topic">alt.great-lakes</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="702025-349156-alt.great-lakes" source="702025" target="349156">
+	<data key="topic">alt.great-lakes</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="572142-349156-alt.great-lakes" source="572142" target="349156">
+	<data key="topic">alt.great-lakes</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="1855194-349156-alt.great-lakes" source="1855194" target="349156">
+	<data key="topic">alt.great-lakes</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="349156-572142-alt.great-lakes" source="349156" target="572142">
+	<data key="topic">alt.great-lakes</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="349156-419711-alt.great-lakes" source="349156" target="419711">
+	<data key="topic">alt.great-lakes</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350541-349156-alt.great-lakes" source="350541" target="349156">
+	<data key="topic">alt.great-lakes</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1445225-349156-alt.great-lakes" source="1445225" target="349156">
+	<data key="topic">alt.great-lakes</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1445225-350541-alt.great-lakes" source="1445225" target="350541">
+	<data key="topic">alt.great-lakes</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

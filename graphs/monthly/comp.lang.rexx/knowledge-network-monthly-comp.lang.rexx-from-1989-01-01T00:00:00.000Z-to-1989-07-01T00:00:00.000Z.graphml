@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="686011"/>
+<node id="709916"/>
+<node id="750073"/>
+<node id="22166"/>
+<node id="14166"/>
+<node id="429981"/>
+<node id="14171"/>
+<node id="754322"/>
+<node id="32604"/>
+<node id="701650"/>
+<node id="350856"/>
+<node id="3588"/>
+<node id="699440"/>
+<node id="1235125"/>
+<node id="391651"/>
+<node id="696718"/>
+<node id="696931"/>
+<node id="557314"/>
+<edge id="686011-350856-comp.lang.rexx" source="686011" target="350856">
+	<data key="topic">comp.lang.rexx</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="750073-709916-comp.lang.rexx" source="750073" target="709916">
+	<data key="topic">comp.lang.rexx</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="750073-699440-comp.lang.rexx" source="750073" target="699440">
+	<data key="topic">comp.lang.rexx</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="750073-391651-comp.lang.rexx" source="750073" target="391651">
+	<data key="topic">comp.lang.rexx</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="429981-709916-comp.lang.rexx" source="429981" target="709916">
+	<data key="topic">comp.lang.rexx</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="429981-391651-comp.lang.rexx" source="429981" target="391651">
+	<data key="topic">comp.lang.rexx</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="754322-14166-comp.lang.rexx" source="754322" target="14166">
+	<data key="topic">comp.lang.rexx</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="32604-22166-comp.lang.rexx" source="32604" target="22166">
+	<data key="topic">comp.lang.rexx</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="701650-709916-comp.lang.rexx" source="701650" target="709916">
+	<data key="topic">comp.lang.rexx</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="701650-429981-comp.lang.rexx" source="701650" target="429981">
+	<data key="topic">comp.lang.rexx</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="701650-391651-comp.lang.rexx" source="701650" target="391651">
+	<data key="topic">comp.lang.rexx</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391651-709916-comp.lang.rexx" source="391651" target="709916">
+	<data key="topic">comp.lang.rexx</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696718-14171-comp.lang.rexx" source="696718" target="14171">
+	<data key="topic">comp.lang.rexx</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696718-3588-comp.lang.rexx" source="696718" target="3588">
+	<data key="topic">comp.lang.rexx</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696931-3588-comp.lang.rexx" source="696931" target="3588">
+	<data key="topic">comp.lang.rexx</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="557314-3588-comp.lang.rexx" source="557314" target="3588">
+	<data key="topic">comp.lang.rexx</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="557314-1235125-comp.lang.rexx" source="557314" target="1235125">
+	<data key="topic">comp.lang.rexx</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

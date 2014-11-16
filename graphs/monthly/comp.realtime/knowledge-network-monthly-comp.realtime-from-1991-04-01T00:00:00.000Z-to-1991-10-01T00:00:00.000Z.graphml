@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="888736"/>
+<node id="951964"/>
+<node id="1039257"/>
+<node id="1635760"/>
+<node id="10521"/>
+<node id="1039255"/>
+<node id="957848"/>
+<node id="957845"/>
+<node id="352288"/>
+<node id="2762161"/>
+<node id="442270"/>
+<node id="1299497"/>
+<node id="957843"/>
+<node id="957844"/>
+<node id="424860"/>
+<node id="1299502"/>
+<node id="351525"/>
+<node id="1303057"/>
+<node id="1641233"/>
+<node id="2072466"/>
+<node id="424873"/>
+<node id="8114"/>
+<node id="380213"/>
+<node id="362936"/>
+<node id="5301"/>
+<node id="1797188"/>
+<node id="581937"/>
+<node id="698"/>
+<node id="939573"/>
+<node id="581940"/>
+<node id="348217"/>
+<node id="351292"/>
+<node id="1797190"/>
+<node id="781002"/>
+<node id="1642301"/>
+<node id="353345"/>
+<node id="361412"/>
+<node id="347725"/>
+<node id="1838132"/>
+<node id="1108321"/>
+<node id="1108325"/>
+<node id="377554"/>
+<node id="580959"/>
+<node id="1106024"/>
+<node id="359902"/>
+<node id="1742051"/>
+<node id="359901"/>
+<node id="359904"/>
+<node id="1108331"/>
+<node id="4575"/>
+<node id="359899"/>
+<node id="419175"/>
+<node id="424166"/>
+<node id="352353"/>
+<node id="1291228"/>
+<node id="1532000"/>
+<node id="424173"/>
+<node id="424174"/>
+<node id="424171"/>
+<node id="834401"/>
+<node id="798564"/>
+<node id="350453"/>
+<node id="1829515"/>
+<node id="443509"/>
+<node id="1829514"/>
+<node id="366327"/>
+<node id="3572"/>
+<node id="424178"/>
+<node id="14842"/>
+<node id="1916"/>
+<node id="15868"/>
+<node id="349830"/>
+<node id="1108337"/>
+<node id="1853950"/>
+<node id="957840"/>
+<node id="358533"/>
+<node id="938253"/>
+<node id="957838"/>
+<node id="2070909"/>
+<node id="347906"/>
+<node id="380034"/>
+<node id="957833"/>
+<node id="1032968"/>
+<node id="361104"/>
+<node id="1800184"/>
+<node id="1149696"/>
+<edge id="888736-3572-comp.realtime" source="888736" target="3572">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="888736-1108337-comp.realtime" source="888736" target="1108337">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="951964-1303057-comp.realtime" source="951964" target="1303057">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1635760-347725-comp.realtime" source="1635760" target="347725">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1635760-1032968-comp.realtime" source="1635760" target="1032968">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10521-957838-comp.realtime" source="10521" target="957838">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10521-361104-comp.realtime" source="10521" target="361104">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="957848-358533-comp.realtime" source="957848" target="358533">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="352288-957845-comp.realtime" source="352288" target="957845">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="442270-350453-comp.realtime" source="442270" target="350453">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="957843-359904-comp.realtime" source="957843" target="359904">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="424860-361412-comp.realtime" source="424860" target="361412">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1299502-1039257-comp.realtime" source="1299502" target="1039257">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1299502-351292-comp.realtime" source="1299502" target="351292">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1299502-15868-comp.realtime" source="1299502" target="15868">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="424873-580959-comp.realtime" source="424873" target="580959">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="424873-424173-comp.realtime" source="424873" target="424173">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="8114-957844-comp.realtime" source="8114" target="957844">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="380213-1642301-comp.realtime" source="380213" target="1642301">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="380213-359902-comp.realtime" source="380213" target="359902">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="380213-359904-comp.realtime" source="380213" target="359904">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="380213-1853950-comp.realtime" source="380213" target="1853950">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362936-359901-comp.realtime" source="362936" target="359901">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362936-424166-comp.realtime" source="362936" target="424166">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362936-798564-comp.realtime" source="362936" target="798564">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5301-957843-comp.realtime" source="5301" target="957843">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5301-424178-comp.realtime" source="5301" target="424178">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5301-1800184-comp.realtime" source="5301" target="1800184">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="581937-1039257-comp.realtime" source="581937" target="1039257">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="581937-4575-comp.realtime" source="581937" target="4575">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="698-443509-comp.realtime" source="698" target="443509">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="698-366327-comp.realtime" source="698" target="366327">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="939573-957843-comp.realtime" source="939573" target="957843">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="581940-1299497-comp.realtime" source="581940" target="1299497">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348217-1797188-comp.realtime" source="348217" target="1797188">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="351292-1039257-comp.realtime" source="351292" target="1039257">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1797190-1797188-comp.realtime" source="1797190" target="1797188">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347725-938253-comp.realtime" source="347725" target="938253">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1838132-351525-comp.realtime" source="1838132" target="351525">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1108321-424166-comp.realtime" source="1108321" target="424166">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="377554-1039255-comp.realtime" source="377554" target="1039255">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="377554-957843-comp.realtime" source="377554" target="957843">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1106024-10521-comp.realtime" source="1106024" target="10521">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1742051-347906-comp.realtime" source="1742051" target="347906">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1108331-1039257-comp.realtime" source="1108331" target="1039257">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1108331-581937-comp.realtime" source="1108331" target="581937">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1108331-4575-comp.realtime" source="1108331" target="4575">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4575-1039257-comp.realtime" source="4575" target="1039257">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4575-351292-comp.realtime" source="4575" target="351292">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4575-15868-comp.realtime" source="4575" target="15868">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="359899-2762161-comp.realtime" source="359899" target="2762161">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="359899-957844-comp.realtime" source="359899" target="957844">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="419175-1039257-comp.realtime" source="419175" target="1039257">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="419175-581937-comp.realtime" source="419175" target="581937">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="419175-4575-comp.realtime" source="419175" target="4575">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="424166-1108321-comp.realtime" source="424166" target="1108321">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="424166-359901-comp.realtime" source="424166" target="359901">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="424166-798564-comp.realtime" source="424166" target="798564">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="424166-443509-comp.realtime" source="424166" target="443509">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="352353-1303057-comp.realtime" source="352353" target="1303057">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1291228-1797188-comp.realtime" source="1291228" target="1797188">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1532000-1108325-comp.realtime" source="1532000" target="1108325">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1532000-1916-comp.realtime" source="1532000" target="1916">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1532000-347906-comp.realtime" source="1532000" target="347906">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="424173-1641233-comp.realtime" source="424173" target="1641233">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="424173-2072466-comp.realtime" source="424173" target="2072466">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="424173-580959-comp.realtime" source="424173" target="580959">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="424174-888736-comp.realtime" source="424174" target="888736">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="424174-3572-comp.realtime" source="424174" target="3572">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="424174-1108337-comp.realtime" source="424174" target="1108337">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="424171-359904-comp.realtime" source="424171" target="359904">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="834401-1797188-comp.realtime" source="834401" target="1797188">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="798564-359901-comp.realtime" source="798564" target="359901">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350453-1039257-comp.realtime" source="350453" target="1039257">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350453-581937-comp.realtime" source="350453" target="581937">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350453-359904-comp.realtime" source="350453" target="359904">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350453-4575-comp.realtime" source="350453" target="4575">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1829515-1829514-comp.realtime" source="1829515" target="1829514">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="366327-443509-comp.realtime" source="366327" target="443509">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14842-350453-comp.realtime" source="14842" target="350453">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1916-10521-comp.realtime" source="1916" target="10521">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1916-1108325-comp.realtime" source="1916" target="1108325">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1916-347906-comp.realtime" source="1916" target="347906">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1916-361104-comp.realtime" source="1916" target="361104">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15868-1039257-comp.realtime" source="15868" target="1039257">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15868-351292-comp.realtime" source="15868" target="351292">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15868-443509-comp.realtime" source="15868" target="443509">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="349830-957845-comp.realtime" source="349830" target="957845">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="349830-957843-comp.realtime" source="349830" target="957843">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1108337-3572-comp.realtime" source="1108337" target="3572">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1853950-359902-comp.realtime" source="1853950" target="359902">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="957840-358533-comp.realtime" source="957840" target="358533">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="938253-1635760-comp.realtime" source="938253" target="1635760">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="938253-1032968-comp.realtime" source="938253" target="1032968">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="957838-957843-comp.realtime" source="957838" target="957843">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2070909-353345-comp.realtime" source="2070909" target="353345">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="380034-957843-comp.realtime" source="380034" target="957843">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="957833-698-comp.realtime" source="957833" target="698">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="957833-443509-comp.realtime" source="957833" target="443509">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="957833-366327-comp.realtime" source="957833" target="366327">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1032968-938253-comp.realtime" source="1032968" target="938253">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1149696-781002-comp.realtime" source="1149696" target="781002">
+	<data key="topic">comp.realtime</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

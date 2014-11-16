@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="526332"/>
+<node id="565135"/>
+<node id="337934"/>
+<node id="472400"/>
+<node id="526465"/>
+<node id="339182"/>
+<node id="523968"/>
+<node id="521967"/>
+<node id="395294"/>
+<node id="524093"/>
+<node id="526356"/>
+<node id="459643"/>
+<edge id="526332-472400-eunet.politics" source="526332" target="472400">
+	<data key="topic">eunet.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="526332-395294-eunet.politics" source="526332" target="395294">
+	<data key="topic">eunet.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="526332-524093-eunet.politics" source="526332" target="524093">
+	<data key="topic">eunet.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337934-472400-eunet.politics" source="337934" target="472400">
+	<data key="topic">eunet.politics</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="337934-526465-eunet.politics" source="337934" target="526465">
+	<data key="topic">eunet.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337934-395294-eunet.politics" source="337934" target="395294">
+	<data key="topic">eunet.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="472400-337934-eunet.politics" source="472400" target="337934">
+	<data key="topic">eunet.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="472400-526465-eunet.politics" source="472400" target="526465">
+	<data key="topic">eunet.politics</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="472400-521967-eunet.politics" source="472400" target="521967">
+	<data key="topic">eunet.politics</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="472400-395294-eunet.politics" source="472400" target="395294">
+	<data key="topic">eunet.politics</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="526465-472400-eunet.politics" source="526465" target="472400">
+	<data key="topic">eunet.politics</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="526465-521967-eunet.politics" source="526465" target="521967">
+	<data key="topic">eunet.politics</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="526465-395294-eunet.politics" source="526465" target="395294">
+	<data key="topic">eunet.politics</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="339182-565135-eunet.politics" source="339182" target="565135">
+	<data key="topic">eunet.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521967-472400-eunet.politics" source="521967" target="472400">
+	<data key="topic">eunet.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521967-526465-eunet.politics" source="521967" target="526465">
+	<data key="topic">eunet.politics</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="521967-523968-eunet.politics" source="521967" target="523968">
+	<data key="topic">eunet.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521967-395294-eunet.politics" source="521967" target="395294">
+	<data key="topic">eunet.politics</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="521967-526356-eunet.politics" source="521967" target="526356">
+	<data key="topic">eunet.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="526356-395294-eunet.politics" source="526356" target="395294">
+	<data key="topic">eunet.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459643-524093-eunet.politics" source="459643" target="524093">
+	<data key="topic">eunet.politics</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

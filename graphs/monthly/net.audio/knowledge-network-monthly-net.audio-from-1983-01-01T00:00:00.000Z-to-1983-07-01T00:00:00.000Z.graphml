@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="394151"/>
+<node id="624108"/>
+<node id="460336"/>
+<node id="460383"/>
+<node id="524882"/>
+<node id="459465"/>
+<node id="561640"/>
+<edge id="460336-624108-net.audio" source="460336" target="624108">
+	<data key="topic">net.audio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460383-394151-net.audio" source="460383" target="394151">
+	<data key="topic">net.audio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460383-524882-net.audio" source="460383" target="524882">
+	<data key="topic">net.audio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460383-459465-net.audio" source="460383" target="459465">
+	<data key="topic">net.audio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459465-524882-net.audio" source="459465" target="524882">
+	<data key="topic">net.audio</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="561640-459465-net.audio" source="561640" target="459465">
+	<data key="topic">net.audio</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

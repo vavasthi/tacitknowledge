@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="238963"/>
+<node id="108916"/>
+<node id="132242"/>
+<node id="40922"/>
+<edge id="238963-108916-aus.general" source="238963" target="108916">
+	<data key="topic">aus.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="238963-132242-aus.general" source="238963" target="132242">
+	<data key="topic">aus.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="238963-40922-aus.general" source="238963" target="40922">
+	<data key="topic">aus.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="108916-132242-aus.general" source="108916" target="132242">
+	<data key="topic">aus.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="108916-40922-aus.general" source="108916" target="40922">
+	<data key="topic">aus.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="40922-132242-aus.general" source="40922" target="132242">
+	<data key="topic">aus.general</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

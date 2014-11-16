@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2180018"/>
+<node id="2200628"/>
+<node id="2252593"/>
+<node id="2190647"/>
+<node id="296480"/>
+<node id="2795979"/>
+<node id="2236483"/>
+<node id="205603"/>
+<node id="2211142"/>
+<node id="2787791"/>
+<node id="2181189"/>
+<node id="2193224"/>
+<node id="2216392"/>
+<node id="2218698"/>
+<node id="2176585"/>
+<node id="2180044"/>
+<node id="2213325"/>
+<node id="2199632"/>
+<node id="2181968"/>
+<node id="2260174"/>
+<node id="2275347"/>
+<node id="2175889"/>
+<node id="2209812"/>
+<node id="2184984"/>
+<node id="2199452"/>
+<node id="2211876"/>
+<node id="2175782"/>
+<node id="2199083"/>
+<node id="2193072"/>
+<node id="2175730"/>
+<node id="2180338"/>
+<node id="2176369"/>
+<node id="2179701"/>
+<node id="2245494"/>
+<node id="2782449"/>
+<node id="2176251"/>
+<node id="2181118"/>
+<node id="170720"/>
+<node id="2199933"/>
+<node id="172125"/>
+<node id="2190080"/>
+<node id="173278"/>
+<node id="2217857"/>
+<node id="2196356"/>
+<node id="2189956"/>
+<node id="2197123"/>
+<node id="2177411"/>
+<node id="2214918"/>
+<node id="2185478"/>
+<node id="2822159"/>
+<node id="2197381"/>
+<node id="2184586"/>
+<node id="172265"/>
+<node id="163178"/>
+<node id="2184206"/>
+<node id="2276308"/>
+<node id="2197969"/>
+<node id="2177105"/>
+<node id="2184913"/>
+<node id="214386"/>
+<node id="2179926"/>
+<node id="2205656"/>
+<node id="2250326"/>
+<node id="2196446"/>
+<node id="2189917"/>
+<node id="2260190"/>
+<node id="217853"/>
+<node id="2197087"/>
+<node id="2302180"/>
+<node id="2196961"/>
+<node id="2260583"/>
+<node id="2286565"/>
+<node id="293124"/>
+<node id="2193513"/>
+<node id="205712"/>
+<node id="2240623"/>
+<node id="2260207"/>
+<node id="2819687"/>
+<node id="2201583"/>
+<edge id="2200628-2199452-comp.unix.programmer" source="2200628" target="2199452">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2200628-2184913-comp.unix.programmer" source="2200628" target="2184913">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2200628-2193513-comp.unix.programmer" source="2200628" target="2193513">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2252593-2240623-comp.unix.programmer" source="2252593" target="2240623">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2190647-2189956-comp.unix.programmer" source="2190647" target="2189956">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="296480-2275347-comp.unix.programmer" source="296480" target="2275347">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="296480-2197123-comp.unix.programmer" source="296480" target="2197123">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="296480-2250326-comp.unix.programmer" source="296480" target="2250326">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="296480-205712-comp.unix.programmer" source="296480" target="205712">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2795979-2197969-comp.unix.programmer" source="2795979" target="2197969">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2236483-2176585-comp.unix.programmer" source="2236483" target="2176585">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2236483-2213325-comp.unix.programmer" source="2236483" target="2213325">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2236483-2822159-comp.unix.programmer" source="2236483" target="2822159">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="205603-2196356-comp.unix.programmer" source="205603" target="2196356">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="205603-2286565-comp.unix.programmer" source="205603" target="2286565">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2181189-2782449-comp.unix.programmer" source="2181189" target="2782449">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2193224-2193072-comp.unix.programmer" source="2193224" target="2193072">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2216392-2286565-comp.unix.programmer" source="2216392" target="2286565">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2176585-2213325-comp.unix.programmer" source="2176585" target="2213325">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2176585-2214918-comp.unix.programmer" source="2176585" target="2214918">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2180044-2180018-comp.unix.programmer" source="2180044" target="2180018">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2199632-2218698-comp.unix.programmer" source="2199632" target="2218698">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2199632-2179701-comp.unix.programmer" source="2199632" target="2179701">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2199632-163178-comp.unix.programmer" source="2199632" target="163178">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2181968-170720-comp.unix.programmer" source="2181968" target="170720">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2181968-2214918-comp.unix.programmer" source="2181968" target="2214918">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2184984-2196446-comp.unix.programmer" source="2184984" target="2196446">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2211876-296480-comp.unix.programmer" source="2211876" target="296480">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="2211876-2275347-comp.unix.programmer" source="2211876" target="2275347">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2211876-2197123-comp.unix.programmer" source="2211876" target="2197123">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2211876-2250326-comp.unix.programmer" source="2211876" target="2250326">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2211876-217853-comp.unix.programmer" source="2211876" target="217853">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2211876-205712-comp.unix.programmer" source="2211876" target="205712">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2175782-296480-comp.unix.programmer" source="2175782" target="296480">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2175782-2211142-comp.unix.programmer" source="2175782" target="2211142">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2175782-2275347-comp.unix.programmer" source="2175782" target="2275347">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2175782-2197123-comp.unix.programmer" source="2175782" target="2197123">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2175782-2276308-comp.unix.programmer" source="2175782" target="2276308">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2175782-2205656-comp.unix.programmer" source="2175782" target="2205656">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2175782-2250326-comp.unix.programmer" source="2175782" target="2250326">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2175782-205712-comp.unix.programmer" source="2175782" target="205712">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2199083-2795979-comp.unix.programmer" source="2199083" target="2795979">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2199083-2197969-comp.unix.programmer" source="2199083" target="2197969">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2199083-293124-comp.unix.programmer" source="2199083" target="293124">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2175730-2214918-comp.unix.programmer" source="2175730" target="2214918">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2180338-2180018-comp.unix.programmer" source="2180338" target="2180018">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2180338-2175889-comp.unix.programmer" source="2180338" target="2175889">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2180338-172265-comp.unix.programmer" source="2180338" target="172265">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2176369-2250326-comp.unix.programmer" source="2176369" target="2250326">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2176251-2196446-comp.unix.programmer" source="2176251" target="2196446">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2181118-2180018-comp.unix.programmer" source="2181118" target="2180018">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="170720-2214918-comp.unix.programmer" source="170720" target="2214918">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2199933-2218698-comp.unix.programmer" source="2199933" target="2218698">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="172125-2179701-comp.unix.programmer" source="172125" target="2179701">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2190080-2209812-comp.unix.programmer" source="2190080" target="2209812">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="173278-296480-comp.unix.programmer" source="173278" target="296480">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="173278-2260174-comp.unix.programmer" source="173278" target="2260174">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="173278-2275347-comp.unix.programmer" source="173278" target="2275347">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="173278-2197123-comp.unix.programmer" source="173278" target="2197123">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="173278-2276308-comp.unix.programmer" source="173278" target="2276308">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="173278-2250326-comp.unix.programmer" source="173278" target="2250326">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="173278-2260190-comp.unix.programmer" source="173278" target="2260190">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="173278-2260583-comp.unix.programmer" source="173278" target="2260583">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="173278-205712-comp.unix.programmer" source="173278" target="205712">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2217857-2822159-comp.unix.programmer" source="2217857" target="2822159">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2197123-296480-comp.unix.programmer" source="2197123" target="296480">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="2197123-2275347-comp.unix.programmer" source="2197123" target="2275347">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2197123-2276308-comp.unix.programmer" source="2197123" target="2276308">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2197123-2250326-comp.unix.programmer" source="2197123" target="2250326">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2197123-205712-comp.unix.programmer" source="2197123" target="205712">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2177411-2218698-comp.unix.programmer" source="2177411" target="2218698">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2177411-2199632-comp.unix.programmer" source="2177411" target="2199632">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2185478-2787791-comp.unix.programmer" source="2185478" target="2787791">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2197381-2211142-comp.unix.programmer" source="2197381" target="2211142">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2197381-2302180-comp.unix.programmer" source="2197381" target="2302180">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2184586-2184206-comp.unix.programmer" source="2184586" target="2184206">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="163178-2179701-comp.unix.programmer" source="163178" target="2179701">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2197969-2795979-comp.unix.programmer" source="2197969" target="2795979">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2177105-2211142-comp.unix.programmer" source="2177105" target="2211142">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2184913-296480-comp.unix.programmer" source="2184913" target="296480">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2184913-2218698-comp.unix.programmer" source="2184913" target="2218698">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2184913-2199632-comp.unix.programmer" source="2184913" target="2199632">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2184913-2260174-comp.unix.programmer" source="2184913" target="2260174">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2184913-2275347-comp.unix.programmer" source="2184913" target="2275347">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2184913-2199452-comp.unix.programmer" source="2184913" target="2199452">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2184913-2189956-comp.unix.programmer" source="2184913" target="2189956">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2184913-2197123-comp.unix.programmer" source="2184913" target="2197123">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2184913-2177411-comp.unix.programmer" source="2184913" target="2177411">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2184913-2822159-comp.unix.programmer" source="2184913" target="2822159">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2184913-2250326-comp.unix.programmer" source="2184913" target="2250326">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2184913-2260190-comp.unix.programmer" source="2184913" target="2260190">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2184913-217853-comp.unix.programmer" source="2184913" target="217853">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2184913-205712-comp.unix.programmer" source="2184913" target="205712">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="214386-2218698-comp.unix.programmer" source="214386" target="2218698">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2179926-2180018-comp.unix.programmer" source="2179926" target="2180018">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2179926-2260190-comp.unix.programmer" source="2179926" target="2260190">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2205656-2211142-comp.unix.programmer" source="2205656" target="2211142">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2205656-2214918-comp.unix.programmer" source="2205656" target="2214918">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2196446-2184984-comp.unix.programmer" source="2196446" target="2184984">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2189917-2199632-comp.unix.programmer" source="2189917" target="2199632">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2189917-2179701-comp.unix.programmer" source="2189917" target="2179701">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2189917-163178-comp.unix.programmer" source="2189917" target="163178">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2260190-2179926-comp.unix.programmer" source="2260190" target="2179926">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="217853-296480-comp.unix.programmer" source="217853" target="296480">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="217853-2275347-comp.unix.programmer" source="217853" target="2275347">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="217853-2211876-comp.unix.programmer" source="217853" target="2211876">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="217853-2197123-comp.unix.programmer" source="217853" target="2197123">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="217853-2276308-comp.unix.programmer" source="217853" target="2276308">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="217853-2250326-comp.unix.programmer" source="217853" target="2250326">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="217853-2260190-comp.unix.programmer" source="217853" target="2260190">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="217853-205712-comp.unix.programmer" source="217853" target="205712">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="2197087-2196356-comp.unix.programmer" source="2197087" target="2196356">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2196961-2199452-comp.unix.programmer" source="2196961" target="2199452">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2196961-2184913-comp.unix.programmer" source="2196961" target="2184913">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2196961-2193513-comp.unix.programmer" source="2196961" target="2193513">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2196961-2201583-comp.unix.programmer" source="2196961" target="2201583">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2260583-2260174-comp.unix.programmer" source="2260583" target="2260174">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2260583-2260190-comp.unix.programmer" source="2260583" target="2260190">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="293124-2795979-comp.unix.programmer" source="293124" target="2795979">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="293124-2197969-comp.unix.programmer" source="293124" target="2197969">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2193513-2199452-comp.unix.programmer" source="2193513" target="2199452">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2193513-2184913-comp.unix.programmer" source="2193513" target="2184913">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2193513-2196961-comp.unix.programmer" source="2193513" target="2196961">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="205712-296480-comp.unix.programmer" source="205712" target="296480">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="205712-2275347-comp.unix.programmer" source="205712" target="2275347">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="205712-2211876-comp.unix.programmer" source="205712" target="2211876">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="205712-2197123-comp.unix.programmer" source="205712" target="2197123">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="205712-2250326-comp.unix.programmer" source="205712" target="2250326">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="205712-217853-comp.unix.programmer" source="205712" target="217853">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2240623-2252593-comp.unix.programmer" source="2240623" target="2252593">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2260207-2260190-comp.unix.programmer" source="2260207" target="2260190">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2819687-2245494-comp.unix.programmer" source="2819687" target="2245494">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2201583-2199452-comp.unix.programmer" source="2201583" target="2199452">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2201583-2184913-comp.unix.programmer" source="2201583" target="2184913">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2201583-2196961-comp.unix.programmer" source="2201583" target="2196961">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2201583-2193513-comp.unix.programmer" source="2201583" target="2193513">
+	<data key="topic">comp.unix.programmer</data>
+	<data key="weight">2</data>
+</edge>
+</graph>
+</graphml>

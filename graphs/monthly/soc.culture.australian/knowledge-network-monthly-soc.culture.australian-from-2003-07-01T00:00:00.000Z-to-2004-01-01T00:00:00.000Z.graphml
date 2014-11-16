@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="184540"/>
+<node id="37019"/>
+<node id="37227"/>
+<node id="327883"/>
+<edge id="184540-327883-soc.culture.australian" source="184540" target="327883">
+	<data key="topic">soc.culture.australian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37019-327883-soc.culture.australian" source="37019" target="327883">
+	<data key="topic">soc.culture.australian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37227-327883-soc.culture.australian" source="37227" target="327883">
+	<data key="topic">soc.culture.australian</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

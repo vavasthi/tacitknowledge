@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1544548"/>
+<node id="389406"/>
+<node id="2849"/>
+<node id="1544535"/>
+<node id="1494934"/>
+<node id="389415"/>
+<node id="389412"/>
+<node id="1544542"/>
+<node id="1544540"/>
+<node id="1494938"/>
+<node id="1544537"/>
+<node id="1494919"/>
+<node id="1544519"/>
+<node id="1495300"/>
+<node id="1544515"/>
+<node id="1544513"/>
+<node id="1494925"/>
+<node id="1544524"/>
+<node id="927412"/>
+<node id="389383"/>
+<node id="389378"/>
+<node id="1090166"/>
+<node id="1090171"/>
+<node id="1544509"/>
+<node id="389388"/>
+<node id="1544505"/>
+<edge id="2849-927412-mod.telecom" source="2849" target="927412">
+	<data key="topic">mod.telecom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1544535-1544519-mod.telecom" source="1544535" target="1544519">
+	<data key="topic">mod.telecom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="389412-1090171-mod.telecom" source="389412" target="1090171">
+	<data key="topic">mod.telecom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="389412-1544505-mod.telecom" source="389412" target="1544505">
+	<data key="topic">mod.telecom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1544542-1544509-mod.telecom" source="1544542" target="1544509">
+	<data key="topic">mod.telecom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1544540-1544548-mod.telecom" source="1544540" target="1544548">
+	<data key="topic">mod.telecom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1494938-1090166-mod.telecom" source="1494938" target="1090166">
+	<data key="topic">mod.telecom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1544537-389415-mod.telecom" source="1544537" target="389415">
+	<data key="topic">mod.telecom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1495300-1544513-mod.telecom" source="1495300" target="1544513">
+	<data key="topic">mod.telecom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1544515-1494934-mod.telecom" source="1544515" target="1494934">
+	<data key="topic">mod.telecom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1544513-1495300-mod.telecom" source="1544513" target="1495300">
+	<data key="topic">mod.telecom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1544524-1544519-mod.telecom" source="1544524" target="1544519">
+	<data key="topic">mod.telecom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="389383-389406-mod.telecom" source="389383" target="389406">
+	<data key="topic">mod.telecom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="389383-389378-mod.telecom" source="389383" target="389378">
+	<data key="topic">mod.telecom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1544509-1494919-mod.telecom" source="1544509" target="1494919">
+	<data key="topic">mod.telecom</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="389388-1494925-mod.telecom" source="389388" target="1494925">
+	<data key="topic">mod.telecom</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

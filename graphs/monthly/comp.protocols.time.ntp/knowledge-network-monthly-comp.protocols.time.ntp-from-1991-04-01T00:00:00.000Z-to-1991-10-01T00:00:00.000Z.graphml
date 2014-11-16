@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="363157"/>
+<node id="1641193"/>
+<node id="1641196"/>
+<node id="1641198"/>
+<node id="788122"/>
+<node id="435485"/>
+<node id="956626"/>
+<node id="1107026"/>
+<node id="11234"/>
+<node id="385890"/>
+<node id="2854"/>
+<node id="422948"/>
+<node id="385444"/>
+<node id="385891"/>
+<node id="362029"/>
+<node id="2760900"/>
+<node id="581859"/>
+<node id="422958"/>
+<node id="24687"/>
+<node id="23665"/>
+<node id="409847"/>
+<node id="4213"/>
+<node id="886906"/>
+<node id="373041"/>
+<node id="1032763"/>
+<node id="422961"/>
+<node id="363518"/>
+<node id="404475"/>
+<node id="1688965"/>
+<node id="371526"/>
+<node id="581325"/>
+<node id="372801"/>
+<node id="2119"/>
+<node id="2247"/>
+<node id="371524"/>
+<node id="1037578"/>
+<node id="1032777"/>
+<node id="358607"/>
+<node id="422156"/>
+<edge id="363157-2119-comp.protocols.time.ntp" source="363157" target="2119">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1641193-1032763-comp.protocols.time.ntp" source="1641193" target="1032763">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1641196-886906-comp.protocols.time.ntp" source="1641196" target="886906">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1641198-886906-comp.protocols.time.ntp" source="1641198" target="886906">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="788122-385444-comp.protocols.time.ntp" source="788122" target="385444">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="788122-1037578-comp.protocols.time.ntp" source="788122" target="1037578">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="435485-373041-comp.protocols.time.ntp" source="435485" target="373041">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2854-358607-comp.protocols.time.ntp" source="2854" target="358607">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="422948-371524-comp.protocols.time.ntp" source="422948" target="371524">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="385444-2247-comp.protocols.time.ntp" source="385444" target="2247">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="385891-422958-comp.protocols.time.ntp" source="385891" target="422958">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362029-23665-comp.protocols.time.ntp" source="362029" target="23665">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="581859-11234-comp.protocols.time.ntp" source="581859" target="11234">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="409847-385890-comp.protocols.time.ntp" source="409847" target="385890">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="409847-371526-comp.protocols.time.ntp" source="409847" target="371526">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4213-404475-comp.protocols.time.ntp" source="4213" target="404475">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4213-358607-comp.protocols.time.ntp" source="4213" target="358607">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="373041-956626-comp.protocols.time.ntp" source="373041" target="956626">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="373041-372801-comp.protocols.time.ntp" source="373041" target="372801">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="373041-2119-comp.protocols.time.ntp" source="373041" target="2119">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1032763-1641193-comp.protocols.time.ntp" source="1032763" target="1641193">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="422961-422958-comp.protocols.time.ntp" source="422961" target="422958">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="363518-422958-comp.protocols.time.ntp" source="363518" target="422958">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="363518-23665-comp.protocols.time.ntp" source="363518" target="23665">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="363518-422961-comp.protocols.time.ntp" source="363518" target="422961">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="404475-4213-comp.protocols.time.ntp" source="404475" target="4213">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="371526-2760900-comp.protocols.time.ntp" source="371526" target="2760900">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="581325-24687-comp.protocols.time.ntp" source="581325" target="24687">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2119-956626-comp.protocols.time.ntp" source="2119" target="956626">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2119-1107026-comp.protocols.time.ntp" source="2119" target="1107026">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2119-1688965-comp.protocols.time.ntp" source="2119" target="1688965">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2247-363518-comp.protocols.time.ntp" source="2247" target="363518">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2247-1032777-comp.protocols.time.ntp" source="2247" target="1032777">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2247-422156-comp.protocols.time.ntp" source="2247" target="422156">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1032777-363518-comp.protocols.time.ntp" source="1032777" target="363518">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="358607-2854-comp.protocols.time.ntp" source="358607" target="2854">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

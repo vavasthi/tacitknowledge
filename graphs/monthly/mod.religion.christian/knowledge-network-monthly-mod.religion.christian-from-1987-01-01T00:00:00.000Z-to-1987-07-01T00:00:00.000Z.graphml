@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="394469"/>
+<node id="390194"/>
+<node id="342628"/>
+<node id="390190"/>
+<node id="27625"/>
+<node id="390191"/>
+<node id="390202"/>
+<node id="1495354"/>
+<edge id="394469-27625-mod.religion.christian" source="394469" target="27625">
+	<data key="topic">mod.religion.christian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390194-390202-mod.religion.christian" source="390194" target="390202">
+	<data key="topic">mod.religion.christian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="342628-390191-mod.religion.christian" source="342628" target="390191">
+	<data key="topic">mod.religion.christian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390190-394469-mod.religion.christian" source="390190" target="394469">
+	<data key="topic">mod.religion.christian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390190-27625-mod.religion.christian" source="390190" target="27625">
+	<data key="topic">mod.religion.christian</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390190-1495354-mod.religion.christian" source="390190" target="1495354">
+	<data key="topic">mod.religion.christian</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

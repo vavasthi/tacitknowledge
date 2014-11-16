@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2275347"/>
+<node id="2176369"/>
+<node id="2253956"/>
+<node id="2288004"/>
+<node id="2804938"/>
+<node id="2208550"/>
+<node id="2250326"/>
+<node id="167494"/>
+<node id="296480"/>
+<node id="205712"/>
+<node id="2846230"/>
+<node id="2176687"/>
+<edge id="2275347-2250326-comp.programming.threads" source="2275347" target="2250326">
+	<data key="topic">comp.programming.threads</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2176369-2250326-comp.programming.threads" source="2176369" target="2250326">
+	<data key="topic">comp.programming.threads</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2176369-2846230-comp.programming.threads" source="2176369" target="2846230">
+	<data key="topic">comp.programming.threads</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2288004-2846230-comp.programming.threads" source="2288004" target="2846230">
+	<data key="topic">comp.programming.threads</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2208550-2804938-comp.programming.threads" source="2208550" target="2804938">
+	<data key="topic">comp.programming.threads</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="296480-2275347-comp.programming.threads" source="296480" target="2275347">
+	<data key="topic">comp.programming.threads</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="296480-2250326-comp.programming.threads" source="296480" target="2250326">
+	<data key="topic">comp.programming.threads</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="296480-205712-comp.programming.threads" source="296480" target="205712">
+	<data key="topic">comp.programming.threads</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="205712-2275347-comp.programming.threads" source="205712" target="2275347">
+	<data key="topic">comp.programming.threads</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="205712-2250326-comp.programming.threads" source="205712" target="2250326">
+	<data key="topic">comp.programming.threads</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2176687-2253956-comp.programming.threads" source="2176687" target="2253956">
+	<data key="topic">comp.programming.threads</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2176687-2804938-comp.programming.threads" source="2176687" target="2804938">
+	<data key="topic">comp.programming.threads</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2176687-167494-comp.programming.threads" source="2176687" target="167494">
+	<data key="topic">comp.programming.threads</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

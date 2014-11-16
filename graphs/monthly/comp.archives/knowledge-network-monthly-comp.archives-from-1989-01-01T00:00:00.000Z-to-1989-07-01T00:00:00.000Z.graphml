@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="373394"/>
+<node id="34901"/>
+<node id="739934"/>
+<node id="740564"/>
+<node id="536982"/>
+<node id="2849"/>
+<node id="2156162"/>
+<node id="2111203"/>
+<node id="10820"/>
+<node id="28422"/>
+<node id="518017"/>
+<node id="740676"/>
+<node id="511440"/>
+<node id="822213"/>
+<node id="750082"/>
+<node id="965475"/>
+<node id="1192256"/>
+<node id="651655"/>
+<edge id="34901-2111203-comp.archives" source="34901" target="2111203">
+	<data key="topic">comp.archives</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="739934-518017-comp.archives" source="739934" target="518017">
+	<data key="topic">comp.archives</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="739934-651655-comp.archives" source="739934" target="651655">
+	<data key="topic">comp.archives</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="740564-2111203-comp.archives" source="740564" target="2111203">
+	<data key="topic">comp.archives</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="536982-965475-comp.archives" source="536982" target="965475">
+	<data key="topic">comp.archives</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2849-740676-comp.archives" source="2849" target="740676">
+	<data key="topic">comp.archives</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10820-2111203-comp.archives" source="10820" target="2111203">
+	<data key="topic">comp.archives</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28422-373394-comp.archives" source="28422" target="373394">
+	<data key="topic">comp.archives</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="511440-1192256-comp.archives" source="511440" target="1192256">
+	<data key="topic">comp.archives</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="822213-2111203-comp.archives" source="822213" target="2111203">
+	<data key="topic">comp.archives</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="750082-2156162-comp.archives" source="750082" target="2156162">
+	<data key="topic">comp.archives</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="750082-518017-comp.archives" source="750082" target="518017">
+	<data key="topic">comp.archives</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="651655-518017-comp.archives" source="651655" target="518017">
+	<data key="topic">comp.archives</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

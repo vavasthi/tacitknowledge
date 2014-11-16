@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="422677"/>
+<node id="564"/>
+<node id="1211986"/>
+<node id="510754"/>
+<node id="518097"/>
+<node id="2141832"/>
+<node id="17113"/>
+<node id="616353"/>
+<node id="442443"/>
+<node id="10926"/>
+<node id="29006"/>
+<node id="3247"/>
+<edge id="2141832-564-sci.crypt" source="2141832" target="564">
+	<data key="topic">sci.crypt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17113-1211986-sci.crypt" source="17113" target="1211986">
+	<data key="topic">sci.crypt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17113-442443-sci.crypt" source="17113" target="442443">
+	<data key="topic">sci.crypt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="616353-564-sci.crypt" source="616353" target="564">
+	<data key="topic">sci.crypt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10926-422677-sci.crypt" source="10926" target="422677">
+	<data key="topic">sci.crypt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10926-510754-sci.crypt" source="10926" target="510754">
+	<data key="topic">sci.crypt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10926-518097-sci.crypt" source="10926" target="518097">
+	<data key="topic">sci.crypt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-564-sci.crypt" source="29006" target="564">
+	<data key="topic">sci.crypt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-3247-sci.crypt" source="29006" target="3247">
+	<data key="topic">sci.crypt</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3247-564-sci.crypt" source="3247" target="564">
+	<data key="topic">sci.crypt</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="576346"/>
+<node id="3907"/>
+<node id="366968"/>
+<node id="375986"/>
+<node id="353092"/>
+<node id="890280"/>
+<node id="701"/>
+<node id="302"/>
+<node id="347915"/>
+<edge id="576346-353092-rec.models.rc" source="576346" target="353092">
+	<data key="topic">rec.models.rc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3907-366968-rec.models.rc" source="3907" target="366968">
+	<data key="topic">rec.models.rc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3907-890280-rec.models.rc" source="3907" target="890280">
+	<data key="topic">rec.models.rc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="375986-701-rec.models.rc" source="375986" target="701">
+	<data key="topic">rec.models.rc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="375986-302-rec.models.rc" source="375986" target="302">
+	<data key="topic">rec.models.rc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347915-375986-rec.models.rc" source="347915" target="375986">
+	<data key="topic">rec.models.rc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347915-701-rec.models.rc" source="347915" target="701">
+	<data key="topic">rec.models.rc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347915-302-rec.models.rc" source="347915" target="302">
+	<data key="topic">rec.models.rc</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="501208"/>
+<node id="1081666"/>
+<node id="2560502"/>
+<node id="1081670"/>
+<node id="1005657"/>
+<node id="2777"/>
+<node id="435648"/>
+<node id="9851"/>
+<node id="1716993"/>
+<node id="784280"/>
+<node id="1592806"/>
+<node id="351483"/>
+<node id="365064"/>
+<node id="2533"/>
+<node id="5132"/>
+<node id="549861"/>
+<node id="5133"/>
+<node id="608517"/>
+<node id="613576"/>
+<node id="1081663"/>
+<node id="1164640"/>
+<edge id="1081666-2777-comp.sys.isis" source="1081666" target="2777">
+	<data key="topic">comp.sys.isis</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1081670-2777-comp.sys.isis" source="1081670" target="2777">
+	<data key="topic">comp.sys.isis</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1081670-435648-comp.sys.isis" source="1081670" target="435648">
+	<data key="topic">comp.sys.isis</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1005657-5132-comp.sys.isis" source="1005657" target="5132">
+	<data key="topic">comp.sys.isis</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2777-501208-comp.sys.isis" source="2777" target="501208">
+	<data key="topic">comp.sys.isis</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2777-2560502-comp.sys.isis" source="2777" target="2560502">
+	<data key="topic">comp.sys.isis</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2777-435648-comp.sys.isis" source="2777" target="435648">
+	<data key="topic">comp.sys.isis</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2777-9851-comp.sys.isis" source="2777" target="9851">
+	<data key="topic">comp.sys.isis</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2777-784280-comp.sys.isis" source="2777" target="784280">
+	<data key="topic">comp.sys.isis</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2777-1592806-comp.sys.isis" source="2777" target="1592806">
+	<data key="topic">comp.sys.isis</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2777-5132-comp.sys.isis" source="2777" target="5132">
+	<data key="topic">comp.sys.isis</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="2777-549861-comp.sys.isis" source="2777" target="549861">
+	<data key="topic">comp.sys.isis</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2777-5133-comp.sys.isis" source="2777" target="5133">
+	<data key="topic">comp.sys.isis</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2777-608517-comp.sys.isis" source="2777" target="608517">
+	<data key="topic">comp.sys.isis</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1716993-2777-comp.sys.isis" source="1716993" target="2777">
+	<data key="topic">comp.sys.isis</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1716993-1592806-comp.sys.isis" source="1716993" target="1592806">
+	<data key="topic">comp.sys.isis</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="351483-2777-comp.sys.isis" source="351483" target="2777">
+	<data key="topic">comp.sys.isis</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="351483-5132-comp.sys.isis" source="351483" target="5132">
+	<data key="topic">comp.sys.isis</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="365064-435648-comp.sys.isis" source="365064" target="435648">
+	<data key="topic">comp.sys.isis</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2533-2777-comp.sys.isis" source="2533" target="2777">
+	<data key="topic">comp.sys.isis</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="549861-2777-comp.sys.isis" source="549861" target="2777">
+	<data key="topic">comp.sys.isis</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="613576-1592806-comp.sys.isis" source="613576" target="1592806">
+	<data key="topic">comp.sys.isis</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1081663-2777-comp.sys.isis" source="1081663" target="2777">
+	<data key="topic">comp.sys.isis</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1164640-2777-comp.sys.isis" source="1164640" target="2777">
+	<data key="topic">comp.sys.isis</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1164640-1716993-comp.sys.isis" source="1164640" target="1716993">
+	<data key="topic">comp.sys.isis</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1164640-1592806-comp.sys.isis" source="1164640" target="1592806">
+	<data key="topic">comp.sys.isis</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

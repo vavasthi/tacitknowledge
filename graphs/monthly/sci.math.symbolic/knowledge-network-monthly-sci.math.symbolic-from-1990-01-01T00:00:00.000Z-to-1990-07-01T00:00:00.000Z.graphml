@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="783899"/>
+<node id="2899072"/>
+<node id="350274"/>
+<node id="1611311"/>
+<node id="2556881"/>
+<node id="2507311"/>
+<node id="806118"/>
+<node id="558804"/>
+<node id="2899064"/>
+<node id="1194158"/>
+<edge id="1611311-2899072-sci.math.symbolic" source="1611311" target="2899072">
+	<data key="topic">sci.math.symbolic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2556881-2899072-sci.math.symbolic" source="2556881" target="2899072">
+	<data key="topic">sci.math.symbolic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2556881-1611311-sci.math.symbolic" source="2556881" target="1611311">
+	<data key="topic">sci.math.symbolic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2507311-1194158-sci.math.symbolic" source="2507311" target="1194158">
+	<data key="topic">sci.math.symbolic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="806118-350274-sci.math.symbolic" source="806118" target="350274">
+	<data key="topic">sci.math.symbolic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="558804-783899-sci.math.symbolic" source="558804" target="783899">
+	<data key="topic">sci.math.symbolic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2899064-2899072-sci.math.symbolic" source="2899064" target="2899072">
+	<data key="topic">sci.math.symbolic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2899064-1611311-sci.math.symbolic" source="2899064" target="1611311">
+	<data key="topic">sci.math.symbolic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2899064-2556881-sci.math.symbolic" source="2899064" target="2556881">
+	<data key="topic">sci.math.symbolic</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

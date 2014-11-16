@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="922143"/>
+<node id="392502"/>
+<node id="33442"/>
+<node id="925117"/>
+<node id="19076"/>
+<node id="490579"/>
+<node id="15719"/>
+<node id="929546"/>
+<node id="393919"/>
+<node id="25389"/>
+<edge id="33442-925117-comp.sys.dec" source="33442" target="925117">
+	<data key="topic">comp.sys.dec</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19076-922143-comp.sys.dec" source="19076" target="922143">
+	<data key="topic">comp.sys.dec</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19076-392502-comp.sys.dec" source="19076" target="392502">
+	<data key="topic">comp.sys.dec</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19076-929546-comp.sys.dec" source="19076" target="929546">
+	<data key="topic">comp.sys.dec</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15719-393919-comp.sys.dec" source="15719" target="393919">
+	<data key="topic">comp.sys.dec</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="25389-490579-comp.sys.dec" source="25389" target="490579">
+	<data key="topic">comp.sys.dec</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

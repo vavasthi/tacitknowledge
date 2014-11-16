@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="966686"/>
+<node id="816345"/>
+<node id="18459"/>
+<node id="19548"/>
+<node id="30940"/>
+<node id="2727219"/>
+<node id="18462"/>
+<node id="427161"/>
+<node id="751957"/>
+<node id="19489"/>
+<node id="15777"/>
+<node id="428008"/>
+<node id="431334"/>
+<node id="30442"/>
+<node id="2027989"/>
+<node id="21804"/>
+<node id="30444"/>
+<node id="469995"/>
+<node id="755130"/>
+<node id="586492"/>
+<node id="500147"/>
+<node id="501298"/>
+<node id="499185"/>
+<node id="586496"/>
+<node id="966966"/>
+<node id="816114"/>
+<node id="586487"/>
+<node id="2028664"/>
+<node id="586502"/>
+<node id="586503"/>
+<node id="15952"/>
+<edge id="966686-966966-comp.sys.transputer" source="966686" target="966966">
+	<data key="topic">comp.sys.transputer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19548-19489-comp.sys.transputer" source="19548" target="19489">
+	<data key="topic">comp.sys.transputer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30940-2027989-comp.sys.transputer" source="30940" target="2027989">
+	<data key="topic">comp.sys.transputer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="427161-2727219-comp.sys.transputer" source="427161" target="2727219">
+	<data key="topic">comp.sys.transputer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="751957-18462-comp.sys.transputer" source="751957" target="18462">
+	<data key="topic">comp.sys.transputer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="428008-431334-comp.sys.transputer" source="428008" target="431334">
+	<data key="topic">comp.sys.transputer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="21804-816345-comp.sys.transputer" source="21804" target="816345">
+	<data key="topic">comp.sys.transputer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="469995-755130-comp.sys.transputer" source="469995" target="755130">
+	<data key="topic">comp.sys.transputer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="469995-586487-comp.sys.transputer" source="469995" target="586487">
+	<data key="topic">comp.sys.transputer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="586492-586502-comp.sys.transputer" source="586492" target="586502">
+	<data key="topic">comp.sys.transputer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="500147-586502-comp.sys.transputer" source="500147" target="586502">
+	<data key="topic">comp.sys.transputer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="499185-19548-comp.sys.transputer" source="499185" target="19548">
+	<data key="topic">comp.sys.transputer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="499185-18462-comp.sys.transputer" source="499185" target="18462">
+	<data key="topic">comp.sys.transputer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="499185-19489-comp.sys.transputer" source="499185" target="19489">
+	<data key="topic">comp.sys.transputer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="499185-15777-comp.sys.transputer" source="499185" target="15777">
+	<data key="topic">comp.sys.transputer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="499185-501298-comp.sys.transputer" source="499185" target="501298">
+	<data key="topic">comp.sys.transputer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="499185-816114-comp.sys.transputer" source="499185" target="816114">
+	<data key="topic">comp.sys.transputer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="586496-30442-comp.sys.transputer" source="586496" target="30442">
+	<data key="topic">comp.sys.transputer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="586487-755130-comp.sys.transputer" source="586487" target="755130">
+	<data key="topic">comp.sys.transputer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2028664-30444-comp.sys.transputer" source="2028664" target="30444">
+	<data key="topic">comp.sys.transputer</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="586503-19548-comp.sys.transputer" source="586503" target="19548">
+	<data key="topic">comp.sys.transputer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="586503-19489-comp.sys.transputer" source="586503" target="19489">
+	<data key="topic">comp.sys.transputer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="586503-499185-comp.sys.transputer" source="586503" target="499185">
+	<data key="topic">comp.sys.transputer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15952-18459-comp.sys.transputer" source="15952" target="18459">
+	<data key="topic">comp.sys.transputer</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

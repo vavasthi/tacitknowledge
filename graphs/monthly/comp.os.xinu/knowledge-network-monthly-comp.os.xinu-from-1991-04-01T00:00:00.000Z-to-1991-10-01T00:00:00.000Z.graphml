@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="574458"/>
+<node id="574463"/>
+<node id="375252"/>
+<node id="3230"/>
+<node id="358649"/>
+<node id="359100"/>
+<node id="574455"/>
+<node id="1821990"/>
+<node id="371142"/>
+<node id="950699"/>
+<node id="378721"/>
+<node id="351268"/>
+<node id="2312"/>
+<node id="364813"/>
+<node id="371471"/>
+<node id="406410"/>
+<edge id="574458-371471-comp.os.xinu" source="574458" target="371471">
+	<data key="topic">comp.os.xinu</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="375252-371142-comp.os.xinu" source="375252" target="371142">
+	<data key="topic">comp.os.xinu</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3230-359100-comp.os.xinu" source="3230" target="359100">
+	<data key="topic">comp.os.xinu</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3230-574455-comp.os.xinu" source="3230" target="574455">
+	<data key="topic">comp.os.xinu</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3230-406410-comp.os.xinu" source="3230" target="406410">
+	<data key="topic">comp.os.xinu</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="358649-574463-comp.os.xinu" source="358649" target="574463">
+	<data key="topic">comp.os.xinu</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="574455-359100-comp.os.xinu" source="574455" target="359100">
+	<data key="topic">comp.os.xinu</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="574455-406410-comp.os.xinu" source="574455" target="406410">
+	<data key="topic">comp.os.xinu</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1821990-375252-comp.os.xinu" source="1821990" target="375252">
+	<data key="topic">comp.os.xinu</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1821990-371142-comp.os.xinu" source="1821990" target="371142">
+	<data key="topic">comp.os.xinu</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="950699-574463-comp.os.xinu" source="950699" target="574463">
+	<data key="topic">comp.os.xinu</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2312-378721-comp.os.xinu" source="2312" target="378721">
+	<data key="topic">comp.os.xinu</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2312-351268-comp.os.xinu" source="2312" target="351268">
+	<data key="topic">comp.os.xinu</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2312-364813-comp.os.xinu" source="2312" target="364813">
+	<data key="topic">comp.os.xinu</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="406410-359100-comp.os.xinu" source="406410" target="359100">
+	<data key="topic">comp.os.xinu</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

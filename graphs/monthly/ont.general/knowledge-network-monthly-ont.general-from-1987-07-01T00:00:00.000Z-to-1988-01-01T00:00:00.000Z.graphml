@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="28308"/>
+<node id="337361"/>
+<node id="24439"/>
+<node id="18365"/>
+<node id="459164"/>
+<node id="459161"/>
+<node id="449350"/>
+<node id="24905"/>
+<node id="393839"/>
+<node id="16106"/>
+<node id="15595"/>
+<node id="26059"/>
+<node id="1878328"/>
+<edge id="28308-18365-ont.general" source="28308" target="18365">
+	<data key="topic">ont.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28308-459164-ont.general" source="28308" target="459164">
+	<data key="topic">ont.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337361-1878328-ont.general" source="337361" target="1878328">
+	<data key="topic">ont.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24439-449350-ont.general" source="24439" target="449350">
+	<data key="topic">ont.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24439-16106-ont.general" source="24439" target="16106">
+	<data key="topic">ont.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459164-18365-ont.general" source="459164" target="18365">
+	<data key="topic">ont.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459161-18365-ont.general" source="459161" target="18365">
+	<data key="topic">ont.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24905-16106-ont.general" source="24905" target="16106">
+	<data key="topic">ont.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24905-26059-ont.general" source="24905" target="26059">
+	<data key="topic">ont.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="393839-18365-ont.general" source="393839" target="18365">
+	<data key="topic">ont.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16106-449350-ont.general" source="16106" target="449350">
+	<data key="topic">ont.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15595-28308-ont.general" source="15595" target="28308">
+	<data key="topic">ont.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15595-18365-ont.general" source="15595" target="18365">
+	<data key="topic">ont.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15595-459164-ont.general" source="15595" target="459164">
+	<data key="topic">ont.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="26059-16106-ont.general" source="26059" target="16106">
+	<data key="topic">ont.general</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

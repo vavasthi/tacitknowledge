@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="360791"/>
+<node id="780829"/>
+<node id="1306"/>
+<node id="559701"/>
+<node id="857810"/>
+<node id="411418"/>
+<node id="2145"/>
+<node id="351653"/>
+<node id="646064"/>
+<node id="1193"/>
+<node id="839654"/>
+<node id="549670"/>
+<node id="5169"/>
+<node id="363445"/>
+<node id="782459"/>
+<node id="366391"/>
+<node id="782464"/>
+<node id="11446"/>
+<node id="1746883"/>
+<node id="437248"/>
+<node id="509178"/>
+<node id="716751"/>
+<node id="1032"/>
+<node id="11336"/>
+<node id="402445"/>
+<node id="608644"/>
+<node id="857735"/>
+<node id="644551"/>
+<edge id="360791-1306-gnu.gcc" source="360791" target="1306">
+	<data key="topic">gnu.gcc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="780829-608644-gnu.gcc" source="780829" target="608644">
+	<data key="topic">gnu.gcc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="411418-857810-gnu.gcc" source="411418" target="857810">
+	<data key="topic">gnu.gcc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="351653-782464-gnu.gcc" source="351653" target="782464">
+	<data key="topic">gnu.gcc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="351653-437248-gnu.gcc" source="351653" target="437248">
+	<data key="topic">gnu.gcc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1193-839654-gnu.gcc" source="1193" target="839654">
+	<data key="topic">gnu.gcc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="549670-402445-gnu.gcc" source="549670" target="402445">
+	<data key="topic">gnu.gcc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="782459-782464-gnu.gcc" source="782459" target="782464">
+	<data key="topic">gnu.gcc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="366391-2145-gnu.gcc" source="366391" target="2145">
+	<data key="topic">gnu.gcc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="366391-5169-gnu.gcc" source="366391" target="5169">
+	<data key="topic">gnu.gcc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11446-363445-gnu.gcc" source="11446" target="363445">
+	<data key="topic">gnu.gcc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1746883-857810-gnu.gcc" source="1746883" target="857810">
+	<data key="topic">gnu.gcc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1032-559701-gnu.gcc" source="1032" target="559701">
+	<data key="topic">gnu.gcc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1032-646064-gnu.gcc" source="1032" target="646064">
+	<data key="topic">gnu.gcc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1032-509178-gnu.gcc" source="1032" target="509178">
+	<data key="topic">gnu.gcc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11336-716751-gnu.gcc" source="11336" target="716751">
+	<data key="topic">gnu.gcc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="857735-857810-gnu.gcc" source="857735" target="857810">
+	<data key="topic">gnu.gcc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="644551-608644-gnu.gcc" source="644551" target="608644">
+	<data key="topic">gnu.gcc</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

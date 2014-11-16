@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="17489"/>
+<node id="392248"/>
+<node id="931389"/>
+<node id="3092"/>
+<node id="17044"/>
+<node id="466386"/>
+<node id="922514"/>
+<node id="390438"/>
+<node id="32577"/>
+<node id="921995"/>
+<node id="932492"/>
+<node id="929480"/>
+<node id="390384"/>
+<node id="922243"/>
+<node id="448137"/>
+<edge id="17489-392248-comp.unix.xenix" source="17489" target="392248">
+	<data key="topic">comp.unix.xenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17489-390438-comp.unix.xenix" source="17489" target="390438">
+	<data key="topic">comp.unix.xenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="931389-448137-comp.unix.xenix" source="931389" target="448137">
+	<data key="topic">comp.unix.xenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3092-922514-comp.unix.xenix" source="3092" target="922514">
+	<data key="topic">comp.unix.xenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17044-932492-comp.unix.xenix" source="17044" target="932492">
+	<data key="topic">comp.unix.xenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="466386-922514-comp.unix.xenix" source="466386" target="922514">
+	<data key="topic">comp.unix.xenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="466386-921995-comp.unix.xenix" source="466386" target="921995">
+	<data key="topic">comp.unix.xenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390438-392248-comp.unix.xenix" source="390438" target="392248">
+	<data key="topic">comp.unix.xenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="32577-931389-comp.unix.xenix" source="32577" target="931389">
+	<data key="topic">comp.unix.xenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="32577-448137-comp.unix.xenix" source="32577" target="448137">
+	<data key="topic">comp.unix.xenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="921995-466386-comp.unix.xenix" source="921995" target="466386">
+	<data key="topic">comp.unix.xenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="921995-922514-comp.unix.xenix" source="921995" target="922514">
+	<data key="topic">comp.unix.xenix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="929480-32577-comp.unix.xenix" source="929480" target="32577">
+	<data key="topic">comp.unix.xenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390384-932492-comp.unix.xenix" source="390384" target="932492">
+	<data key="topic">comp.unix.xenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="922243-392248-comp.unix.xenix" source="922243" target="392248">
+	<data key="topic">comp.unix.xenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="922243-390438-comp.unix.xenix" source="922243" target="390438">
+	<data key="topic">comp.unix.xenix</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

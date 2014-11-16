@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="621609"/>
+<node id="908128"/>
+<node id="780526"/>
+<node id="648593"/>
+<node id="781811"/>
+<node id="2763"/>
+<node id="1730504"/>
+<node id="642757"/>
+<edge id="621609-2763-comp.dcom.sys.cisco" source="621609" target="2763">
+	<data key="topic">comp.dcom.sys.cisco</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="621609-1730504-comp.dcom.sys.cisco" source="621609" target="1730504">
+	<data key="topic">comp.dcom.sys.cisco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="780526-781811-comp.dcom.sys.cisco" source="780526" target="781811">
+	<data key="topic">comp.dcom.sys.cisco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="648593-908128-comp.dcom.sys.cisco" source="648593" target="908128">
+	<data key="topic">comp.dcom.sys.cisco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="642757-621609-comp.dcom.sys.cisco" source="642757" target="621609">
+	<data key="topic">comp.dcom.sys.cisco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="642757-2763-comp.dcom.sys.cisco" source="642757" target="2763">
+	<data key="topic">comp.dcom.sys.cisco</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="642757-1730504-comp.dcom.sys.cisco" source="642757" target="1730504">
+	<data key="topic">comp.dcom.sys.cisco</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

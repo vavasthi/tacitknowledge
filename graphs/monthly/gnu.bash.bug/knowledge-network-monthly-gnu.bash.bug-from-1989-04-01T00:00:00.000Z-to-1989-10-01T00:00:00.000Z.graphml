@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="19220"/>
+<node id="510613"/>
+<node id="709023"/>
+<node id="703264"/>
+<node id="696477"/>
+<node id="696478"/>
+<node id="780829"/>
+<node id="349087"/>
+<node id="696213"/>
+<node id="696491"/>
+<node id="696489"/>
+<node id="613293"/>
+<node id="696624"/>
+<node id="696496"/>
+<node id="1205531"/>
+<node id="1205532"/>
+<node id="672292"/>
+<node id="696481"/>
+<node id="366512"/>
+<node id="1205530"/>
+<node id="696487"/>
+<node id="696507"/>
+<node id="696505"/>
+<node id="696511"/>
+<node id="708928"/>
+<node id="1855435"/>
+<node id="696499"/>
+<node id="608689"/>
+<node id="1855432"/>
+<node id="696503"/>
+<node id="696757"/>
+<node id="696501"/>
+<node id="2113"/>
+<node id="1161650"/>
+<node id="790477"/>
+<node id="696522"/>
+<node id="1161653"/>
+<node id="29895"/>
+<node id="696513"/>
+<node id="520141"/>
+<node id="696519"/>
+<node id="12110"/>
+<node id="696645"/>
+<node id="696517"/>
+<node id="26833"/>
+<node id="2677754"/>
+<node id="509142"/>
+<node id="1161700"/>
+<node id="557404"/>
+<node id="512085"/>
+<node id="534877"/>
+<node id="350674"/>
+<node id="620509"/>
+<node id="2120054"/>
+<node id="696544"/>
+<node id="535648"/>
+<node id="812759"/>
+<node id="696529"/>
+<node id="699218"/>
+<node id="510300"/>
+<node id="696536"/>
+<node id="403545"/>
+<node id="613481"/>
+<node id="506087"/>
+<node id="35939"/>
+<node id="1161684"/>
+<node id="617451"/>
+<node id="521584"/>
+<node id="696546"/>
+<node id="852322"/>
+<node id="677093"/>
+<node id="2113105"/>
+<node id="608505"/>
+<node id="611579"/>
+<node id="521589"/>
+<node id="747513"/>
+<node id="12405"/>
+<node id="513280"/>
+<node id="696692"/>
+<node id="537716"/>
+<node id="1205519"/>
+<node id="801523"/>
+<node id="15618"/>
+<node id="734473"/>
+<node id="537744"/>
+<node id="370575"/>
+<node id="1205503"/>
+<node id="509066"/>
+<node id="5776"/>
+<node id="801540"/>
+<edge id="19220-537716-gnu.bash.bug" source="19220" target="537716">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="703264-696519-gnu.bash.bug" source="703264" target="696519">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="703264-5776-gnu.bash.bug" source="703264" target="5776">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696477-1161653-gnu.bash.bug" source="696477" target="1161653">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696477-696519-gnu.bash.bug" source="696477" target="696519">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696478-696481-gnu.bash.bug" source="696478" target="696481">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="696478-2113-gnu.bash.bug" source="696478" target="2113">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696478-696513-gnu.bash.bug" source="696478" target="696513">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696478-696519-gnu.bash.bug" source="696478" target="696519">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696478-812759-gnu.bash.bug" source="696478" target="812759">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696478-506087-gnu.bash.bug" source="696478" target="506087">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="349087-696481-gnu.bash.bug" source="349087" target="696481">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="349087-12110-gnu.bash.bug" source="349087" target="12110">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696213-696481-gnu.bash.bug" source="696213" target="696481">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696491-696505-gnu.bash.bug" source="696491" target="696505">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696489-696522-gnu.bash.bug" source="696489" target="696522">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="613293-510300-gnu.bash.bug" source="613293" target="510300">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696624-696481-gnu.bash.bug" source="696624" target="696481">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696624-2677754-gnu.bash.bug" source="696624" target="2677754">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696481-510613-gnu.bash.bug" source="696481" target="510613">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696481-709023-gnu.bash.bug" source="696481" target="709023">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696481-696477-gnu.bash.bug" source="696481" target="696477">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696481-696478-gnu.bash.bug" source="696481" target="696478">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696481-780829-gnu.bash.bug" source="696481" target="780829">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696481-696213-gnu.bash.bug" source="696481" target="696213">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696481-1205531-gnu.bash.bug" source="696481" target="1205531">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696481-1205532-gnu.bash.bug" source="696481" target="1205532">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696481-672292-gnu.bash.bug" source="696481" target="672292">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696481-366512-gnu.bash.bug" source="696481" target="366512">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696481-1205530-gnu.bash.bug" source="696481" target="1205530">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696481-696487-gnu.bash.bug" source="696481" target="696487">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="696481-696507-gnu.bash.bug" source="696481" target="696507">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="696481-696505-gnu.bash.bug" source="696481" target="696505">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="696481-696511-gnu.bash.bug" source="696481" target="696511">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696481-708928-gnu.bash.bug" source="696481" target="708928">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696481-1855435-gnu.bash.bug" source="696481" target="1855435">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696481-696499-gnu.bash.bug" source="696481" target="696499">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696481-696503-gnu.bash.bug" source="696481" target="696503">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696481-2113-gnu.bash.bug" source="696481" target="2113">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="696481-1161650-gnu.bash.bug" source="696481" target="1161650">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696481-790477-gnu.bash.bug" source="696481" target="790477">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696481-29895-gnu.bash.bug" source="696481" target="29895">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696481-12110-gnu.bash.bug" source="696481" target="12110">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="696481-696645-gnu.bash.bug" source="696481" target="696645">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696481-557404-gnu.bash.bug" source="696481" target="557404">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696481-534877-gnu.bash.bug" source="696481" target="534877">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696481-350674-gnu.bash.bug" source="696481" target="350674">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696481-2120054-gnu.bash.bug" source="696481" target="2120054">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696481-696544-gnu.bash.bug" source="696481" target="696544">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696481-510300-gnu.bash.bug" source="696481" target="510300">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696481-696536-gnu.bash.bug" source="696481" target="696536">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696481-403545-gnu.bash.bug" source="696481" target="403545">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="696481-613481-gnu.bash.bug" source="696481" target="613481">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696481-506087-gnu.bash.bug" source="696481" target="506087">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="696481-1161684-gnu.bash.bug" source="696481" target="1161684">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696481-521584-gnu.bash.bug" source="696481" target="521584">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696481-696546-gnu.bash.bug" source="696481" target="696546">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696481-677093-gnu.bash.bug" source="696481" target="677093">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="696481-2113105-gnu.bash.bug" source="696481" target="2113105">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696481-521589-gnu.bash.bug" source="696481" target="521589">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="696481-12405-gnu.bash.bug" source="696481" target="12405">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="696481-513280-gnu.bash.bug" source="696481" target="513280">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="696481-537716-gnu.bash.bug" source="696481" target="537716">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696481-537744-gnu.bash.bug" source="696481" target="537744">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696481-370575-gnu.bash.bug" source="696481" target="370575">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696481-509066-gnu.bash.bug" source="696481" target="509066">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696481-5776-gnu.bash.bug" source="696481" target="5776">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696487-696481-gnu.bash.bug" source="696487" target="696481">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="696507-696481-gnu.bash.bug" source="696507" target="696481">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696505-696491-gnu.bash.bug" source="696505" target="696491">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696505-696481-gnu.bash.bug" source="696505" target="696481">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="696505-696517-gnu.bash.bug" source="696505" target="696517">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1855432-696505-gnu.bash.bug" source="1855432" target="696505">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696501-780829-gnu.bash.bug" source="696501" target="780829">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696501-696496-gnu.bash.bug" source="696501" target="696496">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696501-1205532-gnu.bash.bug" source="696501" target="1205532">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696501-696507-gnu.bash.bug" source="696501" target="696507">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="696501-608689-gnu.bash.bug" source="696501" target="608689">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696501-29895-gnu.bash.bug" source="696501" target="29895">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696501-696645-gnu.bash.bug" source="696501" target="696645">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696501-1161700-gnu.bash.bug" source="696501" target="1161700">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="696501-350674-gnu.bash.bug" source="696501" target="350674">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696501-535648-gnu.bash.bug" source="696501" target="535648">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696501-696529-gnu.bash.bug" source="696501" target="696529">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696501-506087-gnu.bash.bug" source="696501" target="506087">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696501-521584-gnu.bash.bug" source="696501" target="521584">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696501-513280-gnu.bash.bug" source="696501" target="513280">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696501-537716-gnu.bash.bug" source="696501" target="537716">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2113-696481-gnu.bash.bug" source="2113" target="696481">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2113-557404-gnu.bash.bug" source="2113" target="557404">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2113-611579-gnu.bash.bug" source="2113" target="611579">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2113-537716-gnu.bash.bug" source="2113" target="537716">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1161650-780829-gnu.bash.bug" source="1161650" target="780829">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1161650-521589-gnu.bash.bug" source="1161650" target="521589">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696522-696481-gnu.bash.bug" source="696522" target="696481">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="696522-696505-gnu.bash.bug" source="696522" target="696505">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696522-2113-gnu.bash.bug" source="696522" target="2113">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29895-26833-gnu.bash.bug" source="29895" target="26833">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="520141-12110-gnu.bash.bug" source="520141" target="12110">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="520141-521589-gnu.bash.bug" source="520141" target="521589">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696519-696477-gnu.bash.bug" source="696519" target="696477">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696519-780829-gnu.bash.bug" source="696519" target="780829">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696519-696481-gnu.bash.bug" source="696519" target="696481">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696519-506087-gnu.bash.bug" source="696519" target="506087">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696519-35939-gnu.bash.bug" source="696519" target="35939">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696519-513280-gnu.bash.bug" source="696519" target="513280">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696519-5776-gnu.bash.bug" source="696519" target="5776">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="12110-696489-gnu.bash.bug" source="12110" target="696489">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12110-696481-gnu.bash.bug" source="12110" target="696481">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="12110-696507-gnu.bash.bug" source="12110" target="696507">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12110-696522-gnu.bash.bug" source="12110" target="696522">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12110-520141-gnu.bash.bug" source="12110" target="520141">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12110-521589-gnu.bash.bug" source="12110" target="521589">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509142-696481-gnu.bash.bug" source="509142" target="696481">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509142-696487-gnu.bash.bug" source="509142" target="696487">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509142-747513-gnu.bash.bug" source="509142" target="747513">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="557404-696624-gnu.bash.bug" source="557404" target="696624">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="557404-611579-gnu.bash.bug" source="557404" target="611579">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="512085-1205519-gnu.bash.bug" source="512085" target="1205519">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="812759-696481-gnu.bash.bug" source="812759" target="696481">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="812759-2113-gnu.bash.bug" source="812759" target="2113">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="699218-696481-gnu.bash.bug" source="699218" target="696481">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="699218-506087-gnu.bash.bug" source="699218" target="506087">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="699218-513280-gnu.bash.bug" source="699218" target="513280">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510300-613293-gnu.bash.bug" source="510300" target="613293">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510300-696481-gnu.bash.bug" source="510300" target="696481">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="506087-696478-gnu.bash.bug" source="506087" target="696478">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="506087-696481-gnu.bash.bug" source="506087" target="696481">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="35939-696481-gnu.bash.bug" source="35939" target="696481">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="617451-709023-gnu.bash.bug" source="617451" target="709023">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521584-696481-gnu.bash.bug" source="521584" target="696481">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521584-2113-gnu.bash.bug" source="521584" target="2113">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521584-537716-gnu.bash.bug" source="521584" target="537716">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="852322-696481-gnu.bash.bug" source="852322" target="696481">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="852322-510300-gnu.bash.bug" source="852322" target="510300">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521589-696757-gnu.bash.bug" source="521589" target="696757">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521589-520141-gnu.bash.bug" source="521589" target="520141">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521589-620509-gnu.bash.bug" source="521589" target="620509">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521589-1205503-gnu.bash.bug" source="521589" target="1205503">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12405-696481-gnu.bash.bug" source="12405" target="696481">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="12405-613481-gnu.bash.bug" source="12405" target="613481">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12405-677093-gnu.bash.bug" source="12405" target="677093">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="513280-696481-gnu.bash.bug" source="513280" target="696481">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="513280-696505-gnu.bash.bug" source="513280" target="696505">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696692-709023-gnu.bash.bug" source="696692" target="709023">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696692-506087-gnu.bash.bug" source="696692" target="506087">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="801523-696481-gnu.bash.bug" source="801523" target="696481">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="801523-696507-gnu.bash.bug" source="801523" target="696507">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15618-696505-gnu.bash.bug" source="15618" target="696505">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="734473-696757-gnu.bash.bug" source="734473" target="696757">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="370575-696481-gnu.bash.bug" source="370575" target="696481">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="370575-608505-gnu.bash.bug" source="370575" target="608505">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="370575-521589-gnu.bash.bug" source="370575" target="521589">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1205503-521589-gnu.bash.bug" source="1205503" target="521589">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="509066-696489-gnu.bash.bug" source="509066" target="696489">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509066-696522-gnu.bash.bug" source="509066" target="696522">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509066-696519-gnu.bash.bug" source="509066" target="696519">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509066-35939-gnu.bash.bug" source="509066" target="35939">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="801540-696481-gnu.bash.bug" source="801540" target="696481">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="801540-1161684-gnu.bash.bug" source="801540" target="1161684">
+	<data key="topic">gnu.bash.bug</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

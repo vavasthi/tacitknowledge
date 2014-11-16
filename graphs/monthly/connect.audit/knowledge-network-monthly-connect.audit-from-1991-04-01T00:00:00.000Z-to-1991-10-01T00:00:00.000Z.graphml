@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="351126"/>
+<node id="949952"/>
+<node id="348082"/>
+<node id="350770"/>
+<node id="353298"/>
+<node id="371283"/>
+<node id="569"/>
+<node id="824151"/>
+<node id="376250"/>
+<node id="1153358"/>
+<node id="4062"/>
+<node id="349945"/>
+<node id="435430"/>
+<node id="350850"/>
+<node id="2498433"/>
+<node id="405263"/>
+<node id="365518"/>
+<node id="416621"/>
+<node id="351056"/>
+<edge id="949952-405263-connect.audit" source="949952" target="405263">
+	<data key="topic">connect.audit</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348082-351126-connect.audit" source="348082" target="351126">
+	<data key="topic">connect.audit</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350770-351126-connect.audit" source="350770" target="351126">
+	<data key="topic">connect.audit</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="353298-405263-connect.audit" source="353298" target="405263">
+	<data key="topic">connect.audit</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="371283-376250-connect.audit" source="371283" target="376250">
+	<data key="topic">connect.audit</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="371283-349945-connect.audit" source="371283" target="349945">
+	<data key="topic">connect.audit</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="371283-405263-connect.audit" source="371283" target="405263">
+	<data key="topic">connect.audit</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="569-405263-connect.audit" source="569" target="405263">
+	<data key="topic">connect.audit</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="824151-405263-connect.audit" source="824151" target="405263">
+	<data key="topic">connect.audit</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1153358-351126-connect.audit" source="1153358" target="351126">
+	<data key="topic">connect.audit</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1153358-351056-connect.audit" source="1153358" target="351056">
+	<data key="topic">connect.audit</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4062-351126-connect.audit" source="4062" target="351126">
+	<data key="topic">connect.audit</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350850-435430-connect.audit" source="350850" target="435430">
+	<data key="topic">connect.audit</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2498433-371283-connect.audit" source="2498433" target="371283">
+	<data key="topic">connect.audit</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2498433-376250-connect.audit" source="2498433" target="376250">
+	<data key="topic">connect.audit</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="416621-365518-connect.audit" source="416621" target="365518">
+	<data key="topic">connect.audit</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

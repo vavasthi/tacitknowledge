@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="59329"/>
+<node id="38209"/>
+<node id="36995"/>
+<node id="59172"/>
+<node id="317459"/>
+<node id="39304"/>
+<node id="283924"/>
+<node id="37001"/>
+<node id="38490"/>
+<node id="75419"/>
+<node id="75999"/>
+<edge id="283924-38209-alt.stupidity" source="283924" target="38209">
+	<data key="topic">alt.stupidity</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="283924-317459-alt.stupidity" source="283924" target="317459">
+	<data key="topic">alt.stupidity</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="283924-38490-alt.stupidity" source="283924" target="38490">
+	<data key="topic">alt.stupidity</data>
+	<data key="weight">6</data>
+</edge>
+<edge id="37001-59329-alt.stupidity" source="37001" target="59329">
+	<data key="topic">alt.stupidity</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="37001-36995-alt.stupidity" source="37001" target="36995">
+	<data key="topic">alt.stupidity</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37001-59172-alt.stupidity" source="37001" target="59172">
+	<data key="topic">alt.stupidity</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37001-39304-alt.stupidity" source="37001" target="39304">
+	<data key="topic">alt.stupidity</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37001-75419-alt.stupidity" source="37001" target="75419">
+	<data key="topic">alt.stupidity</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="75999-59329-alt.stupidity" source="75999" target="59329">
+	<data key="topic">alt.stupidity</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="75999-36995-alt.stupidity" source="75999" target="36995">
+	<data key="topic">alt.stupidity</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="75999-59172-alt.stupidity" source="75999" target="59172">
+	<data key="topic">alt.stupidity</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="75999-39304-alt.stupidity" source="75999" target="39304">
+	<data key="topic">alt.stupidity</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="75999-37001-alt.stupidity" source="75999" target="37001">
+	<data key="topic">alt.stupidity</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="75999-75419-alt.stupidity" source="75999" target="75419">
+	<data key="topic">alt.stupidity</data>
+	<data key="weight">2</data>
+</edge>
+</graph>
+</graphml>

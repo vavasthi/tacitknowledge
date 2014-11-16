@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="390790"/>
+<node id="447832"/>
+<node id="395912"/>
+<node id="16930"/>
+<node id="17059"/>
+<node id="16948"/>
+<node id="15557"/>
+<node id="22264"/>
+<node id="17018"/>
+<node id="16955"/>
+<node id="17037"/>
+<node id="16976"/>
+<edge id="16930-16948-rec.games.frp" source="16930" target="16948">
+	<data key="topic">rec.games.frp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16930-17037-rec.games.frp" source="16930" target="17037">
+	<data key="topic">rec.games.frp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16930-16976-rec.games.frp" source="16930" target="16976">
+	<data key="topic">rec.games.frp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17059-16948-rec.games.frp" source="17059" target="16948">
+	<data key="topic">rec.games.frp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17059-16976-rec.games.frp" source="17059" target="16976">
+	<data key="topic">rec.games.frp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16948-16976-rec.games.frp" source="16948" target="16976">
+	<data key="topic">rec.games.frp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15557-390790-rec.games.frp" source="15557" target="390790">
+	<data key="topic">rec.games.frp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15557-447832-rec.games.frp" source="15557" target="447832">
+	<data key="topic">rec.games.frp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15557-395912-rec.games.frp" source="15557" target="395912">
+	<data key="topic">rec.games.frp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15557-22264-rec.games.frp" source="15557" target="22264">
+	<data key="topic">rec.games.frp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="22264-390790-rec.games.frp" source="22264" target="390790">
+	<data key="topic">rec.games.frp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="22264-447832-rec.games.frp" source="22264" target="447832">
+	<data key="topic">rec.games.frp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="22264-395912-rec.games.frp" source="22264" target="395912">
+	<data key="topic">rec.games.frp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="22264-15557-rec.games.frp" source="22264" target="15557">
+	<data key="topic">rec.games.frp</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="16955-17018-rec.games.frp" source="16955" target="17018">
+	<data key="topic">rec.games.frp</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

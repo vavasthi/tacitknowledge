@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1576701"/>
+<node id="1483348"/>
+<node id="399252"/>
+<node id="391028"/>
+<node id="464273"/>
+<node id="924074"/>
+<node id="341053"/>
+<node id="469326"/>
+<node id="338458"/>
+<node id="1553691"/>
+<node id="464826"/>
+<edge id="391028-1576701-net.micro.ns32k" source="391028" target="1576701">
+	<data key="topic">net.micro.ns32k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391028-1483348-net.micro.ns32k" source="391028" target="1483348">
+	<data key="topic">net.micro.ns32k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391028-399252-net.micro.ns32k" source="391028" target="399252">
+	<data key="topic">net.micro.ns32k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391028-464273-net.micro.ns32k" source="391028" target="464273">
+	<data key="topic">net.micro.ns32k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391028-1553691-net.micro.ns32k" source="391028" target="1553691">
+	<data key="topic">net.micro.ns32k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391028-464826-net.micro.ns32k" source="391028" target="464826">
+	<data key="topic">net.micro.ns32k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="924074-1483348-net.micro.ns32k" source="924074" target="1483348">
+	<data key="topic">net.micro.ns32k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="924074-464273-net.micro.ns32k" source="924074" target="464273">
+	<data key="topic">net.micro.ns32k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="924074-1553691-net.micro.ns32k" source="924074" target="1553691">
+	<data key="topic">net.micro.ns32k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341053-1483348-net.micro.ns32k" source="341053" target="1483348">
+	<data key="topic">net.micro.ns32k</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="341053-464273-net.micro.ns32k" source="341053" target="464273">
+	<data key="topic">net.micro.ns32k</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="341053-1553691-net.micro.ns32k" source="341053" target="1553691">
+	<data key="topic">net.micro.ns32k</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="469326-338458-net.micro.ns32k" source="469326" target="338458">
+	<data key="topic">net.micro.ns32k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="464826-1483348-net.micro.ns32k" source="464826" target="1483348">
+	<data key="topic">net.micro.ns32k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="464826-464273-net.micro.ns32k" source="464826" target="464273">
+	<data key="topic">net.micro.ns32k</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="464826-1553691-net.micro.ns32k" source="464826" target="1553691">
+	<data key="topic">net.micro.ns32k</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

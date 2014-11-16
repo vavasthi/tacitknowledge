@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="24817"/>
+<node id="18226"/>
+<node id="456024"/>
+<node id="394038"/>
+<node id="924379"/>
+<node id="391601"/>
+<node id="924348"/>
+<node id="924375"/>
+<node id="1127115"/>
+<node id="2849"/>
+<node id="397735"/>
+<node id="921775"/>
+<node id="488098"/>
+<node id="921546"/>
+<node id="454061"/>
+<node id="468974"/>
+<node id="919622"/>
+<node id="395273"/>
+<edge id="18226-924379-net.lang.c++" source="18226" target="924379">
+	<data key="topic">net.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18226-454061-net.lang.c++" source="18226" target="454061">
+	<data key="topic">net.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="456024-924375-net.lang.c++" source="456024" target="924375">
+	<data key="topic">net.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="924348-395273-net.lang.c++" source="924348" target="395273">
+	<data key="topic">net.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2849-24817-net.lang.c++" source="2849" target="24817">
+	<data key="topic">net.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="397735-391601-net.lang.c++" source="397735" target="391601">
+	<data key="topic">net.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="488098-394038-net.lang.c++" source="488098" target="394038">
+	<data key="topic">net.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="488098-921546-net.lang.c++" source="488098" target="921546">
+	<data key="topic">net.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="454061-24817-net.lang.c++" source="454061" target="24817">
+	<data key="topic">net.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="468974-1127115-net.lang.c++" source="468974" target="1127115">
+	<data key="topic">net.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="468974-921546-net.lang.c++" source="468974" target="921546">
+	<data key="topic">net.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919622-1127115-net.lang.c++" source="919622" target="1127115">
+	<data key="topic">net.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919622-921775-net.lang.c++" source="919622" target="921775">
+	<data key="topic">net.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919622-921546-net.lang.c++" source="919622" target="921546">
+	<data key="topic">net.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919622-468974-net.lang.c++" source="919622" target="468974">
+	<data key="topic">net.lang.c++</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

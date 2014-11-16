@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1011993"/>
+<node id="1796724"/>
+<node id="618434"/>
+<node id="621985"/>
+<node id="1031383"/>
+<node id="35132"/>
+<node id="1796872"/>
+<node id="621877"/>
+<node id="1355914"/>
+<node id="845987"/>
+<node id="842228"/>
+<edge id="1011993-621985-soc.culture.nordic" source="1011993" target="621985">
+	<data key="topic">soc.culture.nordic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="618434-621985-soc.culture.nordic" source="618434" target="621985">
+	<data key="topic">soc.culture.nordic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="618434-621877-soc.culture.nordic" source="618434" target="621877">
+	<data key="topic">soc.culture.nordic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1031383-621985-soc.culture.nordic" source="1031383" target="621985">
+	<data key="topic">soc.culture.nordic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="35132-1796724-soc.culture.nordic" source="35132" target="1796724">
+	<data key="topic">soc.culture.nordic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="35132-842228-soc.culture.nordic" source="35132" target="842228">
+	<data key="topic">soc.culture.nordic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1796872-1031383-soc.culture.nordic" source="1796872" target="1031383">
+	<data key="topic">soc.culture.nordic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="621877-618434-soc.culture.nordic" source="621877" target="618434">
+	<data key="topic">soc.culture.nordic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="621877-621985-soc.culture.nordic" source="621877" target="621985">
+	<data key="topic">soc.culture.nordic</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1355914-621985-soc.culture.nordic" source="1355914" target="621985">
+	<data key="topic">soc.culture.nordic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="845987-1796724-soc.culture.nordic" source="845987" target="1796724">
+	<data key="topic">soc.culture.nordic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="845987-35132-soc.culture.nordic" source="845987" target="35132">
+	<data key="topic">soc.culture.nordic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="845987-842228-soc.culture.nordic" source="845987" target="842228">
+	<data key="topic">soc.culture.nordic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="842228-1796724-soc.culture.nordic" source="842228" target="1796724">
+	<data key="topic">soc.culture.nordic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="842228-618434-soc.culture.nordic" source="842228" target="618434">
+	<data key="topic">soc.culture.nordic</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

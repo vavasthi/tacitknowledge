@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="32340"/>
+<node id="1588270"/>
+<node id="355172"/>
+<node id="15659"/>
+<node id="23499"/>
+<node id="20636"/>
+<node id="17165"/>
+<node id="535094"/>
+<node id="964948"/>
+<node id="23072"/>
+<node id="967858"/>
+<edge id="1588270-355172-comp.std.misc" source="1588270" target="355172">
+	<data key="topic">comp.std.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1588270-23072-comp.std.misc" source="1588270" target="23072">
+	<data key="topic">comp.std.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15659-355172-comp.std.misc" source="15659" target="355172">
+	<data key="topic">comp.std.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15659-535094-comp.std.misc" source="15659" target="535094">
+	<data key="topic">comp.std.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23499-17165-comp.std.misc" source="23499" target="17165">
+	<data key="topic">comp.std.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20636-32340-comp.std.misc" source="20636" target="32340">
+	<data key="topic">comp.std.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="535094-355172-comp.std.misc" source="535094" target="355172">
+	<data key="topic">comp.std.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="964948-967858-comp.std.misc" source="964948" target="967858">
+	<data key="topic">comp.std.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23072-355172-comp.std.misc" source="23072" target="355172">
+	<data key="topic">comp.std.misc</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

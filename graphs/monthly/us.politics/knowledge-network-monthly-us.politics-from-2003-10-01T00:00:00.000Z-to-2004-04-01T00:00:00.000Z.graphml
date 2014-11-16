@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="123026"/>
+<node id="37011"/>
+<node id="185685"/>
+<node id="336404"/>
+<node id="147094"/>
+<node id="40223"/>
+<node id="42849"/>
+<node id="43366"/>
+<node id="201831"/>
+<node id="185897"/>
+<node id="39789"/>
+<node id="172336"/>
+<node id="38000"/>
+<node id="37042"/>
+<node id="199795"/>
+<node id="179835"/>
+<node id="181120"/>
+<node id="46722"/>
+<node id="203458"/>
+<node id="39172"/>
+<node id="336260"/>
+<node id="228169"/>
+<node id="55628"/>
+<node id="41485"/>
+<node id="141519"/>
+<edge id="37011-172336-us.politics" source="37011" target="172336">
+	<data key="topic">us.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="336404-172336-us.politics" source="336404" target="172336">
+	<data key="topic">us.politics</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="336404-38000-us.politics" source="336404" target="38000">
+	<data key="topic">us.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="336404-336260-us.politics" source="336404" target="336260">
+	<data key="topic">us.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="336404-228169-us.politics" source="336404" target="228169">
+	<data key="topic">us.politics</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="147094-172336-us.politics" source="147094" target="172336">
+	<data key="topic">us.politics</data>
+	<data key="weight">7</data>
+</edge>
+<edge id="147094-39172-us.politics" source="147094" target="39172">
+	<data key="topic">us.politics</data>
+	<data key="weight">7</data>
+</edge>
+<edge id="40223-172336-us.politics" source="40223" target="172336">
+	<data key="topic">us.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="42849-185685-us.politics" source="42849" target="185685">
+	<data key="topic">us.politics</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="42849-185897-us.politics" source="42849" target="185897">
+	<data key="topic">us.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="42849-172336-us.politics" source="42849" target="172336">
+	<data key="topic">us.politics</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="42849-179835-us.politics" source="42849" target="179835">
+	<data key="topic">us.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="42849-55628-us.politics" source="42849" target="55628">
+	<data key="topic">us.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="43366-172336-us.politics" source="43366" target="172336">
+	<data key="topic">us.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="201831-123026-us.politics" source="201831" target="123026">
+	<data key="topic">us.politics</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="201831-172336-us.politics" source="201831" target="172336">
+	<data key="topic">us.politics</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="39789-172336-us.politics" source="39789" target="172336">
+	<data key="topic">us.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="39789-46722-us.politics" source="39789" target="46722">
+	<data key="topic">us.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="38000-39789-us.politics" source="38000" target="39789">
+	<data key="topic">us.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="38000-172336-us.politics" source="38000" target="172336">
+	<data key="topic">us.politics</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="38000-46722-us.politics" source="38000" target="46722">
+	<data key="topic">us.politics</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="38000-228169-us.politics" source="38000" target="228169">
+	<data key="topic">us.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="199795-172336-us.politics" source="199795" target="172336">
+	<data key="topic">us.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="199795-181120-us.politics" source="199795" target="181120">
+	<data key="topic">us.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="46722-336404-us.politics" source="46722" target="336404">
+	<data key="topic">us.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="46722-172336-us.politics" source="46722" target="172336">
+	<data key="topic">us.politics</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="46722-38000-us.politics" source="46722" target="38000">
+	<data key="topic">us.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="46722-336260-us.politics" source="46722" target="336260">
+	<data key="topic">us.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="46722-228169-us.politics" source="46722" target="228169">
+	<data key="topic">us.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="203458-172336-us.politics" source="203458" target="172336">
+	<data key="topic">us.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="336260-336404-us.politics" source="336260" target="336404">
+	<data key="topic">us.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="336260-172336-us.politics" source="336260" target="172336">
+	<data key="topic">us.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="336260-38000-us.politics" source="336260" target="38000">
+	<data key="topic">us.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="336260-228169-us.politics" source="336260" target="228169">
+	<data key="topic">us.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="228169-172336-us.politics" source="228169" target="172336">
+	<data key="topic">us.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41485-172336-us.politics" source="41485" target="172336">
+	<data key="topic">us.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="141519-172336-us.politics" source="141519" target="172336">
+	<data key="topic">us.politics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="141519-37042-us.politics" source="141519" target="37042">
+	<data key="topic">us.politics</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

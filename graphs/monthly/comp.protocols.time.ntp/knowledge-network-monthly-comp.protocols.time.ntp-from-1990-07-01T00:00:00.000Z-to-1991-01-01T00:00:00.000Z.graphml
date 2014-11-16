@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="886944"/>
+<node id="11287"/>
+<node id="28695"/>
+<node id="612050"/>
+<node id="2649"/>
+<node id="716305"/>
+<node id="454750"/>
+<node id="785708"/>
+<node id="10723"/>
+<node id="2854"/>
+<node id="834282"/>
+<node id="1232598"/>
+<node id="385891"/>
+<node id="11305"/>
+<node id="617953"/>
+<node id="518766"/>
+<node id="16044"/>
+<node id="10094"/>
+<node id="23665"/>
+<node id="2098"/>
+<node id="409848"/>
+<node id="422965"/>
+<node id="442613"/>
+<node id="358583"/>
+<node id="442612"/>
+<node id="14519"/>
+<node id="11192"/>
+<node id="1086"/>
+<node id="377273"/>
+<node id="828594"/>
+<node id="760821"/>
+<node id="2753"/>
+<node id="411207"/>
+<node id="781388"/>
+<node id="4421"/>
+<node id="2119"/>
+<node id="1037577"/>
+<node id="12617"/>
+<node id="580547"/>
+<edge id="11287-28695-comp.protocols.time.ntp" source="11287" target="28695">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28695-11287-comp.protocols.time.ntp" source="28695" target="11287">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28695-16044-comp.protocols.time.ntp" source="28695" target="16044">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28695-23665-comp.protocols.time.ntp" source="28695" target="23665">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="612050-760821-comp.protocols.time.ntp" source="612050" target="760821">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="716305-23665-comp.protocols.time.ntp" source="716305" target="23665">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="454750-23665-comp.protocols.time.ntp" source="454750" target="23665">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="10723-785708-comp.protocols.time.ntp" source="10723" target="785708">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2854-10094-comp.protocols.time.ntp" source="2854" target="10094">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="385891-11287-comp.protocols.time.ntp" source="385891" target="11287">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="385891-28695-comp.protocols.time.ntp" source="385891" target="28695">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="385891-358583-comp.protocols.time.ntp" source="385891" target="358583">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="617953-23665-comp.protocols.time.ntp" source="617953" target="23665">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="518766-886944-comp.protocols.time.ntp" source="518766" target="886944">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16044-23665-comp.protocols.time.ntp" source="16044" target="23665">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16044-12617-comp.protocols.time.ntp" source="16044" target="12617">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2098-1232598-comp.protocols.time.ntp" source="2098" target="1232598">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2098-4421-comp.protocols.time.ntp" source="2098" target="4421">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="409848-377273-comp.protocols.time.ntp" source="409848" target="377273">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="442613-442612-comp.protocols.time.ntp" source="442613" target="442612">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11192-422965-comp.protocols.time.ntp" source="11192" target="422965">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1086-11305-comp.protocols.time.ntp" source="1086" target="11305">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="828594-14519-comp.protocols.time.ntp" source="828594" target="14519">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2753-411207-comp.protocols.time.ntp" source="2753" target="411207">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="781388-2649-comp.protocols.time.ntp" source="781388" target="2649">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4421-1232598-comp.protocols.time.ntp" source="4421" target="1232598">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2119-2098-comp.protocols.time.ntp" source="2119" target="2098">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1037577-580547-comp.protocols.time.ntp" source="1037577" target="580547">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="580547-23665-comp.protocols.time.ntp" source="580547" target="23665">
+	<data key="topic">comp.protocols.time.ntp</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

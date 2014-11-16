@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="929199"/>
+<node id="340758"/>
+<node id="33666"/>
+<node id="390338"/>
+<node id="469860"/>
+<node id="585007"/>
+<node id="390355"/>
+<node id="1495472"/>
+<node id="395865"/>
+<edge id="929199-395865-rec.games.hack" source="929199" target="395865">
+	<data key="topic">rec.games.hack</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340758-929199-rec.games.hack" source="340758" target="929199">
+	<data key="topic">rec.games.hack</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340758-33666-rec.games.hack" source="340758" target="33666">
+	<data key="topic">rec.games.hack</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340758-395865-rec.games.hack" source="340758" target="395865">
+	<data key="topic">rec.games.hack</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="33666-929199-rec.games.hack" source="33666" target="929199">
+	<data key="topic">rec.games.hack</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="33666-395865-rec.games.hack" source="33666" target="395865">
+	<data key="topic">rec.games.hack</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="469860-585007-rec.games.hack" source="469860" target="585007">
+	<data key="topic">rec.games.hack</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390355-390338-rec.games.hack" source="390355" target="390338">
+	<data key="topic">rec.games.hack</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1495472-585007-rec.games.hack" source="1495472" target="585007">
+	<data key="topic">rec.games.hack</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

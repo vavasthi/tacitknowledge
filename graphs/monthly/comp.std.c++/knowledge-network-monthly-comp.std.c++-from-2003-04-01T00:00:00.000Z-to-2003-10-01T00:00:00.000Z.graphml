@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2183154"/>
+<node id="385269"/>
+<node id="2783514"/>
+<node id="2784634"/>
+<node id="2783519"/>
+<node id="2782720"/>
+<node id="2192348"/>
+<node id="2780662"/>
+<node id="2177473"/>
+<node id="2196260"/>
+<node id="2189160"/>
+<node id="2195303"/>
+<node id="2177482"/>
+<node id="2178921"/>
+<node id="2180713"/>
+<node id="2783205"/>
+<edge id="2183154-2780662-comp.std.c++" source="2183154" target="2780662">
+	<data key="topic">comp.std.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2183154-2178921-comp.std.c++" source="2183154" target="2178921">
+	<data key="topic">comp.std.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="385269-2177473-comp.std.c++" source="385269" target="2177473">
+	<data key="topic">comp.std.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="385269-2178921-comp.std.c++" source="385269" target="2178921">
+	<data key="topic">comp.std.c++</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2783514-2178921-comp.std.c++" source="2783514" target="2178921">
+	<data key="topic">comp.std.c++</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2784634-2780662-comp.std.c++" source="2784634" target="2780662">
+	<data key="topic">comp.std.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2783519-2195303-comp.std.c++" source="2783519" target="2195303">
+	<data key="topic">comp.std.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2783519-2178921-comp.std.c++" source="2783519" target="2178921">
+	<data key="topic">comp.std.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2782720-2177473-comp.std.c++" source="2782720" target="2177473">
+	<data key="topic">comp.std.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2782720-2178921-comp.std.c++" source="2782720" target="2178921">
+	<data key="topic">comp.std.c++</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2192348-2780662-comp.std.c++" source="2192348" target="2780662">
+	<data key="topic">comp.std.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2192348-2189160-comp.std.c++" source="2192348" target="2189160">
+	<data key="topic">comp.std.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2780662-2189160-comp.std.c++" source="2780662" target="2189160">
+	<data key="topic">comp.std.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2780662-2177482-comp.std.c++" source="2780662" target="2177482">
+	<data key="topic">comp.std.c++</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2177473-2780662-comp.std.c++" source="2177473" target="2780662">
+	<data key="topic">comp.std.c++</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="2177473-2189160-comp.std.c++" source="2177473" target="2189160">
+	<data key="topic">comp.std.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2177473-2177482-comp.std.c++" source="2177473" target="2177482">
+	<data key="topic">comp.std.c++</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="2177473-2178921-comp.std.c++" source="2177473" target="2178921">
+	<data key="topic">comp.std.c++</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="2177473-2180713-comp.std.c++" source="2177473" target="2180713">
+	<data key="topic">comp.std.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2189160-2780662-comp.std.c++" source="2189160" target="2780662">
+	<data key="topic">comp.std.c++</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2189160-2177482-comp.std.c++" source="2189160" target="2177482">
+	<data key="topic">comp.std.c++</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2177482-2183154-comp.std.c++" source="2177482" target="2183154">
+	<data key="topic">comp.std.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2177482-2780662-comp.std.c++" source="2177482" target="2780662">
+	<data key="topic">comp.std.c++</data>
+	<data key="weight">6</data>
+</edge>
+<edge id="2177482-2177473-comp.std.c++" source="2177482" target="2177473">
+	<data key="topic">comp.std.c++</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2177482-2196260-comp.std.c++" source="2177482" target="2196260">
+	<data key="topic">comp.std.c++</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2177482-2189160-comp.std.c++" source="2177482" target="2189160">
+	<data key="topic">comp.std.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2180713-2177473-comp.std.c++" source="2180713" target="2177473">
+	<data key="topic">comp.std.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2180713-2178921-comp.std.c++" source="2180713" target="2178921">
+	<data key="topic">comp.std.c++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2783205-2780662-comp.std.c++" source="2783205" target="2780662">
+	<data key="topic">comp.std.c++</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

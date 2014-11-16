@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="713964"/>
+<node id="640509"/>
+<node id="801495"/>
+<node id="840913"/>
+<edge id="640509-840913-bionet.molbio.evolution" source="640509" target="840913">
+	<data key="topic">bionet.molbio.evolution</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="801495-713964-bionet.molbio.evolution" source="801495" target="713964">
+	<data key="topic">bionet.molbio.evolution</data>
+	<data key="weight">3</data>
+</edge>
+</graph>
+</graphml>

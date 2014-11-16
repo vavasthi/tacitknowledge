@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="509272"/>
+<node id="618010"/>
+<node id="757951"/>
+<node id="621472"/>
+<node id="737299"/>
+<node id="514398"/>
+<node id="549172"/>
+<node id="366171"/>
+<node id="501477"/>
+<node id="553357"/>
+<node id="706160"/>
+<node id="350211"/>
+<node id="805288"/>
+<node id="543845"/>
+<edge id="509272-618010-alt.conspiracy" source="509272" target="618010">
+	<data key="topic">alt.conspiracy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509272-621472-alt.conspiracy" source="509272" target="621472">
+	<data key="topic">alt.conspiracy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="618010-509272-alt.conspiracy" source="618010" target="509272">
+	<data key="topic">alt.conspiracy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="621472-509272-alt.conspiracy" source="621472" target="509272">
+	<data key="topic">alt.conspiracy</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="621472-805288-alt.conspiracy" source="621472" target="805288">
+	<data key="topic">alt.conspiracy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="514398-350211-alt.conspiracy" source="514398" target="350211">
+	<data key="topic">alt.conspiracy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="549172-509272-alt.conspiracy" source="549172" target="509272">
+	<data key="topic">alt.conspiracy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="366171-737299-alt.conspiracy" source="366171" target="737299">
+	<data key="topic">alt.conspiracy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="366171-543845-alt.conspiracy" source="366171" target="543845">
+	<data key="topic">alt.conspiracy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="501477-509272-alt.conspiracy" source="501477" target="509272">
+	<data key="topic">alt.conspiracy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="553357-757951-alt.conspiracy" source="553357" target="757951">
+	<data key="topic">alt.conspiracy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="553357-706160-alt.conspiracy" source="553357" target="706160">
+	<data key="topic">alt.conspiracy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="805288-509272-alt.conspiracy" source="805288" target="509272">
+	<data key="topic">alt.conspiracy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="805288-621472-alt.conspiracy" source="805288" target="621472">
+	<data key="topic">alt.conspiracy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="543845-737299-alt.conspiracy" source="543845" target="737299">
+	<data key="topic">alt.conspiracy</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

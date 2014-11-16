@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="338134"/>
+<node id="1145765"/>
+<node id="500992"/>
+<node id="341246"/>
+<node id="562866"/>
+<node id="2037077"/>
+<node id="460843"/>
+<edge id="338134-1145765-net.emacs" source="338134" target="1145765">
+	<data key="topic">net.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338134-500992-net.emacs" source="338134" target="500992">
+	<data key="topic">net.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338134-562866-net.emacs" source="338134" target="562866">
+	<data key="topic">net.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341246-1145765-net.emacs" source="341246" target="1145765">
+	<data key="topic">net.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460843-2037077-net.emacs" source="460843" target="2037077">
+	<data key="topic">net.emacs</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

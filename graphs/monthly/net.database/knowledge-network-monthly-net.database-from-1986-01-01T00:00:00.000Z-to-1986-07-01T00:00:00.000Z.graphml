@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2670074"/>
+<node id="488727"/>
+<node id="337367"/>
+<node id="390097"/>
+<node id="2720704"/>
+<node id="1369328"/>
+<node id="392729"/>
+<node id="340380"/>
+<node id="483688"/>
+<node id="15971"/>
+<node id="339111"/>
+<node id="390563"/>
+<node id="1332830"/>
+<node id="1097562"/>
+<node id="396909"/>
+<node id="475117"/>
+<node id="483628"/>
+<node id="1698766"/>
+<node id="1508353"/>
+<node id="487743"/>
+<node id="1509711"/>
+<node id="33916"/>
+<node id="1692102"/>
+<node id="448569"/>
+<node id="2492391"/>
+<node id="923279"/>
+<node id="496391"/>
+<node id="491911"/>
+<node id="492098"/>
+<node id="338308"/>
+<node id="23753"/>
+<node id="625346"/>
+<node id="920517"/>
+<node id="340298"/>
+<node id="2489065"/>
+<node id="489802"/>
+<node id="2486507"/>
+<edge id="488727-392729-net.database" source="488727" target="392729">
+	<data key="topic">net.database</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="488727-1332830-net.database" source="488727" target="1332830">
+	<data key="topic">net.database</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="488727-396909-net.database" source="488727" target="396909">
+	<data key="topic">net.database</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="488727-2486507-net.database" source="488727" target="2486507">
+	<data key="topic">net.database</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390097-1369328-net.database" source="390097" target="1369328">
+	<data key="topic">net.database</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390097-390563-net.database" source="390097" target="390563">
+	<data key="topic">net.database</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2720704-337367-net.database" source="2720704" target="337367">
+	<data key="topic">net.database</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2720704-340380-net.database" source="2720704" target="340380">
+	<data key="topic">net.database</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2720704-475117-net.database" source="2720704" target="475117">
+	<data key="topic">net.database</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2720704-492098-net.database" source="2720704" target="492098">
+	<data key="topic">net.database</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2720704-338308-net.database" source="2720704" target="338308">
+	<data key="topic">net.database</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1369328-390563-net.database" source="1369328" target="390563">
+	<data key="topic">net.database</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392729-2670074-net.database" source="392729" target="2670074">
+	<data key="topic">net.database</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392729-487743-net.database" source="392729" target="487743">
+	<data key="topic">net.database</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="392729-492098-net.database" source="392729" target="492098">
+	<data key="topic">net.database</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15971-2492391-net.database" source="15971" target="2492391">
+	<data key="topic">net.database</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15971-496391-net.database" source="15971" target="496391">
+	<data key="topic">net.database</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15971-920517-net.database" source="15971" target="920517">
+	<data key="topic">net.database</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339111-496391-net.database" source="339111" target="496391">
+	<data key="topic">net.database</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1332830-392729-net.database" source="1332830" target="392729">
+	<data key="topic">net.database</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1332830-2486507-net.database" source="1332830" target="2486507">
+	<data key="topic">net.database</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1097562-923279-net.database" source="1097562" target="923279">
+	<data key="topic">net.database</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="483628-2670074-net.database" source="483628" target="2670074">
+	<data key="topic">net.database</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="483628-487743-net.database" source="483628" target="487743">
+	<data key="topic">net.database</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1698766-2670074-net.database" source="1698766" target="2670074">
+	<data key="topic">net.database</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1698766-487743-net.database" source="1698766" target="487743">
+	<data key="topic">net.database</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1698766-492098-net.database" source="1698766" target="492098">
+	<data key="topic">net.database</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1508353-483688-net.database" source="1508353" target="483688">
+	<data key="topic">net.database</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1508353-489802-net.database" source="1508353" target="489802">
+	<data key="topic">net.database</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="487743-2670074-net.database" source="487743" target="2670074">
+	<data key="topic">net.database</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="487743-392729-net.database" source="487743" target="392729">
+	<data key="topic">net.database</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="487743-492098-net.database" source="487743" target="492098">
+	<data key="topic">net.database</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1509711-448569-net.database" source="1509711" target="448569">
+	<data key="topic">net.database</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="33916-392729-net.database" source="33916" target="392729">
+	<data key="topic">net.database</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="33916-1332830-net.database" source="33916" target="1332830">
+	<data key="topic">net.database</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="33916-396909-net.database" source="33916" target="396909">
+	<data key="topic">net.database</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="33916-2486507-net.database" source="33916" target="2486507">
+	<data key="topic">net.database</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1692102-491911-net.database" source="1692102" target="491911">
+	<data key="topic">net.database</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="492098-2670074-net.database" source="492098" target="2670074">
+	<data key="topic">net.database</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="492098-487743-net.database" source="492098" target="487743">
+	<data key="topic">net.database</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="23753-392729-net.database" source="23753" target="392729">
+	<data key="topic">net.database</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23753-1332830-net.database" source="23753" target="1332830">
+	<data key="topic">net.database</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23753-625346-net.database" source="23753" target="625346">
+	<data key="topic">net.database</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23753-2489065-net.database" source="23753" target="2489065">
+	<data key="topic">net.database</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23753-2486507-net.database" source="23753" target="2486507">
+	<data key="topic">net.database</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="625346-392729-net.database" source="625346" target="392729">
+	<data key="topic">net.database</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="625346-1332830-net.database" source="625346" target="1332830">
+	<data key="topic">net.database</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="625346-2489065-net.database" source="625346" target="2489065">
+	<data key="topic">net.database</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="625346-2486507-net.database" source="625346" target="2486507">
+	<data key="topic">net.database</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340298-392729-net.database" source="340298" target="392729">
+	<data key="topic">net.database</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340298-1332830-net.database" source="340298" target="1332830">
+	<data key="topic">net.database</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340298-396909-net.database" source="340298" target="396909">
+	<data key="topic">net.database</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340298-33916-net.database" source="340298" target="33916">
+	<data key="topic">net.database</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340298-2489065-net.database" source="340298" target="2489065">
+	<data key="topic">net.database</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340298-2486507-net.database" source="340298" target="2486507">
+	<data key="topic">net.database</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="489802-483688-net.database" source="489802" target="483688">
+	<data key="topic">net.database</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="362038"/>
+<node id="433016"/>
+<node id="1172545"/>
+<node id="1172549"/>
+<node id="383699"/>
+<node id="433727"/>
+<node id="649809"/>
+<node id="936917"/>
+<node id="431422"/>
+<node id="640819"/>
+<node id="368156"/>
+<node id="640814"/>
+<node id="836201"/>
+<node id="780013"/>
+<node id="651"/>
+<node id="780104"/>
+<node id="1215775"/>
+<node id="433609"/>
+<edge id="362038-431422-comp.ai.shells" source="362038" target="431422">
+	<data key="topic">comp.ai.shells</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="433016-640814-comp.ai.shells" source="433016" target="640814">
+	<data key="topic">comp.ai.shells</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1172545-651-comp.ai.shells" source="1172545" target="651">
+	<data key="topic">comp.ai.shells</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1172549-651-comp.ai.shells" source="1172549" target="651">
+	<data key="topic">comp.ai.shells</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="383699-780013-comp.ai.shells" source="383699" target="780013">
+	<data key="topic">comp.ai.shells</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="649809-433727-comp.ai.shells" source="649809" target="433727">
+	<data key="topic">comp.ai.shells</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="649809-368156-comp.ai.shells" source="649809" target="368156">
+	<data key="topic">comp.ai.shells</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="936917-640819-comp.ai.shells" source="936917" target="640819">
+	<data key="topic">comp.ai.shells</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="368156-433727-comp.ai.shells" source="368156" target="433727">
+	<data key="topic">comp.ai.shells</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="836201-1215775-comp.ai.shells" source="836201" target="1215775">
+	<data key="topic">comp.ai.shells</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="780104-1215775-comp.ai.shells" source="780104" target="1215775">
+	<data key="topic">comp.ai.shells</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="433609-433727-comp.ai.shells" source="433609" target="433727">
+	<data key="topic">comp.ai.shells</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

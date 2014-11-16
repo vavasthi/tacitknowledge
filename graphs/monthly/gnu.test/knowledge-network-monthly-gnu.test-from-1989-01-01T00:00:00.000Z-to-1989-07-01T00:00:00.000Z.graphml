@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="553339"/>
+<node id="511668"/>
+<node id="2108534"/>
+<node id="16376"/>
+<node id="533202"/>
+<node id="737747"/>
+<node id="737745"/>
+<node id="764216"/>
+<node id="2689432"/>
+<node id="801513"/>
+<node id="20392"/>
+<node id="509066"/>
+<node id="1195870"/>
+<edge id="553339-764216-gnu.test" source="553339" target="764216">
+	<data key="topic">gnu.test</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="511668-2108534-gnu.test" source="511668" target="2108534">
+	<data key="topic">gnu.test</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16376-20392-gnu.test" source="16376" target="20392">
+	<data key="topic">gnu.test</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="533202-20392-gnu.test" source="533202" target="20392">
+	<data key="topic">gnu.test</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="737747-737745-gnu.test" source="737747" target="737745">
+	<data key="topic">gnu.test</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2689432-801513-gnu.test" source="2689432" target="801513">
+	<data key="topic">gnu.test</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1195870-737745-gnu.test" source="1195870" target="737745">
+	<data key="topic">gnu.test</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

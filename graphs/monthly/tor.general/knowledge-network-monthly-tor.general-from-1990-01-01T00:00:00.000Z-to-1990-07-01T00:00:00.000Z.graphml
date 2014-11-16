@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="14129"/>
+<node id="1099907"/>
+<node id="3445"/>
+<node id="619998"/>
+<node id="551986"/>
+<node id="428125"/>
+<node id="363706"/>
+<node id="2884"/>
+<node id="10568"/>
+<node id="557314"/>
+<node id="382794"/>
+<node id="29006"/>
+<node id="16623"/>
+<node id="551080"/>
+<edge id="3445-619998-tor.general" source="3445" target="619998">
+	<data key="topic">tor.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="428125-1099907-tor.general" source="428125" target="1099907">
+	<data key="topic">tor.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="428125-10568-tor.general" source="428125" target="10568">
+	<data key="topic">tor.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="363706-1099907-tor.general" source="363706" target="1099907">
+	<data key="topic">tor.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="363706-557314-tor.general" source="363706" target="557314">
+	<data key="topic">tor.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="363706-16623-tor.general" source="363706" target="16623">
+	<data key="topic">tor.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2884-1099907-tor.general" source="2884" target="1099907">
+	<data key="topic">tor.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2884-10568-tor.general" source="2884" target="10568">
+	<data key="topic">tor.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10568-1099907-tor.general" source="10568" target="1099907">
+	<data key="topic">tor.general</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="10568-428125-tor.general" source="10568" target="428125">
+	<data key="topic">tor.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="557314-1099907-tor.general" source="557314" target="1099907">
+	<data key="topic">tor.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="557314-16623-tor.general" source="557314" target="16623">
+	<data key="topic">tor.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="382794-14129-tor.general" source="382794" target="14129">
+	<data key="topic">tor.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="382794-2884-tor.general" source="382794" target="2884">
+	<data key="topic">tor.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-619998-tor.general" source="29006" target="619998">
+	<data key="topic">tor.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16623-1099907-tor.general" source="16623" target="1099907">
+	<data key="topic">tor.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="551080-551986-tor.general" source="551080" target="551986">
+	<data key="topic">tor.general</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="645961"/>
+<node id="509142"/>
+<node id="1428402"/>
+<node id="16550"/>
+<node id="537086"/>
+<node id="2689424"/>
+<node id="640898"/>
+<node id="1264795"/>
+<node id="687287"/>
+<node id="17024"/>
+<edge id="645961-509142-gnu.chess" source="645961" target="509142">
+	<data key="topic">gnu.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="645961-1264795-gnu.chess" source="645961" target="1264795">
+	<data key="topic">gnu.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509142-1264795-gnu.chess" source="509142" target="1264795">
+	<data key="topic">gnu.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1428402-17024-gnu.chess" source="1428402" target="17024">
+	<data key="topic">gnu.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16550-645961-gnu.chess" source="16550" target="645961">
+	<data key="topic">gnu.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16550-509142-gnu.chess" source="16550" target="509142">
+	<data key="topic">gnu.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16550-1264795-gnu.chess" source="16550" target="1264795">
+	<data key="topic">gnu.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2689424-537086-gnu.chess" source="2689424" target="537086">
+	<data key="topic">gnu.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="640898-537086-gnu.chess" source="640898" target="537086">
+	<data key="topic">gnu.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="640898-687287-gnu.chess" source="640898" target="687287">
+	<data key="topic">gnu.chess</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

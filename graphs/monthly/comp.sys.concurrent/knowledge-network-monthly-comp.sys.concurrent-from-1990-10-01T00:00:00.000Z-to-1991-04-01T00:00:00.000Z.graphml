@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="4401"/>
+<node id="1445669"/>
+<node id="416625"/>
+<node id="376819"/>
+<node id="1414958"/>
+<node id="436576"/>
+<node id="372646"/>
+<node id="352327"/>
+<node id="436422"/>
+<node id="612973"/>
+<node id="1175544"/>
+<node id="4395"/>
+<node id="823143"/>
+<node id="4398"/>
+<edge id="4401-436576-comp.sys.concurrent" source="4401" target="436576">
+	<data key="topic">comp.sys.concurrent</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1445669-372646-comp.sys.concurrent" source="1445669" target="372646">
+	<data key="topic">comp.sys.concurrent</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="376819-1175544-comp.sys.concurrent" source="376819" target="1175544">
+	<data key="topic">comp.sys.concurrent</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="436422-416625-comp.sys.concurrent" source="436422" target="416625">
+	<data key="topic">comp.sys.concurrent</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="436422-1414958-comp.sys.concurrent" source="436422" target="1414958">
+	<data key="topic">comp.sys.concurrent</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4395-352327-comp.sys.concurrent" source="4395" target="352327">
+	<data key="topic">comp.sys.concurrent</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="823143-612973-comp.sys.concurrent" source="823143" target="612973">
+	<data key="topic">comp.sys.concurrent</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="4398-352327-comp.sys.concurrent" source="4398" target="352327">
+	<data key="topic">comp.sys.concurrent</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

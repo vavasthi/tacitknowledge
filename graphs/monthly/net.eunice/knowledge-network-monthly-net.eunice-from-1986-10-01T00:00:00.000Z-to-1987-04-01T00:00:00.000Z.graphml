@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="390582"/>
+<node id="918752"/>
+<node id="918744"/>
+<node id="918742"/>
+<node id="390506"/>
+<node id="918738"/>
+<edge id="390582-918752-net.eunice" source="390582" target="918752">
+	<data key="topic">net.eunice</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="390582-918744-net.eunice" source="390582" target="918744">
+	<data key="topic">net.eunice</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="390582-390506-net.eunice" source="390582" target="390506">
+	<data key="topic">net.eunice</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="390582-918738-net.eunice" source="390582" target="918738">
+	<data key="topic">net.eunice</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="918744-918752-net.eunice" source="918744" target="918752">
+	<data key="topic">net.eunice</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="918744-390506-net.eunice" source="918744" target="390506">
+	<data key="topic">net.eunice</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390506-918752-net.eunice" source="390506" target="918752">
+	<data key="topic">net.eunice</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390506-918742-net.eunice" source="390506" target="918742">
+	<data key="topic">net.eunice</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="918738-918752-net.eunice" source="918738" target="918752">
+	<data key="topic">net.eunice</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="918738-918744-net.eunice" source="918738" target="918744">
+	<data key="topic">net.eunice</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="918738-390506-net.eunice" source="918738" target="390506">
+	<data key="topic">net.eunice</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

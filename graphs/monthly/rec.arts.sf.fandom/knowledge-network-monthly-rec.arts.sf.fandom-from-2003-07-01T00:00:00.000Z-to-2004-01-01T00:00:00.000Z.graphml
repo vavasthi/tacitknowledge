@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="227138"/>
+<node id="72822"/>
+<node id="242584"/>
+<node id="43975"/>
+<node id="40219"/>
+<node id="47693"/>
+<edge id="227138-47693-rec.arts.sf.fandom" source="227138" target="47693">
+	<data key="topic">rec.arts.sf.fandom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="72822-47693-rec.arts.sf.fandom" source="72822" target="47693">
+	<data key="topic">rec.arts.sf.fandom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="242584-227138-rec.arts.sf.fandom" source="242584" target="227138">
+	<data key="topic">rec.arts.sf.fandom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="242584-47693-rec.arts.sf.fandom" source="242584" target="47693">
+	<data key="topic">rec.arts.sf.fandom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="43975-227138-rec.arts.sf.fandom" source="43975" target="227138">
+	<data key="topic">rec.arts.sf.fandom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="43975-47693-rec.arts.sf.fandom" source="43975" target="47693">
+	<data key="topic">rec.arts.sf.fandom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="40219-47693-rec.arts.sf.fandom" source="40219" target="47693">
+	<data key="topic">rec.arts.sf.fandom</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="47693-72822-rec.arts.sf.fandom" source="47693" target="72822">
+	<data key="topic">rec.arts.sf.fandom</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

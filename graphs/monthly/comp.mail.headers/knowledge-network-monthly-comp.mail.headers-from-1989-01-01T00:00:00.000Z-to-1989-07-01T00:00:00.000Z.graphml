@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="509272"/>
+<node id="739612"/>
+<node id="513303"/>
+<node id="30357"/>
+<node id="29270"/>
+<node id="739614"/>
+<node id="16152"/>
+<node id="2095721"/>
+<node id="14362"/>
+<node id="33116"/>
+<node id="2121276"/>
+<node id="510300"/>
+<node id="536982"/>
+<node id="707480"/>
+<node id="2690615"/>
+<node id="509285"/>
+<node id="510308"/>
+<node id="510306"/>
+<node id="24935"/>
+<node id="10474"/>
+<node id="510319"/>
+<node id="16173"/>
+<node id="11502"/>
+<node id="534822"/>
+<node id="36723"/>
+<node id="510326"/>
+<node id="16376"/>
+<node id="1162634"/>
+<node id="512831"/>
+<node id="716146"/>
+<node id="517948"/>
+<node id="16190"/>
+<node id="557007"/>
+<node id="362636"/>
+<node id="448969"/>
+<edge id="509272-513303-comp.mail.headers" source="509272" target="513303">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509272-2095721-comp.mail.headers" source="509272" target="2095721">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="509272-14362-comp.mail.headers" source="509272" target="14362">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="509272-510300-comp.mail.headers" source="509272" target="510300">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509272-36723-comp.mail.headers" source="509272" target="36723">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="739612-16190-comp.mail.headers" source="739612" target="16190">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="513303-509272-comp.mail.headers" source="513303" target="509272">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="513303-2095721-comp.mail.headers" source="513303" target="2095721">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="513303-14362-comp.mail.headers" source="513303" target="14362">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="513303-510300-comp.mail.headers" source="513303" target="510300">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="513303-36723-comp.mail.headers" source="513303" target="36723">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30357-16152-comp.mail.headers" source="30357" target="16152">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="739614-739612-comp.mail.headers" source="739614" target="739612">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="739614-16190-comp.mail.headers" source="739614" target="16190">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2095721-36723-comp.mail.headers" source="2095721" target="36723">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14362-509272-comp.mail.headers" source="14362" target="509272">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="14362-16376-comp.mail.headers" source="14362" target="16376">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="33116-509272-comp.mail.headers" source="33116" target="509272">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="33116-2095721-comp.mail.headers" source="33116" target="2095721">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="33116-510300-comp.mail.headers" source="33116" target="510300">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="33116-36723-comp.mail.headers" source="33116" target="36723">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510300-509272-comp.mail.headers" source="510300" target="509272">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="510300-2095721-comp.mail.headers" source="510300" target="2095721">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="510300-14362-comp.mail.headers" source="510300" target="14362">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510300-33116-comp.mail.headers" source="510300" target="33116">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510300-36723-comp.mail.headers" source="510300" target="36723">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="536982-29270-comp.mail.headers" source="536982" target="29270">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="536982-36723-comp.mail.headers" source="536982" target="36723">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="707480-2121276-comp.mail.headers" source="707480" target="2121276">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="707480-1162634-comp.mail.headers" source="707480" target="1162634">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="707480-557007-comp.mail.headers" source="707480" target="557007">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2690615-716146-comp.mail.headers" source="2690615" target="716146">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509285-510308-comp.mail.headers" source="509285" target="510308">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509285-510306-comp.mail.headers" source="509285" target="510306">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509285-24935-comp.mail.headers" source="509285" target="24935">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509285-510319-comp.mail.headers" source="509285" target="510319">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510308-510306-comp.mail.headers" source="510308" target="510306">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510308-24935-comp.mail.headers" source="510308" target="24935">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510308-10474-comp.mail.headers" source="510308" target="10474">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510308-510319-comp.mail.headers" source="510308" target="510319">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510306-24935-comp.mail.headers" source="510306" target="24935">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510306-510319-comp.mail.headers" source="510306" target="510319">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10474-510306-comp.mail.headers" source="10474" target="510306">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10474-24935-comp.mail.headers" source="10474" target="24935">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10474-510319-comp.mail.headers" source="10474" target="510319">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510319-24935-comp.mail.headers" source="510319" target="24935">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16173-29270-comp.mail.headers" source="16173" target="29270">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16173-536982-comp.mail.headers" source="16173" target="536982">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16173-36723-comp.mail.headers" source="16173" target="36723">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="534822-509285-comp.mail.headers" source="534822" target="509285">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="534822-510306-comp.mail.headers" source="534822" target="510306">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="534822-24935-comp.mail.headers" source="534822" target="24935">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="534822-510319-comp.mail.headers" source="534822" target="510319">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510326-509272-comp.mail.headers" source="510326" target="509272">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="510326-2095721-comp.mail.headers" source="510326" target="2095721">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="510326-14362-comp.mail.headers" source="510326" target="14362">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510326-36723-comp.mail.headers" source="510326" target="36723">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="512831-739614-comp.mail.headers" source="512831" target="739614">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="517948-509272-comp.mail.headers" source="517948" target="509272">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="517948-513303-comp.mail.headers" source="517948" target="513303">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="517948-2095721-comp.mail.headers" source="517948" target="2095721">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="517948-14362-comp.mail.headers" source="517948" target="14362">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="517948-510300-comp.mail.headers" source="517948" target="510300">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="517948-36723-comp.mail.headers" source="517948" target="36723">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362636-11502-comp.mail.headers" source="362636" target="11502">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="448969-510308-comp.mail.headers" source="448969" target="510308">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="448969-510306-comp.mail.headers" source="448969" target="510306">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="448969-24935-comp.mail.headers" source="448969" target="24935">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="448969-10474-comp.mail.headers" source="448969" target="10474">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="448969-510319-comp.mail.headers" source="448969" target="510319">
+	<data key="topic">comp.mail.headers</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

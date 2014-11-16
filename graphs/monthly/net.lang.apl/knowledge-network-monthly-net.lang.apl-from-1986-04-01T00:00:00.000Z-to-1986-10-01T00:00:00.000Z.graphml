@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="18226"/>
+<node id="394358"/>
+<node id="487061"/>
+<node id="1584239"/>
+<node id="1584257"/>
+<node id="24028"/>
+<node id="1630660"/>
+<node id="763766"/>
+<node id="527179"/>
+<node id="339207"/>
+<node id="340194"/>
+<node id="1574080"/>
+<node id="1584244"/>
+<node id="984994"/>
+<node id="1577176"/>
+<node id="1627928"/>
+<node id="1630680"/>
+<edge id="18226-394358-net.lang.apl" source="18226" target="394358">
+	<data key="topic">net.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18226-24028-net.lang.apl" source="18226" target="24028">
+	<data key="topic">net.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18226-527179-net.lang.apl" source="18226" target="527179">
+	<data key="topic">net.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18226-1574080-net.lang.apl" source="18226" target="1574080">
+	<data key="topic">net.lang.apl</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="394358-18226-net.lang.apl" source="394358" target="18226">
+	<data key="topic">net.lang.apl</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="394358-24028-net.lang.apl" source="394358" target="24028">
+	<data key="topic">net.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="394358-1630660-net.lang.apl" source="394358" target="1630660">
+	<data key="topic">net.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="394358-339207-net.lang.apl" source="394358" target="339207">
+	<data key="topic">net.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="394358-1574080-net.lang.apl" source="394358" target="1574080">
+	<data key="topic">net.lang.apl</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="394358-984994-net.lang.apl" source="394358" target="984994">
+	<data key="topic">net.lang.apl</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1584239-394358-net.lang.apl" source="1584239" target="394358">
+	<data key="topic">net.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1584239-1574080-net.lang.apl" source="1584239" target="1574080">
+	<data key="topic">net.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1584257-18226-net.lang.apl" source="1584257" target="18226">
+	<data key="topic">net.lang.apl</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1584257-1574080-net.lang.apl" source="1584257" target="1574080">
+	<data key="topic">net.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24028-18226-net.lang.apl" source="24028" target="18226">
+	<data key="topic">net.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24028-394358-net.lang.apl" source="24028" target="394358">
+	<data key="topic">net.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1630660-24028-net.lang.apl" source="1630660" target="24028">
+	<data key="topic">net.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="763766-394358-net.lang.apl" source="763766" target="394358">
+	<data key="topic">net.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339207-984994-net.lang.apl" source="339207" target="984994">
+	<data key="topic">net.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340194-18226-net.lang.apl" source="340194" target="18226">
+	<data key="topic">net.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340194-1574080-net.lang.apl" source="340194" target="1574080">
+	<data key="topic">net.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1574080-18226-net.lang.apl" source="1574080" target="18226">
+	<data key="topic">net.lang.apl</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1574080-394358-net.lang.apl" source="1574080" target="394358">
+	<data key="topic">net.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1574080-1584239-net.lang.apl" source="1574080" target="1584239">
+	<data key="topic">net.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1574080-1584244-net.lang.apl" source="1574080" target="1584244">
+	<data key="topic">net.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1577176-1584244-net.lang.apl" source="1577176" target="1584244">
+	<data key="topic">net.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1627928-487061-net.lang.apl" source="1627928" target="487061">
+	<data key="topic">net.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1630680-24028-net.lang.apl" source="1630680" target="24028">
+	<data key="topic">net.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1630680-1630660-net.lang.apl" source="1630680" target="1630660">
+	<data key="topic">net.lang.apl</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

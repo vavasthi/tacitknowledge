@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="212147"/>
+<node id="37011"/>
+<node id="245960"/>
+<node id="246008"/>
+<node id="51692"/>
+<node id="248671"/>
+<node id="195726"/>
+<node id="37424"/>
+<edge id="212147-37011-sci.math.statistics" source="212147" target="37011">
+	<data key="topic">sci.math.statistics</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="212147-245960-sci.math.statistics" source="212147" target="245960">
+	<data key="topic">sci.math.statistics</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="37011-212147-sci.math.statistics" source="37011" target="212147">
+	<data key="topic">sci.math.statistics</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="37011-245960-sci.math.statistics" source="37011" target="245960">
+	<data key="topic">sci.math.statistics</data>
+	<data key="weight">6</data>
+</edge>
+<edge id="37011-246008-sci.math.statistics" source="37011" target="246008">
+	<data key="topic">sci.math.statistics</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37011-51692-sci.math.statistics" source="37011" target="51692">
+	<data key="topic">sci.math.statistics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37011-248671-sci.math.statistics" source="37011" target="248671">
+	<data key="topic">sci.math.statistics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37011-195726-sci.math.statistics" source="37011" target="195726">
+	<data key="topic">sci.math.statistics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="245960-248671-sci.math.statistics" source="245960" target="248671">
+	<data key="topic">sci.math.statistics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="51692-37011-sci.math.statistics" source="51692" target="37011">
+	<data key="topic">sci.math.statistics</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="51692-245960-sci.math.statistics" source="51692" target="245960">
+	<data key="topic">sci.math.statistics</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="51692-246008-sci.math.statistics" source="51692" target="246008">
+	<data key="topic">sci.math.statistics</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="195726-37011-sci.math.statistics" source="195726" target="37011">
+	<data key="topic">sci.math.statistics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="195726-245960-sci.math.statistics" source="195726" target="245960">
+	<data key="topic">sci.math.statistics</data>
+	<data key="weight">6</data>
+</edge>
+<edge id="195726-248671-sci.math.statistics" source="195726" target="248671">
+	<data key="topic">sci.math.statistics</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="37424-245960-sci.math.statistics" source="37424" target="245960">
+	<data key="topic">sci.math.statistics</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

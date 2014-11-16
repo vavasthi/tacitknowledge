@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="426965"/>
+<node id="2689499"/>
+<node id="539711"/>
+<node id="510430"/>
+<node id="509211"/>
+<node id="509210"/>
+<node id="535467"/>
+<node id="686223"/>
+<node id="16550"/>
+<node id="389921"/>
+<node id="1672671"/>
+<node id="739681"/>
+<node id="509066"/>
+<edge id="426965-509211-gnu.emacs.lisp.manual" source="426965" target="509211">
+	<data key="topic">gnu.emacs.lisp.manual</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="539711-2689499-gnu.emacs.lisp.manual" source="539711" target="2689499">
+	<data key="topic">gnu.emacs.lisp.manual</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509210-739681-gnu.emacs.lisp.manual" source="509210" target="739681">
+	<data key="topic">gnu.emacs.lisp.manual</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="686223-16550-gnu.emacs.lisp.manual" source="686223" target="16550">
+	<data key="topic">gnu.emacs.lisp.manual</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16550-2689499-gnu.emacs.lisp.manual" source="16550" target="2689499">
+	<data key="topic">gnu.emacs.lisp.manual</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16550-686223-gnu.emacs.lisp.manual" source="16550" target="686223">
+	<data key="topic">gnu.emacs.lisp.manual</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="389921-510430-gnu.emacs.lisp.manual" source="389921" target="510430">
+	<data key="topic">gnu.emacs.lisp.manual</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1672671-426965-gnu.emacs.lisp.manual" source="1672671" target="426965">
+	<data key="topic">gnu.emacs.lisp.manual</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509066-535467-gnu.emacs.lisp.manual" source="509066" target="535467">
+	<data key="topic">gnu.emacs.lisp.manual</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

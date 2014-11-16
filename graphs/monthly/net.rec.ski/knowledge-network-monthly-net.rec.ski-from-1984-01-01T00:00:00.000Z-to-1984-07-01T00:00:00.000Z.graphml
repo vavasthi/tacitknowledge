@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="338040"/>
+<node id="528445"/>
+<node id="461364"/>
+<node id="461172"/>
+<node id="459217"/>
+<node id="680245"/>
+<node id="461319"/>
+<node id="397093"/>
+<node id="343137"/>
+<node id="339107"/>
+<node id="459632"/>
+<node id="460558"/>
+<node id="680583"/>
+<node id="685573"/>
+<edge id="459217-528445-net.rec.ski" source="459217" target="528445">
+	<data key="topic">net.rec.ski</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="680245-461319-net.rec.ski" source="680245" target="461319">
+	<data key="topic">net.rec.ski</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="343137-397093-net.rec.ski" source="343137" target="397093">
+	<data key="topic">net.rec.ski</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339107-461319-net.rec.ski" source="339107" target="461319">
+	<data key="topic">net.rec.ski</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459632-528445-net.rec.ski" source="459632" target="528445">
+	<data key="topic">net.rec.ski</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459632-339107-net.rec.ski" source="459632" target="339107">
+	<data key="topic">net.rec.ski</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460558-338040-net.rec.ski" source="460558" target="338040">
+	<data key="topic">net.rec.ski</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="680583-461364-net.rec.ski" source="680583" target="461364">
+	<data key="topic">net.rec.ski</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="685573-461172-net.rec.ski" source="685573" target="461172">
+	<data key="topic">net.rec.ski</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

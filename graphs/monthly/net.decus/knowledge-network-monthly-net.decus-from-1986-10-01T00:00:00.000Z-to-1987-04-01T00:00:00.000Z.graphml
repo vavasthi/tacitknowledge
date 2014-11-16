@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="398679"/>
+<node id="635386"/>
+<node id="460785"/>
+<node id="392653"/>
+<node id="920101"/>
+<node id="502397"/>
+<node id="17870"/>
+<node id="392473"/>
+<node id="393836"/>
+<node id="918433"/>
+<node id="922849"/>
+<edge id="398679-460785-net.decus" source="398679" target="460785">
+	<data key="topic">net.decus</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="398679-502397-net.decus" source="398679" target="502397">
+	<data key="topic">net.decus</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="398679-922849-net.decus" source="398679" target="922849">
+	<data key="topic">net.decus</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392653-918433-net.decus" source="392653" target="918433">
+	<data key="topic">net.decus</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="502397-398679-net.decus" source="502397" target="398679">
+	<data key="topic">net.decus</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="502397-460785-net.decus" source="502397" target="460785">
+	<data key="topic">net.decus</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="502397-922849-net.decus" source="502397" target="922849">
+	<data key="topic">net.decus</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17870-502397-net.decus" source="17870" target="502397">
+	<data key="topic">net.decus</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392473-398679-net.decus" source="392473" target="398679">
+	<data key="topic">net.decus</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392473-460785-net.decus" source="392473" target="460785">
+	<data key="topic">net.decus</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392473-502397-net.decus" source="392473" target="502397">
+	<data key="topic">net.decus</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="393836-920101-net.decus" source="393836" target="920101">
+	<data key="topic">net.decus</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

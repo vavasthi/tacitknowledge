@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1601689"/>
+<node id="2062445"/>
+<node id="583197"/>
+<node id="8279"/>
+<node id="1028776"/>
+<node id="347866"/>
+<node id="785544"/>
+<node id="948516"/>
+<node id="224"/>
+<edge id="1601689-2062445-bionet.agroforestry" source="1601689" target="2062445">
+	<data key="topic">bionet.agroforestry</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="583197-948516-bionet.agroforestry" source="583197" target="948516">
+	<data key="topic">bionet.agroforestry</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1028776-8279-bionet.agroforestry" source="1028776" target="8279">
+	<data key="topic">bionet.agroforestry</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="785544-347866-bionet.agroforestry" source="785544" target="347866">
+	<data key="topic">bionet.agroforestry</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="785544-224-bionet.agroforestry" source="785544" target="224">
+	<data key="topic">bionet.agroforestry</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="224-347866-bionet.agroforestry" source="224" target="347866">
+	<data key="topic">bionet.agroforestry</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="523128"/>
+<node id="522231"/>
+<node id="459701"/>
+<node id="339345"/>
+<node id="461331"/>
+<node id="1424033"/>
+<node id="459186"/>
+<node id="560768"/>
+<node id="459197"/>
+<node id="347301"/>
+<node id="19718"/>
+<node id="460142"/>
+<node id="16591"/>
+<edge id="523128-19718-net.followup" source="523128" target="19718">
+	<data key="topic">net.followup</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459701-560768-net.followup" source="459701" target="560768">
+	<data key="topic">net.followup</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459701-347301-net.followup" source="459701" target="347301">
+	<data key="topic">net.followup</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="461331-1424033-net.followup" source="461331" target="1424033">
+	<data key="topic">net.followup</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459186-522231-net.followup" source="459186" target="522231">
+	<data key="topic">net.followup</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459197-460142-net.followup" source="459197" target="460142">
+	<data key="topic">net.followup</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16591-339345-net.followup" source="16591" target="339345">
+	<data key="topic">net.followup</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

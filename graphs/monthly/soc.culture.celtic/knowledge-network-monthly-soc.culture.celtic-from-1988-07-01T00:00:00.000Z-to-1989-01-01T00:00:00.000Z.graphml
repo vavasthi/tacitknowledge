@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="409431"/>
+<node id="432216"/>
+<node id="546795"/>
+<node id="418405"/>
+<node id="35847"/>
+<node id="762590"/>
+<node id="794437"/>
+<node id="546834"/>
+<node id="18301"/>
+<node id="500330"/>
+<node id="18400"/>
+<node id="544104"/>
+<edge id="432216-35847-soc.culture.celtic" source="432216" target="35847">
+	<data key="topic">soc.culture.celtic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="432216-546834-soc.culture.celtic" source="432216" target="546834">
+	<data key="topic">soc.culture.celtic</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="432216-500330-soc.culture.celtic" source="432216" target="500330">
+	<data key="topic">soc.culture.celtic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="546795-35847-soc.culture.celtic" source="546795" target="35847">
+	<data key="topic">soc.culture.celtic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="546795-546834-soc.culture.celtic" source="546795" target="546834">
+	<data key="topic">soc.culture.celtic</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="546795-500330-soc.culture.celtic" source="546795" target="500330">
+	<data key="topic">soc.culture.celtic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="418405-794437-soc.culture.celtic" source="418405" target="794437">
+	<data key="topic">soc.culture.celtic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="35847-546834-soc.culture.celtic" source="35847" target="546834">
+	<data key="topic">soc.culture.celtic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="546834-35847-soc.culture.celtic" source="546834" target="35847">
+	<data key="topic">soc.culture.celtic</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="546834-500330-soc.culture.celtic" source="546834" target="500330">
+	<data key="topic">soc.culture.celtic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18301-546795-soc.culture.celtic" source="18301" target="546795">
+	<data key="topic">soc.culture.celtic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18301-35847-soc.culture.celtic" source="18301" target="35847">
+	<data key="topic">soc.culture.celtic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18301-546834-soc.culture.celtic" source="18301" target="546834">
+	<data key="topic">soc.culture.celtic</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="18301-500330-soc.culture.celtic" source="18301" target="500330">
+	<data key="topic">soc.culture.celtic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="500330-35847-soc.culture.celtic" source="500330" target="35847">
+	<data key="topic">soc.culture.celtic</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="500330-546834-soc.culture.celtic" source="500330" target="546834">
+	<data key="topic">soc.culture.celtic</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="18400-409431-soc.culture.celtic" source="18400" target="409431">
+	<data key="topic">soc.culture.celtic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18400-762590-soc.culture.celtic" source="18400" target="762590">
+	<data key="topic">soc.culture.celtic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="544104-794437-soc.culture.celtic" source="544104" target="794437">
+	<data key="topic">soc.culture.celtic</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

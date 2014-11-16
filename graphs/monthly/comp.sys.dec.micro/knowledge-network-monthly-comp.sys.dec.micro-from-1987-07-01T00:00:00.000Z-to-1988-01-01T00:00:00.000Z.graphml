@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="501846"/>
+<node id="448881"/>
+<node id="660339"/>
+<node id="16602"/>
+<node id="20282"/>
+<node id="19068"/>
+<node id="1995270"/>
+<node id="389626"/>
+<node id="501852"/>
+<node id="501850"/>
+<node id="1996445"/>
+<node id="19076"/>
+<node id="724745"/>
+<node id="724752"/>
+<node id="16167"/>
+<node id="18119"/>
+<node id="448578"/>
+<node id="1996437"/>
+<node id="593926"/>
+<node id="19086"/>
+<node id="19088"/>
+<edge id="501846-19076-comp.sys.dec.micro" source="501846" target="19076">
+	<data key="topic">comp.sys.dec.micro</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="448881-724745-comp.sys.dec.micro" source="448881" target="724745">
+	<data key="topic">comp.sys.dec.micro</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16602-724752-comp.sys.dec.micro" source="16602" target="724752">
+	<data key="topic">comp.sys.dec.micro</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20282-1995270-comp.sys.dec.micro" source="20282" target="1995270">
+	<data key="topic">comp.sys.dec.micro</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19068-19086-comp.sys.dec.micro" source="19068" target="19086">
+	<data key="topic">comp.sys.dec.micro</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="389626-501850-comp.sys.dec.micro" source="389626" target="501850">
+	<data key="topic">comp.sys.dec.micro</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="501852-19076-comp.sys.dec.micro" source="501852" target="19076">
+	<data key="topic">comp.sys.dec.micro</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1996445-19076-comp.sys.dec.micro" source="1996445" target="19076">
+	<data key="topic">comp.sys.dec.micro</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19076-660339-comp.sys.dec.micro" source="19076" target="660339">
+	<data key="topic">comp.sys.dec.micro</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16167-1996437-comp.sys.dec.micro" source="16167" target="1996437">
+	<data key="topic">comp.sys.dec.micro</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18119-16167-comp.sys.dec.micro" source="18119" target="16167">
+	<data key="topic">comp.sys.dec.micro</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18119-19088-comp.sys.dec.micro" source="18119" target="19088">
+	<data key="topic">comp.sys.dec.micro</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="448578-593926-comp.sys.dec.micro" source="448578" target="593926">
+	<data key="topic">comp.sys.dec.micro</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

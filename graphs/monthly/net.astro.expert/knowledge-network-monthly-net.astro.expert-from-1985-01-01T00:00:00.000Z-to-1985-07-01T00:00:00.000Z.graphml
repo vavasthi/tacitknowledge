@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="20177"/>
+<node id="21234"/>
+<node id="337240"/>
+<node id="341784"/>
+<node id="337367"/>
+<node id="461268"/>
+<node id="339679"/>
+<node id="390943"/>
+<node id="338874"/>
+<node id="22913"/>
+<node id="523527"/>
+<node id="339713"/>
+<node id="903820"/>
+<node id="337700"/>
+<node id="337316"/>
+<node id="28424"/>
+<node id="346243"/>
+<node id="338371"/>
+<node id="394671"/>
+<node id="338925"/>
+<node id="337935"/>
+<node id="346031"/>
+<node id="338569"/>
+<node id="482602"/>
+<edge id="20177-338925-net.astro.expert" source="20177" target="338925">
+	<data key="topic">net.astro.expert</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341784-903820-net.astro.expert" source="341784" target="903820">
+	<data key="topic">net.astro.expert</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341784-337700-net.astro.expert" source="341784" target="337700">
+	<data key="topic">net.astro.expert</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337367-523527-net.astro.expert" source="337367" target="523527">
+	<data key="topic">net.astro.expert</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339679-337240-net.astro.expert" source="339679" target="337240">
+	<data key="topic">net.astro.expert</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339679-346243-net.astro.expert" source="339679" target="346243">
+	<data key="topic">net.astro.expert</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390943-338925-net.astro.expert" source="390943" target="338925">
+	<data key="topic">net.astro.expert</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339713-346243-net.astro.expert" source="339713" target="346243">
+	<data key="topic">net.astro.expert</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="339713-337935-net.astro.expert" source="339713" target="337935">
+	<data key="topic">net.astro.expert</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337700-21234-net.astro.expert" source="337700" target="21234">
+	<data key="topic">net.astro.expert</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337700-339713-net.astro.expert" source="337700" target="339713">
+	<data key="topic">net.astro.expert</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="337700-346243-net.astro.expert" source="337700" target="346243">
+	<data key="topic">net.astro.expert</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337700-337935-net.astro.expert" source="337700" target="337935">
+	<data key="topic">net.astro.expert</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337316-461268-net.astro.expert" source="337316" target="461268">
+	<data key="topic">net.astro.expert</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28424-22913-net.astro.expert" source="28424" target="22913">
+	<data key="topic">net.astro.expert</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28424-903820-net.astro.expert" source="28424" target="903820">
+	<data key="topic">net.astro.expert</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28424-337700-net.astro.expert" source="28424" target="337700">
+	<data key="topic">net.astro.expert</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="346243-337240-net.astro.expert" source="346243" target="337240">
+	<data key="topic">net.astro.expert</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338371-346243-net.astro.expert" source="338371" target="346243">
+	<data key="topic">net.astro.expert</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="394671-338874-net.astro.expert" source="394671" target="338874">
+	<data key="topic">net.astro.expert</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337935-339713-net.astro.expert" source="337935" target="339713">
+	<data key="topic">net.astro.expert</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337935-346243-net.astro.expert" source="337935" target="346243">
+	<data key="topic">net.astro.expert</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="346031-339713-net.astro.expert" source="346031" target="339713">
+	<data key="topic">net.astro.expert</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="346031-346243-net.astro.expert" source="346031" target="346243">
+	<data key="topic">net.astro.expert</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338569-346243-net.astro.expert" source="338569" target="346243">
+	<data key="topic">net.astro.expert</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="482602-346243-net.astro.expert" source="482602" target="346243">
+	<data key="topic">net.astro.expert</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="461331"/>
+<node id="460178"/>
+<node id="339988"/>
+<node id="521873"/>
+<node id="461856"/>
+<node id="338088"/>
+<node id="680624"/>
+<node id="459308"/>
+<node id="460843"/>
+<node id="522665"/>
+<node id="562490"/>
+<node id="526650"/>
+<node id="346936"/>
+<node id="337719"/>
+<node id="459701"/>
+<node id="680634"/>
+<node id="568893"/>
+<node id="459315"/>
+<node id="492337"/>
+<node id="680627"/>
+<node id="462144"/>
+<node id="521917"/>
+<node id="961715"/>
+<node id="680631"/>
+<node id="522427"/>
+<node id="565558"/>
+<node id="462277"/>
+<node id="337866"/>
+<node id="29006"/>
+<node id="459339"/>
+<node id="466008"/>
+<node id="462294"/>
+<node id="463456"/>
+<node id="1260780"/>
+<node id="561362"/>
+<node id="460255"/>
+<node id="560211"/>
+<node id="459483"/>
+<node id="338918"/>
+<node id="523109"/>
+<node id="462309"/>
+<node id="338663"/>
+<node id="459632"/>
+<node id="462448"/>
+<node id="568035"/>
+<node id="461676"/>
+<node id="459500"/>
+<node id="485612"/>
+<node id="338040"/>
+<node id="340465"/>
+<node id="523889"/>
+<node id="459520"/>
+<node id="476157"/>
+<node id="1260532"/>
+<node id="339074"/>
+<node id="28424"/>
+<node id="522895"/>
+<node id="563843"/>
+<node id="459658"/>
+<node id="523018"/>
+<edge id="461331-562490-net.arch" source="461331" target="562490">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339988-339074-net.arch" source="339988" target="339074">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521873-561362-net.arch" source="521873" target="561362">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="461856-522665-net.arch" source="461856" target="522665">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="461856-459339-net.arch" source="461856" target="459339">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338088-338918-net.arch" source="338088" target="338918">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338088-462309-net.arch" source="338088" target="462309">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="680624-459339-net.arch" source="680624" target="459339">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459308-337719-net.arch" source="459308" target="337719">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459308-29006-net.arch" source="459308" target="29006">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459308-459632-net.arch" source="459308" target="459632">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460843-522665-net.arch" source="460843" target="522665">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460843-459701-net.arch" source="460843" target="459701">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="526650-463456-net.arch" source="526650" target="463456">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="526650-459500-net.arch" source="526650" target="459500">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="346936-337719-net.arch" source="346936" target="337719">
+	<data key="topic">net.arch</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="346936-459632-net.arch" source="346936" target="459632">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="346936-568035-net.arch" source="346936" target="568035">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="346936-461676-net.arch" source="346936" target="461676">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="346936-459658-net.arch" source="346936" target="459658">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337719-29006-net.arch" source="337719" target="29006">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337719-459632-net.arch" source="337719" target="459632">
+	<data key="topic">net.arch</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="459701-522665-net.arch" source="459701" target="522665">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="492337-461676-net.arch" source="492337" target="461676">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="462144-568893-net.arch" source="462144" target="568893">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521917-680634-net.arch" source="521917" target="680634">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="680631-461856-net.arch" source="680631" target="461856">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="680631-459339-net.arch" source="680631" target="459339">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522427-1260780-net.arch" source="522427" target="1260780">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522427-560211-net.arch" source="522427" target="560211">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522427-522895-net.arch" source="522427" target="522895">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="565558-560211-net.arch" source="565558" target="560211">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-461856-net.arch" source="337866" target="461856">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-346936-net.arch" source="337866" target="346936">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-337719-net.arch" source="337866" target="337719">
+	<data key="topic">net.arch</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="337866-459339-net.arch" source="337866" target="459339">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-523109-net.arch" source="337866" target="523109">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-459632-net.arch" source="337866" target="459632">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-568035-net.arch" source="337866" target="568035">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-28424-net.arch" source="337866" target="28424">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-459658-net.arch" source="337866" target="459658">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337866-523018-net.arch" source="337866" target="523018">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-460178-net.arch" source="29006" target="460178">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-461856-net.arch" source="29006" target="461856">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-337719-net.arch" source="29006" target="337719">
+	<data key="topic">net.arch</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="29006-459315-net.arch" source="29006" target="459315">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-961715-net.arch" source="29006" target="961715">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-337866-net.arch" source="29006" target="337866">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-459339-net.arch" source="29006" target="459339">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-459632-net.arch" source="29006" target="459632">
+	<data key="topic">net.arch</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="29006-523889-net.arch" source="29006" target="523889">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-476157-net.arch" source="29006" target="476157">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-459658-net.arch" source="29006" target="459658">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="466008-961715-net.arch" source="466008" target="961715">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="466008-459483-net.arch" source="466008" target="459483">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="462294-459339-net.arch" source="462294" target="459339">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="463456-461676-net.arch" source="463456" target="461676">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460255-461856-net.arch" source="460255" target="461856">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460255-337866-net.arch" source="460255" target="337866">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460255-459339-net.arch" source="460255" target="459339">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459483-961715-net.arch" source="459483" target="961715">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459483-462277-net.arch" source="459483" target="462277">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338663-961715-net.arch" source="338663" target="961715">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338663-459483-net.arch" source="338663" target="459483">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338663-523109-net.arch" source="338663" target="523109">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459632-337719-net.arch" source="459632" target="337719">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459632-29006-net.arch" source="459632" target="29006">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="462448-961715-net.arch" source="462448" target="961715">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="462448-459520-net.arch" source="462448" target="459520">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="568035-461676-net.arch" source="568035" target="461676">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459500-337866-net.arch" source="459500" target="337866">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459500-568035-net.arch" source="459500" target="568035">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459500-28424-net.arch" source="459500" target="28424">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="485612-523109-net.arch" source="485612" target="523109">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338040-459339-net.arch" source="338040" target="459339">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340465-460178-net.arch" source="340465" target="460178">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="523889-961715-net.arch" source="523889" target="961715">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="523889-476157-net.arch" source="523889" target="476157">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="476157-961715-net.arch" source="476157" target="961715">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1260532-961715-net.arch" source="1260532" target="961715">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1260532-476157-net.arch" source="1260532" target="476157">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28424-561362-net.arch" source="28424" target="561362">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28424-568035-net.arch" source="28424" target="568035">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="563843-338088-net.arch" source="563843" target="338088">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="563843-338918-net.arch" source="563843" target="338918">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459658-460178-net.arch" source="459658" target="460178">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459658-460843-net.arch" source="459658" target="460843">
+	<data key="topic">net.arch</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="459658-337719-net.arch" source="459658" target="337719">
+	<data key="topic">net.arch</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="459658-680627-net.arch" source="459658" target="680627">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459658-29006-net.arch" source="459658" target="29006">
+	<data key="topic">net.arch</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="459658-459339-net.arch" source="459658" target="459339">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459658-561362-net.arch" source="459658" target="561362">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459658-523109-net.arch" source="459658" target="523109">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459658-459632-net.arch" source="459658" target="459632">
+	<data key="topic">net.arch</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="459658-485612-net.arch" source="459658" target="485612">
+	<data key="topic">net.arch</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459658-523018-net.arch" source="459658" target="523018">
+	<data key="topic">net.arch</data>
+	<data key="weight">2</data>
+</edge>
+</graph>
+</graphml>

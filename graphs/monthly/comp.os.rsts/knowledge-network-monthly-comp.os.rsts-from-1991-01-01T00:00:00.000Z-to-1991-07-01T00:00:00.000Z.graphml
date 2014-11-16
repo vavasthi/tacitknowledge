@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1634649"/>
+<node id="3410"/>
+<node id="352840"/>
+<node id="422534"/>
+<node id="354017"/>
+<node id="350580"/>
+<node id="1539794"/>
+<node id="378720"/>
+<node id="5020"/>
+<edge id="354017-5020-comp.os.rsts" source="354017" target="5020">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350580-378720-comp.os.rsts" source="350580" target="378720">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1539794-3410-comp.os.rsts" source="1539794" target="3410">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1539794-422534-comp.os.rsts" source="1539794" target="422534">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1539794-350580-comp.os.rsts" source="1539794" target="350580">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5020-1634649-comp.os.rsts" source="5020" target="1634649">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5020-3410-comp.os.rsts" source="5020" target="3410">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5020-352840-comp.os.rsts" source="5020" target="352840">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5020-422534-comp.os.rsts" source="5020" target="422534">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5020-354017-comp.os.rsts" source="5020" target="354017">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="5020-350580-comp.os.rsts" source="5020" target="350580">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5020-378720-comp.os.rsts" source="5020" target="378720">
+	<data key="topic">comp.os.rsts</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="398998"/>
+<node id="459701"/>
+<node id="560768"/>
+<node id="567633"/>
+<node id="459806"/>
+<node id="461032"/>
+<node id="459208"/>
+<node id="961136"/>
+<node id="459814"/>
+<node id="461028"/>
+<node id="341604"/>
+<node id="459566"/>
+<node id="562820"/>
+<node id="459533"/>
+<node id="566439"/>
+<node id="1404860"/>
+<edge id="398998-566439-net.movies" source="398998" target="566439">
+	<data key="topic">net.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459701-459533-net.movies" source="459701" target="459533">
+	<data key="topic">net.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459806-567633-net.movies" source="459806" target="567633">
+	<data key="topic">net.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="461032-398998-net.movies" source="461032" target="398998">
+	<data key="topic">net.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="461032-459566-net.movies" source="461032" target="459566">
+	<data key="topic">net.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459814-961136-net.movies" source="459814" target="961136">
+	<data key="topic">net.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="461028-459208-net.movies" source="461028" target="459208">
+	<data key="topic">net.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="461028-1404860-net.movies" source="461028" target="1404860">
+	<data key="topic">net.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341604-398998-net.movies" source="341604" target="398998">
+	<data key="topic">net.movies</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="562820-560768-net.movies" source="562820" target="560768">
+	<data key="topic">net.movies</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

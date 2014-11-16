@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="39793"/>
+<node id="2314642"/>
+<node id="2298641"/>
+<node id="2176917"/>
+<node id="2180981"/>
+<node id="2299733"/>
+<node id="205628"/>
+<node id="2305850"/>
+<node id="2870130"/>
+<node id="2296032"/>
+<node id="170720"/>
+<node id="2318787"/>
+<node id="2871694"/>
+<node id="2314821"/>
+<node id="2280492"/>
+<node id="2303658"/>
+<edge id="39793-2176917-comp.editors" source="39793" target="2176917">
+	<data key="topic">comp.editors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="39793-205628-comp.editors" source="39793" target="205628">
+	<data key="topic">comp.editors</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="2314642-205628-comp.editors" source="2314642" target="205628">
+	<data key="topic">comp.editors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2314642-2314821-comp.editors" source="2314642" target="2314821">
+	<data key="topic">comp.editors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2314642-2280492-comp.editors" source="2314642" target="2280492">
+	<data key="topic">comp.editors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2298641-2299733-comp.editors" source="2298641" target="2299733">
+	<data key="topic">comp.editors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2298641-205628-comp.editors" source="2298641" target="205628">
+	<data key="topic">comp.editors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2298641-2305850-comp.editors" source="2298641" target="2305850">
+	<data key="topic">comp.editors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2298641-170720-comp.editors" source="2298641" target="170720">
+	<data key="topic">comp.editors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2298641-2280492-comp.editors" source="2298641" target="2280492">
+	<data key="topic">comp.editors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2176917-205628-comp.editors" source="2176917" target="205628">
+	<data key="topic">comp.editors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2180981-2176917-comp.editors" source="2180981" target="2176917">
+	<data key="topic">comp.editors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2180981-205628-comp.editors" source="2180981" target="205628">
+	<data key="topic">comp.editors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2299733-205628-comp.editors" source="2299733" target="205628">
+	<data key="topic">comp.editors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2299733-2280492-comp.editors" source="2299733" target="2280492">
+	<data key="topic">comp.editors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="205628-39793-comp.editors" source="205628" target="39793">
+	<data key="topic">comp.editors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="205628-2176917-comp.editors" source="205628" target="2176917">
+	<data key="topic">comp.editors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2305850-2299733-comp.editors" source="2305850" target="2299733">
+	<data key="topic">comp.editors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2305850-205628-comp.editors" source="2305850" target="205628">
+	<data key="topic">comp.editors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2305850-170720-comp.editors" source="2305850" target="170720">
+	<data key="topic">comp.editors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2305850-2280492-comp.editors" source="2305850" target="2280492">
+	<data key="topic">comp.editors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2296032-2318787-comp.editors" source="2296032" target="2318787">
+	<data key="topic">comp.editors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="170720-39793-comp.editors" source="170720" target="39793">
+	<data key="topic">comp.editors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="170720-2176917-comp.editors" source="170720" target="2176917">
+	<data key="topic">comp.editors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="170720-2299733-comp.editors" source="170720" target="2299733">
+	<data key="topic">comp.editors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="170720-205628-comp.editors" source="170720" target="205628">
+	<data key="topic">comp.editors</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="170720-2305850-comp.editors" source="170720" target="2305850">
+	<data key="topic">comp.editors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="170720-2280492-comp.editors" source="170720" target="2280492">
+	<data key="topic">comp.editors</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2871694-2870130-comp.editors" source="2871694" target="2870130">
+	<data key="topic">comp.editors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2871694-2318787-comp.editors" source="2871694" target="2318787">
+	<data key="topic">comp.editors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2314821-205628-comp.editors" source="2314821" target="205628">
+	<data key="topic">comp.editors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2314821-2280492-comp.editors" source="2314821" target="2280492">
+	<data key="topic">comp.editors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2280492-205628-comp.editors" source="2280492" target="205628">
+	<data key="topic">comp.editors</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2303658-2318787-comp.editors" source="2303658" target="2318787">
+	<data key="topic">comp.editors</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="622890"/>
+<node id="356662"/>
+<node id="358021"/>
+<node id="15061"/>
+<node id="375714"/>
+<node id="361892"/>
+<node id="353550"/>
+<node id="409760"/>
+<node id="15084"/>
+<node id="583430"/>
+<node id="610583"/>
+<node id="375659"/>
+<edge id="622890-356662-rec.pets" source="622890" target="356662">
+	<data key="topic">rec.pets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15061-622890-rec.pets" source="15061" target="622890">
+	<data key="topic">rec.pets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="353550-358021-rec.pets" source="353550" target="358021">
+	<data key="topic">rec.pets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="353550-375714-rec.pets" source="353550" target="375714">
+	<data key="topic">rec.pets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="353550-15084-rec.pets" source="353550" target="15084">
+	<data key="topic">rec.pets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="353550-610583-rec.pets" source="353550" target="610583">
+	<data key="topic">rec.pets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="409760-361892-rec.pets" source="409760" target="361892">
+	<data key="topic">rec.pets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="583430-361892-rec.pets" source="583430" target="361892">
+	<data key="topic">rec.pets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="375659-361892-rec.pets" source="375659" target="361892">
+	<data key="topic">rec.pets</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="375659-583430-rec.pets" source="375659" target="583430">
+	<data key="topic">rec.pets</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

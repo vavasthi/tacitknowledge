@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="121857"/>
+<node id="120419"/>
+<node id="41861"/>
+<node id="41495"/>
+<node id="94090"/>
+<node id="128988"/>
+<node id="48460"/>
+<node id="41166"/>
+<node id="118461"/>
+<node id="120783"/>
+<edge id="121857-48460-comp.text.tex" source="121857" target="48460">
+	<data key="topic">comp.text.tex</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="121857-41166-comp.text.tex" source="121857" target="41166">
+	<data key="topic">comp.text.tex</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="121857-118461-comp.text.tex" source="121857" target="118461">
+	<data key="topic">comp.text.tex</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="120419-41166-comp.text.tex" source="120419" target="41166">
+	<data key="topic">comp.text.tex</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="120419-118461-comp.text.tex" source="120419" target="118461">
+	<data key="topic">comp.text.tex</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="41861-120419-comp.text.tex" source="41861" target="120419">
+	<data key="topic">comp.text.tex</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41861-41166-comp.text.tex" source="41861" target="41166">
+	<data key="topic">comp.text.tex</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41861-118461-comp.text.tex" source="41861" target="118461">
+	<data key="topic">comp.text.tex</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="41495-48460-comp.text.tex" source="41495" target="48460">
+	<data key="topic">comp.text.tex</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="41495-41166-comp.text.tex" source="41495" target="41166">
+	<data key="topic">comp.text.tex</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41495-118461-comp.text.tex" source="41495" target="118461">
+	<data key="topic">comp.text.tex</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="94090-118461-comp.text.tex" source="94090" target="118461">
+	<data key="topic">comp.text.tex</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="128988-118461-comp.text.tex" source="128988" target="118461">
+	<data key="topic">comp.text.tex</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="128988-120783-comp.text.tex" source="128988" target="120783">
+	<data key="topic">comp.text.tex</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="48460-41166-comp.text.tex" source="48460" target="41166">
+	<data key="topic">comp.text.tex</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="48460-118461-comp.text.tex" source="48460" target="118461">
+	<data key="topic">comp.text.tex</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="41166-120419-comp.text.tex" source="41166" target="120419">
+	<data key="topic">comp.text.tex</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="41166-118461-comp.text.tex" source="41166" target="118461">
+	<data key="topic">comp.text.tex</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="118461-41166-comp.text.tex" source="118461" target="41166">
+	<data key="topic">comp.text.tex</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="120783-118461-comp.text.tex" source="120783" target="118461">
+	<data key="topic">comp.text.tex</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="390295"/>
+<node id="484117"/>
+<node id="338961"/>
+<node id="929049"/>
+<node id="389913"/>
+<node id="390297"/>
+<node id="925841"/>
+<node id="2849"/>
+<node id="486951"/>
+<node id="392741"/>
+<node id="486950"/>
+<node id="920870"/>
+<node id="929062"/>
+<node id="928673"/>
+<node id="15667"/>
+<node id="398005"/>
+<node id="391735"/>
+<node id="918585"/>
+<node id="485682"/>
+<node id="918841"/>
+<node id="929081"/>
+<node id="391860"/>
+<node id="392756"/>
+<node id="772797"/>
+<node id="929074"/>
+<node id="919629"/>
+<node id="31048"/>
+<node id="929095"/>
+<node id="919621"/>
+<node id="919622"/>
+<node id="924995"/>
+<node id="493900"/>
+<node id="919362"/>
+<node id="919648"/>
+<node id="451283"/>
+<node id="1091301"/>
+<node id="929113"/>
+<node id="919641"/>
+<node id="921306"/>
+<node id="24665"/>
+<node id="924375"/>
+<node id="391773"/>
+<node id="929133"/>
+<node id="391521"/>
+<node id="15719"/>
+<node id="919658"/>
+<node id="24040"/>
+<node id="484449"/>
+<node id="929128"/>
+<node id="486766"/>
+<node id="339311"/>
+<node id="929123"/>
+<node id="16495"/>
+<node id="487530"/>
+<node id="929122"/>
+<node id="24689"/>
+<node id="929151"/>
+<node id="929147"/>
+<node id="918907"/>
+<node id="929145"/>
+<node id="16506"/>
+<node id="919695"/>
+<node id="391431"/>
+<node id="658563"/>
+<node id="391693"/>
+<node id="919688"/>
+<node id="919429"/>
+<node id="929155"/>
+<node id="391433"/>
+<node id="533254"/>
+<edge id="390295-919641-comp.emacs" source="390295" target="919641">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="484117-339311-comp.emacs" source="484117" target="339311">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="484117-391433-comp.emacs" source="484117" target="391433">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338961-533254-comp.emacs" source="338961" target="533254">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="929049-391773-comp.emacs" source="929049" target="391773">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="389913-924995-comp.emacs" source="389913" target="924995">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="389913-24689-comp.emacs" source="389913" target="24689">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390297-391431-comp.emacs" source="390297" target="391431">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="925841-918585-comp.emacs" source="925841" target="918585">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="925841-391773-comp.emacs" source="925841" target="391773">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2849-929147-comp.emacs" source="2849" target="929147">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="486951-929095-comp.emacs" source="486951" target="929095">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="486951-919622-comp.emacs" source="486951" target="919622">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="486951-924995-comp.emacs" source="486951" target="924995">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="486951-24689-comp.emacs" source="486951" target="24689">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="486951-391431-comp.emacs" source="486951" target="391431">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392741-486766-comp.emacs" source="392741" target="486766">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="920870-391860-comp.emacs" source="920870" target="391860">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="929062-392756-comp.emacs" source="929062" target="392756">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="929062-484449-comp.emacs" source="929062" target="484449">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15667-391521-comp.emacs" source="15667" target="391521">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15667-391433-comp.emacs" source="15667" target="391433">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391735-486766-comp.emacs" source="391735" target="486766">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="485682-486951-comp.emacs" source="485682" target="486951">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="485682-919622-comp.emacs" source="485682" target="919622">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="485682-924995-comp.emacs" source="485682" target="924995">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="485682-24689-comp.emacs" source="485682" target="24689">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="918841-921306-comp.emacs" source="918841" target="921306">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="772797-929074-comp.emacs" source="772797" target="929074">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="772797-919629-comp.emacs" source="772797" target="919629">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="772797-487530-comp.emacs" source="772797" target="487530">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="929074-919629-comp.emacs" source="929074" target="919629">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919629-929074-comp.emacs" source="919629" target="929074">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="31048-398005-comp.emacs" source="31048" target="398005">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919621-391773-comp.emacs" source="919621" target="391773">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919622-486951-comp.emacs" source="919622" target="486951">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919622-486950-comp.emacs" source="919622" target="486950">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919622-924995-comp.emacs" source="919622" target="924995">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919622-24689-comp.emacs" source="919622" target="24689">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="493900-929113-comp.emacs" source="493900" target="929113">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919362-484449-comp.emacs" source="919362" target="484449">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919648-929122-comp.emacs" source="919648" target="929122">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="451283-24040-comp.emacs" source="451283" target="24040">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1091301-929113-comp.emacs" source="1091301" target="929113">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24665-391693-comp.emacs" source="24665" target="391693">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24665-929155-comp.emacs" source="24665" target="929155">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="924375-929062-comp.emacs" source="924375" target="929062">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="924375-484449-comp.emacs" source="924375" target="484449">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391773-918585-comp.emacs" source="391773" target="918585">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="929133-929095-comp.emacs" source="929133" target="929095">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="929133-391431-comp.emacs" source="929133" target="391431">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391521-15667-comp.emacs" source="391521" target="15667">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391521-391433-comp.emacs" source="391521" target="391433">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15719-15667-comp.emacs" source="15719" target="15667">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15719-391521-comp.emacs" source="15719" target="391521">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15719-919658-comp.emacs" source="15719" target="919658">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15719-486766-comp.emacs" source="15719" target="486766">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15719-391433-comp.emacs" source="15719" target="391433">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919658-2849-comp.emacs" source="919658" target="2849">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919658-486766-comp.emacs" source="919658" target="486766">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919658-929147-comp.emacs" source="919658" target="929147">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="484449-486766-comp.emacs" source="484449" target="486766">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="929128-391433-comp.emacs" source="929128" target="391433">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339311-338961-comp.emacs" source="339311" target="338961">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339311-928673-comp.emacs" source="339311" target="928673">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339311-24665-comp.emacs" source="339311" target="24665">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339311-16506-comp.emacs" source="339311" target="16506">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339311-391693-comp.emacs" source="339311" target="391693">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339311-929155-comp.emacs" source="339311" target="929155">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339311-391433-comp.emacs" source="339311" target="391433">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339311-533254-comp.emacs" source="339311" target="533254">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="929123-390297-comp.emacs" source="929123" target="390297">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="929123-391431-comp.emacs" source="929123" target="391431">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16495-929113-comp.emacs" source="16495" target="929113">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24689-486951-comp.emacs" source="24689" target="486951">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24689-924995-comp.emacs" source="24689" target="924995">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="929151-338961-comp.emacs" source="929151" target="338961">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="929151-533254-comp.emacs" source="929151" target="533254">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="918907-929145-comp.emacs" source="918907" target="929145">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919695-929081-comp.emacs" source="919695" target="929081">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919695-658563-comp.emacs" source="919695" target="658563">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391431-486951-comp.emacs" source="391431" target="486951">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="658563-919695-comp.emacs" source="658563" target="919695">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919688-24665-comp.emacs" source="919688" target="24665">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919688-391693-comp.emacs" source="919688" target="391693">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919688-929155-comp.emacs" source="919688" target="929155">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919429-929147-comp.emacs" source="919429" target="929147">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="929155-391693-comp.emacs" source="929155" target="391693">
+	<data key="topic">comp.emacs</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

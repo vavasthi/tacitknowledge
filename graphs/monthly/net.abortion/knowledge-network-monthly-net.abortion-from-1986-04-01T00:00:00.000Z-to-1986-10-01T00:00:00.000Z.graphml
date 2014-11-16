@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1506151"/>
+<node id="339190"/>
+<node id="18226"/>
+<node id="1581227"/>
+<node id="26874"/>
+<node id="399072"/>
+<node id="1506158"/>
+<node id="1580836"/>
+<node id="488424"/>
+<node id="1130385"/>
+<node id="1768928"/>
+<node id="392033"/>
+<node id="593807"/>
+<node id="390510"/>
+<node id="1097562"/>
+<node id="339177"/>
+<node id="337260"/>
+<edge id="1506151-26874-net.abortion" source="1506151" target="26874">
+	<data key="topic">net.abortion</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1506151-1768928-net.abortion" source="1506151" target="1768928">
+	<data key="topic">net.abortion</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18226-1130385-net.abortion" source="18226" target="1130385">
+	<data key="topic">net.abortion</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1581227-339190-net.abortion" source="1581227" target="339190">
+	<data key="topic">net.abortion</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="26874-1506151-net.abortion" source="26874" target="1506151">
+	<data key="topic">net.abortion</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="26874-1768928-net.abortion" source="26874" target="1768928">
+	<data key="topic">net.abortion</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="399072-26874-net.abortion" source="399072" target="26874">
+	<data key="topic">net.abortion</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1580836-1130385-net.abortion" source="1580836" target="1130385">
+	<data key="topic">net.abortion</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="488424-1506158-net.abortion" source="488424" target="1506158">
+	<data key="topic">net.abortion</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1768928-1506151-net.abortion" source="1768928" target="1506151">
+	<data key="topic">net.abortion</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1768928-26874-net.abortion" source="1768928" target="26874">
+	<data key="topic">net.abortion</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392033-339190-net.abortion" source="392033" target="339190">
+	<data key="topic">net.abortion</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392033-1581227-net.abortion" source="392033" target="1581227">
+	<data key="topic">net.abortion</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390510-339190-net.abortion" source="390510" target="339190">
+	<data key="topic">net.abortion</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1097562-339190-net.abortion" source="1097562" target="339190">
+	<data key="topic">net.abortion</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339177-593807-net.abortion" source="339177" target="593807">
+	<data key="topic">net.abortion</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337260-1130385-net.abortion" source="337260" target="1130385">
+	<data key="topic">net.abortion</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

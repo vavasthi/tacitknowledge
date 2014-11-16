@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="488824"/>
+<node id="462615"/>
+<node id="1131745"/>
+<node id="924922"/>
+<node id="457472"/>
+<node id="1244"/>
+<node id="1131757"/>
+<node id="26207"/>
+<node id="486728"/>
+<node id="546058"/>
+<node id="924903"/>
+<node id="391053"/>
+<node id="26314"/>
+<node id="924900"/>
+<node id="16591"/>
+<edge id="1131745-486728-net.lang.ada" source="1131745" target="486728">
+	<data key="topic">net.lang.ada</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="924922-924903-net.lang.ada" source="924922" target="924903">
+	<data key="topic">net.lang.ada</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="457472-488824-net.lang.ada" source="457472" target="488824">
+	<data key="topic">net.lang.ada</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1244-488824-net.lang.ada" source="1244" target="488824">
+	<data key="topic">net.lang.ada</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="546058-1131757-net.lang.ada" source="546058" target="1131757">
+	<data key="topic">net.lang.ada</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391053-462615-net.lang.ada" source="391053" target="462615">
+	<data key="topic">net.lang.ada</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391053-26314-net.lang.ada" source="391053" target="26314">
+	<data key="topic">net.lang.ada</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="924900-488824-net.lang.ada" source="924900" target="488824">
+	<data key="topic">net.lang.ada</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16591-26207-net.lang.ada" source="16591" target="26207">
+	<data key="topic">net.lang.ada</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

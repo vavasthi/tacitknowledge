@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="393464"/>
+<node id="493620"/>
+<node id="1575262"/>
+<node id="1580894"/>
+<node id="492098"/>
+<node id="489149"/>
+<node id="337530"/>
+<node id="29006"/>
+<node id="1125039"/>
+<node id="1581272"/>
+<edge id="493620-1125039-net.consumers.house" source="493620" target="1125039">
+	<data key="topic">net.consumers.house</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1575262-393464-net.consumers.house" source="1575262" target="393464">
+	<data key="topic">net.consumers.house</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1575262-1580894-net.consumers.house" source="1575262" target="1580894">
+	<data key="topic">net.consumers.house</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1575262-337530-net.consumers.house" source="1575262" target="337530">
+	<data key="topic">net.consumers.house</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1575262-1581272-net.consumers.house" source="1575262" target="1581272">
+	<data key="topic">net.consumers.house</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="492098-1125039-net.consumers.house" source="492098" target="1125039">
+	<data key="topic">net.consumers.house</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="489149-1125039-net.consumers.house" source="489149" target="1125039">
+	<data key="topic">net.consumers.house</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-1125039-net.consumers.house" source="29006" target="1125039">
+	<data key="topic">net.consumers.house</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

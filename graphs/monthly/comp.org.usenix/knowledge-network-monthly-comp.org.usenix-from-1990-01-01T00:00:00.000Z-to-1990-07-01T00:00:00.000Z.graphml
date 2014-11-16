@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1004320"/>
+<node id="2065"/>
+<node id="5910"/>
+<node id="995226"/>
+<node id="4634"/>
+<node id="409886"/>
+<node id="908848"/>
+<node id="533293"/>
+<node id="2854"/>
+<node id="1726237"/>
+<node id="1726238"/>
+<node id="835239"/>
+<node id="23211"/>
+<node id="11439"/>
+<node id="2899997"/>
+<node id="564"/>
+<node id="36661"/>
+<node id="553265"/>
+<node id="2507039"/>
+<node id="6586"/>
+<node id="17213"/>
+<node id="378041"/>
+<node id="415674"/>
+<node id="1858"/>
+<node id="1726265"/>
+<node id="454213"/>
+<node id="2900009"/>
+<node id="19397"/>
+<node id="908362"/>
+<node id="433729"/>
+<node id="611664"/>
+<node id="350541"/>
+<node id="13002"/>
+<node id="29006"/>
+<node id="36814"/>
+<node id="510808"/>
+<node id="611930"/>
+<node id="1570791"/>
+<node id="840667"/>
+<node id="851547"/>
+<node id="611666"/>
+<node id="549845"/>
+<node id="378344"/>
+<node id="350564"/>
+<node id="2284"/>
+<node id="347631"/>
+<node id="552296"/>
+<node id="1004672"/>
+<node id="350709"/>
+<node id="1010"/>
+<node id="1779"/>
+<node id="441845"/>
+<node id="551291"/>
+<node id="1669643"/>
+<node id="1726223"/>
+<node id="551028"/>
+<node id="643059"/>
+<node id="1395082"/>
+<node id="611721"/>
+<node id="909573"/>
+<node id="1565311"/>
+<node id="409355"/>
+<node id="615046"/>
+<node id="1808"/>
+<node id="509065"/>
+<edge id="1004320-29006-comp.org.usenix" source="1004320" target="29006">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1004320-611721-comp.org.usenix" source="1004320" target="611721">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1004320-1808-comp.org.usenix" source="1004320" target="1808">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2065-4634-comp.org.usenix" source="2065" target="4634">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2065-378344-comp.org.usenix" source="2065" target="378344">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="5910-2284-comp.org.usenix" source="5910" target="2284">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4634-2065-comp.org.usenix" source="4634" target="2065">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4634-19397-comp.org.usenix" source="4634" target="19397">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4634-378344-comp.org.usenix" source="4634" target="378344">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="409886-909573-comp.org.usenix" source="409886" target="909573">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="908848-551291-comp.org.usenix" source="908848" target="551291">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="533293-17213-comp.org.usenix" source="533293" target="17213">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2854-1726265-comp.org.usenix" source="2854" target="1726265">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1726238-835239-comp.org.usenix" source="1726238" target="835239">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="835239-4634-comp.org.usenix" source="835239" target="4634">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="835239-2854-comp.org.usenix" source="835239" target="2854">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="835239-1726265-comp.org.usenix" source="835239" target="1726265">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="835239-19397-comp.org.usenix" source="835239" target="19397">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="835239-378344-comp.org.usenix" source="835239" target="378344">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="564-2900009-comp.org.usenix" source="564" target="2900009">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="564-350709-comp.org.usenix" source="564" target="350709">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="564-1779-comp.org.usenix" source="564" target="1779">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36661-11439-comp.org.usenix" source="36661" target="11439">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36661-2284-comp.org.usenix" source="36661" target="2284">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36661-1010-comp.org.usenix" source="36661" target="1010">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36661-441845-comp.org.usenix" source="36661" target="441845">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="553265-350709-comp.org.usenix" source="553265" target="350709">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="553265-1779-comp.org.usenix" source="553265" target="1779">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2507039-29006-comp.org.usenix" source="2507039" target="29006">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="6586-4634-comp.org.usenix" source="6586" target="4634">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="6586-835239-comp.org.usenix" source="6586" target="835239">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="6586-19397-comp.org.usenix" source="6586" target="19397">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="6586-378344-comp.org.usenix" source="6586" target="378344">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="378041-350564-comp.org.usenix" source="378041" target="350564">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1858-1004320-comp.org.usenix" source="1858" target="1004320">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1858-29006-comp.org.usenix" source="1858" target="29006">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1858-1004672-comp.org.usenix" source="1858" target="1004672">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1858-611721-comp.org.usenix" source="1858" target="611721">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1858-1808-comp.org.usenix" source="1858" target="1808">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="454213-1004320-comp.org.usenix" source="454213" target="1004320">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="454213-1858-comp.org.usenix" source="454213" target="1858">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="454213-29006-comp.org.usenix" source="454213" target="29006">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="454213-1004672-comp.org.usenix" source="454213" target="1004672">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="454213-611721-comp.org.usenix" source="454213" target="611721">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="454213-1808-comp.org.usenix" source="454213" target="1808">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="19397-4634-comp.org.usenix" source="19397" target="4634">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="19397-378344-comp.org.usenix" source="19397" target="378344">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="433729-4634-comp.org.usenix" source="433729" target="4634">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="433729-835239-comp.org.usenix" source="433729" target="835239">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="433729-6586-comp.org.usenix" source="433729" target="6586">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="433729-19397-comp.org.usenix" source="433729" target="19397">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="433729-378344-comp.org.usenix" source="433729" target="378344">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="611664-551028-comp.org.usenix" source="611664" target="551028">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350541-1726265-comp.org.usenix" source="350541" target="1726265">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350541-2284-comp.org.usenix" source="350541" target="2284">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-415674-comp.org.usenix" source="29006" target="415674">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36814-2284-comp.org.usenix" source="36814" target="2284">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36814-350709-comp.org.usenix" source="36814" target="350709">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36814-1779-comp.org.usenix" source="36814" target="1779">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510808-1726223-comp.org.usenix" source="510808" target="1726223">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="611930-1726223-comp.org.usenix" source="611930" target="1726223">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1570791-1565311-comp.org.usenix" source="1570791" target="1565311">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="840667-350564-comp.org.usenix" source="840667" target="350564">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="851547-1726237-comp.org.usenix" source="851547" target="1726237">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="611666-611664-comp.org.usenix" source="611666" target="611664">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="611666-551028-comp.org.usenix" source="611666" target="551028">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="549845-378344-comp.org.usenix" source="549845" target="378344">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350564-2899997-comp.org.usenix" source="350564" target="2899997">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350564-415674-comp.org.usenix" source="350564" target="415674">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347631-995226-comp.org.usenix" source="347631" target="995226">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347631-908362-comp.org.usenix" source="347631" target="908362">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="552296-4634-comp.org.usenix" source="552296" target="4634">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="552296-19397-comp.org.usenix" source="552296" target="19397">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350709-2899997-comp.org.usenix" source="350709" target="2899997">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350709-2284-comp.org.usenix" source="350709" target="2284">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="350709-1808-comp.org.usenix" source="350709" target="1808">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1010-2284-comp.org.usenix" source="1010" target="2284">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="441845-11439-comp.org.usenix" source="441845" target="11439">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="441845-2284-comp.org.usenix" source="441845" target="2284">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="441845-1010-comp.org.usenix" source="441845" target="1010">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1669643-29006-comp.org.usenix" source="1669643" target="29006">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="551028-13002-comp.org.usenix" source="551028" target="13002">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="551028-29006-comp.org.usenix" source="551028" target="29006">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="643059-11439-comp.org.usenix" source="643059" target="11439">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="643059-2284-comp.org.usenix" source="643059" target="2284">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="643059-1010-comp.org.usenix" source="643059" target="1010">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1395082-23211-comp.org.usenix" source="1395082" target="23211">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="909573-4634-comp.org.usenix" source="909573" target="4634">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="909573-378344-comp.org.usenix" source="909573" target="378344">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="615046-350709-comp.org.usenix" source="615046" target="350709">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="615046-1779-comp.org.usenix" source="615046" target="1779">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1808-2899997-comp.org.usenix" source="1808" target="2899997">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509065-1726265-comp.org.usenix" source="509065" target="1726265">
+	<data key="topic">comp.org.usenix</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="922528"/>
+<node id="391992"/>
+<node id="451686"/>
+<node id="1871696"/>
+<node id="339186"/>
+<node id="16182"/>
+<node id="16106"/>
+<node id="33916"/>
+<node id="429694"/>
+<node id="339611"/>
+<edge id="922528-391992-rec.games.chess" source="922528" target="391992">
+	<data key="topic">rec.games.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="922528-16182-rec.games.chess" source="922528" target="16182">
+	<data key="topic">rec.games.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="922528-33916-rec.games.chess" source="922528" target="33916">
+	<data key="topic">rec.games.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391992-16182-rec.games.chess" source="391992" target="16182">
+	<data key="topic">rec.games.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="451686-339186-rec.games.chess" source="451686" target="339186">
+	<data key="topic">rec.games.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1871696-16182-rec.games.chess" source="1871696" target="16182">
+	<data key="topic">rec.games.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1871696-16106-rec.games.chess" source="1871696" target="16106">
+	<data key="topic">rec.games.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339186-451686-rec.games.chess" source="339186" target="451686">
+	<data key="topic">rec.games.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16106-16182-rec.games.chess" source="16106" target="16182">
+	<data key="topic">rec.games.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="33916-391992-rec.games.chess" source="33916" target="391992">
+	<data key="topic">rec.games.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="33916-16182-rec.games.chess" source="33916" target="16182">
+	<data key="topic">rec.games.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="429694-16182-rec.games.chess" source="429694" target="16182">
+	<data key="topic">rec.games.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339611-16182-rec.games.chess" source="339611" target="16182">
+	<data key="topic">rec.games.chess</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339611-16106-rec.games.chess" source="339611" target="16106">
+	<data key="topic">rec.games.chess</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

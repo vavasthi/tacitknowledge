@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="347989"/>
+<node id="1100901"/>
+<node id="374"/>
+<node id="2062888"/>
+<node id="1819716"/>
+<node id="1819777"/>
+<node id="348060"/>
+<node id="378568"/>
+<node id="369026"/>
+<node id="1225365"/>
+<node id="1819923"/>
+<node id="1819921"/>
+<node id="1035106"/>
+<node id="377867"/>
+<edge id="1100901-374-comp.binaries.ibm.pc.archives" source="1100901" target="374">
+	<data key="topic">comp.binaries.ibm.pc.archives</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1100901-1819777-comp.binaries.ibm.pc.archives" source="1100901" target="1819777">
+	<data key="topic">comp.binaries.ibm.pc.archives</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="374-347989-comp.binaries.ibm.pc.archives" source="374" target="347989">
+	<data key="topic">comp.binaries.ibm.pc.archives</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="374-2062888-comp.binaries.ibm.pc.archives" source="374" target="2062888">
+	<data key="topic">comp.binaries.ibm.pc.archives</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="374-1819716-comp.binaries.ibm.pc.archives" source="374" target="1819716">
+	<data key="topic">comp.binaries.ibm.pc.archives</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="374-1819777-comp.binaries.ibm.pc.archives" source="374" target="1819777">
+	<data key="topic">comp.binaries.ibm.pc.archives</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="374-1225365-comp.binaries.ibm.pc.archives" source="374" target="1225365">
+	<data key="topic">comp.binaries.ibm.pc.archives</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="374-1819923-comp.binaries.ibm.pc.archives" source="374" target="1819923">
+	<data key="topic">comp.binaries.ibm.pc.archives</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="374-1819921-comp.binaries.ibm.pc.archives" source="374" target="1819921">
+	<data key="topic">comp.binaries.ibm.pc.archives</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348060-1225365-comp.binaries.ibm.pc.archives" source="348060" target="1225365">
+	<data key="topic">comp.binaries.ibm.pc.archives</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="378568-374-comp.binaries.ibm.pc.archives" source="378568" target="374">
+	<data key="topic">comp.binaries.ibm.pc.archives</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="378568-2062888-comp.binaries.ibm.pc.archives" source="378568" target="2062888">
+	<data key="topic">comp.binaries.ibm.pc.archives</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="369026-1819923-comp.binaries.ibm.pc.archives" source="369026" target="1819923">
+	<data key="topic">comp.binaries.ibm.pc.archives</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1035106-374-comp.binaries.ibm.pc.archives" source="1035106" target="374">
+	<data key="topic">comp.binaries.ibm.pc.archives</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1035106-2062888-comp.binaries.ibm.pc.archives" source="1035106" target="2062888">
+	<data key="topic">comp.binaries.ibm.pc.archives</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1035106-378568-comp.binaries.ibm.pc.archives" source="1035106" target="378568">
+	<data key="topic">comp.binaries.ibm.pc.archives</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="377867-374-comp.binaries.ibm.pc.archives" source="377867" target="374">
+	<data key="topic">comp.binaries.ibm.pc.archives</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="377867-1819716-comp.binaries.ibm.pc.archives" source="377867" target="1819716">
+	<data key="topic">comp.binaries.ibm.pc.archives</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

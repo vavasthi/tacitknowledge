@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="42197"/>
+<node id="151127"/>
+<node id="318961"/>
+<node id="206263"/>
+<node id="323572"/>
+<node id="180701"/>
+<edge id="42197-206263-alt.skunks" source="42197" target="206263">
+	<data key="topic">alt.skunks</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="151127-318961-alt.skunks" source="151127" target="318961">
+	<data key="topic">alt.skunks</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="151127-206263-alt.skunks" source="151127" target="206263">
+	<data key="topic">alt.skunks</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="318961-151127-alt.skunks" source="318961" target="151127">
+	<data key="topic">alt.skunks</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="318961-206263-alt.skunks" source="318961" target="206263">
+	<data key="topic">alt.skunks</data>
+	<data key="weight">6</data>
+</edge>
+<edge id="318961-323572-alt.skunks" source="318961" target="323572">
+	<data key="topic">alt.skunks</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="318961-180701-alt.skunks" source="318961" target="180701">
+	<data key="topic">alt.skunks</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="206263-151127-alt.skunks" source="206263" target="151127">
+	<data key="topic">alt.skunks</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="206263-318961-alt.skunks" source="206263" target="318961">
+	<data key="topic">alt.skunks</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="323572-151127-alt.skunks" source="323572" target="151127">
+	<data key="topic">alt.skunks</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="323572-318961-alt.skunks" source="323572" target="318961">
+	<data key="topic">alt.skunks</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="323572-206263-alt.skunks" source="323572" target="206263">
+	<data key="topic">alt.skunks</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="180701-151127-alt.skunks" source="180701" target="151127">
+	<data key="topic">alt.skunks</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="180701-318961-alt.skunks" source="180701" target="318961">
+	<data key="topic">alt.skunks</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="180701-206263-alt.skunks" source="180701" target="206263">
+	<data key="topic">alt.skunks</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="26258"/>
+<node id="509023"/>
+<node id="449824"/>
+<node id="36795"/>
+<node id="16124"/>
+<node id="18365"/>
+<node id="362746"/>
+<node id="521593"/>
+<node id="36833"/>
+<node id="507112"/>
+<node id="507111"/>
+<node id="499683"/>
+<node id="36774"/>
+<node id="432527"/>
+<node id="16106"/>
+<node id="26314"/>
+<node id="739713"/>
+<node id="29006"/>
+<node id="24912"/>
+<edge id="26258-509023-ont.uucp" source="26258" target="509023">
+	<data key="topic">ont.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18365-16124-ont.uucp" source="18365" target="16124">
+	<data key="topic">ont.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362746-29006-ont.uucp" source="362746" target="29006">
+	<data key="topic">ont.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521593-29006-ont.uucp" source="521593" target="29006">
+	<data key="topic">ont.uucp</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="36833-499683-ont.uucp" source="36833" target="499683">
+	<data key="topic">ont.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="507112-507111-ont.uucp" source="507112" target="507111">
+	<data key="topic">ont.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="507112-16106-ont.uucp" source="507112" target="16106">
+	<data key="topic">ont.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="36774-507111-ont.uucp" source="36774" target="507111">
+	<data key="topic">ont.uucp</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="36774-16106-ont.uucp" source="36774" target="16106">
+	<data key="topic">ont.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16106-507111-ont.uucp" source="16106" target="507111">
+	<data key="topic">ont.uucp</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="16106-432527-ont.uucp" source="16106" target="432527">
+	<data key="topic">ont.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16106-29006-ont.uucp" source="16106" target="29006">
+	<data key="topic">ont.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16106-24912-ont.uucp" source="16106" target="24912">
+	<data key="topic">ont.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="26314-499683-ont.uucp" source="26314" target="499683">
+	<data key="topic">ont.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="739713-449824-ont.uucp" source="739713" target="449824">
+	<data key="topic">ont.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-36795-ont.uucp" source="29006" target="36795">
+	<data key="topic">ont.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24912-499683-ont.uucp" source="24912" target="499683">
+	<data key="topic">ont.uucp</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

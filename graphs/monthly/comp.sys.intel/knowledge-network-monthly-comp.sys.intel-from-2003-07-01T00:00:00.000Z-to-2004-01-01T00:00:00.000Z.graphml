@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2176369"/>
+<node id="2183589"/>
+<node id="2186344"/>
+<node id="2178282"/>
+<node id="2184204"/>
+<node id="2184462"/>
+<node id="2184269"/>
+<edge id="2183589-2178282-comp.sys.intel" source="2183589" target="2178282">
+	<data key="topic">comp.sys.intel</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2186344-2176369-comp.sys.intel" source="2186344" target="2176369">
+	<data key="topic">comp.sys.intel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2186344-2183589-comp.sys.intel" source="2186344" target="2183589">
+	<data key="topic">comp.sys.intel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2184204-2183589-comp.sys.intel" source="2184204" target="2183589">
+	<data key="topic">comp.sys.intel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2184462-2183589-comp.sys.intel" source="2184462" target="2183589">
+	<data key="topic">comp.sys.intel</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2184462-2178282-comp.sys.intel" source="2184462" target="2178282">
+	<data key="topic">comp.sys.intel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2184269-2183589-comp.sys.intel" source="2184269" target="2183589">
+	<data key="topic">comp.sys.intel</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

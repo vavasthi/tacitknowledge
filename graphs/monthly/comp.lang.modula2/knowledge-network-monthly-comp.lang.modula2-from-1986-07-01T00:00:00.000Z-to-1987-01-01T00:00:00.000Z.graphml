@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="451857"/>
+<node id="925529"/>
+<node id="932889"/>
+<node id="1244"/>
+<node id="19293"/>
+<node id="391833"/>
+<node id="1095507"/>
+<node id="28899"/>
+<node id="924395"/>
+<node id="447727"/>
+<node id="625891"/>
+<node id="395116"/>
+<node id="469995"/>
+<node id="924415"/>
+<node id="931901"/>
+<node id="932859"/>
+<node id="391601"/>
+<node id="490163"/>
+<node id="930297"/>
+<node id="924410"/>
+<node id="932858"/>
+<node id="395387"/>
+<node id="393030"/>
+<node id="33666"/>
+<node id="392452"/>
+<node id="16072"/>
+<node id="924421"/>
+<node id="393998"/>
+<node id="920198"/>
+<node id="932867"/>
+<edge id="451857-16072-comp.lang.modula2" source="451857" target="16072">
+	<data key="topic">comp.lang.modula2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="925529-924410-comp.lang.modula2" source="925529" target="924410">
+	<data key="topic">comp.lang.modula2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="932889-19293-comp.lang.modula2" source="932889" target="19293">
+	<data key="topic">comp.lang.modula2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1244-451857-comp.lang.modula2" source="1244" target="451857">
+	<data key="topic">comp.lang.modula2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19293-447727-comp.lang.modula2" source="19293" target="447727">
+	<data key="topic">comp.lang.modula2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391833-19293-comp.lang.modula2" source="391833" target="19293">
+	<data key="topic">comp.lang.modula2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391833-447727-comp.lang.modula2" source="391833" target="447727">
+	<data key="topic">comp.lang.modula2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="924395-28899-comp.lang.modula2" source="924395" target="28899">
+	<data key="topic">comp.lang.modula2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="625891-469995-comp.lang.modula2" source="625891" target="469995">
+	<data key="topic">comp.lang.modula2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="395116-451857-comp.lang.modula2" source="395116" target="451857">
+	<data key="topic">comp.lang.modula2</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="395116-395387-comp.lang.modula2" source="395116" target="395387">
+	<data key="topic">comp.lang.modula2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="395116-16072-comp.lang.modula2" source="395116" target="16072">
+	<data key="topic">comp.lang.modula2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="395116-932867-comp.lang.modula2" source="395116" target="932867">
+	<data key="topic">comp.lang.modula2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="932859-924421-comp.lang.modula2" source="932859" target="924421">
+	<data key="topic">comp.lang.modula2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391601-931901-comp.lang.modula2" source="391601" target="931901">
+	<data key="topic">comp.lang.modula2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391601-395387-comp.lang.modula2" source="391601" target="395387">
+	<data key="topic">comp.lang.modula2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="391601-932867-comp.lang.modula2" source="391601" target="932867">
+	<data key="topic">comp.lang.modula2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="490163-924415-comp.lang.modula2" source="490163" target="924415">
+	<data key="topic">comp.lang.modula2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="930297-447727-comp.lang.modula2" source="930297" target="447727">
+	<data key="topic">comp.lang.modula2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="924410-924421-comp.lang.modula2" source="924410" target="924421">
+	<data key="topic">comp.lang.modula2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="393030-395387-comp.lang.modula2" source="393030" target="395387">
+	<data key="topic">comp.lang.modula2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="33666-1095507-comp.lang.modula2" source="33666" target="1095507">
+	<data key="topic">comp.lang.modula2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392452-19293-comp.lang.modula2" source="392452" target="19293">
+	<data key="topic">comp.lang.modula2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392452-447727-comp.lang.modula2" source="392452" target="447727">
+	<data key="topic">comp.lang.modula2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16072-451857-comp.lang.modula2" source="16072" target="451857">
+	<data key="topic">comp.lang.modula2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="393998-451857-comp.lang.modula2" source="393998" target="451857">
+	<data key="topic">comp.lang.modula2</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="393998-16072-comp.lang.modula2" source="393998" target="16072">
+	<data key="topic">comp.lang.modula2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="920198-469995-comp.lang.modula2" source="920198" target="469995">
+	<data key="topic">comp.lang.modula2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="932867-931901-comp.lang.modula2" source="932867" target="931901">
+	<data key="topic">comp.lang.modula2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="932867-932858-comp.lang.modula2" source="932867" target="932858">
+	<data key="topic">comp.lang.modula2</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="932867-395387-comp.lang.modula2" source="932867" target="395387">
+	<data key="topic">comp.lang.modula2</data>
+	<data key="weight">2</data>
+</edge>
+</graph>
+</graphml>

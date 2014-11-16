@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="15522"/>
+<node id="392280"/>
+<node id="394865"/>
+<node id="18984"/>
+<node id="393183"/>
+<node id="16633"/>
+<node id="390384"/>
+<node id="337595"/>
+<node id="17216"/>
+<edge id="15522-393183-comp.sys.tandy" source="15522" target="393183">
+	<data key="topic">comp.sys.tandy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392280-394865-comp.sys.tandy" source="392280" target="394865">
+	<data key="topic">comp.sys.tandy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392280-337595-comp.sys.tandy" source="392280" target="337595">
+	<data key="topic">comp.sys.tandy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="394865-337595-comp.sys.tandy" source="394865" target="337595">
+	<data key="topic">comp.sys.tandy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18984-394865-comp.sys.tandy" source="18984" target="394865">
+	<data key="topic">comp.sys.tandy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18984-337595-comp.sys.tandy" source="18984" target="337595">
+	<data key="topic">comp.sys.tandy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16633-337595-comp.sys.tandy" source="16633" target="337595">
+	<data key="topic">comp.sys.tandy</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390384-17216-comp.sys.tandy" source="390384" target="17216">
+	<data key="topic">comp.sys.tandy</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

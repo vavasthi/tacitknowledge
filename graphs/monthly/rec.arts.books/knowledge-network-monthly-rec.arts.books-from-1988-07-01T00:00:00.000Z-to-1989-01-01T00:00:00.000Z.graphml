@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2977"/>
+<node id="23267"/>
+<node id="536107"/>
+<node id="356423"/>
+<node id="515300"/>
+<node id="9190"/>
+<node id="33750"/>
+<node id="511682"/>
+<node id="21064"/>
+<node id="30042"/>
+<node id="7071"/>
+<edge id="2977-356423-rec.arts.books" source="2977" target="356423">
+	<data key="topic">rec.arts.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2977-30042-rec.arts.books" source="2977" target="30042">
+	<data key="topic">rec.arts.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2977-7071-rec.arts.books" source="2977" target="7071">
+	<data key="topic">rec.arts.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23267-356423-rec.arts.books" source="23267" target="356423">
+	<data key="topic">rec.arts.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23267-30042-rec.arts.books" source="23267" target="30042">
+	<data key="topic">rec.arts.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23267-7071-rec.arts.books" source="23267" target="7071">
+	<data key="topic">rec.arts.books</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="536107-21064-rec.arts.books" source="536107" target="21064">
+	<data key="topic">rec.arts.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="9190-356423-rec.arts.books" source="9190" target="356423">
+	<data key="topic">rec.arts.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="9190-30042-rec.arts.books" source="9190" target="30042">
+	<data key="topic">rec.arts.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="9190-7071-rec.arts.books" source="9190" target="7071">
+	<data key="topic">rec.arts.books</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="33750-515300-rec.arts.books" source="33750" target="515300">
+	<data key="topic">rec.arts.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="511682-23267-rec.arts.books" source="511682" target="23267">
+	<data key="topic">rec.arts.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="511682-356423-rec.arts.books" source="511682" target="356423">
+	<data key="topic">rec.arts.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="511682-30042-rec.arts.books" source="511682" target="30042">
+	<data key="topic">rec.arts.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="511682-7071-rec.arts.books" source="511682" target="7071">
+	<data key="topic">rec.arts.books</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="21064-356423-rec.arts.books" source="21064" target="356423">
+	<data key="topic">rec.arts.books</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="21064-30042-rec.arts.books" source="21064" target="30042">
+	<data key="topic">rec.arts.books</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="21064-7071-rec.arts.books" source="21064" target="7071">
+	<data key="topic">rec.arts.books</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="30042-356423-rec.arts.books" source="30042" target="356423">
+	<data key="topic">rec.arts.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30042-7071-rec.arts.books" source="30042" target="7071">
+	<data key="topic">rec.arts.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7071-356423-rec.arts.books" source="7071" target="356423">
+	<data key="topic">rec.arts.books</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="7071-9190-rec.arts.books" source="7071" target="9190">
+	<data key="topic">rec.arts.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7071-21064-rec.arts.books" source="7071" target="21064">
+	<data key="topic">rec.arts.books</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7071-30042-rec.arts.books" source="7071" target="30042">
+	<data key="topic">rec.arts.books</data>
+	<data key="weight">4</data>
+</edge>
+</graph>
+</graphml>

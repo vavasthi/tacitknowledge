@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="15282"/>
+<node id="5910"/>
+<node id="1733021"/>
+<node id="365945"/>
+<node id="437241"/>
+<edge id="15282-5910-alt.drugs" source="15282" target="5910">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15282-1733021-alt.drugs" source="15282" target="1733021">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="15282-365945-alt.drugs" source="15282" target="365945">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5910-1733021-alt.drugs" source="5910" target="1733021">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="5910-365945-alt.drugs" source="5910" target="365945">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1733021-365945-alt.drugs" source="1733021" target="365945">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="365945-1733021-alt.drugs" source="365945" target="1733021">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="437241-1733021-alt.drugs" source="437241" target="1733021">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="437241-365945-alt.drugs" source="437241" target="365945">
+	<data key="topic">alt.drugs</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

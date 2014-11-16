@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="413000"/>
+<node id="642124"/>
+<node id="1184257"/>
+<node id="412387"/>
+<node id="996251"/>
+<node id="863225"/>
+<node id="1341732"/>
+<node id="5132"/>
+<node id="839992"/>
+<node id="839985"/>
+<node id="1413338"/>
+<node id="863233"/>
+<edge id="413000-863233-comp.lang.idl-pvwave" source="413000" target="863233">
+	<data key="topic">comp.lang.idl-pvwave</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="412387-996251-comp.lang.idl-pvwave" source="412387" target="996251">
+	<data key="topic">comp.lang.idl-pvwave</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="863225-5132-comp.lang.idl-pvwave" source="863225" target="5132">
+	<data key="topic">comp.lang.idl-pvwave</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="863225-839985-comp.lang.idl-pvwave" source="863225" target="839985">
+	<data key="topic">comp.lang.idl-pvwave</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5132-839985-comp.lang.idl-pvwave" source="5132" target="839985">
+	<data key="topic">comp.lang.idl-pvwave</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="839992-642124-comp.lang.idl-pvwave" source="839992" target="642124">
+	<data key="topic">comp.lang.idl-pvwave</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="839992-1184257-comp.lang.idl-pvwave" source="839992" target="1184257">
+	<data key="topic">comp.lang.idl-pvwave</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="839992-863225-comp.lang.idl-pvwave" source="839992" target="863225">
+	<data key="topic">comp.lang.idl-pvwave</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="839992-5132-comp.lang.idl-pvwave" source="839992" target="5132">
+	<data key="topic">comp.lang.idl-pvwave</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="839992-839985-comp.lang.idl-pvwave" source="839992" target="839985">
+	<data key="topic">comp.lang.idl-pvwave</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1413338-1341732-comp.lang.idl-pvwave" source="1413338" target="1341732">
+	<data key="topic">comp.lang.idl-pvwave</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

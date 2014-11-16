@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="26833"/>
+<node id="1283554"/>
+<node id="1619564"/>
+<node id="558687"/>
+<node id="608530"/>
+<node id="2652"/>
+<node id="373210"/>
+<node id="1670183"/>
+<node id="608554"/>
+<node id="608556"/>
+<node id="608555"/>
+<node id="1003046"/>
+<node id="4461"/>
+<node id="993187"/>
+<node id="618984"/>
+<node id="24817"/>
+<node id="350391"/>
+<node id="621563"/>
+<node id="720825"/>
+<node id="13045"/>
+<node id="2040"/>
+<node id="608694"/>
+<node id="3712"/>
+<node id="1556340"/>
+<node id="608528"/>
+<node id="615312"/>
+<node id="1794942"/>
+<node id="387523"/>
+<node id="2440"/>
+<node id="915271"/>
+<node id="10511"/>
+<edge id="1283554-3712-gnu.g++" source="1283554" target="3712">
+	<data key="topic">gnu.g++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1619564-993187-gnu.g++" source="1619564" target="993187">
+	<data key="topic">gnu.g++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="558687-608530-gnu.g++" source="558687" target="608530">
+	<data key="topic">gnu.g++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="558687-608555-gnu.g++" source="558687" target="608555">
+	<data key="topic">gnu.g++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="558687-618984-gnu.g++" source="558687" target="618984">
+	<data key="topic">gnu.g++</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="558687-608694-gnu.g++" source="558687" target="608694">
+	<data key="topic">gnu.g++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="558687-608528-gnu.g++" source="558687" target="608528">
+	<data key="topic">gnu.g++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="608530-558687-gnu.g++" source="608530" target="558687">
+	<data key="topic">gnu.g++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="608530-618984-gnu.g++" source="608530" target="618984">
+	<data key="topic">gnu.g++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2652-608554-gnu.g++" source="2652" target="608554">
+	<data key="topic">gnu.g++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="373210-558687-gnu.g++" source="373210" target="558687">
+	<data key="topic">gnu.g++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="373210-608530-gnu.g++" source="373210" target="608530">
+	<data key="topic">gnu.g++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="373210-618984-gnu.g++" source="373210" target="618984">
+	<data key="topic">gnu.g++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1003046-720825-gnu.g++" source="1003046" target="720825">
+	<data key="topic">gnu.g++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4461-915271-gnu.g++" source="4461" target="915271">
+	<data key="topic">gnu.g++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="4461-10511-gnu.g++" source="4461" target="10511">
+	<data key="topic">gnu.g++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="24817-387523-gnu.g++" source="24817" target="387523">
+	<data key="topic">gnu.g++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350391-608556-gnu.g++" source="350391" target="608556">
+	<data key="topic">gnu.g++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="621563-2440-gnu.g++" source="621563" target="2440">
+	<data key="topic">gnu.g++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="13045-1556340-gnu.g++" source="13045" target="1556340">
+	<data key="topic">gnu.g++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2040-1670183-gnu.g++" source="2040" target="1670183">
+	<data key="topic">gnu.g++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="608694-1619564-gnu.g++" source="608694" target="1619564">
+	<data key="topic">gnu.g++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="608694-993187-gnu.g++" source="608694" target="993187">
+	<data key="topic">gnu.g++</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="608528-26833-gnu.g++" source="608528" target="26833">
+	<data key="topic">gnu.g++</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="608528-558687-gnu.g++" source="608528" target="558687">
+	<data key="topic">gnu.g++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="608528-608556-gnu.g++" source="608528" target="608556">
+	<data key="topic">gnu.g++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="608528-350391-gnu.g++" source="608528" target="350391">
+	<data key="topic">gnu.g++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="615312-608528-gnu.g++" source="615312" target="608528">
+	<data key="topic">gnu.g++</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1794942-387523-gnu.g++" source="1794942" target="387523">
+	<data key="topic">gnu.g++</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

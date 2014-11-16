@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="628"/>
+<node id="13268"/>
+<node id="12564"/>
+<node id="1301"/>
+<node id="401619"/>
+<node id="842011"/>
+<node id="33079"/>
+<node id="500608"/>
+<node id="1237291"/>
+<node id="1353773"/>
+<node id="30076"/>
+<node id="506169"/>
+<node id="509288"/>
+<node id="358630"/>
+<node id="611721"/>
+<node id="362952"/>
+<node id="1880373"/>
+<node id="1668662"/>
+<node id="1614293"/>
+<edge id="628-13268-comp.lang.visual" source="628" target="13268">
+	<data key="topic">comp.lang.visual</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="628-500608-comp.lang.visual" source="628" target="500608">
+	<data key="topic">comp.lang.visual</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="628-509288-comp.lang.visual" source="628" target="509288">
+	<data key="topic">comp.lang.visual</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12564-13268-comp.lang.visual" source="12564" target="13268">
+	<data key="topic">comp.lang.visual</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12564-500608-comp.lang.visual" source="12564" target="500608">
+	<data key="topic">comp.lang.visual</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12564-509288-comp.lang.visual" source="12564" target="509288">
+	<data key="topic">comp.lang.visual</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1301-842011-comp.lang.visual" source="1301" target="842011">
+	<data key="topic">comp.lang.visual</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="401619-13268-comp.lang.visual" source="401619" target="13268">
+	<data key="topic">comp.lang.visual</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="401619-500608-comp.lang.visual" source="401619" target="500608">
+	<data key="topic">comp.lang.visual</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="401619-509288-comp.lang.visual" source="401619" target="509288">
+	<data key="topic">comp.lang.visual</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="842011-1880373-comp.lang.visual" source="842011" target="1880373">
+	<data key="topic">comp.lang.visual</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="33079-509288-comp.lang.visual" source="33079" target="509288">
+	<data key="topic">comp.lang.visual</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="500608-13268-comp.lang.visual" source="500608" target="13268">
+	<data key="topic">comp.lang.visual</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="500608-509288-comp.lang.visual" source="500608" target="509288">
+	<data key="topic">comp.lang.visual</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1237291-13268-comp.lang.visual" source="1237291" target="13268">
+	<data key="topic">comp.lang.visual</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1237291-1353773-comp.lang.visual" source="1237291" target="1353773">
+	<data key="topic">comp.lang.visual</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1353773-13268-comp.lang.visual" source="1353773" target="13268">
+	<data key="topic">comp.lang.visual</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1353773-1237291-comp.lang.visual" source="1353773" target="1237291">
+	<data key="topic">comp.lang.visual</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30076-13268-comp.lang.visual" source="30076" target="13268">
+	<data key="topic">comp.lang.visual</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="506169-1668662-comp.lang.visual" source="506169" target="1668662">
+	<data key="topic">comp.lang.visual</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509288-13268-comp.lang.visual" source="509288" target="13268">
+	<data key="topic">comp.lang.visual</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="509288-500608-comp.lang.visual" source="509288" target="500608">
+	<data key="topic">comp.lang.visual</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="358630-628-comp.lang.visual" source="358630" target="628">
+	<data key="topic">comp.lang.visual</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="358630-13268-comp.lang.visual" source="358630" target="13268">
+	<data key="topic">comp.lang.visual</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="358630-500608-comp.lang.visual" source="358630" target="500608">
+	<data key="topic">comp.lang.visual</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="358630-509288-comp.lang.visual" source="358630" target="509288">
+	<data key="topic">comp.lang.visual</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="358630-362952-comp.lang.visual" source="358630" target="362952">
+	<data key="topic">comp.lang.visual</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="611721-13268-comp.lang.visual" source="611721" target="13268">
+	<data key="topic">comp.lang.visual</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="611721-12564-comp.lang.visual" source="611721" target="12564">
+	<data key="topic">comp.lang.visual</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="611721-500608-comp.lang.visual" source="611721" target="500608">
+	<data key="topic">comp.lang.visual</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="611721-509288-comp.lang.visual" source="611721" target="509288">
+	<data key="topic">comp.lang.visual</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362952-13268-comp.lang.visual" source="362952" target="13268">
+	<data key="topic">comp.lang.visual</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362952-500608-comp.lang.visual" source="362952" target="500608">
+	<data key="topic">comp.lang.visual</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362952-509288-comp.lang.visual" source="362952" target="509288">
+	<data key="topic">comp.lang.visual</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362952-358630-comp.lang.visual" source="362952" target="358630">
+	<data key="topic">comp.lang.visual</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1614293-1668662-comp.lang.visual" source="1614293" target="1668662">
+	<data key="topic">comp.lang.visual</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

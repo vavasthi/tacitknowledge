@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="15667"/>
+<node id="338738"/>
+<node id="1111589"/>
+<node id="467059"/>
+<node id="469201"/>
+<node id="337917"/>
+<node id="459741"/>
+<node id="467067"/>
+<node id="657336"/>
+<node id="341401"/>
+<node id="339196"/>
+<node id="475578"/>
+<node id="344251"/>
+<node id="2015167"/>
+<node id="632171"/>
+<node id="680970"/>
+<node id="338625"/>
+<node id="337200"/>
+<node id="338448"/>
+<node id="467053"/>
+<node id="477611"/>
+<node id="603431"/>
+<edge id="15667-467067-net.games.pbm" source="15667" target="467067">
+	<data key="topic">net.games.pbm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15667-344251-net.games.pbm" source="15667" target="344251">
+	<data key="topic">net.games.pbm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15667-338625-net.games.pbm" source="15667" target="338625">
+	<data key="topic">net.games.pbm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338738-467059-net.games.pbm" source="338738" target="467059">
+	<data key="topic">net.games.pbm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338738-344251-net.games.pbm" source="338738" target="344251">
+	<data key="topic">net.games.pbm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1111589-338738-net.games.pbm" source="1111589" target="338738">
+	<data key="topic">net.games.pbm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="469201-467059-net.games.pbm" source="469201" target="467059">
+	<data key="topic">net.games.pbm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="467067-467053-net.games.pbm" source="467067" target="467053">
+	<data key="topic">net.games.pbm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341401-338738-net.games.pbm" source="341401" target="338738">
+	<data key="topic">net.games.pbm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341401-467059-net.games.pbm" source="341401" target="467059">
+	<data key="topic">net.games.pbm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339196-657336-net.games.pbm" source="339196" target="657336">
+	<data key="topic">net.games.pbm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="475578-467067-net.games.pbm" source="475578" target="467067">
+	<data key="topic">net.games.pbm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="344251-15667-net.games.pbm" source="344251" target="15667">
+	<data key="topic">net.games.pbm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="344251-338738-net.games.pbm" source="344251" target="338738">
+	<data key="topic">net.games.pbm</data>
+	<data key="weight">4</data>
+</edge>
+<edge id="344251-467067-net.games.pbm" source="344251" target="467067">
+	<data key="topic">net.games.pbm</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="344251-475578-net.games.pbm" source="344251" target="475578">
+	<data key="topic">net.games.pbm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="344251-338625-net.games.pbm" source="344251" target="338625">
+	<data key="topic">net.games.pbm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="344251-467053-net.games.pbm" source="344251" target="467053">
+	<data key="topic">net.games.pbm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="344251-477611-net.games.pbm" source="344251" target="477611">
+	<data key="topic">net.games.pbm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="680970-2015167-net.games.pbm" source="680970" target="2015167">
+	<data key="topic">net.games.pbm</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="337200-337917-net.games.pbm" source="337200" target="337917">
+	<data key="topic">net.games.pbm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338448-459741-net.games.pbm" source="338448" target="459741">
+	<data key="topic">net.games.pbm</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="603431-467059-net.games.pbm" source="603431" target="467059">
+	<data key="topic">net.games.pbm</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="409859"/>
+<node id="408772"/>
+<node id="1182997"/>
+<node id="350564"/>
+<node id="879339"/>
+<node id="1193"/>
+<node id="2054006"/>
+<node id="1344239"/>
+<node id="409886"/>
+<node id="821704"/>
+<node id="28302"/>
+<edge id="409859-1344239-comp.org.uniforum" source="409859" target="1344239">
+	<data key="topic">comp.org.uniforum</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="408772-1344239-comp.org.uniforum" source="408772" target="1344239">
+	<data key="topic">comp.org.uniforum</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350564-821704-comp.org.uniforum" source="350564" target="821704">
+	<data key="topic">comp.org.uniforum</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="879339-1193-comp.org.uniforum" source="879339" target="1193">
+	<data key="topic">comp.org.uniforum</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="879339-2054006-comp.org.uniforum" source="879339" target="2054006">
+	<data key="topic">comp.org.uniforum</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1193-2054006-comp.org.uniforum" source="1193" target="2054006">
+	<data key="topic">comp.org.uniforum</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1193-409886-comp.org.uniforum" source="1193" target="409886">
+	<data key="topic">comp.org.uniforum</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28302-1182997-comp.org.uniforum" source="28302" target="1182997">
+	<data key="topic">comp.org.uniforum</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

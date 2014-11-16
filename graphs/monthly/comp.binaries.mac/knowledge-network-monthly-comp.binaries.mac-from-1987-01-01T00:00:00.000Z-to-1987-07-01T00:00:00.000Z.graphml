@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="15332"/>
+<node id="662346"/>
+<node id="1487604"/>
+<node id="390211"/>
+<node id="452130"/>
+<node id="395865"/>
+<node id="1473513"/>
+<node id="927954"/>
+<edge id="1487604-390211-comp.binaries.mac" source="1487604" target="390211">
+	<data key="topic">comp.binaries.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390211-15332-comp.binaries.mac" source="390211" target="15332">
+	<data key="topic">comp.binaries.mac</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="390211-395865-comp.binaries.mac" source="390211" target="395865">
+	<data key="topic">comp.binaries.mac</data>
+	<data key="weight">6</data>
+</edge>
+<edge id="390211-1473513-comp.binaries.mac" source="390211" target="1473513">
+	<data key="topic">comp.binaries.mac</data>
+	<data key="weight">9</data>
+</edge>
+<edge id="395865-390211-comp.binaries.mac" source="395865" target="390211">
+	<data key="topic">comp.binaries.mac</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="1473513-390211-comp.binaries.mac" source="1473513" target="390211">
+	<data key="topic">comp.binaries.mac</data>
+	<data key="weight">6</data>
+</edge>
+</graph>
+</graphml>

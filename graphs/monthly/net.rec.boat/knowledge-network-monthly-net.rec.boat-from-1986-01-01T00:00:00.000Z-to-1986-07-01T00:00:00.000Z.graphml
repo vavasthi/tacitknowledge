@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="338198"/>
+<node id="1705531"/>
+<node id="486130"/>
+<node id="929017"/>
+<node id="339054"/>
+<node id="1694290"/>
+<node id="1365326"/>
+<node id="1910775"/>
+<node id="1507484"/>
+<node id="339321"/>
+<node id="992706"/>
+<edge id="338198-1705531-net.rec.boat" source="338198" target="1705531">
+	<data key="topic">net.rec.boat</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="486130-992706-net.rec.boat" source="486130" target="992706">
+	<data key="topic">net.rec.boat</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="929017-339054-net.rec.boat" source="929017" target="339054">
+	<data key="topic">net.rec.boat</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1694290-1507484-net.rec.boat" source="1694290" target="1507484">
+	<data key="topic">net.rec.boat</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1365326-992706-net.rec.boat" source="1365326" target="992706">
+	<data key="topic">net.rec.boat</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1910775-339054-net.rec.boat" source="1910775" target="339054">
+	<data key="topic">net.rec.boat</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339321-486130-net.rec.boat" source="339321" target="486130">
+	<data key="topic">net.rec.boat</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339321-992706-net.rec.boat" source="339321" target="992706">
+	<data key="topic">net.rec.boat</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

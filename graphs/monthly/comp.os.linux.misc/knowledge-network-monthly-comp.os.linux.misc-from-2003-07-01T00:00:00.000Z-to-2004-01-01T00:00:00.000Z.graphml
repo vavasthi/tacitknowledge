@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2175889"/>
+<node id="2178852"/>
+<node id="2269986"/>
+<node id="2270407"/>
+<node id="2189479"/>
+<node id="2269835"/>
+<node id="2269545"/>
+<node id="2191518"/>
+<node id="2269984"/>
+<node id="2270173"/>
+<edge id="2175889-2189479-comp.os.linux.misc" source="2175889" target="2189479">
+	<data key="topic">comp.os.linux.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2269986-2269835-comp.os.linux.misc" source="2269986" target="2269835">
+	<data key="topic">comp.os.linux.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2269986-2269545-comp.os.linux.misc" source="2269986" target="2269545">
+	<data key="topic">comp.os.linux.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2269986-2269984-comp.os.linux.misc" source="2269986" target="2269984">
+	<data key="topic">comp.os.linux.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2270407-2269986-comp.os.linux.misc" source="2270407" target="2269986">
+	<data key="topic">comp.os.linux.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2270407-2269835-comp.os.linux.misc" source="2270407" target="2269835">
+	<data key="topic">comp.os.linux.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2270407-2269545-comp.os.linux.misc" source="2270407" target="2269545">
+	<data key="topic">comp.os.linux.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2270407-2269984-comp.os.linux.misc" source="2270407" target="2269984">
+	<data key="topic">comp.os.linux.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2191518-2189479-comp.os.linux.misc" source="2191518" target="2189479">
+	<data key="topic">comp.os.linux.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2270173-2178852-comp.os.linux.misc" source="2270173" target="2178852">
+	<data key="topic">comp.os.linux.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2270173-2269835-comp.os.linux.misc" source="2270173" target="2269835">
+	<data key="topic">comp.os.linux.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2270173-2269545-comp.os.linux.misc" source="2270173" target="2269545">
+	<data key="topic">comp.os.linux.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2270173-2269984-comp.os.linux.misc" source="2270173" target="2269984">
+	<data key="topic">comp.os.linux.misc</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

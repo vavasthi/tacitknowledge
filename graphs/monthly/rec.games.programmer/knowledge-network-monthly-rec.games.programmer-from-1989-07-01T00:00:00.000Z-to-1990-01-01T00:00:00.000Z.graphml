@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1238498"/>
+<node id="514484"/>
+<node id="509329"/>
+<node id="698750"/>
+<node id="612050"/>
+<node id="701105"/>
+<node id="1859335"/>
+<node id="1004180"/>
+<node id="736470"/>
+<node id="718219"/>
+<node id="867182"/>
+<node id="2540072"/>
+<node id="557580"/>
+<node id="515299"/>
+<node id="12010"/>
+<node id="1169179"/>
+<edge id="514484-515299-rec.games.programmer" source="514484" target="515299">
+	<data key="topic">rec.games.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="514484-1169179-rec.games.programmer" source="514484" target="1169179">
+	<data key="topic">rec.games.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509329-701105-rec.games.programmer" source="509329" target="701105">
+	<data key="topic">rec.games.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="698750-12010-rec.games.programmer" source="698750" target="12010">
+	<data key="topic">rec.games.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="612050-12010-rec.games.programmer" source="612050" target="12010">
+	<data key="topic">rec.games.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1859335-1238498-rec.games.programmer" source="1859335" target="1238498">
+	<data key="topic">rec.games.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1004180-701105-rec.games.programmer" source="1004180" target="701105">
+	<data key="topic">rec.games.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="736470-2540072-rec.games.programmer" source="736470" target="2540072">
+	<data key="topic">rec.games.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="718219-557580-rec.games.programmer" source="718219" target="557580">
+	<data key="topic">rec.games.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="867182-698750-rec.games.programmer" source="867182" target="698750">
+	<data key="topic">rec.games.programmer</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="867182-12010-rec.games.programmer" source="867182" target="12010">
+	<data key="topic">rec.games.programmer</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

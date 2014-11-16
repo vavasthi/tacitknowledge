@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="552825"/>
+<node id="882"/>
+<node id="908205"/>
+<node id="13171"/>
+<node id="7236"/>
+<node id="348333"/>
+<node id="10669"/>
+<node id="363771"/>
+<node id="610695"/>
+<edge id="882-908205-comp.theory.self-org-sys" source="882" target="908205">
+	<data key="topic">comp.theory.self-org-sys</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="882-7236-comp.theory.self-org-sys" source="882" target="7236">
+	<data key="topic">comp.theory.self-org-sys</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="908205-552825-comp.theory.self-org-sys" source="908205" target="552825">
+	<data key="topic">comp.theory.self-org-sys</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="13171-10669-comp.theory.self-org-sys" source="13171" target="10669">
+	<data key="topic">comp.theory.self-org-sys</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7236-908205-comp.theory.self-org-sys" source="7236" target="908205">
+	<data key="topic">comp.theory.self-org-sys</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348333-552825-comp.theory.self-org-sys" source="348333" target="552825">
+	<data key="topic">comp.theory.self-org-sys</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="363771-552825-comp.theory.self-org-sys" source="363771" target="552825">
+	<data key="topic">comp.theory.self-org-sys</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="610695-10669-comp.theory.self-org-sys" source="610695" target="10669">
+	<data key="topic">comp.theory.self-org-sys</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

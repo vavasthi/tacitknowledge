@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="15442"/>
+<node id="459697"/>
+<node id="978682"/>
+<node id="459709"/>
+<node id="682424"/>
+<node id="560361"/>
+<node id="459463"/>
+<node id="459457"/>
+<node id="459567"/>
+<node id="459181"/>
+<node id="1424927"/>
+<node id="460621"/>
+<node id="460843"/>
+<node id="460618"/>
+<node id="337067"/>
+<node id="462505"/>
+<edge id="459697-15442-net.invest" source="459697" target="15442">
+	<data key="topic">net.invest</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459697-459709-net.invest" source="459697" target="459709">
+	<data key="topic">net.invest</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459697-682424-net.invest" source="459697" target="682424">
+	<data key="topic">net.invest</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459463-462505-net.invest" source="459463" target="462505">
+	<data key="topic">net.invest</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459457-459697-net.invest" source="459457" target="459697">
+	<data key="topic">net.invest</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459567-1424927-net.invest" source="459567" target="1424927">
+	<data key="topic">net.invest</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459181-560361-net.invest" source="459181" target="560361">
+	<data key="topic">net.invest</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460621-978682-net.invest" source="460621" target="978682">
+	<data key="topic">net.invest</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="460618-460843-net.invest" source="460618" target="460843">
+	<data key="topic">net.invest</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337067-459709-net.invest" source="337067" target="459709">
+	<data key="topic">net.invest</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

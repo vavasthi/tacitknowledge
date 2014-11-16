@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="113"/>
+<node id="512792"/>
+<node id="521589"/>
+<node id="2875417"/>
+<node id="520891"/>
+<node id="442882"/>
+<node id="521584"/>
+<node id="16106"/>
+<node id="12906"/>
+<node id="28490"/>
+<node id="671431"/>
+<node id="29006"/>
+<node id="28048"/>
+<node id="519657"/>
+<edge id="113-16106-ut.general" source="113" target="16106">
+	<data key="topic">ut.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="113-29006-ut.general" source="113" target="29006">
+	<data key="topic">ut.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="512792-28048-ut.general" source="512792" target="28048">
+	<data key="topic">ut.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521589-16106-ut.general" source="521589" target="16106">
+	<data key="topic">ut.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521589-29006-ut.general" source="521589" target="29006">
+	<data key="topic">ut.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2875417-671431-ut.general" source="2875417" target="671431">
+	<data key="topic">ut.general</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="520891-113-ut.general" source="520891" target="113">
+	<data key="topic">ut.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="520891-16106-ut.general" source="520891" target="16106">
+	<data key="topic">ut.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="520891-29006-ut.general" source="520891" target="29006">
+	<data key="topic">ut.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521584-113-ut.general" source="521584" target="113">
+	<data key="topic">ut.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521584-520891-ut.general" source="521584" target="520891">
+	<data key="topic">ut.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521584-16106-ut.general" source="521584" target="16106">
+	<data key="topic">ut.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521584-29006-ut.general" source="521584" target="29006">
+	<data key="topic">ut.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16106-521584-ut.general" source="16106" target="521584">
+	<data key="topic">ut.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16106-29006-ut.general" source="16106" target="29006">
+	<data key="topic">ut.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12906-512792-ut.general" source="12906" target="512792">
+	<data key="topic">ut.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28490-442882-ut.general" source="28490" target="442882">
+	<data key="topic">ut.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-113-ut.general" source="29006" target="113">
+	<data key="topic">ut.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-521589-ut.general" source="29006" target="521589">
+	<data key="topic">ut.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-520891-ut.general" source="29006" target="520891">
+	<data key="topic">ut.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-521584-ut.general" source="29006" target="521584">
+	<data key="topic">ut.general</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="29006-16106-ut.general" source="29006" target="16106">
+	<data key="topic">ut.general</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="519657-521584-ut.general" source="519657" target="521584">
+	<data key="topic">ut.general</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

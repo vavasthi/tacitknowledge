@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1049377"/>
+<node id="392280"/>
+<node id="668064"/>
+<node id="390420"/>
+<node id="452818"/>
+<node id="924762"/>
+<node id="390675"/>
+<node id="919447"/>
+<node id="2202"/>
+<node id="392033"/>
+<node id="393953"/>
+<node id="927850"/>
+<node id="1131804"/>
+<node id="1131807"/>
+<node id="399351"/>
+<node id="928189"/>
+<node id="469876"/>
+<node id="923834"/>
+<node id="928080"/>
+<node id="928208"/>
+<node id="392653"/>
+<node id="487823"/>
+<node id="337167"/>
+<node id="17805"/>
+<node id="483148"/>
+<node id="29006"/>
+<node id="923841"/>
+<edge id="1049377-1131804-misc.consumers" source="1049377" target="1131804">
+	<data key="topic">misc.consumers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392280-452818-misc.consumers" source="392280" target="452818">
+	<data key="topic">misc.consumers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392280-923834-misc.consumers" source="392280" target="923834">
+	<data key="topic">misc.consumers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="668064-392280-misc.consumers" source="668064" target="392280">
+	<data key="topic">misc.consumers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="668064-452818-misc.consumers" source="668064" target="452818">
+	<data key="topic">misc.consumers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="668064-923834-misc.consumers" source="668064" target="923834">
+	<data key="topic">misc.consumers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="452818-923834-misc.consumers" source="452818" target="923834">
+	<data key="topic">misc.consumers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="924762-390675-misc.consumers" source="924762" target="390675">
+	<data key="topic">misc.consumers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919447-392280-misc.consumers" source="919447" target="392280">
+	<data key="topic">misc.consumers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2202-392280-misc.consumers" source="2202" target="392280">
+	<data key="topic">misc.consumers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2202-452818-misc.consumers" source="2202" target="452818">
+	<data key="topic">misc.consumers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2202-923834-misc.consumers" source="2202" target="923834">
+	<data key="topic">misc.consumers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392033-927850-misc.consumers" source="392033" target="927850">
+	<data key="topic">misc.consumers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="393953-390420-misc.consumers" source="393953" target="390420">
+	<data key="topic">misc.consumers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="399351-392280-misc.consumers" source="399351" target="392280">
+	<data key="topic">misc.consumers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="399351-452818-misc.consumers" source="399351" target="452818">
+	<data key="topic">misc.consumers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="399351-923834-misc.consumers" source="399351" target="923834">
+	<data key="topic">misc.consumers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="928080-487823-misc.consumers" source="928080" target="487823">
+	<data key="topic">misc.consumers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="928208-392280-misc.consumers" source="928208" target="392280">
+	<data key="topic">misc.consumers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="928208-452818-misc.consumers" source="928208" target="452818">
+	<data key="topic">misc.consumers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="928208-399351-misc.consumers" source="928208" target="399351">
+	<data key="topic">misc.consumers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="928208-923834-misc.consumers" source="928208" target="923834">
+	<data key="topic">misc.consumers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392653-392280-misc.consumers" source="392653" target="392280">
+	<data key="topic">misc.consumers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392653-452818-misc.consumers" source="392653" target="452818">
+	<data key="topic">misc.consumers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392653-923834-misc.consumers" source="392653" target="923834">
+	<data key="topic">misc.consumers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337167-928189-misc.consumers" source="337167" target="928189">
+	<data key="topic">misc.consumers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337167-469876-misc.consumers" source="337167" target="469876">
+	<data key="topic">misc.consumers</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="337167-923834-misc.consumers" source="337167" target="923834">
+	<data key="topic">misc.consumers</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="17805-928189-misc.consumers" source="17805" target="928189">
+	<data key="topic">misc.consumers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17805-469876-misc.consumers" source="17805" target="469876">
+	<data key="topic">misc.consumers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17805-923834-misc.consumers" source="17805" target="923834">
+	<data key="topic">misc.consumers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="483148-392280-misc.consumers" source="483148" target="392280">
+	<data key="topic">misc.consumers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="483148-668064-misc.consumers" source="483148" target="668064">
+	<data key="topic">misc.consumers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="483148-452818-misc.consumers" source="483148" target="452818">
+	<data key="topic">misc.consumers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="483148-923834-misc.consumers" source="483148" target="923834">
+	<data key="topic">misc.consumers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29006-1131807-misc.consumers" source="29006" target="1131807">
+	<data key="topic">misc.consumers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="923841-923834-misc.consumers" source="923841" target="923834">
+	<data key="topic">misc.consumers</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="21794"/>
+<node id="22546"/>
+<node id="2031062"/>
+<node id="535878"/>
+<node id="7247"/>
+<node id="427146"/>
+<edge id="21794-535878-sci.math.symbolic" source="21794" target="535878">
+	<data key="topic">sci.math.symbolic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="22546-21794-sci.math.symbolic" source="22546" target="21794">
+	<data key="topic">sci.math.symbolic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="22546-535878-sci.math.symbolic" source="22546" target="535878">
+	<data key="topic">sci.math.symbolic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2031062-535878-sci.math.symbolic" source="2031062" target="535878">
+	<data key="topic">sci.math.symbolic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="535878-21794-sci.math.symbolic" source="535878" target="21794">
+	<data key="topic">sci.math.symbolic</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="427146-7247-sci.math.symbolic" source="427146" target="7247">
+	<data key="topic">sci.math.symbolic</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

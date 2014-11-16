@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="26833"/>
+<node id="4433"/>
+<node id="834911"/>
+<node id="907994"/>
+<node id="375252"/>
+<node id="834908"/>
+<node id="834901"/>
+<node id="643921"/>
+<node id="781395"/>
+<node id="363744"/>
+<node id="834904"/>
+<node id="1117"/>
+<node id="734871"/>
+<node id="10654"/>
+<node id="1193"/>
+<node id="787966"/>
+<node id="11827"/>
+<node id="834815"/>
+<node id="11523"/>
+<node id="10115"/>
+<node id="436550"/>
+<node id="1029"/>
+<node id="557198"/>
+<node id="907849"/>
+<node id="12304"/>
+<node id="374283"/>
+<edge id="834911-834904-comp.sys.cdc" source="834911" target="834904">
+	<data key="topic">comp.sys.cdc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="834901-375252-comp.sys.cdc" source="834901" target="375252">
+	<data key="topic">comp.sys.cdc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="834901-557198-comp.sys.cdc" source="834901" target="557198">
+	<data key="topic">comp.sys.cdc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="643921-26833-comp.sys.cdc" source="643921" target="26833">
+	<data key="topic">comp.sys.cdc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="781395-4433-comp.sys.cdc" source="781395" target="4433">
+	<data key="topic">comp.sys.cdc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="781395-1117-comp.sys.cdc" source="781395" target="1117">
+	<data key="topic">comp.sys.cdc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="781395-1193-comp.sys.cdc" source="781395" target="1193">
+	<data key="topic">comp.sys.cdc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="781395-1029-comp.sys.cdc" source="781395" target="1029">
+	<data key="topic">comp.sys.cdc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="363744-10115-comp.sys.cdc" source="363744" target="10115">
+	<data key="topic">comp.sys.cdc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="734871-10654-comp.sys.cdc" source="734871" target="10654">
+	<data key="topic">comp.sys.cdc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="734871-834815-comp.sys.cdc" source="734871" target="834815">
+	<data key="topic">comp.sys.cdc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="734871-436550-comp.sys.cdc" source="734871" target="436550">
+	<data key="topic">comp.sys.cdc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11827-787966-comp.sys.cdc" source="11827" target="787966">
+	<data key="topic">comp.sys.cdc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11523-375252-comp.sys.cdc" source="11523" target="375252">
+	<data key="topic">comp.sys.cdc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11523-834908-comp.sys.cdc" source="11523" target="834908">
+	<data key="topic">comp.sys.cdc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="436550-734871-comp.sys.cdc" source="436550" target="734871">
+	<data key="topic">comp.sys.cdc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="436550-834815-comp.sys.cdc" source="436550" target="834815">
+	<data key="topic">comp.sys.cdc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="436550-374283-comp.sys.cdc" source="436550" target="374283">
+	<data key="topic">comp.sys.cdc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="557198-375252-comp.sys.cdc" source="557198" target="375252">
+	<data key="topic">comp.sys.cdc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="907849-907994-comp.sys.cdc" source="907849" target="907994">
+	<data key="topic">comp.sys.cdc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12304-834901-comp.sys.cdc" source="12304" target="834901">
+	<data key="topic">comp.sys.cdc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12304-557198-comp.sys.cdc" source="12304" target="557198">
+	<data key="topic">comp.sys.cdc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="374283-734871-comp.sys.cdc" source="374283" target="734871">
+	<data key="topic">comp.sys.cdc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="374283-834815-comp.sys.cdc" source="374283" target="834815">
+	<data key="topic">comp.sys.cdc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="374283-436550-comp.sys.cdc" source="374283" target="436550">
+	<data key="topic">comp.sys.cdc</data>
+	<data key="weight">3</data>
+</edge>
+</graph>
+</graphml>

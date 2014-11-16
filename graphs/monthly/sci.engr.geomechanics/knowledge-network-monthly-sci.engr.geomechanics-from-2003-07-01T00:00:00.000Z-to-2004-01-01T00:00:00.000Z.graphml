@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="41425"/>
+<node id="38465"/>
+<node id="37019"/>
+<node id="37227"/>
+<node id="315529"/>
+<node id="324507"/>
+<node id="180701"/>
+<node id="194126"/>
+<edge id="38465-41425-sci.engr.geomechanics" source="38465" target="41425">
+	<data key="topic">sci.engr.geomechanics</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="38465-37227-sci.engr.geomechanics" source="38465" target="37227">
+	<data key="topic">sci.engr.geomechanics</data>
+	<data key="weight">6</data>
+</edge>
+<edge id="38465-315529-sci.engr.geomechanics" source="38465" target="315529">
+	<data key="topic">sci.engr.geomechanics</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="38465-324507-sci.engr.geomechanics" source="38465" target="324507">
+	<data key="topic">sci.engr.geomechanics</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="38465-180701-sci.engr.geomechanics" source="38465" target="180701">
+	<data key="topic">sci.engr.geomechanics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="38465-194126-sci.engr.geomechanics" source="38465" target="194126">
+	<data key="topic">sci.engr.geomechanics</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="37019-41425-sci.engr.geomechanics" source="37019" target="41425">
+	<data key="topic">sci.engr.geomechanics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37019-38465-sci.engr.geomechanics" source="37019" target="38465">
+	<data key="topic">sci.engr.geomechanics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37019-37227-sci.engr.geomechanics" source="37019" target="37227">
+	<data key="topic">sci.engr.geomechanics</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="37019-315529-sci.engr.geomechanics" source="37019" target="315529">
+	<data key="topic">sci.engr.geomechanics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37019-324507-sci.engr.geomechanics" source="37019" target="324507">
+	<data key="topic">sci.engr.geomechanics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="37019-194126-sci.engr.geomechanics" source="37019" target="194126">
+	<data key="topic">sci.engr.geomechanics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="180701-41425-sci.engr.geomechanics" source="180701" target="41425">
+	<data key="topic">sci.engr.geomechanics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="180701-38465-sci.engr.geomechanics" source="180701" target="38465">
+	<data key="topic">sci.engr.geomechanics</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="180701-37227-sci.engr.geomechanics" source="180701" target="37227">
+	<data key="topic">sci.engr.geomechanics</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="180701-315529-sci.engr.geomechanics" source="180701" target="315529">
+	<data key="topic">sci.engr.geomechanics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="180701-324507-sci.engr.geomechanics" source="180701" target="324507">
+	<data key="topic">sci.engr.geomechanics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="180701-194126-sci.engr.geomechanics" source="180701" target="194126">
+	<data key="topic">sci.engr.geomechanics</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

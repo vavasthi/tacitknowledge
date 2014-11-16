@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="549497"/>
+<node id="15508"/>
+<node id="374"/>
+<node id="546483"/>
+<node id="447419"/>
+<node id="28445"/>
+<node id="432572"/>
+<node id="18463"/>
+<node id="3234"/>
+<node id="514821"/>
+<node id="549516"/>
+<node id="2118"/>
+<node id="2217"/>
+<node id="613090"/>
+<node id="347915"/>
+<node id="1287389"/>
+<node id="911331"/>
+<edge id="549497-514821-sci.math.num-analysis" source="549497" target="514821">
+	<data key="topic">sci.math.num-analysis</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15508-514821-sci.math.num-analysis" source="15508" target="514821">
+	<data key="topic">sci.math.num-analysis</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="374-546483-sci.math.num-analysis" source="374" target="546483">
+	<data key="topic">sci.math.num-analysis</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="432572-15508-sci.math.num-analysis" source="432572" target="15508">
+	<data key="topic">sci.math.num-analysis</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3234-2217-sci.math.num-analysis" source="3234" target="2217">
+	<data key="topic">sci.math.num-analysis</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="549516-514821-sci.math.num-analysis" source="549516" target="514821">
+	<data key="topic">sci.math.num-analysis</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2118-447419-sci.math.num-analysis" source="2118" target="447419">
+	<data key="topic">sci.math.num-analysis</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="613090-1287389-sci.math.num-analysis" source="613090" target="1287389">
+	<data key="topic">sci.math.num-analysis</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347915-18463-sci.math.num-analysis" source="347915" target="18463">
+	<data key="topic">sci.math.num-analysis</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="911331-374-sci.math.num-analysis" source="911331" target="374">
+	<data key="topic">sci.math.num-analysis</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="911331-28445-sci.math.num-analysis" source="911331" target="28445">
+	<data key="topic">sci.math.num-analysis</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

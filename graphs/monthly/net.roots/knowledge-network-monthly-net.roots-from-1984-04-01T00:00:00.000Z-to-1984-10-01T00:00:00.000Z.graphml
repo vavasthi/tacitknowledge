@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="340152"/>
+<node id="522278"/>
+<node id="465925"/>
+<node id="521877"/>
+<node id="341697"/>
+<node id="526001"/>
+<node id="623732"/>
+<node id="459817"/>
+<edge id="340152-526001-net.roots" source="340152" target="526001">
+	<data key="topic">net.roots</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522278-526001-net.roots" source="522278" target="526001">
+	<data key="topic">net.roots</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522278-623732-net.roots" source="522278" target="623732">
+	<data key="topic">net.roots</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522278-459817-net.roots" source="522278" target="459817">
+	<data key="topic">net.roots</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="465925-526001-net.roots" source="465925" target="526001">
+	<data key="topic">net.roots</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="465925-623732-net.roots" source="465925" target="623732">
+	<data key="topic">net.roots</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="465925-459817-net.roots" source="465925" target="459817">
+	<data key="topic">net.roots</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521877-522278-net.roots" source="521877" target="522278">
+	<data key="topic">net.roots</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521877-526001-net.roots" source="521877" target="526001">
+	<data key="topic">net.roots</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521877-623732-net.roots" source="521877" target="623732">
+	<data key="topic">net.roots</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521877-459817-net.roots" source="521877" target="459817">
+	<data key="topic">net.roots</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341697-623732-net.roots" source="341697" target="623732">
+	<data key="topic">net.roots</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="526001-623732-net.roots" source="526001" target="623732">
+	<data key="topic">net.roots</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="526001-459817-net.roots" source="526001" target="459817">
+	<data key="topic">net.roots</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459817-623732-net.roots" source="459817" target="623732">
+	<data key="topic">net.roots</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="23331"/>
+<node id="447254"/>
+<node id="12389"/>
+<node id="512163"/>
+<node id="21974"/>
+<node id="20374"/>
+<node id="26390"/>
+<node id="361892"/>
+<node id="17805"/>
+<node id="20110"/>
+<node id="20895"/>
+<node id="429961"/>
+<edge id="447254-12389-comp.bugs.2bsd" source="447254" target="12389">
+	<data key="topic">comp.bugs.2bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="512163-23331-comp.bugs.2bsd" source="512163" target="23331">
+	<data key="topic">comp.bugs.2bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="512163-26390-comp.bugs.2bsd" source="512163" target="26390">
+	<data key="topic">comp.bugs.2bsd</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="512163-20110-comp.bugs.2bsd" source="512163" target="20110">
+	<data key="topic">comp.bugs.2bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="512163-20895-comp.bugs.2bsd" source="512163" target="20895">
+	<data key="topic">comp.bugs.2bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="21974-512163-comp.bugs.2bsd" source="21974" target="512163">
+	<data key="topic">comp.bugs.2bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="21974-20895-comp.bugs.2bsd" source="21974" target="20895">
+	<data key="topic">comp.bugs.2bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20374-26390-comp.bugs.2bsd" source="20374" target="26390">
+	<data key="topic">comp.bugs.2bsd</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="20374-361892-comp.bugs.2bsd" source="20374" target="361892">
+	<data key="topic">comp.bugs.2bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17805-512163-comp.bugs.2bsd" source="17805" target="512163">
+	<data key="topic">comp.bugs.2bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17805-21974-comp.bugs.2bsd" source="17805" target="21974">
+	<data key="topic">comp.bugs.2bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17805-20895-comp.bugs.2bsd" source="17805" target="20895">
+	<data key="topic">comp.bugs.2bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20110-23331-comp.bugs.2bsd" source="20110" target="23331">
+	<data key="topic">comp.bugs.2bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="429961-23331-comp.bugs.2bsd" source="429961" target="23331">
+	<data key="topic">comp.bugs.2bsd</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="429961-20110-comp.bugs.2bsd" source="429961" target="20110">
+	<data key="topic">comp.bugs.2bsd</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

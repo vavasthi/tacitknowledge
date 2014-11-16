@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1197061"/>
+<node id="25271"/>
+<node id="20282"/>
+<node id="546934"/>
+<node id="518139"/>
+<node id="511642"/>
+<node id="36387"/>
+<node id="546795"/>
+<node id="1217879"/>
+<node id="18984"/>
+<node id="965475"/>
+<node id="16173"/>
+<node id="511915"/>
+<node id="28719"/>
+<edge id="511642-511915-alt.fax" source="511642" target="511915">
+	<data key="topic">alt.fax</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18984-1217879-alt.fax" source="18984" target="1217879">
+	<data key="topic">alt.fax</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18984-965475-alt.fax" source="18984" target="965475">
+	<data key="topic">alt.fax</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="965475-1217879-alt.fax" source="965475" target="1217879">
+	<data key="topic">alt.fax</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="511915-1197061-alt.fax" source="511915" target="1197061">
+	<data key="topic">alt.fax</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="511915-25271-alt.fax" source="511915" target="25271">
+	<data key="topic">alt.fax</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="511915-20282-alt.fax" source="511915" target="20282">
+	<data key="topic">alt.fax</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="511915-546934-alt.fax" source="511915" target="546934">
+	<data key="topic">alt.fax</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="511915-518139-alt.fax" source="511915" target="518139">
+	<data key="topic">alt.fax</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="511915-36387-alt.fax" source="511915" target="36387">
+	<data key="topic">alt.fax</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="511915-546795-alt.fax" source="511915" target="546795">
+	<data key="topic">alt.fax</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="511915-16173-alt.fax" source="511915" target="16173">
+	<data key="topic">alt.fax</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="511915-28719-alt.fax" source="511915" target="28719">
+	<data key="topic">alt.fax</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="28719-511915-alt.fax" source="28719" target="511915">
+	<data key="topic">alt.fax</data>
+	<data key="weight">2</data>
+</edge>
+</graph>
+</graphml>

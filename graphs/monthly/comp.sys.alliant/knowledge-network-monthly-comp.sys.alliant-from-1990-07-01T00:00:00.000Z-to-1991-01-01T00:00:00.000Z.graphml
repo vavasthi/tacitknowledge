@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="783195"/>
+<node id="3027"/>
+<node id="31252"/>
+<node id="1458883"/>
+<node id="857884"/>
+<node id="434079"/>
+<node id="672243"/>
+<node id="857877"/>
+<node id="887607"/>
+<node id="2560925"/>
+<node id="960"/>
+<node id="483289"/>
+<node id="3712"/>
+<node id="1082161"/>
+<node id="2150"/>
+<node id="362767"/>
+<node id="585925"/>
+<edge id="783195-3027-comp.sys.alliant" source="783195" target="3027">
+	<data key="topic">comp.sys.alliant</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="783195-585925-comp.sys.alliant" source="783195" target="585925">
+	<data key="topic">comp.sys.alliant</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3027-585925-comp.sys.alliant" source="3027" target="585925">
+	<data key="topic">comp.sys.alliant</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="31252-672243-comp.sys.alliant" source="31252" target="672243">
+	<data key="topic">comp.sys.alliant</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1458883-783195-comp.sys.alliant" source="1458883" target="783195">
+	<data key="topic">comp.sys.alliant</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1458883-3027-comp.sys.alliant" source="1458883" target="3027">
+	<data key="topic">comp.sys.alliant</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1458883-3712-comp.sys.alliant" source="1458883" target="3712">
+	<data key="topic">comp.sys.alliant</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="434079-3027-comp.sys.alliant" source="434079" target="3027">
+	<data key="topic">comp.sys.alliant</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="857877-857884-comp.sys.alliant" source="857877" target="857884">
+	<data key="topic">comp.sys.alliant</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="887607-3027-comp.sys.alliant" source="887607" target="3027">
+	<data key="topic">comp.sys.alliant</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="887607-434079-comp.sys.alliant" source="887607" target="434079">
+	<data key="topic">comp.sys.alliant</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2560925-362767-comp.sys.alliant" source="2560925" target="362767">
+	<data key="topic">comp.sys.alliant</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="960-3027-comp.sys.alliant" source="960" target="3027">
+	<data key="topic">comp.sys.alliant</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="960-362767-comp.sys.alliant" source="960" target="362767">
+	<data key="topic">comp.sys.alliant</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="960-585925-comp.sys.alliant" source="960" target="585925">
+	<data key="topic">comp.sys.alliant</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="483289-672243-comp.sys.alliant" source="483289" target="672243">
+	<data key="topic">comp.sys.alliant</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2150-3027-comp.sys.alliant" source="2150" target="3027">
+	<data key="topic">comp.sys.alliant</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2150-434079-comp.sys.alliant" source="2150" target="434079">
+	<data key="topic">comp.sys.alliant</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="362767-3027-comp.sys.alliant" source="362767" target="3027">
+	<data key="topic">comp.sys.alliant</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="362767-585925-comp.sys.alliant" source="362767" target="585925">
+	<data key="topic">comp.sys.alliant</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="585925-783195-comp.sys.alliant" source="585925" target="783195">
+	<data key="topic">comp.sys.alliant</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="585925-3027-comp.sys.alliant" source="585925" target="3027">
+	<data key="topic">comp.sys.alliant</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="585925-3712-comp.sys.alliant" source="585925" target="3712">
+	<data key="topic">comp.sys.alliant</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="585925-1082161-comp.sys.alliant" source="585925" target="1082161">
+	<data key="topic">comp.sys.alliant</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

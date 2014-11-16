@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2179698"/>
+<node id="2193076"/>
+<node id="2316337"/>
+<node id="2295612"/>
+<node id="2189625"/>
+<node id="2318394"/>
+<node id="2178305"/>
+<node id="2176135"/>
+<node id="2292107"/>
+<node id="2176585"/>
+<node id="2295498"/>
+<node id="2294601"/>
+<node id="2294607"/>
+<node id="2183888"/>
+<node id="2317710"/>
+<node id="2175825"/>
+<node id="2325841"/>
+<node id="2299928"/>
+<node id="2241051"/>
+<node id="2292507"/>
+<node id="2178012"/>
+<node id="2292512"/>
+<node id="2276509"/>
+<node id="2294301"/>
+<node id="325125"/>
+<node id="323527"/>
+<node id="2211876"/>
+<node id="2180581"/>
+<node id="2195303"/>
+<node id="2303658"/>
+<node id="2276010"/>
+<node id="205712"/>
+<edge id="2179698-325125-comp.lang.c.moderated" source="2179698" target="325125">
+	<data key="topic">comp.lang.c.moderated</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2193076-325125-comp.lang.c.moderated" source="2193076" target="325125">
+	<data key="topic">comp.lang.c.moderated</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2316337-2318394-comp.lang.c.moderated" source="2316337" target="2318394">
+	<data key="topic">comp.lang.c.moderated</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2316337-2276509-comp.lang.c.moderated" source="2316337" target="2276509">
+	<data key="topic">comp.lang.c.moderated</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2295612-2325841-comp.lang.c.moderated" source="2295612" target="2325841">
+	<data key="topic">comp.lang.c.moderated</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2189625-2295498-comp.lang.c.moderated" source="2189625" target="2295498">
+	<data key="topic">comp.lang.c.moderated</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2189625-325125-comp.lang.c.moderated" source="2189625" target="325125">
+	<data key="topic">comp.lang.c.moderated</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2176135-2318394-comp.lang.c.moderated" source="2176135" target="2318394">
+	<data key="topic">comp.lang.c.moderated</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2294601-2292512-comp.lang.c.moderated" source="2294601" target="2292512">
+	<data key="topic">comp.lang.c.moderated</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2294607-2178305-comp.lang.c.moderated" source="2294607" target="2178305">
+	<data key="topic">comp.lang.c.moderated</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2183888-2292512-comp.lang.c.moderated" source="2183888" target="2292512">
+	<data key="topic">comp.lang.c.moderated</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2317710-2318394-comp.lang.c.moderated" source="2317710" target="2318394">
+	<data key="topic">comp.lang.c.moderated</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2175825-2318394-comp.lang.c.moderated" source="2175825" target="2318394">
+	<data key="topic">comp.lang.c.moderated</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2175825-325125-comp.lang.c.moderated" source="2175825" target="325125">
+	<data key="topic">comp.lang.c.moderated</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2241051-325125-comp.lang.c.moderated" source="2241051" target="325125">
+	<data key="topic">comp.lang.c.moderated</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2292507-2292107-comp.lang.c.moderated" source="2292507" target="2292107">
+	<data key="topic">comp.lang.c.moderated</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2178012-2318394-comp.lang.c.moderated" source="2178012" target="2318394">
+	<data key="topic">comp.lang.c.moderated</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2276509-2316337-comp.lang.c.moderated" source="2276509" target="2316337">
+	<data key="topic">comp.lang.c.moderated</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2276509-2318394-comp.lang.c.moderated" source="2276509" target="2318394">
+	<data key="topic">comp.lang.c.moderated</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2294301-325125-comp.lang.c.moderated" source="2294301" target="325125">
+	<data key="topic">comp.lang.c.moderated</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="323527-2292107-comp.lang.c.moderated" source="323527" target="2292107">
+	<data key="topic">comp.lang.c.moderated</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="323527-2176585-comp.lang.c.moderated" source="323527" target="2176585">
+	<data key="topic">comp.lang.c.moderated</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="323527-2299928-comp.lang.c.moderated" source="323527" target="2299928">
+	<data key="topic">comp.lang.c.moderated</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2211876-2316337-comp.lang.c.moderated" source="2211876" target="2316337">
+	<data key="topic">comp.lang.c.moderated</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2211876-2318394-comp.lang.c.moderated" source="2211876" target="2318394">
+	<data key="topic">comp.lang.c.moderated</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2211876-2276509-comp.lang.c.moderated" source="2211876" target="2276509">
+	<data key="topic">comp.lang.c.moderated</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2180581-325125-comp.lang.c.moderated" source="2180581" target="325125">
+	<data key="topic">comp.lang.c.moderated</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2195303-2292107-comp.lang.c.moderated" source="2195303" target="2292107">
+	<data key="topic">comp.lang.c.moderated</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2303658-2318394-comp.lang.c.moderated" source="2303658" target="2318394">
+	<data key="topic">comp.lang.c.moderated</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2276010-2318394-comp.lang.c.moderated" source="2276010" target="2318394">
+	<data key="topic">comp.lang.c.moderated</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="205712-325125-comp.lang.c.moderated" source="205712" target="325125">
+	<data key="topic">comp.lang.c.moderated</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

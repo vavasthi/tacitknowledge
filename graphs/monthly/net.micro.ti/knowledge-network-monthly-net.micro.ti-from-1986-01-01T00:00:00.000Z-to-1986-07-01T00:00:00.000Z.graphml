@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1512968"/>
+<node id="19730"/>
+<node id="1576522"/>
+<node id="1694348"/>
+<node id="3092"/>
+<node id="448214"/>
+<node id="471028"/>
+<node id="485329"/>
+<node id="464253"/>
+<node id="1697829"/>
+<node id="1697831"/>
+<node id="395112"/>
+<node id="2669005"/>
+<node id="1329041"/>
+<node id="486849"/>
+<node id="28424"/>
+<node id="488816"/>
+<node id="1364478"/>
+<node id="921923"/>
+<node id="337577"/>
+<node id="395273"/>
+<edge id="1512968-1697829-net.micro.ti" source="1512968" target="1697829">
+	<data key="topic">net.micro.ti</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19730-1697829-net.micro.ti" source="19730" target="1697829">
+	<data key="topic">net.micro.ti</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1576522-464253-net.micro.ti" source="1576522" target="464253">
+	<data key="topic">net.micro.ti</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1694348-1697831-net.micro.ti" source="1694348" target="1697831">
+	<data key="topic">net.micro.ti</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3092-448214-net.micro.ti" source="3092" target="448214">
+	<data key="topic">net.micro.ti</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3092-1697831-net.micro.ti" source="3092" target="1697831">
+	<data key="topic">net.micro.ti</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3092-486849-net.micro.ti" source="3092" target="486849">
+	<data key="topic">net.micro.ti</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="448214-1697831-net.micro.ti" source="448214" target="1697831">
+	<data key="topic">net.micro.ti</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="448214-486849-net.micro.ti" source="448214" target="486849">
+	<data key="topic">net.micro.ti</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="471028-448214-net.micro.ti" source="471028" target="448214">
+	<data key="topic">net.micro.ti</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="485329-448214-net.micro.ti" source="485329" target="448214">
+	<data key="topic">net.micro.ti</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="485329-1697831-net.micro.ti" source="485329" target="1697831">
+	<data key="topic">net.micro.ti</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="485329-486849-net.micro.ti" source="485329" target="486849">
+	<data key="topic">net.micro.ti</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1697831-448214-net.micro.ti" source="1697831" target="448214">
+	<data key="topic">net.micro.ti</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1697831-486849-net.micro.ti" source="1697831" target="486849">
+	<data key="topic">net.micro.ti</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="395112-1697831-net.micro.ti" source="395112" target="1697831">
+	<data key="topic">net.micro.ti</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="395112-486849-net.micro.ti" source="395112" target="486849">
+	<data key="topic">net.micro.ti</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1329041-19730-net.micro.ti" source="1329041" target="19730">
+	<data key="topic">net.micro.ti</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1329041-1697829-net.micro.ti" source="1329041" target="1697829">
+	<data key="topic">net.micro.ti</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="486849-448214-net.micro.ti" source="486849" target="448214">
+	<data key="topic">net.micro.ti</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="486849-1697831-net.micro.ti" source="486849" target="1697831">
+	<data key="topic">net.micro.ti</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="486849-395112-net.micro.ti" source="486849" target="395112">
+	<data key="topic">net.micro.ti</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28424-1697831-net.micro.ti" source="28424" target="1697831">
+	<data key="topic">net.micro.ti</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="28424-395273-net.micro.ti" source="28424" target="395273">
+	<data key="topic">net.micro.ti</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="488816-1697831-net.micro.ti" source="488816" target="1697831">
+	<data key="topic">net.micro.ti</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="488816-2669005-net.micro.ti" source="488816" target="2669005">
+	<data key="topic">net.micro.ti</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="488816-1364478-net.micro.ti" source="488816" target="1364478">
+	<data key="topic">net.micro.ti</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="921923-1512968-net.micro.ti" source="921923" target="1512968">
+	<data key="topic">net.micro.ti</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="921923-1697829-net.micro.ti" source="921923" target="1697829">
+	<data key="topic">net.micro.ti</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337577-448214-net.micro.ti" source="337577" target="448214">
+	<data key="topic">net.micro.ti</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337577-1697831-net.micro.ti" source="337577" target="1697831">
+	<data key="topic">net.micro.ti</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="337577-486849-net.micro.ti" source="337577" target="486849">
+	<data key="topic">net.micro.ti</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="395273-1697831-net.micro.ti" source="395273" target="1697831">
+	<data key="topic">net.micro.ti</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

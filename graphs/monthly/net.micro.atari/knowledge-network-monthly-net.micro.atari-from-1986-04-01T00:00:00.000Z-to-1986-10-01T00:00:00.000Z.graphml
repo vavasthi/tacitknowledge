@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="394358"/>
+<node id="1578339"/>
+<node id="394526"/>
+<node id="489181"/>
+<node id="1092765"/>
+<node id="459323"/>
+<node id="2732552"/>
+<edge id="394358-1092765-net.micro.atari" source="394358" target="1092765">
+	<data key="topic">net.micro.atari</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="394358-459323-net.micro.atari" source="394358" target="459323">
+	<data key="topic">net.micro.atari</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="394526-394358-net.micro.atari" source="394526" target="394358">
+	<data key="topic">net.micro.atari</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="489181-2732552-net.micro.atari" source="489181" target="2732552">
+	<data key="topic">net.micro.atari</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459323-1578339-net.micro.atari" source="459323" target="1578339">
+	<data key="topic">net.micro.atari</data>
+	<data key="weight">2</data>
+</edge>
+</graph>
+</graphml>

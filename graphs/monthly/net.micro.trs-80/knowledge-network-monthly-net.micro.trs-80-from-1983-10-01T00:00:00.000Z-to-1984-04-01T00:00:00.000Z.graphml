@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2635865"/>
+<node id="565049"/>
+<node id="460916"/>
+<node id="522404"/>
+<node id="19718"/>
+<node id="681728"/>
+<node id="561215"/>
+<node id="561938"/>
+<node id="562626"/>
+<node id="339280"/>
+<node id="522329"/>
+<edge id="522404-522329-net.micro.trs-80" source="522404" target="522329">
+	<data key="topic">net.micro.trs-80</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="19718-2635865-net.micro.trs-80" source="19718" target="2635865">
+	<data key="topic">net.micro.trs-80</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="561215-522404-net.micro.trs-80" source="561215" target="522404">
+	<data key="topic">net.micro.trs-80</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="561938-681728-net.micro.trs-80" source="561938" target="681728">
+	<data key="topic">net.micro.trs-80</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="562626-565049-net.micro.trs-80" source="562626" target="565049">
+	<data key="topic">net.micro.trs-80</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339280-460916-net.micro.trs-80" source="339280" target="460916">
+	<data key="topic">net.micro.trs-80</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339280-522404-net.micro.trs-80" source="339280" target="522404">
+	<data key="topic">net.micro.trs-80</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

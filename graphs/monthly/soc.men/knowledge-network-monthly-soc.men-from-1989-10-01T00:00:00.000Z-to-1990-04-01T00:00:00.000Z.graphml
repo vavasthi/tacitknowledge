@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1010784"/>
+<node id="1011037"/>
+<node id="1010652"/>
+<node id="1010905"/>
+<node id="551475"/>
+<node id="375227"/>
+<node id="549674"/>
+<node id="8390"/>
+<node id="20392"/>
+<node id="875714"/>
+<node id="707365"/>
+<node id="712901"/>
+<node id="427146"/>
+<node id="713062"/>
+<node id="875907"/>
+<edge id="1010784-1011037-soc.men" source="1010784" target="1011037">
+	<data key="topic">soc.men</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1010784-1010905-soc.men" source="1010784" target="1010905">
+	<data key="topic">soc.men</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1010652-712901-soc.men" source="1010652" target="712901">
+	<data key="topic">soc.men</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1010652-427146-soc.men" source="1010652" target="427146">
+	<data key="topic">soc.men</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1010905-1010784-soc.men" source="1010905" target="1010784">
+	<data key="topic">soc.men</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="375227-551475-soc.men" source="375227" target="551475">
+	<data key="topic">soc.men</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="375227-427146-soc.men" source="375227" target="427146">
+	<data key="topic">soc.men</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20392-875714-soc.men" source="20392" target="875714">
+	<data key="topic">soc.men</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="707365-8390-soc.men" source="707365" target="8390">
+	<data key="topic">soc.men</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="712901-551475-soc.men" source="712901" target="551475">
+	<data key="topic">soc.men</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="712901-427146-soc.men" source="712901" target="427146">
+	<data key="topic">soc.men</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="427146-551475-soc.men" source="427146" target="551475">
+	<data key="topic">soc.men</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="427146-375227-soc.men" source="427146" target="375227">
+	<data key="topic">soc.men</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="713062-1010784-soc.men" source="713062" target="1010784">
+	<data key="topic">soc.men</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="875907-549674-soc.men" source="875907" target="549674">
+	<data key="topic">soc.men</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

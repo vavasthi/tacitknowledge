@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="339190"/>
+<node id="565113"/>
+<node id="772827"/>
+<node id="486707"/>
+<node id="523314"/>
+<node id="521873"/>
+<node id="522304"/>
+<node id="525016"/>
+<node id="521957"/>
+<node id="462019"/>
+<node id="2635011"/>
+<node id="469868"/>
+<node id="392297"/>
+<node id="527718"/>
+<node id="960996"/>
+<node id="960993"/>
+<node id="459977"/>
+<edge id="339190-521957-net.general" source="339190" target="521957">
+	<data key="topic">net.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339190-2635011-net.general" source="339190" target="2635011">
+	<data key="topic">net.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339190-392297-net.general" source="339190" target="392297">
+	<data key="topic">net.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="565113-459977-net.general" source="565113" target="459977">
+	<data key="topic">net.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="772827-960996-net.general" source="772827" target="960996">
+	<data key="topic">net.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="772827-960993-net.general" source="772827" target="960993">
+	<data key="topic">net.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="521873-525016-net.general" source="521873" target="525016">
+	<data key="topic">net.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="462019-486707-net.general" source="462019" target="486707">
+	<data key="topic">net.general</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="469868-523314-net.general" source="469868" target="523314">
+	<data key="topic">net.general</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="527718-522304-net.general" source="527718" target="522304">
+	<data key="topic">net.general</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

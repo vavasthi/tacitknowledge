@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="337655"/>
+<node id="464917"/>
+<node id="337265"/>
+<node id="339837"/>
+<node id="606449"/>
+<node id="892789"/>
+<node id="561683"/>
+<node id="466907"/>
+<node id="465818"/>
+<node id="465800"/>
+<node id="341320"/>
+<node id="337570"/>
+<node id="338946"/>
+<node id="341538"/>
+<node id="464098"/>
+<node id="1043048"/>
+<node id="485999"/>
+<node id="337194"/>
+<edge id="337655-464917-net.theater" source="337655" target="464917">
+	<data key="topic">net.theater</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="337655-561683-net.theater" source="337655" target="561683">
+	<data key="topic">net.theater</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337655-337570-net.theater" source="337655" target="337570">
+	<data key="topic">net.theater</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337655-485999-net.theater" source="337655" target="485999">
+	<data key="topic">net.theater</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="464917-485999-net.theater" source="464917" target="485999">
+	<data key="topic">net.theater</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337265-337655-net.theater" source="337265" target="337655">
+	<data key="topic">net.theater</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337265-339837-net.theater" source="337265" target="339837">
+	<data key="topic">net.theater</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337265-485999-net.theater" source="337265" target="485999">
+	<data key="topic">net.theater</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="339837-337655-net.theater" source="339837" target="337655">
+	<data key="topic">net.theater</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339837-485999-net.theater" source="339837" target="485999">
+	<data key="topic">net.theater</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="606449-561683-net.theater" source="606449" target="561683">
+	<data key="topic">net.theater</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="606449-337194-net.theater" source="606449" target="337194">
+	<data key="topic">net.theater</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="892789-606449-net.theater" source="892789" target="606449">
+	<data key="topic">net.theater</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="892789-561683-net.theater" source="892789" target="561683">
+	<data key="topic">net.theater</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="892789-337194-net.theater" source="892789" target="337194">
+	<data key="topic">net.theater</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="466907-561683-net.theater" source="466907" target="561683">
+	<data key="topic">net.theater</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="465818-465800-net.theater" source="465818" target="465800">
+	<data key="topic">net.theater</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337570-337655-net.theater" source="337570" target="337655">
+	<data key="topic">net.theater</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="337570-464917-net.theater" source="337570" target="464917">
+	<data key="topic">net.theater</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="337570-485999-net.theater" source="337570" target="485999">
+	<data key="topic">net.theater</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="338946-337655-net.theater" source="338946" target="337655">
+	<data key="topic">net.theater</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338946-464917-net.theater" source="338946" target="464917">
+	<data key="topic">net.theater</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338946-337265-net.theater" source="338946" target="337265">
+	<data key="topic">net.theater</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338946-339837-net.theater" source="338946" target="339837">
+	<data key="topic">net.theater</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338946-341538-net.theater" source="338946" target="341538">
+	<data key="topic">net.theater</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338946-485999-net.theater" source="338946" target="485999">
+	<data key="topic">net.theater</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="341538-464917-net.theater" source="341538" target="464917">
+	<data key="topic">net.theater</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341538-485999-net.theater" source="341538" target="485999">
+	<data key="topic">net.theater</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="464098-337655-net.theater" source="464098" target="337655">
+	<data key="topic">net.theater</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="464098-485999-net.theater" source="464098" target="485999">
+	<data key="topic">net.theater</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1043048-337655-net.theater" source="1043048" target="337655">
+	<data key="topic">net.theater</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1043048-561683-net.theater" source="1043048" target="561683">
+	<data key="topic">net.theater</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337194-561683-net.theater" source="337194" target="561683">
+	<data key="topic">net.theater</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

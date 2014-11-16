@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="920031"/>
+<node id="493270"/>
+<node id="925592"/>
+<node id="920024"/>
+<node id="920020"/>
+<node id="489754"/>
+<node id="919505"/>
+<node id="485593"/>
+<node id="920018"/>
+<node id="806633"/>
+<node id="1507346"/>
+<node id="927781"/>
+<node id="918693"/>
+<node id="982178"/>
+<node id="633447"/>
+<node id="340402"/>
+<node id="1090693"/>
+<node id="339892"/>
+<node id="338740"/>
+<node id="340539"/>
+<node id="920016"/>
+<node id="920848"/>
+<node id="389571"/>
+<node id="395597"/>
+<node id="449097"/>
+<edge id="920031-489754-net.sources.mac" source="920031" target="489754">
+	<data key="topic">net.sources.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="925592-806633-net.sources.mac" source="925592" target="806633">
+	<data key="topic">net.sources.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="920024-633447-net.sources.mac" source="920024" target="633447">
+	<data key="topic">net.sources.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="920020-340402-net.sources.mac" source="920020" target="340402">
+	<data key="topic">net.sources.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="919505-927781-net.sources.mac" source="919505" target="927781">
+	<data key="topic">net.sources.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="485593-925592-net.sources.mac" source="485593" target="925592">
+	<data key="topic">net.sources.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="920018-925592-net.sources.mac" source="920018" target="925592">
+	<data key="topic">net.sources.mac</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1507346-493270-net.sources.mac" source="1507346" target="493270">
+	<data key="topic">net.sources.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="633447-489754-net.sources.mac" source="633447" target="489754">
+	<data key="topic">net.sources.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1090693-925592-net.sources.mac" source="1090693" target="925592">
+	<data key="topic">net.sources.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339892-982178-net.sources.mac" source="339892" target="982178">
+	<data key="topic">net.sources.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339892-449097-net.sources.mac" source="339892" target="449097">
+	<data key="topic">net.sources.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340539-489754-net.sources.mac" source="340539" target="489754">
+	<data key="topic">net.sources.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="920016-918693-net.sources.mac" source="920016" target="918693">
+	<data key="topic">net.sources.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="920848-395597-net.sources.mac" source="920848" target="395597">
+	<data key="topic">net.sources.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="389571-338740-net.sources.mac" source="389571" target="338740">
+	<data key="topic">net.sources.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="449097-339892-net.sources.mac" source="449097" target="339892">
+	<data key="topic">net.sources.mac</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

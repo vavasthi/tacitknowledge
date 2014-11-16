@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="346375"/>
+<node id="340978"/>
+<node id="623917"/>
+<node id="338493"/>
+<node id="652033"/>
+<node id="522109"/>
+<node id="460154"/>
+<edge id="346375-340978-net.lsi" source="346375" target="340978">
+	<data key="topic">net.lsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="346375-338493-net.lsi" source="346375" target="338493">
+	<data key="topic">net.lsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="346375-652033-net.lsi" source="346375" target="652033">
+	<data key="topic">net.lsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="346375-460154-net.lsi" source="346375" target="460154">
+	<data key="topic">net.lsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340978-338493-net.lsi" source="340978" target="338493">
+	<data key="topic">net.lsi</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="340978-652033-net.lsi" source="340978" target="652033">
+	<data key="topic">net.lsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="340978-460154-net.lsi" source="340978" target="460154">
+	<data key="topic">net.lsi</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522109-623917-net.lsi" source="522109" target="623917">
+	<data key="topic">net.lsi</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

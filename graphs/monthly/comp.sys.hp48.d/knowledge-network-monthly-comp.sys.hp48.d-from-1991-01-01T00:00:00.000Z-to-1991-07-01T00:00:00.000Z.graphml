@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="575453"/>
+<node id="425684"/>
+<node id="353918"/>
+<node id="1032019"/>
+<node id="951442"/>
+<node id="364518"/>
+<node id="6274"/>
+<node id="951440"/>
+<node id="1635451"/>
+<node id="367719"/>
+<node id="1032012"/>
+<node id="364129"/>
+<node id="1032010"/>
+<node id="1032009"/>
+<node id="350381"/>
+<node id="359309"/>
+<node id="1153787"/>
+<node id="367660"/>
+<node id="419562"/>
+<edge id="425684-367719-comp.sys.hp48.d" source="425684" target="367719">
+	<data key="topic">comp.sys.hp48.d</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="425684-359309-comp.sys.hp48.d" source="425684" target="359309">
+	<data key="topic">comp.sys.hp48.d</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="353918-350381-comp.sys.hp48.d" source="353918" target="350381">
+	<data key="topic">comp.sys.hp48.d</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="353918-367660-comp.sys.hp48.d" source="353918" target="367660">
+	<data key="topic">comp.sys.hp48.d</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="951442-951440-comp.sys.hp48.d" source="951442" target="951440">
+	<data key="topic">comp.sys.hp48.d</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="364518-1032019-comp.sys.hp48.d" source="364518" target="1032019">
+	<data key="topic">comp.sys.hp48.d</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="364518-1032009-comp.sys.hp48.d" source="364518" target="1032009">
+	<data key="topic">comp.sys.hp48.d</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="364518-419562-comp.sys.hp48.d" source="364518" target="419562">
+	<data key="topic">comp.sys.hp48.d</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="6274-575453-comp.sys.hp48.d" source="6274" target="575453">
+	<data key="topic">comp.sys.hp48.d</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="951440-1635451-comp.sys.hp48.d" source="951440" target="1635451">
+	<data key="topic">comp.sys.hp48.d</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="951440-419562-comp.sys.hp48.d" source="951440" target="419562">
+	<data key="topic">comp.sys.hp48.d</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="367719-359309-comp.sys.hp48.d" source="367719" target="359309">
+	<data key="topic">comp.sys.hp48.d</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="364129-1032019-comp.sys.hp48.d" source="364129" target="1032019">
+	<data key="topic">comp.sys.hp48.d</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="364129-364518-comp.sys.hp48.d" source="364129" target="364518">
+	<data key="topic">comp.sys.hp48.d</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="364129-1032012-comp.sys.hp48.d" source="364129" target="1032012">
+	<data key="topic">comp.sys.hp48.d</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1032010-359309-comp.sys.hp48.d" source="1032010" target="359309">
+	<data key="topic">comp.sys.hp48.d</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="359309-367719-comp.sys.hp48.d" source="359309" target="367719">
+	<data key="topic">comp.sys.hp48.d</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1153787-359309-comp.sys.hp48.d" source="1153787" target="359309">
+	<data key="topic">comp.sys.hp48.d</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="367660-6274-comp.sys.hp48.d" source="367660" target="6274">
+	<data key="topic">comp.sys.hp48.d</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="419562-1032009-comp.sys.hp48.d" source="419562" target="1032009">
+	<data key="topic">comp.sys.hp48.d</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

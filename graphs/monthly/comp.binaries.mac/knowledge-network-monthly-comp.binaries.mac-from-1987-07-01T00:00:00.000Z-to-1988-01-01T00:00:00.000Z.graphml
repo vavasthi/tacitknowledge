@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="2886781"/>
+<node id="721434"/>
+<node id="395541"/>
+<node id="1014654"/>
+<node id="21685"/>
+<node id="2886777"/>
+<node id="31996"/>
+<node id="446494"/>
+<node id="15361"/>
+<node id="21025"/>
+<node id="21218"/>
+<node id="395720"/>
+<node id="15331"/>
+<node id="15333"/>
+<node id="390211"/>
+<node id="15336"/>
+<node id="452130"/>
+<node id="451631"/>
+<node id="20971"/>
+<node id="21005"/>
+<node id="721447"/>
+<node id="1993426"/>
+<edge id="721434-390211-comp.binaries.mac" source="721434" target="390211">
+	<data key="topic">comp.binaries.mac</data>
+	<data key="weight">7</data>
+</edge>
+<edge id="1014654-390211-comp.binaries.mac" source="1014654" target="390211">
+	<data key="topic">comp.binaries.mac</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="21218-390211-comp.binaries.mac" source="21218" target="390211">
+	<data key="topic">comp.binaries.mac</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="15331-390211-comp.binaries.mac" source="15331" target="390211">
+	<data key="topic">comp.binaries.mac</data>
+	<data key="weight">23</data>
+</edge>
+<edge id="390211-721434-comp.binaries.mac" source="390211" target="721434">
+	<data key="topic">comp.binaries.mac</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="390211-21218-comp.binaries.mac" source="390211" target="21218">
+	<data key="topic">comp.binaries.mac</data>
+	<data key="weight">10</data>
+</edge>
+<edge id="390211-15331-comp.binaries.mac" source="390211" target="15331">
+	<data key="topic">comp.binaries.mac</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="390211-15336-comp.binaries.mac" source="390211" target="15336">
+	<data key="topic">comp.binaries.mac</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="390211-451631-comp.binaries.mac" source="390211" target="451631">
+	<data key="topic">comp.binaries.mac</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="390211-1993426-comp.binaries.mac" source="390211" target="1993426">
+	<data key="topic">comp.binaries.mac</data>
+	<data key="weight">10</data>
+</edge>
+<edge id="15336-390211-comp.binaries.mac" source="15336" target="390211">
+	<data key="topic">comp.binaries.mac</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="451631-390211-comp.binaries.mac" source="451631" target="390211">
+	<data key="topic">comp.binaries.mac</data>
+	<data key="weight">2</data>
+</edge>
+</graph>
+</graphml>

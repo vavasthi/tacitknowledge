@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="617465"/>
+<node id="1664265"/>
+<node id="1610766"/>
+<node id="6807"/>
+<node id="31992"/>
+<node id="354643"/>
+<node id="553425"/>
+<node id="2650"/>
+<node id="611601"/>
+<node id="374298"/>
+<node id="15037"/>
+<node id="4480"/>
+<node id="849069"/>
+<node id="908810"/>
+<node id="611600"/>
+<node id="719630"/>
+<node id="643599"/>
+<node id="700003"/>
+<node id="699105"/>
+<node id="908808"/>
+<node id="419310"/>
+<node id="1664531"/>
+<node id="392170"/>
+<node id="368715"/>
+<edge id="617465-719630-comp.text.desktop" source="617465" target="719630">
+	<data key="topic">comp.text.desktop</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="6807-4480-comp.text.desktop" source="6807" target="4480">
+	<data key="topic">comp.text.desktop</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="31992-6807-comp.text.desktop" source="31992" target="6807">
+	<data key="topic">comp.text.desktop</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="31992-4480-comp.text.desktop" source="31992" target="4480">
+	<data key="topic">comp.text.desktop</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="354643-374298-comp.text.desktop" source="354643" target="374298">
+	<data key="topic">comp.text.desktop</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="553425-15037-comp.text.desktop" source="553425" target="15037">
+	<data key="topic">comp.text.desktop</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="553425-908810-comp.text.desktop" source="553425" target="908810">
+	<data key="topic">comp.text.desktop</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2650-1610766-comp.text.desktop" source="2650" target="1610766">
+	<data key="topic">comp.text.desktop</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="611601-611600-comp.text.desktop" source="611601" target="611600">
+	<data key="topic">comp.text.desktop</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="849069-419310-comp.text.desktop" source="849069" target="419310">
+	<data key="topic">comp.text.desktop</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="908810-15037-comp.text.desktop" source="908810" target="15037">
+	<data key="topic">comp.text.desktop</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="643599-1664265-comp.text.desktop" source="643599" target="1664265">
+	<data key="topic">comp.text.desktop</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="699105-354643-comp.text.desktop" source="699105" target="354643">
+	<data key="topic">comp.text.desktop</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="908808-15037-comp.text.desktop" source="908808" target="15037">
+	<data key="topic">comp.text.desktop</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="392170-1664531-comp.text.desktop" source="392170" target="1664531">
+	<data key="topic">comp.text.desktop</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="368715-849069-comp.text.desktop" source="368715" target="849069">
+	<data key="topic">comp.text.desktop</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="368715-419310-comp.text.desktop" source="368715" target="419310">
+	<data key="topic">comp.text.desktop</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

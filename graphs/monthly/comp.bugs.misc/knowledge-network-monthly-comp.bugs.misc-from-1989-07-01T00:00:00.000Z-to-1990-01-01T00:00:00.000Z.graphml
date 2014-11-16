@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1163473"/>
+<node id="707561"/>
+<node id="1893"/>
+<node id="549118"/>
+<node id="389921"/>
+<node id="809114"/>
+<node id="618050"/>
+<node id="557826"/>
+<node id="715762"/>
+<node id="3500"/>
+<edge id="707561-557826-comp.bugs.misc" source="707561" target="557826">
+	<data key="topic">comp.bugs.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1893-618050-comp.bugs.misc" source="1893" target="618050">
+	<data key="topic">comp.bugs.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1893-715762-comp.bugs.misc" source="1893" target="715762">
+	<data key="topic">comp.bugs.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="549118-389921-comp.bugs.misc" source="549118" target="389921">
+	<data key="topic">comp.bugs.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="809114-557826-comp.bugs.misc" source="809114" target="557826">
+	<data key="topic">comp.bugs.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3500-618050-comp.bugs.misc" source="3500" target="618050">
+	<data key="topic">comp.bugs.misc</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

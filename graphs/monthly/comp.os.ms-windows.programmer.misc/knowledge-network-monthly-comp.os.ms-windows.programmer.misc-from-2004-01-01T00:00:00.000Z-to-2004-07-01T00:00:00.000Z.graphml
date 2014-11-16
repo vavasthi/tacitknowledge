@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="43429"/>
+<node id="2306854"/>
+<node id="2870243"/>
+<node id="2280492"/>
+<node id="2222716"/>
+<node id="2220027"/>
+<node id="2306217"/>
+<node id="205712"/>
+<node id="2184784"/>
+<node id="2265005"/>
+<edge id="43429-2220027-comp.os.ms-windows.programmer.misc" source="43429" target="2220027">
+	<data key="topic">comp.os.ms-windows.programmer.misc</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2306854-2222716-comp.os.ms-windows.programmer.misc" source="2306854" target="2222716">
+	<data key="topic">comp.os.ms-windows.programmer.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2306854-2306217-comp.os.ms-windows.programmer.misc" source="2306854" target="2306217">
+	<data key="topic">comp.os.ms-windows.programmer.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2870243-2306854-comp.os.ms-windows.programmer.misc" source="2870243" target="2306854">
+	<data key="topic">comp.os.ms-windows.programmer.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2870243-2222716-comp.os.ms-windows.programmer.misc" source="2870243" target="2222716">
+	<data key="topic">comp.os.ms-windows.programmer.misc</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2870243-2306217-comp.os.ms-windows.programmer.misc" source="2870243" target="2306217">
+	<data key="topic">comp.os.ms-windows.programmer.misc</data>
+	<data key="weight">6</data>
+</edge>
+<edge id="2280492-43429-comp.os.ms-windows.programmer.misc" source="2280492" target="43429">
+	<data key="topic">comp.os.ms-windows.programmer.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2280492-2220027-comp.os.ms-windows.programmer.misc" source="2280492" target="2220027">
+	<data key="topic">comp.os.ms-windows.programmer.misc</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="2222716-2306854-comp.os.ms-windows.programmer.misc" source="2222716" target="2306854">
+	<data key="topic">comp.os.ms-windows.programmer.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2222716-2870243-comp.os.ms-windows.programmer.misc" source="2222716" target="2870243">
+	<data key="topic">comp.os.ms-windows.programmer.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2222716-2306217-comp.os.ms-windows.programmer.misc" source="2222716" target="2306217">
+	<data key="topic">comp.os.ms-windows.programmer.misc</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="2222716-2184784-comp.os.ms-windows.programmer.misc" source="2222716" target="2184784">
+	<data key="topic">comp.os.ms-windows.programmer.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2222716-2265005-comp.os.ms-windows.programmer.misc" source="2222716" target="2265005">
+	<data key="topic">comp.os.ms-windows.programmer.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2220027-43429-comp.os.ms-windows.programmer.misc" source="2220027" target="43429">
+	<data key="topic">comp.os.ms-windows.programmer.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2306217-2306854-comp.os.ms-windows.programmer.misc" source="2306217" target="2306854">
+	<data key="topic">comp.os.ms-windows.programmer.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2306217-2222716-comp.os.ms-windows.programmer.misc" source="2306217" target="2222716">
+	<data key="topic">comp.os.ms-windows.programmer.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2306217-2184784-comp.os.ms-windows.programmer.misc" source="2306217" target="2184784">
+	<data key="topic">comp.os.ms-windows.programmer.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2306217-2265005-comp.os.ms-windows.programmer.misc" source="2306217" target="2265005">
+	<data key="topic">comp.os.ms-windows.programmer.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="205712-43429-comp.os.ms-windows.programmer.misc" source="205712" target="43429">
+	<data key="topic">comp.os.ms-windows.programmer.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="205712-2220027-comp.os.ms-windows.programmer.misc" source="205712" target="2220027">
+	<data key="topic">comp.os.ms-windows.programmer.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="2184784-2306217-comp.os.ms-windows.programmer.misc" source="2184784" target="2306217">
+	<data key="topic">comp.os.ms-windows.programmer.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2265005-2306217-comp.os.ms-windows.programmer.misc" source="2265005" target="2306217">
+	<data key="topic">comp.os.ms-windows.programmer.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2265005-2184784-comp.os.ms-windows.programmer.misc" source="2265005" target="2184784">
+	<data key="topic">comp.os.ms-windows.programmer.misc</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1081060"/>
+<node id="1301"/>
+<node id="956603"/>
+<node id="881461"/>
+<node id="10555"/>
+<node id="995093"/>
+<node id="1419695"/>
+<node id="1173358"/>
+<node id="361722"/>
+<node id="435203"/>
+<node id="1942874"/>
+<node id="1515583"/>
+<node id="916514"/>
+<node id="1342521"/>
+<node id="1582"/>
+<edge id="1081060-956603-comp.os.aos" source="1081060" target="956603">
+	<data key="topic">comp.os.aos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1301-995093-comp.os.aos" source="1301" target="995093">
+	<data key="topic">comp.os.aos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="881461-1942874-comp.os.aos" source="881461" target="1942874">
+	<data key="topic">comp.os.aos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10555-1173358-comp.os.aos" source="10555" target="1173358">
+	<data key="topic">comp.os.aos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10555-435203-comp.os.aos" source="10555" target="435203">
+	<data key="topic">comp.os.aos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10555-1582-comp.os.aos" source="10555" target="1582">
+	<data key="topic">comp.os.aos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1419695-435203-comp.os.aos" source="1419695" target="435203">
+	<data key="topic">comp.os.aos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1173358-435203-comp.os.aos" source="1173358" target="435203">
+	<data key="topic">comp.os.aos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="361722-435203-comp.os.aos" source="361722" target="435203">
+	<data key="topic">comp.os.aos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1515583-1942874-comp.os.aos" source="1515583" target="1942874">
+	<data key="topic">comp.os.aos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="916514-1942874-comp.os.aos" source="916514" target="1942874">
+	<data key="topic">comp.os.aos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="916514-1515583-comp.os.aos" source="916514" target="1515583">
+	<data key="topic">comp.os.aos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1342521-435203-comp.os.aos" source="1342521" target="435203">
+	<data key="topic">comp.os.aos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1582-1173358-comp.os.aos" source="1582" target="1173358">
+	<data key="topic">comp.os.aos</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1582-435203-comp.os.aos" source="1582" target="435203">
+	<data key="topic">comp.os.aos</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

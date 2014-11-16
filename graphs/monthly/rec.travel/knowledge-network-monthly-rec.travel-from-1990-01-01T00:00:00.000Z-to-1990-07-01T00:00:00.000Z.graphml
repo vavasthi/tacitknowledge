@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="814317"/>
+<node id="867981"/>
+<node id="389223"/>
+<node id="535438"/>
+<node id="611921"/>
+<node id="686850"/>
+<node id="1573910"/>
+<edge id="814317-389223-rec.travel" source="814317" target="389223">
+	<data key="topic">rec.travel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="814317-1573910-rec.travel" source="814317" target="1573910">
+	<data key="topic">rec.travel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="535438-389223-rec.travel" source="535438" target="389223">
+	<data key="topic">rec.travel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="611921-867981-rec.travel" source="611921" target="867981">
+	<data key="topic">rec.travel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="686850-389223-rec.travel" source="686850" target="389223">
+	<data key="topic">rec.travel</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1573910-389223-rec.travel" source="1573910" target="389223">
+	<data key="topic">rec.travel</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="790686"/>
+<node id="510741"/>
+<node id="2110517"/>
+<node id="1427617"/>
+<node id="500114"/>
+<node id="1427620"/>
+<node id="740126"/>
+<node id="5919"/>
+<node id="548119"/>
+<node id="2156096"/>
+<node id="1490199"/>
+<node id="742188"/>
+<node id="35362"/>
+<node id="1427602"/>
+<node id="596642"/>
+<node id="740131"/>
+<node id="687649"/>
+<node id="740129"/>
+<node id="1976083"/>
+<node id="696869"/>
+<node id="737980"/>
+<node id="15282"/>
+<node id="535613"/>
+<node id="535616"/>
+<node id="1976133"/>
+<node id="670897"/>
+<node id="541236"/>
+<node id="513723"/>
+<node id="1976128"/>
+<node id="427078"/>
+<node id="790608"/>
+<node id="1976121"/>
+<node id="553413"/>
+<node id="1976116"/>
+<node id="509131"/>
+<node id="517963"/>
+<node id="535622"/>
+<node id="597829"/>
+<node id="511319"/>
+<node id="539355"/>
+<node id="34901"/>
+<node id="512210"/>
+<node id="34392"/>
+<node id="17370"/>
+<node id="18650"/>
+<node id="670934"/>
+<node id="30817"/>
+<node id="1248467"/>
+<node id="500197"/>
+<node id="535149"/>
+<node id="514787"/>
+<node id="793470"/>
+<node id="679421"/>
+<node id="500220"/>
+<node id="427131"/>
+<node id="378105"/>
+<node id="30848"/>
+<node id="721164"/>
+<node id="9990"/>
+<node id="2520687"/>
+<node id="779908"/>
+<node id="30986"/>
+<node id="3597"/>
+<node id="500106"/>
+<edge id="790686-500114-comp.sources.games.bugs" source="790686" target="500114">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510741-687649-comp.sources.games.bugs" source="510741" target="687649">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510741-513723-comp.sources.games.bugs" source="510741" target="513723">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510741-34392-comp.sources.games.bugs" source="510741" target="34392">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510741-30848-comp.sources.games.bugs" source="510741" target="30848">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2110517-740126-comp.sources.games.bugs" source="2110517" target="740126">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2110517-5919-comp.sources.games.bugs" source="2110517" target="5919">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2110517-18650-comp.sources.games.bugs" source="2110517" target="18650">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2110517-378105-comp.sources.games.bugs" source="2110517" target="378105">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1427617-427078-comp.sources.games.bugs" source="1427617" target="427078">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1427617-509131-comp.sources.games.bugs" source="1427617" target="509131">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1427617-670934-comp.sources.games.bugs" source="1427617" target="670934">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="500114-2156096-comp.sources.games.bugs" source="500114" target="2156096">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="500114-740131-comp.sources.games.bugs" source="500114" target="740131">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="500114-535613-comp.sources.games.bugs" source="500114" target="535613">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="500114-1976128-comp.sources.games.bugs" source="500114" target="1976128">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="500114-1976121-comp.sources.games.bugs" source="500114" target="1976121">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="500114-517963-comp.sources.games.bugs" source="500114" target="517963">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="500114-34392-comp.sources.games.bugs" source="500114" target="34392">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="500114-18650-comp.sources.games.bugs" source="500114" target="18650">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="500114-793470-comp.sources.games.bugs" source="500114" target="793470">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="500114-30986-comp.sources.games.bugs" source="500114" target="30986">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="500114-500106-comp.sources.games.bugs" source="500114" target="500106">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="740126-5919-comp.sources.games.bugs" source="740126" target="5919">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="548119-535616-comp.sources.games.bugs" source="548119" target="535616">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1490199-35362-comp.sources.games.bugs" source="1490199" target="35362">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="742188-687649-comp.sources.games.bugs" source="742188" target="687649">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="742188-513723-comp.sources.games.bugs" source="742188" target="513723">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="742188-34392-comp.sources.games.bugs" source="742188" target="34392">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="742188-30848-comp.sources.games.bugs" source="742188" target="30848">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="35362-1427620-comp.sources.games.bugs" source="35362" target="1427620">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="35362-1976116-comp.sources.games.bugs" source="35362" target="1976116">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1427602-740126-comp.sources.games.bugs" source="1427602" target="740126">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1427602-5919-comp.sources.games.bugs" source="1427602" target="5919">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1427602-15282-comp.sources.games.bugs" source="1427602" target="15282">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1427602-18650-comp.sources.games.bugs" source="1427602" target="18650">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1427602-378105-comp.sources.games.bugs" source="1427602" target="378105">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="596642-500220-comp.sources.games.bugs" source="596642" target="500220">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="687649-34392-comp.sources.games.bugs" source="687649" target="34392">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="740129-740131-comp.sources.games.bugs" source="740129" target="740131">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696869-687649-comp.sources.games.bugs" source="696869" target="687649">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696869-513723-comp.sources.games.bugs" source="696869" target="513723">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696869-34392-comp.sources.games.bugs" source="696869" target="34392">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="696869-30848-comp.sources.games.bugs" source="696869" target="30848">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="737980-500220-comp.sources.games.bugs" source="737980" target="500220">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="535613-790686-comp.sources.games.bugs" source="535613" target="790686">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="535613-500114-comp.sources.games.bugs" source="535613" target="500114">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="535613-535622-comp.sources.games.bugs" source="535613" target="535622">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="535616-18650-comp.sources.games.bugs" source="535616" target="18650">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="535616-30986-comp.sources.games.bugs" source="535616" target="30986">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1976133-517963-comp.sources.games.bugs" source="1976133" target="517963">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1976133-18650-comp.sources.games.bugs" source="1976133" target="18650">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1976133-500106-comp.sources.games.bugs" source="1976133" target="500106">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="670897-541236-comp.sources.games.bugs" source="670897" target="541236">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="513723-687649-comp.sources.games.bugs" source="513723" target="687649">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="513723-34392-comp.sources.games.bugs" source="513723" target="34392">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="513723-30848-comp.sources.games.bugs" source="513723" target="30848">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1976128-18650-comp.sources.games.bugs" source="1976128" target="18650">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="1976128-30986-comp.sources.games.bugs" source="1976128" target="30986">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="427078-1427617-comp.sources.games.bugs" source="427078" target="1427617">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="427078-509131-comp.sources.games.bugs" source="427078" target="509131">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="427078-670934-comp.sources.games.bugs" source="427078" target="670934">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="790608-500220-comp.sources.games.bugs" source="790608" target="500220">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509131-670934-comp.sources.games.bugs" source="509131" target="670934">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="517963-535616-comp.sources.games.bugs" source="517963" target="535616">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="517963-18650-comp.sources.games.bugs" source="517963" target="18650">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="517963-30986-comp.sources.games.bugs" source="517963" target="30986">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="517963-500106-comp.sources.games.bugs" source="517963" target="500106">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="597829-427131-comp.sources.games.bugs" source="597829" target="427131">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="511319-553413-comp.sources.games.bugs" source="511319" target="553413">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="34901-1427620-comp.sources.games.bugs" source="34901" target="1427620">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="34901-17370-comp.sources.games.bugs" source="34901" target="17370">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="34901-535149-comp.sources.games.bugs" source="34901" target="535149">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="512210-500197-comp.sources.games.bugs" source="512210" target="500197">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17370-1427620-comp.sources.games.bugs" source="17370" target="1427620">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="17370-34392-comp.sources.games.bugs" source="17370" target="34392">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18650-740126-comp.sources.games.bugs" source="18650" target="740126">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18650-5919-comp.sources.games.bugs" source="18650" target="5919">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18650-1976133-comp.sources.games.bugs" source="18650" target="1976133">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18650-30986-comp.sources.games.bugs" source="18650" target="30986">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30817-1490199-comp.sources.games.bugs" source="30817" target="1490199">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30817-535613-comp.sources.games.bugs" source="30817" target="535613">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1248467-500220-comp.sources.games.bugs" source="1248467" target="500220">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="514787-1427620-comp.sources.games.bugs" source="514787" target="1427620">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="679421-15282-comp.sources.games.bugs" source="679421" target="15282">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="679421-2520687-comp.sources.games.bugs" source="679421" target="2520687">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="378105-740126-comp.sources.games.bugs" source="378105" target="740126">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="378105-5919-comp.sources.games.bugs" source="378105" target="5919">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="378105-18650-comp.sources.games.bugs" source="378105" target="18650">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30848-687649-comp.sources.games.bugs" source="30848" target="687649">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30848-34392-comp.sources.games.bugs" source="30848" target="34392">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="721164-15282-comp.sources.games.bugs" source="721164" target="15282">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="721164-2520687-comp.sources.games.bugs" source="721164" target="2520687">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="9990-30817-comp.sources.games.bugs" source="9990" target="30817">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="779908-539355-comp.sources.games.bugs" source="779908" target="539355">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30986-18650-comp.sources.games.bugs" source="30986" target="18650">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="3597-790686-comp.sources.games.bugs" source="3597" target="790686">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3597-500114-comp.sources.games.bugs" source="3597" target="500114">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="3597-535613-comp.sources.games.bugs" source="3597" target="535613">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="500106-1976083-comp.sources.games.bugs" source="500106" target="1976083">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="500106-517963-comp.sources.games.bugs" source="500106" target="517963">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="500106-18650-comp.sources.games.bugs" source="500106" target="18650">
+	<data key="topic">comp.sources.games.bugs</data>
+	<data key="weight">6</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="377141"/>
+<node id="348933"/>
+<node id="1176772"/>
+<node id="11540"/>
+<node id="2854"/>
+<node id="366801"/>
+<node id="1032"/>
+<node id="367123"/>
+<node id="433903"/>
+<node id="27549"/>
+<node id="1949"/>
+<node id="614614"/>
+<edge id="348933-1032-uk.misc" source="348933" target="1032">
+	<data key="topic">uk.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="11540-1176772-uk.misc" source="11540" target="1176772">
+	<data key="topic">uk.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2854-1176772-uk.misc" source="2854" target="1176772">
+	<data key="topic">uk.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2854-11540-uk.misc" source="2854" target="11540">
+	<data key="topic">uk.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="366801-377141-uk.misc" source="366801" target="377141">
+	<data key="topic">uk.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="366801-1032-uk.misc" source="366801" target="1032">
+	<data key="topic">uk.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="366801-27549-uk.misc" source="366801" target="27549">
+	<data key="topic">uk.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1032-377141-uk.misc" source="1032" target="377141">
+	<data key="topic">uk.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1032-348933-uk.misc" source="1032" target="348933">
+	<data key="topic">uk.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="1032-27549-uk.misc" source="1032" target="27549">
+	<data key="topic">uk.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="367123-1949-uk.misc" source="367123" target="1949">
+	<data key="topic">uk.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="433903-1949-uk.misc" source="433903" target="1949">
+	<data key="topic">uk.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="27549-377141-uk.misc" source="27549" target="377141">
+	<data key="topic">uk.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="27549-348933-uk.misc" source="27549" target="348933">
+	<data key="topic">uk.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="27549-1032-uk.misc" source="27549" target="1032">
+	<data key="topic">uk.misc</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="614614-1176772-uk.misc" source="614614" target="1176772">
+	<data key="topic">uk.misc</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="614614-11540-uk.misc" source="614614" target="11540">
+	<data key="topic">uk.misc</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="610905"/>
+<node id="441589"/>
+<node id="908362"/>
+<node id="542095"/>
+<node id="621874"/>
+<node id="1617826"/>
+<node id="1617762"/>
+<node id="1617814"/>
+<node id="1617926"/>
+<node id="866196"/>
+<edge id="441589-621874-alt.mud" source="441589" target="621874">
+	<data key="topic">alt.mud</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="908362-610905-alt.mud" source="908362" target="610905">
+	<data key="topic">alt.mud</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="542095-621874-alt.mud" source="542095" target="621874">
+	<data key="topic">alt.mud</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="542095-1617826-alt.mud" source="542095" target="1617826">
+	<data key="topic">alt.mud</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="542095-866196-alt.mud" source="542095" target="866196">
+	<data key="topic">alt.mud</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1617826-621874-alt.mud" source="1617826" target="621874">
+	<data key="topic">alt.mud</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1617762-621874-alt.mud" source="1617762" target="621874">
+	<data key="topic">alt.mud</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1617814-441589-alt.mud" source="1617814" target="441589">
+	<data key="topic">alt.mud</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1617814-621874-alt.mud" source="1617814" target="621874">
+	<data key="topic">alt.mud</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1617926-621874-alt.mud" source="1617926" target="621874">
+	<data key="topic">alt.mud</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="866196-621874-alt.mud" source="866196" target="621874">
+	<data key="topic">alt.mud</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="866196-1617826-alt.mud" source="866196" target="1617826">
+	<data key="topic">alt.mud</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

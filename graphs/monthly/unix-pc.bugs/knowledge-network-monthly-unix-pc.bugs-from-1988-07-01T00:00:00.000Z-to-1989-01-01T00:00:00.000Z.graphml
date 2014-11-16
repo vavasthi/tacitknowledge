@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="687833"/>
+<node id="513940"/>
+<node id="15511"/>
+<node id="30552"/>
+<node id="26329"/>
+<node id="510688"/>
+<node id="520027"/>
+<node id="510554"/>
+<node id="431844"/>
+<node id="29735"/>
+<node id="596004"/>
+<node id="511467"/>
+<node id="1248543"/>
+<node id="30638"/>
+<node id="16111"/>
+<node id="355820"/>
+<node id="534905"/>
+<node id="670972"/>
+<node id="30712"/>
+<node id="16572"/>
+<node id="17216"/>
+<node id="512712"/>
+<node id="670987"/>
+<node id="17158"/>
+<node id="18694"/>
+<node id="507215"/>
+<node id="17229"/>
+<node id="393675"/>
+<edge id="687833-534905-unix-pc.bugs" source="687833" target="534905">
+	<data key="topic">unix-pc.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="513940-511467-unix-pc.bugs" source="513940" target="511467">
+	<data key="topic">unix-pc.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15511-596004-unix-pc.bugs" source="15511" target="596004">
+	<data key="topic">unix-pc.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15511-511467-unix-pc.bugs" source="15511" target="511467">
+	<data key="topic">unix-pc.bugs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="15511-512712-unix-pc.bugs" source="15511" target="512712">
+	<data key="topic">unix-pc.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30552-510688-unix-pc.bugs" source="30552" target="510688">
+	<data key="topic">unix-pc.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30552-511467-unix-pc.bugs" source="30552" target="511467">
+	<data key="topic">unix-pc.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30552-30638-unix-pc.bugs" source="30552" target="30638">
+	<data key="topic">unix-pc.bugs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="30552-355820-unix-pc.bugs" source="30552" target="355820">
+	<data key="topic">unix-pc.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30552-17216-unix-pc.bugs" source="30552" target="17216">
+	<data key="topic">unix-pc.bugs</data>
+	<data key="weight">6</data>
+</edge>
+<edge id="30552-670987-unix-pc.bugs" source="30552" target="670987">
+	<data key="topic">unix-pc.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30552-507215-unix-pc.bugs" source="30552" target="507215">
+	<data key="topic">unix-pc.bugs</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="30552-17229-unix-pc.bugs" source="30552" target="17229">
+	<data key="topic">unix-pc.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="26329-534905-unix-pc.bugs" source="26329" target="534905">
+	<data key="topic">unix-pc.bugs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="510688-511467-unix-pc.bugs" source="510688" target="511467">
+	<data key="topic">unix-pc.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="520027-511467-unix-pc.bugs" source="520027" target="511467">
+	<data key="topic">unix-pc.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="510554-511467-unix-pc.bugs" source="510554" target="511467">
+	<data key="topic">unix-pc.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="431844-30638-unix-pc.bugs" source="431844" target="30638">
+	<data key="topic">unix-pc.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29735-30552-unix-pc.bugs" source="29735" target="30552">
+	<data key="topic">unix-pc.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29735-355820-unix-pc.bugs" source="29735" target="355820">
+	<data key="topic">unix-pc.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29735-17216-unix-pc.bugs" source="29735" target="17216">
+	<data key="topic">unix-pc.bugs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="29735-507215-unix-pc.bugs" source="29735" target="507215">
+	<data key="topic">unix-pc.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="511467-596004-unix-pc.bugs" source="511467" target="596004">
+	<data key="topic">unix-pc.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1248543-511467-unix-pc.bugs" source="1248543" target="511467">
+	<data key="topic">unix-pc.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16111-511467-unix-pc.bugs" source="16111" target="511467">
+	<data key="topic">unix-pc.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="355820-30552-unix-pc.bugs" source="355820" target="30552">
+	<data key="topic">unix-pc.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="355820-17216-unix-pc.bugs" source="355820" target="17216">
+	<data key="topic">unix-pc.bugs</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="355820-507215-unix-pc.bugs" source="355820" target="507215">
+	<data key="topic">unix-pc.bugs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="534905-26329-unix-pc.bugs" source="534905" target="26329">
+	<data key="topic">unix-pc.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="670972-511467-unix-pc.bugs" source="670972" target="511467">
+	<data key="topic">unix-pc.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="670972-1248543-unix-pc.bugs" source="670972" target="1248543">
+	<data key="topic">unix-pc.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="670972-16572-unix-pc.bugs" source="670972" target="16572">
+	<data key="topic">unix-pc.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30712-30552-unix-pc.bugs" source="30712" target="30552">
+	<data key="topic">unix-pc.bugs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="30712-17216-unix-pc.bugs" source="30712" target="17216">
+	<data key="topic">unix-pc.bugs</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="30712-507215-unix-pc.bugs" source="30712" target="507215">
+	<data key="topic">unix-pc.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16572-511467-unix-pc.bugs" source="16572" target="511467">
+	<data key="topic">unix-pc.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16572-1248543-unix-pc.bugs" source="16572" target="1248543">
+	<data key="topic">unix-pc.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17216-507215-unix-pc.bugs" source="17216" target="507215">
+	<data key="topic">unix-pc.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="512712-511467-unix-pc.bugs" source="512712" target="511467">
+	<data key="topic">unix-pc.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="670987-15511-unix-pc.bugs" source="670987" target="15511">
+	<data key="topic">unix-pc.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="17158-511467-unix-pc.bugs" source="17158" target="511467">
+	<data key="topic">unix-pc.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18694-596004-unix-pc.bugs" source="18694" target="596004">
+	<data key="topic">unix-pc.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="507215-17216-unix-pc.bugs" source="507215" target="17216">
+	<data key="topic">unix-pc.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="393675-355820-unix-pc.bugs" source="393675" target="355820">
+	<data key="topic">unix-pc.bugs</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="393675-17216-unix-pc.bugs" source="393675" target="17216">
+	<data key="topic">unix-pc.bugs</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="393675-507215-unix-pc.bugs" source="393675" target="507215">
+	<data key="topic">unix-pc.bugs</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

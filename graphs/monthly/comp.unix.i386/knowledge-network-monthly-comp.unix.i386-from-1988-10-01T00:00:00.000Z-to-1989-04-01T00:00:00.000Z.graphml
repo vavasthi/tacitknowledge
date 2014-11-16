@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="552025"/>
+<node id="520885"/>
+<node id="5910"/>
+<node id="512306"/>
+<node id="512657"/>
+<node id="1363115"/>
+<node id="2116929"/>
+<node id="517863"/>
+<node id="1607869"/>
+<node id="1212475"/>
+<node id="29868"/>
+<node id="547110"/>
+<node id="505451"/>
+<edge id="520885-517863-comp.unix.i386" source="520885" target="517863">
+	<data key="topic">comp.unix.i386</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5910-2116929-comp.unix.i386" source="5910" target="2116929">
+	<data key="topic">comp.unix.i386</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5910-1607869-comp.unix.i386" source="5910" target="1607869">
+	<data key="topic">comp.unix.i386</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="512306-512657-comp.unix.i386" source="512306" target="512657">
+	<data key="topic">comp.unix.i386</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="512306-517863-comp.unix.i386" source="512306" target="517863">
+	<data key="topic">comp.unix.i386</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="512657-517863-comp.unix.i386" source="512657" target="517863">
+	<data key="topic">comp.unix.i386</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1363115-552025-comp.unix.i386" source="1363115" target="552025">
+	<data key="topic">comp.unix.i386</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1363115-1212475-comp.unix.i386" source="1363115" target="1212475">
+	<data key="topic">comp.unix.i386</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1363115-505451-comp.unix.i386" source="1363115" target="505451">
+	<data key="topic">comp.unix.i386</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="547110-552025-comp.unix.i386" source="547110" target="552025">
+	<data key="topic">comp.unix.i386</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="547110-1363115-comp.unix.i386" source="547110" target="1363115">
+	<data key="topic">comp.unix.i386</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="547110-1212475-comp.unix.i386" source="547110" target="1212475">
+	<data key="topic">comp.unix.i386</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="547110-29868-comp.unix.i386" source="547110" target="29868">
+	<data key="topic">comp.unix.i386</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="547110-505451-comp.unix.i386" source="547110" target="505451">
+	<data key="topic">comp.unix.i386</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="353013"/>
+<node id="439667"/>
+<node id="1224791"/>
+<node id="1293959"/>
+<node id="1081852"/>
+<node id="440268"/>
+<node id="1808"/>
+<edge id="353013-1081852-rec.games.video" source="353013" target="1081852">
+	<data key="topic">rec.games.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="440268-1224791-rec.games.video" source="440268" target="1224791">
+	<data key="topic">rec.games.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1808-439667-rec.games.video" source="1808" target="439667">
+	<data key="topic">rec.games.video</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1808-1293959-rec.games.video" source="1808" target="1293959">
+	<data key="topic">rec.games.video</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

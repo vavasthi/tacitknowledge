@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="338689"/>
+<node id="2491524"/>
+<node id="336932"/>
+<node id="486109"/>
+<node id="1334779"/>
+<node id="446794"/>
+<node id="726805"/>
+<edge id="338689-1334779-net.rec.bridge" source="338689" target="1334779">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2491524-338689-net.rec.bridge" source="2491524" target="338689">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2491524-1334779-net.rec.bridge" source="2491524" target="1334779">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="486109-726805-net.rec.bridge" source="486109" target="726805">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="446794-1334779-net.rec.bridge" source="446794" target="1334779">
+	<data key="topic">net.rec.bridge</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

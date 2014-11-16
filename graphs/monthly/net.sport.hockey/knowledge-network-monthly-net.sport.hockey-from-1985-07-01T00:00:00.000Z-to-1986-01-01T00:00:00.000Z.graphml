@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="472020"/>
+<node id="491859"/>
+<node id="465554"/>
+<node id="342941"/>
+<node id="467737"/>
+<node id="470440"/>
+<node id="396968"/>
+<node id="482149"/>
+<node id="988395"/>
+<node id="475490"/>
+<node id="344238"/>
+<node id="484336"/>
+<node id="604068"/>
+<node id="983549"/>
+<node id="453939"/>
+<node id="1916169"/>
+<node id="465073"/>
+<node id="1049097"/>
+<node id="341626"/>
+<node id="459452"/>
+<node id="337532"/>
+<node id="342597"/>
+<node id="465542"/>
+<node id="1325169"/>
+<node id="341186"/>
+<node id="341507"/>
+<node id="473281"/>
+<node id="396482"/>
+<node id="495759"/>
+<node id="1374015"/>
+<edge id="472020-344238-net.sport.hockey" source="472020" target="344238">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="472020-983549-net.sport.hockey" source="472020" target="983549">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="491859-344238-net.sport.hockey" source="491859" target="344238">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="342941-472020-net.sport.hockey" source="342941" target="472020">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="342941-470440-net.sport.hockey" source="342941" target="470440">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="342941-604068-net.sport.hockey" source="342941" target="604068">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="342941-1916169-net.sport.hockey" source="342941" target="1916169">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="342941-465542-net.sport.hockey" source="342941" target="465542">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="342941-1325169-net.sport.hockey" source="342941" target="1325169">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="342941-1374015-net.sport.hockey" source="342941" target="1374015">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="467737-396968-net.sport.hockey" source="467737" target="396968">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="467737-344238-net.sport.hockey" source="467737" target="344238">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="396968-344238-net.sport.hockey" source="396968" target="344238">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="482149-604068-net.sport.hockey" source="482149" target="604068">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="482149-1916169-net.sport.hockey" source="482149" target="1916169">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="988395-344238-net.sport.hockey" source="988395" target="344238">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="475490-484336-net.sport.hockey" source="475490" target="484336">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="475490-495759-net.sport.hockey" source="475490" target="495759">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="604068-1916169-net.sport.hockey" source="604068" target="1916169">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="604068-396482-net.sport.hockey" source="604068" target="396482">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="983549-472020-net.sport.hockey" source="983549" target="472020">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="983549-342941-net.sport.hockey" source="983549" target="342941">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="983549-470440-net.sport.hockey" source="983549" target="470440">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="983549-396968-net.sport.hockey" source="983549" target="396968">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="983549-344238-net.sport.hockey" source="983549" target="344238">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="983549-604068-net.sport.hockey" source="983549" target="604068">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="983549-453939-net.sport.hockey" source="983549" target="453939">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="983549-1916169-net.sport.hockey" source="983549" target="1916169">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="983549-1325169-net.sport.hockey" source="983549" target="1325169">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="453939-396968-net.sport.hockey" source="453939" target="396968">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="453939-344238-net.sport.hockey" source="453939" target="344238">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1916169-465554-net.sport.hockey" source="1916169" target="465554">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1916169-604068-net.sport.hockey" source="1916169" target="604068">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">5</data>
+</edge>
+<edge id="1916169-473281-net.sport.hockey" source="1916169" target="473281">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="465073-341186-net.sport.hockey" source="465073" target="341186">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1049097-491859-net.sport.hockey" source="1049097" target="491859">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1049097-344238-net.sport.hockey" source="1049097" target="344238">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341626-472020-net.sport.hockey" source="341626" target="472020">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459452-472020-net.sport.hockey" source="459452" target="472020">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459452-983549-net.sport.hockey" source="459452" target="983549">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459452-337532-net.sport.hockey" source="459452" target="337532">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337532-472020-net.sport.hockey" source="337532" target="472020">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="337532-465554-net.sport.hockey" source="337532" target="465554">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337532-342941-net.sport.hockey" source="337532" target="342941">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337532-983549-net.sport.hockey" source="337532" target="983549">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="337532-453939-net.sport.hockey" source="337532" target="453939">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="342597-396968-net.sport.hockey" source="342597" target="396968">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="342597-344238-net.sport.hockey" source="342597" target="344238">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="342597-453939-net.sport.hockey" source="342597" target="453939">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1325169-470440-net.sport.hockey" source="1325169" target="470440">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="341507-342941-net.sport.hockey" source="341507" target="342941">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="473281-604068-net.sport.hockey" source="473281" target="604068">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="473281-1916169-net.sport.hockey" source="473281" target="1916169">
+	<data key="topic">net.sport.hockey</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

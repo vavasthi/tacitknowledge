@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="953935"/>
+<node id="382023"/>
+<node id="5780"/>
+<node id="418387"/>
+<node id="350116"/>
+<node id="350015"/>
+<node id="573476"/>
+<node id="948433"/>
+<edge id="953935-5780-alt.toon-pics" source="953935" target="5780">
+	<data key="topic">alt.toon-pics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="953935-418387-alt.toon-pics" source="953935" target="418387">
+	<data key="topic">alt.toon-pics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="382023-5780-alt.toon-pics" source="382023" target="5780">
+	<data key="topic">alt.toon-pics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="350116-350015-alt.toon-pics" source="350116" target="350015">
+	<data key="topic">alt.toon-pics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="573476-350015-alt.toon-pics" source="573476" target="350015">
+	<data key="topic">alt.toon-pics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="948433-5780-alt.toon-pics" source="948433" target="5780">
+	<data key="topic">alt.toon-pics</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="948433-418387-alt.toon-pics" source="948433" target="418387">
+	<data key="topic">alt.toon-pics</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

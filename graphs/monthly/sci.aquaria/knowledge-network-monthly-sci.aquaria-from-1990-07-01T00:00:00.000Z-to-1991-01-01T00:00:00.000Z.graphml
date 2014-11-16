@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="375544"/>
+<node id="412405"/>
+<node id="373560"/>
+<node id="1525573"/>
+<node id="410388"/>
+<node id="583358"/>
+<node id="13060"/>
+<node id="9190"/>
+<node id="1223125"/>
+<node id="353550"/>
+<node id="432879"/>
+<node id="1011366"/>
+<node id="1235833"/>
+<node id="272"/>
+<edge id="375544-272-sci.aquaria" source="375544" target="272">
+	<data key="topic">sci.aquaria</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="412405-375544-sci.aquaria" source="412405" target="375544">
+	<data key="topic">sci.aquaria</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="412405-583358-sci.aquaria" source="412405" target="583358">
+	<data key="topic">sci.aquaria</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="410388-1525573-sci.aquaria" source="410388" target="1525573">
+	<data key="topic">sci.aquaria</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="583358-375544-sci.aquaria" source="583358" target="375544">
+	<data key="topic">sci.aquaria</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="583358-412405-sci.aquaria" source="583358" target="412405">
+	<data key="topic">sci.aquaria</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="13060-375544-sci.aquaria" source="13060" target="375544">
+	<data key="topic">sci.aquaria</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="13060-412405-sci.aquaria" source="13060" target="412405">
+	<data key="topic">sci.aquaria</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="13060-583358-sci.aquaria" source="13060" target="583358">
+	<data key="topic">sci.aquaria</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="9190-1525573-sci.aquaria" source="9190" target="1525573">
+	<data key="topic">sci.aquaria</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="9190-410388-sci.aquaria" source="9190" target="410388">
+	<data key="topic">sci.aquaria</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="9190-1223125-sci.aquaria" source="9190" target="1223125">
+	<data key="topic">sci.aquaria</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="432879-373560-sci.aquaria" source="432879" target="373560">
+	<data key="topic">sci.aquaria</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1011366-375544-sci.aquaria" source="1011366" target="375544">
+	<data key="topic">sci.aquaria</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1011366-583358-sci.aquaria" source="1011366" target="583358">
+	<data key="topic">sci.aquaria</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1235833-272-sci.aquaria" source="1235833" target="272">
+	<data key="topic">sci.aquaria</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

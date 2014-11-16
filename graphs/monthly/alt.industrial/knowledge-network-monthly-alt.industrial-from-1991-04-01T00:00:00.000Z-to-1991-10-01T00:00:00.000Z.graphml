@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="362660"/>
+<node id="351594"/>
+<node id="416233"/>
+<node id="950097"/>
+<edge id="362660-416233-alt.industrial" source="362660" target="416233">
+	<data key="topic">alt.industrial</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="351594-362660-alt.industrial" source="351594" target="362660">
+	<data key="topic">alt.industrial</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="351594-416233-alt.industrial" source="351594" target="416233">
+	<data key="topic">alt.industrial</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="950097-362660-alt.industrial" source="950097" target="362660">
+	<data key="topic">alt.industrial</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="950097-351594-alt.industrial" source="950097" target="351594">
+	<data key="topic">alt.industrial</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="950097-416233-alt.industrial" source="950097" target="416233">
+	<data key="topic">alt.industrial</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

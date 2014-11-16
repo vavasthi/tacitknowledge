@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="433703"/>
+<node id="12946"/>
+<node id="348866"/>
+<node id="363268"/>
+<node id="2649"/>
+<node id="1676"/>
+<node id="433724"/>
+<edge id="12946-1676-mail.uk-sendmail-workers" source="12946" target="1676">
+	<data key="topic">mail.uk-sendmail-workers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="12946-433724-mail.uk-sendmail-workers" source="12946" target="433724">
+	<data key="topic">mail.uk-sendmail-workers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348866-433703-mail.uk-sendmail-workers" source="348866" target="433703">
+	<data key="topic">mail.uk-sendmail-workers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348866-363268-mail.uk-sendmail-workers" source="348866" target="363268">
+	<data key="topic">mail.uk-sendmail-workers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="348866-1676-mail.uk-sendmail-workers" source="348866" target="1676">
+	<data key="topic">mail.uk-sendmail-workers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2649-433724-mail.uk-sendmail-workers" source="2649" target="433724">
+	<data key="topic">mail.uk-sendmail-workers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1676-433703-mail.uk-sendmail-workers" source="1676" target="433703">
+	<data key="topic">mail.uk-sendmail-workers</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1676-433724-mail.uk-sendmail-workers" source="1676" target="433724">
+	<data key="topic">mail.uk-sendmail-workers</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

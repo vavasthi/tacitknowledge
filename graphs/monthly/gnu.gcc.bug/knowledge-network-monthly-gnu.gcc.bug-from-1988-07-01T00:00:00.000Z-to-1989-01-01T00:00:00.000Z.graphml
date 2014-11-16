@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="504856"/>
+<node id="415519"/>
+<node id="509215"/>
+<node id="2873295"/>
+<node id="16550"/>
+<node id="509217"/>
+<node id="551460"/>
+<node id="2873281"/>
+<node id="2873286"/>
+<node id="511800"/>
+<node id="792509"/>
+<node id="363573"/>
+<node id="608697"/>
+<node id="871609"/>
+<node id="608689"/>
+<node id="16572"/>
+<node id="1974340"/>
+<node id="401733"/>
+<node id="2519333"/>
+<node id="10820"/>
+<node id="669514"/>
+<node id="669519"/>
+<node id="30406"/>
+<node id="676421"/>
+<node id="537031"/>
+<node id="669510"/>
+<node id="533337"/>
+<node id="26833"/>
+<node id="533339"/>
+<node id="533212"/>
+<node id="23639"/>
+<node id="669405"/>
+<node id="669522"/>
+<node id="18013"/>
+<node id="427867"/>
+<node id="431321"/>
+<node id="2015"/>
+<node id="533226"/>
+<node id="533355"/>
+<node id="1994076"/>
+<node id="33767"/>
+<node id="30312"/>
+<node id="376675"/>
+<node id="543728"/>
+<node id="512111"/>
+<node id="741858"/>
+<node id="397175"/>
+<node id="33266"/>
+<node id="695927"/>
+<node id="28417"/>
+<node id="501128"/>
+<node id="30338"/>
+<node id="535562"/>
+<node id="2873323"/>
+<node id="509189"/>
+<node id="33924"/>
+<node id="2873325"/>
+<node id="537729"/>
+<node id="614145"/>
+<node id="509070"/>
+<node id="5776"/>
+<node id="2873317"/>
+<node id="509065"/>
+<edge id="415519-26833-gnu.gcc.bug" source="415519" target="26833">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16550-1994076-gnu.gcc.bug" source="16550" target="1994076">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="551460-676421-gnu.gcc.bug" source="551460" target="676421">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="792509-533226-gnu.gcc.bug" source="792509" target="533226">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="608697-30406-gnu.gcc.bug" source="608697" target="30406">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="871609-2873281-gnu.gcc.bug" source="871609" target="2873281">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16572-669514-gnu.gcc.bug" source="16572" target="669514">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="10820-5776-gnu.gcc.bug" source="10820" target="5776">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="669519-669514-gnu.gcc.bug" source="669519" target="669514">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="669519-669522-gnu.gcc.bug" source="669519" target="669522">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30406-2873286-gnu.gcc.bug" source="30406" target="2873286">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="676421-2873325-gnu.gcc.bug" source="676421" target="2873325">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="676421-5776-gnu.gcc.bug" source="676421" target="5776">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="537031-1974340-gnu.gcc.bug" source="537031" target="1974340">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="537031-741858-gnu.gcc.bug" source="537031" target="741858">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="669510-415519-gnu.gcc.bug" source="669510" target="415519">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="669510-2873281-gnu.gcc.bug" source="669510" target="2873281">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="669510-511800-gnu.gcc.bug" source="669510" target="511800">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="669510-2873323-gnu.gcc.bug" source="669510" target="2873323">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="533212-509065-gnu.gcc.bug" source="533212" target="509065">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="23639-509217-gnu.gcc.bug" source="23639" target="509217">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="669405-33924-gnu.gcc.bug" source="669405" target="33924">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="18013-397175-gnu.gcc.bug" source="18013" target="397175">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="427867-608689-gnu.gcc.bug" source="427867" target="608689">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="427867-669514-gnu.gcc.bug" source="427867" target="669514">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="427867-533339-gnu.gcc.bug" source="427867" target="533339">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="427867-543728-gnu.gcc.bug" source="427867" target="543728">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="427867-512111-gnu.gcc.bug" source="427867" target="512111">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="533355-512111-gnu.gcc.bug" source="533355" target="512111">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="33767-2519333-gnu.gcc.bug" source="33767" target="2519333">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="33767-33266-gnu.gcc.bug" source="33767" target="33266">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="33767-501128-gnu.gcc.bug" source="33767" target="501128">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="33767-2873325-gnu.gcc.bug" source="33767" target="2873325">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30312-676421-gnu.gcc.bug" source="30312" target="676421">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="30312-2873325-gnu.gcc.bug" source="30312" target="2873325">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30312-5776-gnu.gcc.bug" source="30312" target="5776">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="376675-509070-gnu.gcc.bug" source="376675" target="509070">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="376675-2873317-gnu.gcc.bug" source="376675" target="2873317">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="741858-363573-gnu.gcc.bug" source="741858" target="363573">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="33266-33767-gnu.gcc.bug" source="33266" target="33767">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="28417-10820-gnu.gcc.bug" source="28417" target="10820">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="501128-363573-gnu.gcc.bug" source="501128" target="363573">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="501128-741858-gnu.gcc.bug" source="501128" target="741858">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="30338-2015-gnu.gcc.bug" source="30338" target="2015">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="535562-509215-gnu.gcc.bug" source="535562" target="509215">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509189-5776-gnu.gcc.bug" source="509189" target="5776">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="537729-614145-gnu.gcc.bug" source="537729" target="614145">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509070-504856-gnu.gcc.bug" source="509070" target="504856">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="509070-2873317-gnu.gcc.bug" source="509070" target="2873317">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5776-2873295-gnu.gcc.bug" source="5776" target="2873295">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5776-401733-gnu.gcc.bug" source="5776" target="401733">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5776-10820-gnu.gcc.bug" source="5776" target="10820">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5776-676421-gnu.gcc.bug" source="5776" target="676421">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="5776-533337-gnu.gcc.bug" source="5776" target="533337">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5776-431321-gnu.gcc.bug" source="5776" target="431321">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5776-30312-gnu.gcc.bug" source="5776" target="30312">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="5776-2873325-gnu.gcc.bug" source="5776" target="2873325">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="509065-533339-gnu.gcc.bug" source="509065" target="533339">
+	<data key="topic">gnu.gcc.bug</data>
+	<data key="weight">2</data>
+</edge>
+</graph>
+</graphml>

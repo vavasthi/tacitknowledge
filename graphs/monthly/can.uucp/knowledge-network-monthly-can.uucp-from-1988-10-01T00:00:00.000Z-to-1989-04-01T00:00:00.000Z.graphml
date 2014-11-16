@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="15284"/>
+<node id="347921"/>
+<node id="541311"/>
+<node id="36795"/>
+<node id="516606"/>
+<node id="16124"/>
+<node id="29660"/>
+<node id="16285"/>
+<node id="20063"/>
+<node id="1259502"/>
+<node id="376518"/>
+<node id="704809"/>
+<node id="15300"/>
+<node id="546369"/>
+<node id="16106"/>
+<node id="2255"/>
+<edge id="15284-29660-can.uucp" source="15284" target="29660">
+	<data key="topic">can.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="15284-16106-can.uucp" source="15284" target="16106">
+	<data key="topic">can.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347921-516606-can.uucp" source="347921" target="516606">
+	<data key="topic">can.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="347921-16124-can.uucp" source="347921" target="16124">
+	<data key="topic">can.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="516606-16124-can.uucp" source="516606" target="16124">
+	<data key="topic">can.uucp</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="16124-36795-can.uucp" source="16124" target="36795">
+	<data key="topic">can.uucp</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="29660-15284-can.uucp" source="29660" target="15284">
+	<data key="topic">can.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="29660-36795-can.uucp" source="29660" target="36795">
+	<data key="topic">can.uucp</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="29660-16124-can.uucp" source="29660" target="16124">
+	<data key="topic">can.uucp</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="29660-704809-can.uucp" source="29660" target="704809">
+	<data key="topic">can.uucp</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="29660-546369-can.uucp" source="29660" target="546369">
+	<data key="topic">can.uucp</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="29660-16106-can.uucp" source="29660" target="16106">
+	<data key="topic">can.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16285-541311-can.uucp" source="16285" target="541311">
+	<data key="topic">can.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16285-376518-can.uucp" source="16285" target="376518">
+	<data key="topic">can.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16285-15300-can.uucp" source="16285" target="15300">
+	<data key="topic">can.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20063-541311-can.uucp" source="20063" target="541311">
+	<data key="topic">can.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20063-16285-can.uucp" source="20063" target="16285">
+	<data key="topic">can.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20063-376518-can.uucp" source="20063" target="376518">
+	<data key="topic">can.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="20063-15300-can.uucp" source="20063" target="15300">
+	<data key="topic">can.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1259502-516606-can.uucp" source="1259502" target="516606">
+	<data key="topic">can.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1259502-16124-can.uucp" source="1259502" target="16124">
+	<data key="topic">can.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="704809-36795-can.uucp" source="704809" target="36795">
+	<data key="topic">can.uucp</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="704809-16124-can.uucp" source="704809" target="16124">
+	<data key="topic">can.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="546369-15284-can.uucp" source="546369" target="15284">
+	<data key="topic">can.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="546369-36795-can.uucp" source="546369" target="36795">
+	<data key="topic">can.uucp</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="546369-16124-can.uucp" source="546369" target="16124">
+	<data key="topic">can.uucp</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="546369-29660-can.uucp" source="546369" target="29660">
+	<data key="topic">can.uucp</data>
+	<data key="weight">3</data>
+</edge>
+<edge id="546369-704809-can.uucp" source="546369" target="704809">
+	<data key="topic">can.uucp</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="546369-16106-can.uucp" source="546369" target="16106">
+	<data key="topic">can.uucp</data>
+	<data key="weight">2</data>
+</edge>
+<edge id="16106-29660-can.uucp" source="16106" target="29660">
+	<data key="topic">can.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2255-36795-can.uucp" source="2255" target="36795">
+	<data key="topic">can.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2255-16124-can.uucp" source="2255" target="16124">
+	<data key="topic">can.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2255-29660-can.uucp" source="2255" target="29660">
+	<data key="topic">can.uucp</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="2255-704809-can.uucp" source="2255" target="704809">
+	<data key="topic">can.uucp</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="341458"/>
+<node id="339988"/>
+<node id="460178"/>
+<node id="522527"/>
+<node id="339100"/>
+<node id="526743"/>
+<node id="20063"/>
+<node id="522201"/>
+<node id="338214"/>
+<node id="459748"/>
+<node id="459632"/>
+<node id="459630"/>
+<node id="337071"/>
+<node id="459181"/>
+<node id="459308"/>
+<node id="339190"/>
+<node id="471411"/>
+<node id="341498"/>
+<node id="459643"/>
+<node id="339772"/>
+<node id="476346"/>
+<node id="685558"/>
+<node id="342273"/>
+<node id="560846"/>
+<node id="339971"/>
+<node id="570320"/>
+<node id="680902"/>
+<edge id="341458-20063-net.news.sa" source="341458" target="20063">
+	<data key="topic">net.news.sa</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339988-460178-net.news.sa" source="339988" target="460178">
+	<data key="topic">net.news.sa</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522527-339772-net.news.sa" source="522527" target="339772">
+	<data key="topic">net.news.sa</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339100-459181-net.news.sa" source="339100" target="459181">
+	<data key="topic">net.news.sa</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522201-522527-net.news.sa" source="522201" target="522527">
+	<data key="topic">net.news.sa</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="522201-339772-net.news.sa" source="522201" target="339772">
+	<data key="topic">net.news.sa</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="338214-459630-net.news.sa" source="338214" target="459630">
+	<data key="topic">net.news.sa</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459748-522527-net.news.sa" source="459748" target="522527">
+	<data key="topic">net.news.sa</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459748-337071-net.news.sa" source="459748" target="337071">
+	<data key="topic">net.news.sa</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459748-339772-net.news.sa" source="459748" target="339772">
+	<data key="topic">net.news.sa</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459632-526743-net.news.sa" source="459632" target="526743">
+	<data key="topic">net.news.sa</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337071-522527-net.news.sa" source="337071" target="522527">
+	<data key="topic">net.news.sa</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="337071-339772-net.news.sa" source="337071" target="339772">
+	<data key="topic">net.news.sa</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459181-476346-net.news.sa" source="459181" target="476346">
+	<data key="topic">net.news.sa</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459308-339988-net.news.sa" source="459308" target="339988">
+	<data key="topic">net.news.sa</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459308-460178-net.news.sa" source="459308" target="460178">
+	<data key="topic">net.news.sa</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459308-459181-net.news.sa" source="459308" target="459181">
+	<data key="topic">net.news.sa</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459308-476346-net.news.sa" source="459308" target="476346">
+	<data key="topic">net.news.sa</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339190-526743-net.news.sa" source="339190" target="526743">
+	<data key="topic">net.news.sa</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339190-459632-net.news.sa" source="339190" target="459632">
+	<data key="topic">net.news.sa</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459643-339100-net.news.sa" source="459643" target="339100">
+	<data key="topic">net.news.sa</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="459643-339971-net.news.sa" source="459643" target="339971">
+	<data key="topic">net.news.sa</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339772-526743-net.news.sa" source="339772" target="526743">
+	<data key="topic">net.news.sa</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339772-459632-net.news.sa" source="339772" target="459632">
+	<data key="topic">net.news.sa</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339772-339190-net.news.sa" source="339772" target="339190">
+	<data key="topic">net.news.sa</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="685558-338214-net.news.sa" source="685558" target="338214">
+	<data key="topic">net.news.sa</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="685558-459630-net.news.sa" source="685558" target="459630">
+	<data key="topic">net.news.sa</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="342273-471411-net.news.sa" source="342273" target="471411">
+	<data key="topic">net.news.sa</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="560846-522527-net.news.sa" source="560846" target="522527">
+	<data key="topic">net.news.sa</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="560846-339772-net.news.sa" source="560846" target="339772">
+	<data key="topic">net.news.sa</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339971-339100-net.news.sa" source="339971" target="339100">
+	<data key="topic">net.news.sa</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339971-341498-net.news.sa" source="339971" target="341498">
+	<data key="topic">net.news.sa</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="570320-471411-net.news.sa" source="570320" target="471411">
+	<data key="topic">net.news.sa</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="680902-526743-net.news.sa" source="680902" target="526743">
+	<data key="topic">net.news.sa</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="680902-459632-net.news.sa" source="680902" target="459632">
+	<data key="topic">net.news.sa</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="680902-339190-net.news.sa" source="680902" target="339190">
+	<data key="topic">net.news.sa</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

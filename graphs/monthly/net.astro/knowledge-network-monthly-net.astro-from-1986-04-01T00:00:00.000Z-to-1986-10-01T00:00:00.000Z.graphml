@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="1369733"/>
+<node id="484823"/>
+<node id="1130385"/>
+<node id="918813"/>
+<node id="485205"/>
+<node id="1509427"/>
+<node id="593807"/>
+<node id="346243"/>
+<node id="990789"/>
+<node id="339177"/>
+<node id="16591"/>
+<node id="16879"/>
+<edge id="1369733-485205-net.astro" source="1369733" target="485205">
+	<data key="topic">net.astro</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="484823-485205-net.astro" source="484823" target="485205">
+	<data key="topic">net.astro</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="918813-1130385-net.astro" source="918813" target="1130385">
+	<data key="topic">net.astro</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="1509427-1130385-net.astro" source="1509427" target="1130385">
+	<data key="topic">net.astro</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="346243-485205-net.astro" source="346243" target="485205">
+	<data key="topic">net.astro</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="346243-16879-net.astro" source="346243" target="16879">
+	<data key="topic">net.astro</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="990789-1130385-net.astro" source="990789" target="1130385">
+	<data key="topic">net.astro</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="339177-593807-net.astro" source="339177" target="593807">
+	<data key="topic">net.astro</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16591-484823-net.astro" source="16591" target="484823">
+	<data key="topic">net.astro</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16591-485205-net.astro" source="16591" target="485205">
+	<data key="topic">net.astro</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="16879-485205-net.astro" source="16879" target="485205">
+	<data key="topic">net.astro</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>

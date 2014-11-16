@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="topic" for="edge" attr.name="topic" attr.type="string"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="long"/>
+<graph id="KnowledgeNetwork" edgedefault="directed">
+<node id="17489"/>
+<node id="780448"/>
+<node id="791068"/>
+<node id="1464237"/>
+<node id="833460"/>
+<node id="856047"/>
+<node id="611662"/>
+<node id="412963"/>
+<node id="7080"/>
+<node id="833445"/>
+<node id="781089"/>
+<node id="349034"/>
+<node id="833409"/>
+<node id="833442"/>
+<edge id="17489-833442-soc.college" source="17489" target="833442">
+	<data key="topic">soc.college</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="780448-833442-soc.college" source="780448" target="833442">
+	<data key="topic">soc.college</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="791068-780448-soc.college" source="791068" target="780448">
+	<data key="topic">soc.college</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="791068-833442-soc.college" source="791068" target="833442">
+	<data key="topic">soc.college</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="833460-833442-soc.college" source="833460" target="833442">
+	<data key="topic">soc.college</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="856047-412963-soc.college" source="856047" target="412963">
+	<data key="topic">soc.college</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="611662-833442-soc.college" source="611662" target="833442">
+	<data key="topic">soc.college</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7080-17489-soc.college" source="7080" target="17489">
+	<data key="topic">soc.college</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="7080-833442-soc.college" source="7080" target="833442">
+	<data key="topic">soc.college</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="833445-833442-soc.college" source="833445" target="833442">
+	<data key="topic">soc.college</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="781089-1464237-soc.college" source="781089" target="1464237">
+	<data key="topic">soc.college</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="781089-7080-soc.college" source="781089" target="7080">
+	<data key="topic">soc.college</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="781089-349034-soc.college" source="781089" target="349034">
+	<data key="topic">soc.college</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="833409-17489-soc.college" source="833409" target="17489">
+	<data key="topic">soc.college</data>
+	<data key="weight">1</data>
+</edge>
+<edge id="833409-833442-soc.college" source="833409" target="833442">
+	<data key="topic">soc.college</data>
+	<data key="weight">1</data>
+</edge>
+</graph>
+</graphml>
