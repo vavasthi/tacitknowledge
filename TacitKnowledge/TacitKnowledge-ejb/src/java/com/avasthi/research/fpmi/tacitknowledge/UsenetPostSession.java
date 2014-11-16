@@ -5,6 +5,7 @@
  */
 package com.avasthi.research.fpmi.tacitknowledge;
 
+import com.avasthi.research.fpmi.tacitknowledge.common.InterestingPhrase;
 import com.avasthi.research.fpmi.tacitknowledge.common.NetworkEdge;
 import com.avasthi.research.fpmi.tacitknowledge.common.NetworkNode;
 import com.avasthi.research.fpmi.tacitknowledge.common.UsenetPostHeaders;
@@ -13,6 +14,7 @@ import java.io.UnsupportedEncodingException;
 import java.net.URLDecoder;
 import java.net.URLEncoder;
 import java.util.ArrayList;
+import java.util.Calendar;
 import java.util.Date;
 import java.util.HashMap;
 import java.util.HashSet;
@@ -127,43 +129,78 @@ public class UsenetPostSession implements UsenetPostSessionLocal {
         }
         return null;
     }
+
     @Override
-    public Set<NetworkNode> getNetworkNodes(Date from, Date to) {
+    public Set<NetworkNode> getNetworkNodes(Date from, Date to, String topic) {
         Set<NetworkNode> nodes = new HashSet<NetworkNode>();
-        Query q = em.createQuery("select une from UsenetNetworkEdge une where une.dateFrom >= :from and une.dateTo < :to");
+        Query q = em.createQuery("select une from UsenetNetworkEdge une where une.dateFrom >= :from and une.dateTo < :to and une.topic = :topic");
         q.setParameter("from", from);
         q.setParameter("to", to);
-        for(Object o : q.getResultList()) {
-            UsenetNetworkEdge une = (UsenetNetworkEdge)o;
+        q.setParameter("topic", topic);
+        for (Object o : q.getResultList()) {
+            UsenetNetworkEdge une = (UsenetNetworkEdge) o;
             nodes.add(new NetworkNode(une.getFrom().getId(), une.getFrom().getEmail()));
             nodes.add(new NetworkNode(une.getTo().getId(), une.getTo().getEmail()));
         }
         return nodes;
     }
+
     @Override
-    public List<NetworkEdge> getNetworkEdges(Long src, Long tgt, Date from, Date to) {
+    public List<InterestingPhrase> getInterestingPhrasesForNewsgroupForYear(String topic, int year) {
+
+        List<InterestingPhrase> lip = new ArrayList<InterestingPhrase>();
+        Calendar fromDate = Calendar.getInstance();
+        Calendar toDate = Calendar.getInstance();
+        fromDate.set(year, 1, 1, 0, 0, 0);
+        toDate.set(year + 1, 1, 1, 0, 0, 0);
+        Double maxScore = 256.0;
+        {
+            Query q = em.createQuery("select max(iip.score) from IndividualInterestingPhrases iip where iip.fromDate >= :fromDate and iip.toDate < :toDate");
+            q.setParameter("fromDate", fromDate.getTime());
+            q.setParameter("toDate", toDate.getTime());
+            maxScore = (Double) q.getSingleResult();
+
+        }
+        {
+
+            Query q = em.createQuery("select iip.phrase, sum(iip.score) from IndividualInterestingPhrases iip where iip.fromDate >= :fromDate and iip.toDate < :toDate group by iip.phrase");
+            q.setParameter("fromDate", fromDate.getTime());
+            q.setParameter("toDate", toDate.getTime());
+            for (Object[] oa : (List<Object[]>) q.getResultList()) {
+                String phrase = (String) oa[0];
+                Double ns = ((Double) oa[1]) * 40 / maxScore;
+                Long score = ns.longValue();
+                InterestingPhrase ip = new InterestingPhrase(score, phrase);
+                lip.add(ip);
+            }
+        }
+        return lip;
+    }
+
+    @Override
+    public List<NetworkEdge> getNetworkEdges(Long src, Long tgt, Date from, Date to, String topic) {
         Individual source = em.find(Individual.class, src);
         Individual target = em.find(Individual.class, tgt);
         Map<String, NetworkEdge> topicHash = new HashMap<String, NetworkEdge>();
         List<NetworkEdge> edges = new ArrayList<NetworkEdge>();
-        Query q = em.createQuery("select une from UsenetNetworkEdge une where une.dateFrom >= :dateFrom and une.dateTo < :dateTo and une.from = :from and une.to = :to");
+        Query q = em.createQuery("select une from UsenetNetworkEdge une where une.dateFrom >= :dateFrom and une.dateTo < :dateTo and une.from = :from and une.to = :to and une.topic = :topic");
         q.setParameter("dateFrom", from);
         q.setParameter("dateTo", to);
         q.setParameter("from", source);
         q.setParameter("to", target);
-        for(Object o : q.getResultList()) {
-            UsenetNetworkEdge une = (UsenetNetworkEdge)o;
+        q.setParameter("topic", topic);
+        for (Object o : q.getResultList()) {
+            UsenetNetworkEdge une = (UsenetNetworkEdge) o;
             NetworkEdge edge = topicHash.get(une.getTopic());
             if (edge != null) {
                 edge.setCount(edge.getCount() + une.getCount());
-            }
-            else {
-                
-            edge = new NetworkEdge(une.getFrom().getId() + "-" + une.getTo().getId() + "-" + une.getTopic(),
-                            une.getFrom().getId(),
-                            une.getTo().getId(),
-                            une.getTopic(),
-                            une.getCount());
+            } else {
+
+                edge = new NetworkEdge(une.getFrom().getId() + "-" + une.getTo().getId() + "-" + une.getTopic(),
+                        une.getFrom().getId(),
+                        une.getTo().getId(),
+                        une.getTopic(),
+                        une.getCount());
             }
             topicHash.put(une.getTopic(), edge);
         }
@@ -180,11 +217,11 @@ public class UsenetPostSession implements UsenetPostSessionLocal {
             if (post == null) {
                 return null;
             } else {
-                
+
                 Logger.getLogger(UsenetPostSession.class.getName()).log(Level.SEVERE, "Searching message with Id " + id);
                 List<String> references = new ArrayList<String>();
                 if (post.getReferencedPosts() != null) {
-                    
+
                     for (UsenetPostReference upr : post.getReferencedPosts()) {
                         references.add(URLEncoder.encode(upr.getReferenceId(), "UTF-8"));
                     }
@@ -207,6 +244,18 @@ public class UsenetPostSession implements UsenetPostSessionLocal {
     }
 
     @Override
+    public List<String> getTopics() {
+
+        Query q = em.createQuery("select distinct une.topic from UsenetNetworkEdge une");
+        List l = q.getResultList();
+        List<String> result = new ArrayList<String>();
+        for (Object o : l) {
+            result.add((String) o);
+        }
+        return result;
+    }
+
+    @Override
     public Date getMinDateForUser(Long uid) {
         Individual i = em.find(Individual.class, uid);
         Query q = em.createQuery("select min(p.date) from Individual i, UsenetPost p where p.sender = :sender and p.sender = i");
@@ -223,6 +272,7 @@ public class UsenetPostSession implements UsenetPostSessionLocal {
         Date minDate = (Date) q.getSingleResult();
         return minDate;
     }
+
     @Override
     public Date getMinDate() {
         Query q = em.createQuery("select min(p.date) from UsenetPost p");

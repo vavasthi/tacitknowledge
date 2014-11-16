@@ -18,8 +18,8 @@
     </target>
     <target name="wsimport-client-UsenetPostWebService" depends="wsimport-init">
         <mkdir dir="${build.generated.dir}/jax-wsCache/UsenetPostWebService"/>
-        <property name="wsdl-UsenetPostWebService" location="xml-resources/web-service-references/UsenetPostWebService/wsdl/localhost_8080/TacitKnowledge-war/UsenetPostWebService.wsdl"/>
-        <wsimport sourcedestdir="${build.generated.dir}/jax-wsCache/UsenetPostWebService" destdir="${build.generated.dir}/jax-wsCache/UsenetPostWebService" wsdl="${wsdl-UsenetPostWebService}" catalog="catalog.xml" encoding="${source.encoding}" extension="true" verbose="true" fork="false" wsdlLocation="http://localhost:8080/TacitKnowledge-war/UsenetPostWebService?wsdl" xnocompile="true" xendorsed="true" package="com.avasthi.research.fpmi.tacitknowledge.contentparsers.ws.client">
+        <property name="wsdl-UsenetPostWebService" location="xml-resources/web-service-references/UsenetPostWebService/wsdl/localhost_8080/web/UsenetPostWebService.wsdl"/>
+        <wsimport sourcedestdir="${build.generated.dir}/jax-wsCache/UsenetPostWebService" destdir="${build.generated.dir}/jax-wsCache/UsenetPostWebService" wsdl="${wsdl-UsenetPostWebService}" catalog="catalog.xml" encoding="${source.encoding}" extension="true" verbose="true" fork="false" wsdlLocation="http://localhost:8080/web/UsenetPostWebService?wsdl" xnocompile="true" xendorsed="true" package="com.avasthi.research.fpmi.tacitknowledge.contentparsers.ws.client">
             <depends file="${wsdl-UsenetPostWebService}"/>
             <produces dir="${build.generated.dir}/jax-wsCache/UsenetPostWebService"/>
         </wsimport>

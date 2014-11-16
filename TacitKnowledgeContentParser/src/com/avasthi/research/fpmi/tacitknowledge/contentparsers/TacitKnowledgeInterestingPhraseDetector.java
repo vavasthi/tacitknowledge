@@ -7,13 +7,15 @@
 package com.avasthi.research.fpmi.tacitknowledge.contentparsers;
 
 import com.aliasi.lm.TokenizedLM;
+import com.aliasi.tokenizer.EnglishStopTokenizerFactory;
 import com.aliasi.tokenizer.IndoEuropeanTokenizerFactory;
+import com.aliasi.tokenizer.LowerCaseTokenizerFactory;
+import com.aliasi.tokenizer.PorterStemmerTokenizerFactory;
 import com.aliasi.tokenizer.TokenizerFactory;
+import com.aliasi.tokenizer.WhitespaceNormTokenizerFactory;
 import com.aliasi.util.ScoredObject;
-import java.io.File;
 import java.io.IOException;
 import java.util.SortedSet;
-import com.aliasi.util.Files;
 
 /**
  *
@@ -30,6 +32,10 @@ public class TacitKnowledgeInterestingPhraseDetector {
 
     public TacitKnowledgeInterestingPhraseDetector() {
         TokenizerFactory tokenizerFactory = IndoEuropeanTokenizerFactory.INSTANCE;
+        tokenizerFactory = new WhitespaceNormTokenizerFactory(tokenizerFactory);
+        tokenizerFactory = new LowerCaseTokenizerFactory(tokenizerFactory);
+        tokenizerFactory = new EnglishStopTokenizerFactory(tokenizerFactory);
+        tokenizerFactory = new PorterStemmerTokenizerFactory(tokenizerFactory);
         model = new TokenizedLM(tokenizerFactory, NGRAM);
     }
     /**
@@ -75,15 +81,6 @@ public class TacitKnowledgeInterestingPhraseDetector {
             accum += " "+toks[j];
         }
         System.out.println("Score: "+score+" with :"+accum);
-    }
-
-    private boolean nonCapWord(String tok) {
-        if (!Character.isUpperCase(tok.charAt(0)))
-            return true;
-        for (int i = 1; i < tok.length(); ++i) 
-            if (!Character.isLowerCase(tok.charAt(i))) 
-                return true;
-        return false;
     }
 
 }

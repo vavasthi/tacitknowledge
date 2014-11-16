@@ -123,7 +123,10 @@ public class TacitKnowledgeContentParser {
             + "your|"
             + "yours|"
             + "yourself|"
-            + "yourselves)" + "\\b";
+            + "yourselves|"
+            + "newsgroup|"
+            + "subscribe|"
+            + "list|)" + "\\b\\s*";
 
     private TacitKnowledgeContentParser(String base, String email) {
         base_ = base;
@@ -157,17 +160,12 @@ public class TacitKnowledgeContentParser {
 
     void parse() {
 
-        File base = new File(base_);
         UsenetPostWebService_Service service = new UsenetPostWebService_Service();
         UsenetPostWebService ws = service.getUsenetPostWebServicePort();
         List<Long> userIdList = ws.listIndividualIds();
         System.out.println("Found user ids :" + userIdList.size());
         for (Long uid : userIdList) {
             try {
-                File userDir = new File(base, "" + uid);
-                if (!userDir.isDirectory()) {
-                    userDir.mkdirs();
-                }
                 int noMsgs = 0;
                 System.out.println("Searching " + " for user id " + uid);
                 XMLGregorianCalendar fromMin = ws.getMinDateForUser(uid);
@@ -192,14 +190,17 @@ public class TacitKnowledgeContentParser {
                     List<String> messageIdList = ws.listMessageIds(uid, from, to);
                     System.out.println("Found " + messageIdList.size() + " message Ids" + " for user id " + uid + " between dates " + from.toString() + " and " + to.toString());
                     for (String mid : messageIdList) {
-                        FileWriter fw = null;
                         try {
-//                            File msgFile = new File(userDir, mid);
-//                            fw = new FileWriter(msgFile);
                             String body = URLDecoder.decode(ws.getMessageBody(mid), "UTF-8");
                             body = body.toLowerCase();
-                            body = body.replaceAll("[^a-z0-9@ ]", "");
-                            body = body.replaceAll(exceptionWordPattern_, "");
+                            body = body.replaceAll("[^a-z0-9]+", " ");
+                            body = body.replaceAll("[\\s*\\p{Punct}]+\\s*", " ");
+                            body = body.replaceAll("[\\s*\\p{Cntrl}]+\\s*", " ");
+                            body = body.replaceAll("\\s*\\b[a-z]\\b\\s*", " ");
+                            body = body.replaceAll("\\s*\\b[0-9]+\\b\\s*", " ");
+                            body = body.replaceAll(exceptionWordPattern_, " ");
+                            body = body.replaceAll("\\s+", " ");
+                            body = body.trim();
                             ipd.incrementalTrain(body);
                             ++noMsgs;
                             if (noMsgs == 200) {
@@ -220,7 +221,7 @@ public class TacitKnowledgeContentParser {
                     }
                     List<UsenetPostPhraseScore> ppsList = new ArrayList<UsenetPostPhraseScore>();
                     ipd.model.sequenceCounter().prune(3);
-                    for (int i = 1; i < 5; ++i) {
+                    for (int i = 1; i < 3; ++i) {
                         SortedSet< ScoredObject<String[]>> sso;
                         sso = ipd.model.frequentTermSet(i, 100);
                         String sep1 = " ";
@@ -234,7 +235,7 @@ public class TacitKnowledgeContentParser {
                                 sep = sep1;
                             }
                             UsenetPostPhraseScore pps = new UsenetPostPhraseScore();
-                            pps.setPhrase(phrase);
+                            pps.setPhrase(phrase.trim());
                             pps.setScore(so.score());
                             pps.setPhraseLength(i);
                             ppsList.add(pps);

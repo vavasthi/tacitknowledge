@@ -5,6 +5,7 @@
  */
 package com.avasthi.research.fpmi.tacitknowledge;
 
+import com.avasthi.research.fpmi.tacitknowledge.common.InterestingPhrase;
 import com.avasthi.research.fpmi.tacitknowledge.common.NetworkEdge;
 import com.avasthi.research.fpmi.tacitknowledge.common.NetworkNode;
 import com.avasthi.research.fpmi.tacitknowledge.common.UsenetNetworkEdgeMessage;
@@ -41,8 +42,9 @@ public interface UsenetPostSessionLocal {
 
     void insertPhrases(long userid, Date from, Date to, List<UsenetPostPhraseScore> ppsList);
     UsenetPostHeaders getPost(String id);
-    Set<NetworkNode> getNetworkNodes(Date from, Date to);
-    List<NetworkEdge> getNetworkEdges(Long src, Long tgt, Date from, Date to);
-    
+    Set<NetworkNode> getNetworkNodes(Date from, Date to, String topic);
+    List<NetworkEdge> getNetworkEdges(Long src, Long tgt, Date from, Date to, String topic);
+    List<String> getTopics();  
 
+    List<InterestingPhrase> getInterestingPhrasesForNewsgroupForYear(String topic, int year);
 }

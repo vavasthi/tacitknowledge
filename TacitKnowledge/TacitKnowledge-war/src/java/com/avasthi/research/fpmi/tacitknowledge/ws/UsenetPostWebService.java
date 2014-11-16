@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-
 package com.avasthi.research.fpmi.tacitknowledge.ws;
 
 import com.avasthi.research.fpmi.tacitknowledge.UsenetPost;
 import com.avasthi.research.fpmi.tacitknowledge.UsenetPostSessionLocal;
+import com.avasthi.research.fpmi.tacitknowledge.common.InterestingPhrase;
 import com.avasthi.research.fpmi.tacitknowledge.common.NetworkEdge;
 import com.avasthi.research.fpmi.tacitknowledge.common.NetworkNode;
 import com.avasthi.research.fpmi.tacitknowledge.common.UsenetPostHeaders;
@@ -110,13 +110,23 @@ public class UsenetPostWebService {
     }
 
     @WebMethod(operationName = "getNetworkNodes")
-    public Set<NetworkNode> getNetworkNodes(@WebParam(name = "from") Date from, @WebParam(name = "to") Date to) {
-        return ejbRef.getNetworkNodes(from, to);
+    public Set<NetworkNode> getNetworkNodes(@WebParam(name = "from") Date from, @WebParam(name = "to") Date to, @WebParam(name = "topic") String topic) {
+        return ejbRef.getNetworkNodes(from, to, topic);
     }
 
     @WebMethod(operationName = "getNetworkEdges")
-    public List<NetworkEdge> getNetworkEdges(@WebParam(name = "src") Long src, @WebParam(name = "tgt") Long tgt, @WebParam(name = "from") Date from, @WebParam(name = "to") Date to) {
-        return ejbRef.getNetworkEdges(src, tgt, from, to);
+    public List<NetworkEdge> getNetworkEdges(@WebParam(name = "src") Long src, @WebParam(name = "tgt") Long tgt, @WebParam(name = "from") Date from, @WebParam(name = "to") Date to, @WebParam(name = "topic") String topic) {
+        return ejbRef.getNetworkEdges(src, tgt, from, to, topic);
+    }
+
+    @WebMethod(operationName = "getTopics")
+    public List<String> getTopics() {
+        return ejbRef.getTopics();
+    }
+
+    @WebMethod(operationName = "getInterestingPhrasesForNewsgroupForYear")
+    public List<InterestingPhrase> getInterestingPhrasesForNewsgroupForYear(@WebParam(name = "topic") String topic, @WebParam(name = "year") int year) {
+        return ejbRef.getInterestingPhrasesForNewsgroupForYear(topic, year);
     }
     
 }

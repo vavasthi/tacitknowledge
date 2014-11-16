@@ -12,6 +12,8 @@ import java.util.Date;
 import java.util.StringTokenizer;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 /**
  *
@@ -104,11 +106,27 @@ public class TemporaryTesting {
     public static void main(String[] args) {
         // TODO code application logic here
         
+        String str0 = "93what 93 where93 94 93where94";
+        System.out.println(str0.replaceAll("\\b[0-9]+\\b", ""));
         String str1 = "This, is, a,new, String";
-        StringTokenizer st = new StringTokenizer(str1, ", ");
+        StringTokenizer st = new StringTokenizer(str1, ", ");        
         while (st.hasMoreTokens()) {
             System.out.println(st.nextToken());
         }
+        System.out.println("============================");
+        Pattern p = Pattern.compile("[\\p{Punct}]");
+
+        Matcher m = p.matcher("One day! when I was walking. I found your pants? just kidding...");
+        System.out.println(new String("One day! when I was walking. I found your pants? just kidding...").replaceAll("[\\p{Punct}]", ""));
+        int count = 0;
+        while (m.find()) {
+            count++;
+            System.out.println("\nMatch number: " + count);
+            System.out.println("start() : " + m.start());
+            System.out.println("end()   : " + m.end());
+            System.out.println("group() : " + m.group());
+        }        
+        System.out.println("============================");
         String test1 = "<This is an interesting stirng>";
         String test2 = "<this is an interesting stirng>";
         String test3 = "this ee";

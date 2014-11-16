@@ -42,6 +42,10 @@
 
   <xs:element name="getPostResponse" type="tns:getPostResponse"/>
 
+  <xs:element name="getTopics" type="tns:getTopics"/>
+
+  <xs:element name="getTopicsResponse" type="tns:getTopicsResponse"/>
+
   <xs:element name="individual" type="tns:individual"/>
 
   <xs:element name="insertPhrases" type="tns:insertPhrases"/>
@@ -131,10 +135,21 @@
     </xs:sequence>
   </xs:complexType>
 
+  <xs:complexType name="getTopics">
+    <xs:sequence/>
+  </xs:complexType>
+
+  <xs:complexType name="getTopicsResponse">
+    <xs:sequence>
+      <xs:element maxOccurs="unbounded" minOccurs="0" name="return" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+
   <xs:complexType name="getNetworkNodes">
     <xs:sequence>
       <xs:element minOccurs="0" name="from" type="xs:dateTime"/>
       <xs:element minOccurs="0" name="to" type="xs:dateTime"/>
+      <xs:element minOccurs="0" name="topic" type="xs:string"/>
     </xs:sequence>
   </xs:complexType>
 
@@ -157,6 +172,7 @@
       <xs:element minOccurs="0" name="tgt" type="xs:long"/>
       <xs:element minOccurs="0" name="from" type="xs:dateTime"/>
       <xs:element minOccurs="0" name="to" type="xs:dateTime"/>
+      <xs:element minOccurs="0" name="topic" type="xs:string"/>
     </xs:sequence>
   </xs:complexType>
 
@@ -380,6 +396,10 @@
     <wsdl:part element="tns:getMinDate" name="parameters">
     </wsdl:part>
   </wsdl:message>
+  <wsdl:message name="getTopics">
+    <wsdl:part element="tns:getTopics" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
   <wsdl:message name="getNetworkNodes">
     <wsdl:part element="tns:getNetworkNodes" name="parameters">
     </wsdl:part>
@@ -428,6 +448,10 @@
     <wsdl:part element="tns:listIndividualIds" name="parameters">
     </wsdl:part>
   </wsdl:message>
+  <wsdl:message name="getTopicsResponse">
+    <wsdl:part element="tns:getTopicsResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
   <wsdl:message name="getMinDateForUserResponse">
     <wsdl:part element="tns:getMinDateForUserResponse" name="parameters">
     </wsdl:part>
@@ -449,6 +473,12 @@
       <wsdl:input message="tns:listUsenetPosts_1" name="listUsenetPosts_1">
     </wsdl:input>
       <wsdl:output message="tns:listUsenetPosts_1Response" name="listUsenetPosts_1Response">
+    </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getTopics">
+      <wsdl:input message="tns:getTopics" name="getTopics">
+    </wsdl:input>
+      <wsdl:output message="tns:getTopicsResponse" name="getTopicsResponse">
     </wsdl:output>
     </wsdl:operation>
     <wsdl:operation name="getNetworkNodes">
@@ -552,6 +582,15 @@
         <soap:body use="literal"/>
       </wsdl:input>
       <wsdl:output name="getMinDateResponse">
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getTopics">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="getTopics">
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="getTopicsResponse">
         <soap:body use="literal"/>
       </wsdl:output>
     </wsdl:operation>
