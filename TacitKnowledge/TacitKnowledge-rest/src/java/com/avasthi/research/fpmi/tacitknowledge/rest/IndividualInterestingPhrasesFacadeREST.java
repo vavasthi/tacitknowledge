@@ -5,9 +5,11 @@
  */
 package com.avasthi.research.fpmi.tacitknowledge.rest;
 
-import com.avasthi.research.fpmi.tacitknowledge.ws.InterestingPhrase;
+import com.avasthi.research.fpmi.tacitknowledge.common.InterestingPhrase;
 import com.avasthi.research.fpmi.tacitknowledge.ws.UsenetPostWebService;
 import com.avasthi.research.fpmi.tacitknowledge.ws.UsenetPostWebService_Service;
+import java.util.List;
+import java.util.Vector;
 import java.util.logging.Logger;
 import javax.ejb.Stateless;
 import javax.ws.rs.GET;
@@ -33,11 +35,18 @@ public class IndividualInterestingPhrasesFacadeREST {
     @GET
     @Path("{topic}/{year}")
     @Produces({"application/xml", "application/json"})
-    public java.util.List<InterestingPhrase> find(@PathParam("topic") String topic, @PathParam("year") int year) {
+    public InterestingPhrase[] find(@PathParam("topic") String topic, @PathParam("year") int year) {
 
         LOG.info("The topic is " + topic + " for the year " + year);
         UsenetPostWebService port = service.getUsenetPostWebServicePort();
-        return port.getInterestingPhrasesForNewsgroupForYear(topic, year);
+        List<com.avasthi.research.fpmi.tacitknowledge.ws.InterestingPhrase> lwsip
+                = port.getInterestingPhrasesForNewsgroupForYear(topic, year);
+        Vector<InterestingPhrase> lip = new Vector<InterestingPhrase>(lwsip.size());
+        int i = 0;
+        for (com.avasthi.research.fpmi.tacitknowledge.ws.InterestingPhrase wsip : lwsip) {
+            lip.add(new InterestingPhrase(wsip.getWeight(), wsip.getName()));
+        }
+        return lip.toArray(new InterestingPhrase[lwsip.size()]);
     }
     private static final Logger LOG = Logger.getLogger(IndividualInterestingPhrasesFacadeREST.class.getName());
     

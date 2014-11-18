@@ -8,7 +8,6 @@ package com.avasthi.research.fpmi.tacitknowledge;
 import com.avasthi.research.fpmi.tacitknowledge.common.InterestingPhrase;
 import com.avasthi.research.fpmi.tacitknowledge.common.NetworkEdge;
 import com.avasthi.research.fpmi.tacitknowledge.common.NetworkNode;
-import com.avasthi.research.fpmi.tacitknowledge.common.UsenetNetworkEdgeMessage;
 import com.avasthi.research.fpmi.tacitknowledge.common.UsenetPostHeaders;
 import com.avasthi.research.fpmi.tacitknowledge.common.UsenetPostPhraseScore;
 import java.util.Date;

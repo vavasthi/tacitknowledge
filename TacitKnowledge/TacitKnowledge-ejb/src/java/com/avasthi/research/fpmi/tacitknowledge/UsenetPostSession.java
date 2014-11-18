@@ -14,7 +14,6 @@ import java.io.UnsupportedEncodingException;
 import java.net.URLDecoder;
 import java.net.URLEncoder;
 import java.util.ArrayList;
-import java.util.Calendar;
 import java.util.Date;
 import java.util.HashMap;
 import java.util.HashSet;
@@ -149,23 +148,19 @@ public class UsenetPostSession implements UsenetPostSessionLocal {
     public List<InterestingPhrase> getInterestingPhrasesForNewsgroupForYear(String topic, int year) {
 
         List<InterestingPhrase> lip = new ArrayList<InterestingPhrase>();
-        Calendar fromDate = Calendar.getInstance();
-        Calendar toDate = Calendar.getInstance();
-        fromDate.set(year, 1, 1, 0, 0, 0);
-        toDate.set(year + 1, 1, 1, 0, 0, 0);
         Double maxScore = 256.0;
         {
-            Query q = em.createQuery("select max(iip.score) from IndividualInterestingPhrases iip where iip.fromDate >= :fromDate and iip.toDate < :toDate");
-            q.setParameter("fromDate", fromDate.getTime());
-            q.setParameter("toDate", toDate.getTime());
+            Query q = em.createQuery("select max(iip.score) from IndividualInterestingPhrases iip where year(iip.fromDate) = :year and iip.topic = :topic");
+            q.setParameter("year", year);
+            q.setParameter("topic", topic);
             maxScore = (Double) q.getSingleResult();
 
         }
         {
 
-            Query q = em.createQuery("select iip.phrase, sum(iip.score) from IndividualInterestingPhrases iip where iip.fromDate >= :fromDate and iip.toDate < :toDate group by iip.phrase");
-            q.setParameter("fromDate", fromDate.getTime());
-            q.setParameter("toDate", toDate.getTime());
+            Query q = em.createQuery("select iip.phrase, sum(iip.score) from IndividualInterestingPhrases iip where year(iip.fromDate) = :year and iip.topic = :topic group by iip.phrase");
+            q.setParameter("year", year);
+            q.setParameter("topic", topic);
             for (Object[] oa : (List<Object[]>) q.getResultList()) {
                 String phrase = (String) oa[0];
                 Double ns = ((Double) oa[1]) * 40 / maxScore;

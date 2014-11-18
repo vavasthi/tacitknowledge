@@ -52,6 +52,9 @@ public class IndividualInterestingPhrases implements Serializable {
     @Size(max = 255)
     @Column(name = "phrase")
     private String phrase;
+    @Size(max = 255)
+    @Column(name = "topic")
+    private String topic;
     // @Max(value=?)  @Min(value=?)//if you know range of your decimal fields consider using these annotations to enforce field validation
     @Column(name = "score")
     private Double score;
@@ -107,6 +110,14 @@ public class IndividualInterestingPhrases implements Serializable {
 
     public void setPhrase(String phrase) {
         this.phrase = phrase;
+    }
+
+    public String getTopic() {
+        return topic;
+    }
+
+    public void setTopic(String phrase) {
+        this.topic = topic;
     }
 
     public Double getScore() {
