@@ -42,16 +42,37 @@ public class TacitKnowledgeWordCloud extends HttpServlet {
         response.setContentType("text/html;charset=UTF-8");
         try (PrintWriter out = response.getWriter()) {
             /* TODO output your page here. You may use following sample code. */
+            String topic = request.getParameter("topic");
+            if (topic == null) {
+                topic = "sci.physics";
+            }
+            String syear = request.getParameter("year");
+            int year = 2003;
+            if (syear != null) {
+                year = Integer.parseInt(syear);
+            }
+            String smonth = request.getParameter("month");
+            int month = 1;
+            if (smonth != null) {
+                month = Integer.parseInt(smonth);
+            }
+            String url = "/rest/phrases/" + topic + "/" + year + "/" + month;
             out.println("<!DOCTYPE html>");
+            out.println("<meta charset=\"utf-8\">");
             out.println("<html>");
             out.println("<head>");
-            out.println("<title>Servlet TacitKnowledgeWordCloud</title>");            
+            out.println("<title>Servlet TacitKnowledgeWordCloud</title>");
             out.println("</head>");
-            out.println("<body>");
-            out.println("<h1>Servlet TacitKnowledgeWordCloud at " + request.getContextPath() + "</h1>");
+            out.println("<body style=\"margin:100px\">");
+            out.println("<script src=\"d3-cloud/lib/d3/d3.js\"></script>");
+            out.println("<script src=\"d3-cloud/d3.layout.cloud.js\"></script>");
+            out.println("<script src=\"createWordMap.js\"></script>");
+            out.println("<script>");
+            out.println("createWordMap(\"" + url + "\");");
+            out.println("</script>");
             out.println("</body>");
             out.println("</html>");
-            
+
         }
     }
 
@@ -93,6 +114,5 @@ public class TacitKnowledgeWordCloud extends HttpServlet {
     public String getServletInfo() {
         return "Short description";
     }// </editor-fold>
-
 
 }

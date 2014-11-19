@@ -33,19 +33,20 @@ public class IndividualInterestingPhrasesFacadeREST {
     }
 
     @GET
-    @Path("{topic}/{year}")
+    @Path("{topic}/{year}/{month}")
     @Produces({"application/xml", "application/json"})
-    public InterestingPhrase[] find(@PathParam("topic") String topic, @PathParam("year") int year) {
+    public InterestingPhrase[] find(@PathParam("topic") String topic, @PathParam("year") int year, @PathParam("month") int month) {
 
-        LOG.info("The topic is " + topic + " for the year " + year);
+        LOG.info("The topic is " + topic + " for the year " + year + " and month " + month);
         UsenetPostWebService port = service.getUsenetPostWebServicePort();
         List<com.avasthi.research.fpmi.tacitknowledge.ws.InterestingPhrase> lwsip
-                = port.getInterestingPhrasesForNewsgroupForYear(topic, year);
+                = port.getInterestingPhrasesForNewsgroupForYear(topic, year, month);
         Vector<InterestingPhrase> lip = new Vector<InterestingPhrase>(lwsip.size());
         int i = 0;
         for (com.avasthi.research.fpmi.tacitknowledge.ws.InterestingPhrase wsip : lwsip) {
-            lip.add(new InterestingPhrase(wsip.getWeight(), wsip.getName()));
+            lip.add(new InterestingPhrase(wsip.getSentiment(), wsip.getWord()));
         }
+        LOG.info("Total words found =" + lip.size());
         return lip.toArray(new InterestingPhrase[lwsip.size()]);
     }
     private static final Logger LOG = Logger.getLogger(IndividualInterestingPhrasesFacadeREST.class.getName());

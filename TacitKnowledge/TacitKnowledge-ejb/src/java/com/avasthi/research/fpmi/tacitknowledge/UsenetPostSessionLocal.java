@@ -45,5 +45,5 @@ public interface UsenetPostSessionLocal {
     List<NetworkEdge> getNetworkEdges(Long src, Long tgt, Date from, Date to, String topic);
     List<String> getTopics();  
 
-    List<InterestingPhrase> getInterestingPhrasesForNewsgroupForYear(String topic, int year);
+    List<InterestingPhrase> getInterestingPhrasesForNewsgroupForYear(String topic, int year, int month);
 }

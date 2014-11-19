@@ -145,28 +145,32 @@ public class UsenetPostSession implements UsenetPostSessionLocal {
     }
 
     @Override
-    public List<InterestingPhrase> getInterestingPhrasesForNewsgroupForYear(String topic, int year) {
+    public List<InterestingPhrase> getInterestingPhrasesForNewsgroupForYear(String topic, int year, int month) {
 
         List<InterestingPhrase> lip = new ArrayList<InterestingPhrase>();
-        Double maxScore = 256.0;
-        {
-            Query q = em.createQuery("select max(iip.score) from IndividualInterestingPhrases iip where year(iip.fromDate) = :year and iip.topic = :topic");
-            q.setParameter("year", year);
-            q.setParameter("topic", topic);
-            maxScore = (Double) q.getSingleResult();
-
-        }
+        Double maxScore = 0.0;
         {
 
-            Query q = em.createQuery("select iip.phrase, sum(iip.score) from IndividualInterestingPhrases iip where year(iip.fromDate) = :year and iip.topic = :topic group by iip.phrase");
+            Query q = em.createQuery("select iip.phrase, sum(iip.score) from IndividualInterestingPhrases iip where year(iip.fromDate) = :year and month(iip.fromDate) = :month  and iip.topic = :topic group by iip.phrase");
             q.setParameter("year", year);
+            q.setParameter("month", month);
             q.setParameter("topic", topic);
-            for (Object[] oa : (List<Object[]>) q.getResultList()) {
+            List<Object[]> resultList = (List<Object[]>) q.getResultList();
+            for (Object[] oa : resultList) {
+                Double ns = ((Double) oa[1]);
+                // Find the max value of the score.
+                if (ns > maxScore) {
+                    maxScore = ns;
+                }
+            }            
+            for (Object[] oa : resultList) {
                 String phrase = (String) oa[0];
-                Double ns = ((Double) oa[1]) * 40 / maxScore;
-                Long score = ns.longValue();
-                InterestingPhrase ip = new InterestingPhrase(score, phrase);
-                lip.add(ip);
+                Double ns = ((Double) oa[1]);
+                if (ns > 50) {
+
+                    InterestingPhrase ip = new InterestingPhrase(ns / maxScore, phrase);
+                    lip.add(ip);
+                }
             }
         }
         return lip;

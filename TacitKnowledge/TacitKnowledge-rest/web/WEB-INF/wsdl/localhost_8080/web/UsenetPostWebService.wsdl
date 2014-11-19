@@ -308,6 +308,7 @@
     <xs:sequence>
       <xs:element minOccurs="0" name="topic" type="xs:string"/>
       <xs:element name="year" type="xs:int"/>
+      <xs:element name="month" type="xs:int"/>
     </xs:sequence>
   </xs:complexType>
 
@@ -319,8 +320,8 @@
 
   <xs:complexType name="interestingPhrase">
     <xs:sequence>
-      <xs:element minOccurs="0" name="name" type="xs:string"/>
-      <xs:element minOccurs="0" name="weight" type="xs:long"/>
+      <xs:element minOccurs="0" name="sentiment" type="xs:double"/>
+      <xs:element minOccurs="0" name="word" type="xs:string"/>
     </xs:sequence>
   </xs:complexType>
 

@@ -125,8 +125,8 @@ public class UsenetPostWebService {
     }
 
     @WebMethod(operationName = "getInterestingPhrasesForNewsgroupForYear")
-    public List<InterestingPhrase> getInterestingPhrasesForNewsgroupForYear(@WebParam(name = "topic") String topic, @WebParam(name = "year") int year) {
-        return ejbRef.getInterestingPhrasesForNewsgroupForYear(topic, year);
+    public List<InterestingPhrase> getInterestingPhrasesForNewsgroupForYear(@WebParam(name = "topic") String topic, @WebParam(name = "year") int year, @WebParam(name = "month") int month) {
+        return ejbRef.getInterestingPhrasesForNewsgroupForYear(topic, year, month);
     }
     
 }

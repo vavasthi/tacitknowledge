@@ -14,13 +14,13 @@ import java.util.Objects;
  * @author vavasthi
  */
 public class InterestingPhrase implements Serializable {
-    private Long weight;
-    private String phrase;
+    private Double sentiment;
+    private String word;
 
     @Override
     public int hashCode() {
         int hash = 3;
-        hash = 37 * hash + Objects.hashCode(this.weight);
+        hash = 37 * hash + Objects.hashCode(this.sentiment);
         return hash;
     }
 
@@ -33,7 +33,7 @@ public class InterestingPhrase implements Serializable {
             return false;
         }
         final InterestingPhrase other = (InterestingPhrase) obj;
-        if (!Objects.equals(this.weight, other.weight)) {
+        if (!Objects.equals(this.sentiment, other.sentiment)) {
             return false;
         }
         return true;
@@ -42,23 +42,23 @@ public class InterestingPhrase implements Serializable {
         
     }
 
-    public InterestingPhrase(Long id, String name) {
-        this.weight = id;
-        this.phrase = name;
+    public InterestingPhrase(Double sentiment, String word) {
+        this.sentiment = sentiment;
+        this.word = word;
     }
-    public Long getWeight() {
-        return weight;
-    }
-
-    public void setWeight(Long weight) {
-        this.weight = weight;
+    public Double getSentiment() {
+        return sentiment;
     }
 
-    public String getName() {
-        return phrase;
+    public void setSentiment(Double sentiment) {
+        this.sentiment = sentiment;
     }
 
-    public void setName(String name) {
-        this.phrase = name;
+    public String getWord() {
+        return word;
+    }
+
+    public void setWord(String word) {
+        this.word = word;
     }
 }
