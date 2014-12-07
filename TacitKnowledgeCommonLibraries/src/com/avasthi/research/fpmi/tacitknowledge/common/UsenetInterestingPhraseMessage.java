@@ -19,6 +19,7 @@ public class UsenetInterestingPhraseMessage implements Serializable {
     long uid;
     Date from;
     Date to;
+    String topic;
     List<UsenetPostPhraseScore> ppsList;
 
     public long getUid() {
@@ -43,6 +44,14 @@ public class UsenetInterestingPhraseMessage implements Serializable {
 
     public void setTo(Date to) {
         this.to = to;
+    }
+
+    public String getTopic() {
+        return topic;
+    }
+
+    public void setTopic(String topic) {
+        this.topic = topic;
     }
 
     public List<UsenetPostPhraseScore> getPpsList() {

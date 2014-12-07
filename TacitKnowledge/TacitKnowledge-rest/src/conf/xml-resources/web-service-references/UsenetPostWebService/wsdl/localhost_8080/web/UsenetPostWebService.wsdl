@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?><wsdl:definitions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:tns="http://ws.tacitknowledge.fpmi.research.avasthi.com/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:ns1="http://schemas.xmlsoap.org/soap/http" name="UsenetPostWebService" targetNamespace="http://ws.tacitknowledge.fpmi.research.avasthi.com/">
+<?xml version='1.0' encoding='UTF-8'?><wsdl:definitions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:tns="http://ws.contentparsers.tacitknowledge.fpmi.research.avasthi.com/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:ns1="http://schemas.xmlsoap.org/soap/http" name="UsenetPostWebService" targetNamespace="http://ws.contentparsers.tacitknowledge.fpmi.research.avasthi.com/">
   <wsdl:types>
-<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://ws.tacitknowledge.fpmi.research.avasthi.com/" elementFormDefault="unqualified" targetNamespace="http://ws.tacitknowledge.fpmi.research.avasthi.com/" version="1.0">
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://ws.contentparsers.tacitknowledge.fpmi.research.avasthi.com/" elementFormDefault="unqualified" targetNamespace="http://ws.contentparsers.tacitknowledge.fpmi.research.avasthi.com/" version="1.0">
 
   <xs:element name="countUsenetPosts" type="tns:countUsenetPosts"/>
 
@@ -46,6 +46,10 @@
 
   <xs:element name="getPostResponse" type="tns:getPostResponse"/>
 
+  <xs:element name="getRelevantTopics" type="tns:getRelevantTopics"/>
+
+  <xs:element name="getRelevantTopicsResponse" type="tns:getRelevantTopicsResponse"/>
+
   <xs:element name="getTopics" type="tns:getTopics"/>
 
   <xs:element name="getTopicsResponse" type="tns:getTopicsResponse"/>
@@ -72,37 +76,41 @@
 
   <xs:element name="updateMessageId" type="tns:updateMessageId"/>
 
+  <xs:element name="upgradeTable" type="tns:upgradeTable"/>
+
   <xs:element name="usenetPost" type="tns:usenetPost"/>
 
-  <xs:complexType name="listMessageIds">
+  <xs:complexType name="countUsenetPosts_1">
+    <xs:sequence/>
+  </xs:complexType>
+
+  <xs:complexType name="countUsenetPosts_1Response">
     <xs:sequence>
-      <xs:element name="id" type="xs:long"/>
-      <xs:element minOccurs="0" name="from" type="xs:dateTime"/>
-      <xs:element minOccurs="0" name="to" type="xs:dateTime"/>
+      <xs:element name="return" type="xs:int"/>
     </xs:sequence>
   </xs:complexType>
 
-  <xs:complexType name="listMessageIdsResponse">
+  <xs:complexType name="getRelevantTopics">
+    <xs:sequence>
+      <xs:element name="uid" type="xs:long"/>
+      <xs:element minOccurs="0" name="dateFrom" type="xs:dateTime"/>
+      <xs:element minOccurs="0" name="dateTo" type="xs:dateTime"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="getRelevantTopicsResponse">
     <xs:sequence>
       <xs:element maxOccurs="unbounded" minOccurs="0" name="return" type="xs:string"/>
     </xs:sequence>
   </xs:complexType>
 
-  <xs:complexType name="getMinDate">
-    <xs:sequence/>
-  </xs:complexType>
-
-  <xs:complexType name="getMinDateResponse">
+  <xs:complexType name="listUsenetPosts">
     <xs:sequence>
-      <xs:element minOccurs="0" name="return" type="xs:dateTime"/>
+      <xs:element minOccurs="0" name="email" type="xs:string"/>
     </xs:sequence>
   </xs:complexType>
 
-  <xs:complexType name="listUsenetPosts_1">
-    <xs:sequence/>
-  </xs:complexType>
-
-  <xs:complexType name="listUsenetPosts_1Response">
+  <xs:complexType name="listUsenetPostsResponse">
     <xs:sequence>
       <xs:element maxOccurs="unbounded" minOccurs="0" name="return" type="tns:usenetPost"/>
     </xs:sequence>
@@ -119,12 +127,20 @@
       <xs:element minOccurs="0" name="newsGroup" type="xs:string"/>
       <xs:element name="noLines" type="xs:int"/>
       <xs:element maxOccurs="unbounded" minOccurs="0" name="referencedPosts" nillable="true" type="tns:usenetPostReference"/>
+      <xs:element maxOccurs="unbounded" minOccurs="0" name="referencedTopics" nillable="true" type="tns:usenetTopic"/>
       <xs:element minOccurs="0" name="sender" type="tns:individual"/>
       <xs:element minOccurs="0" name="subject" type="xs:string"/>
     </xs:sequence>
   </xs:complexType>
 
   <xs:complexType name="usenetPostReference">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="id" type="xs:long"/>
+      <xs:element minOccurs="0" name="referenceId" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="usenetTopic">
     <xs:sequence>
       <xs:element minOccurs="0" name="id" type="xs:long"/>
       <xs:element minOccurs="0" name="referenceId" type="xs:string"/>
@@ -139,13 +155,42 @@
     </xs:sequence>
   </xs:complexType>
 
-  <xs:complexType name="getTopics">
+  <xs:complexType name="countUsenetPosts">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="email" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="countUsenetPostsResponse">
+    <xs:sequence>
+      <xs:element name="return" type="xs:int"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="insertPhrases">
+    <xs:sequence>
+      <xs:element name="userid" type="xs:long"/>
+      <xs:element minOccurs="0" name="from" type="xs:dateTime"/>
+      <xs:element minOccurs="0" name="to" type="xs:dateTime"/>
+      <xs:element maxOccurs="unbounded" minOccurs="0" name="ppsList" type="tns:usenetPostPhraseScore"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="usenetPostPhraseScore">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="phrase" type="xs:string"/>
+      <xs:element name="phraseLength" type="xs:int"/>
+      <xs:element name="score" type="xs:double"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="getMaxDate">
     <xs:sequence/>
   </xs:complexType>
 
-  <xs:complexType name="getTopicsResponse">
+  <xs:complexType name="getMaxDateResponse">
     <xs:sequence>
-      <xs:element maxOccurs="unbounded" minOccurs="0" name="return" type="xs:string"/>
+      <xs:element minOccurs="0" name="return" type="xs:dateTime"/>
     </xs:sequence>
   </xs:complexType>
 
@@ -196,65 +241,80 @@
     </xs:sequence>
   </xs:complexType>
 
-  <xs:complexType name="countUsenetPosts_1">
+  <xs:complexType name="getTopics">
     <xs:sequence/>
   </xs:complexType>
 
-  <xs:complexType name="countUsenetPosts_1Response">
+  <xs:complexType name="getTopicsResponse">
     <xs:sequence>
-      <xs:element name="return" type="xs:int"/>
+      <xs:element maxOccurs="unbounded" minOccurs="0" name="return" type="xs:string"/>
     </xs:sequence>
   </xs:complexType>
 
-  <xs:complexType name="listUsenetPosts">
+  <xs:complexType name="listMessageIds">
     <xs:sequence>
-      <xs:element minOccurs="0" name="email" type="xs:string"/>
+      <xs:element name="id" type="xs:long"/>
+      <xs:element minOccurs="0" name="from" type="xs:dateTime"/>
+      <xs:element minOccurs="0" name="to" type="xs:dateTime"/>
     </xs:sequence>
   </xs:complexType>
 
-  <xs:complexType name="listUsenetPostsResponse">
+  <xs:complexType name="listMessageIdsResponse">
+    <xs:sequence>
+      <xs:element maxOccurs="unbounded" minOccurs="0" name="return" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="getMinDate">
+    <xs:sequence/>
+  </xs:complexType>
+
+  <xs:complexType name="getMinDateResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="xs:dateTime"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="listUsenetPosts_1">
+    <xs:sequence/>
+  </xs:complexType>
+
+  <xs:complexType name="listUsenetPosts_1Response">
     <xs:sequence>
       <xs:element maxOccurs="unbounded" minOccurs="0" name="return" type="tns:usenetPost"/>
     </xs:sequence>
   </xs:complexType>
 
-  <xs:complexType name="countUsenetPosts">
-    <xs:sequence>
-      <xs:element minOccurs="0" name="email" type="xs:string"/>
-    </xs:sequence>
-  </xs:complexType>
-
-  <xs:complexType name="countUsenetPostsResponse">
-    <xs:sequence>
-      <xs:element name="return" type="xs:int"/>
-    </xs:sequence>
-  </xs:complexType>
-
-  <xs:complexType name="insertPhrases">
-    <xs:sequence>
-      <xs:element name="userid" type="xs:long"/>
-      <xs:element minOccurs="0" name="from" type="xs:dateTime"/>
-      <xs:element minOccurs="0" name="to" type="xs:dateTime"/>
-      <xs:element maxOccurs="unbounded" minOccurs="0" name="ppsList" type="tns:usenetPostPhraseScore"/>
-    </xs:sequence>
-  </xs:complexType>
-
-  <xs:complexType name="usenetPostPhraseScore">
-    <xs:sequence>
-      <xs:element minOccurs="0" name="phrase" type="xs:string"/>
-      <xs:element name="phraseLength" type="xs:int"/>
-      <xs:element name="score" type="xs:double"/>
-    </xs:sequence>
-  </xs:complexType>
-
-  <xs:complexType name="getMaxDate">
+  <xs:complexType name="listIndividualIds">
     <xs:sequence/>
   </xs:complexType>
 
-  <xs:complexType name="getMaxDateResponse">
+  <xs:complexType name="listIndividualIdsResponse">
+    <xs:sequence>
+      <xs:element maxOccurs="unbounded" minOccurs="0" name="return" type="xs:long"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="getMinDateForUser">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="uid" type="xs:long"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="getMinDateForUserResponse">
     <xs:sequence>
       <xs:element minOccurs="0" name="return" type="xs:dateTime"/>
     </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="upgradeTable">
+    <xs:sequence>
+      <xs:element name="uid" type="xs:long"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="updateMessageId">
+    <xs:sequence/>
   </xs:complexType>
 
   <xs:complexType name="getMaxDateForUser">
@@ -289,6 +349,7 @@
       <xs:element minOccurs="0" name="newsgroup" type="xs:string"/>
       <xs:element maxOccurs="unbounded" minOccurs="0" name="references" nillable="true" type="xs:string"/>
       <xs:element minOccurs="0" name="senderId" type="xs:long"/>
+      <xs:element maxOccurs="unbounded" minOccurs="0" name="topics" nillable="true" type="xs:string"/>
     </xs:sequence>
   </xs:complexType>
 
@@ -325,110 +386,8 @@
     </xs:sequence>
   </xs:complexType>
 
-  <xs:complexType name="updateMessageId">
-    <xs:sequence/>
-  </xs:complexType>
-
-  <xs:complexType name="listIndividualIds">
-    <xs:sequence/>
-  </xs:complexType>
-
-  <xs:complexType name="listIndividualIdsResponse">
-    <xs:sequence>
-      <xs:element maxOccurs="unbounded" minOccurs="0" name="return" type="xs:long"/>
-    </xs:sequence>
-  </xs:complexType>
-
-  <xs:complexType name="getMinDateForUser">
-    <xs:sequence>
-      <xs:element minOccurs="0" name="uid" type="xs:long"/>
-    </xs:sequence>
-  </xs:complexType>
-
-  <xs:complexType name="getMinDateForUserResponse">
-    <xs:sequence>
-      <xs:element minOccurs="0" name="return" type="xs:dateTime"/>
-    </xs:sequence>
-  </xs:complexType>
-
 </xs:schema>
   </wsdl:types>
-  <wsdl:message name="listMessageIds">
-    <wsdl:part element="tns:listMessageIds" name="parameters">
-    </wsdl:part>
-  </wsdl:message>
-  <wsdl:message name="getMaxDateForUserResponse">
-    <wsdl:part element="tns:getMaxDateForUserResponse" name="parameters">
-    </wsdl:part>
-  </wsdl:message>
-  <wsdl:message name="listUsenetPosts_1">
-    <wsdl:part element="tns:listUsenetPosts_1" name="parameters">
-    </wsdl:part>
-  </wsdl:message>
-  <wsdl:message name="getNetworkNodesResponse">
-    <wsdl:part element="tns:getNetworkNodesResponse" name="parameters">
-    </wsdl:part>
-  </wsdl:message>
-  <wsdl:message name="getMaxDateResponse">
-    <wsdl:part element="tns:getMaxDateResponse" name="parameters">
-    </wsdl:part>
-  </wsdl:message>
-  <wsdl:message name="getNetworkEdges">
-    <wsdl:part element="tns:getNetworkEdges" name="parameters">
-    </wsdl:part>
-  </wsdl:message>
-  <wsdl:message name="countUsenetPosts_1">
-    <wsdl:part element="tns:countUsenetPosts_1" name="parameters">
-    </wsdl:part>
-  </wsdl:message>
-  <wsdl:message name="countUsenetPosts">
-    <wsdl:part element="tns:countUsenetPosts" name="parameters">
-    </wsdl:part>
-  </wsdl:message>
-  <wsdl:message name="getMaxDate">
-    <wsdl:part element="tns:getMaxDate" name="parameters">
-    </wsdl:part>
-  </wsdl:message>
-  <wsdl:message name="listUsenetPosts_1Response">
-    <wsdl:part element="tns:listUsenetPosts_1Response" name="parameters">
-    </wsdl:part>
-  </wsdl:message>
-  <wsdl:message name="getMessageBodyResponse">
-    <wsdl:part element="tns:getMessageBodyResponse" name="parameters">
-    </wsdl:part>
-  </wsdl:message>
-  <wsdl:message name="getMaxDateForUser">
-    <wsdl:part element="tns:getMaxDateForUser" name="parameters">
-    </wsdl:part>
-  </wsdl:message>
-  <wsdl:message name="listIndividualIdsResponse">
-    <wsdl:part element="tns:listIndividualIdsResponse" name="parameters">
-    </wsdl:part>
-  </wsdl:message>
-  <wsdl:message name="countUsenetPostsResponse">
-    <wsdl:part element="tns:countUsenetPostsResponse" name="parameters">
-    </wsdl:part>
-  </wsdl:message>
-  <wsdl:message name="updateMessageId">
-    <wsdl:part element="tns:updateMessageId" name="parameters">
-    </wsdl:part>
-  </wsdl:message>
-  <wsdl:message name="getMinDateForUser">
-    <wsdl:part element="tns:getMinDateForUser" name="parameters">
-    </wsdl:part>
-  </wsdl:message>
-  <wsdl:message name="getMinDate">
-    <wsdl:part element="tns:getMinDate" name="parameters">
-    </wsdl:part>
-  </wsdl:message>
-  <wsdl:message name="getTopics">
-    <wsdl:part element="tns:getTopics" name="parameters">
-    </wsdl:part>
-  </wsdl:message>
-  <wsdl:message name="getNetworkNodes">
-    <wsdl:part element="tns:getNetworkNodes" name="parameters">
-    </wsdl:part>
-  </wsdl:message>
   <wsdl:message name="listUsenetPosts">
     <wsdl:part element="tns:listUsenetPosts" name="parameters">
     </wsdl:part>
@@ -445,28 +404,20 @@
     <wsdl:part element="tns:getMinDateResponse" name="parameters">
     </wsdl:part>
   </wsdl:message>
-  <wsdl:message name="getNetworkEdgesResponse">
-    <wsdl:part element="tns:getNetworkEdgesResponse" name="parameters">
+  <wsdl:message name="getNetworkNodes">
+    <wsdl:part element="tns:getNetworkNodes" name="parameters">
     </wsdl:part>
   </wsdl:message>
-  <wsdl:message name="getPost">
-    <wsdl:part element="tns:getPost" name="parameters">
+  <wsdl:message name="getTopics">
+    <wsdl:part element="tns:getTopics" name="parameters">
     </wsdl:part>
   </wsdl:message>
-  <wsdl:message name="getMessageBody">
-    <wsdl:part element="tns:getMessageBody" name="parameters">
+  <wsdl:message name="getRelevantTopicsResponse">
+    <wsdl:part element="tns:getRelevantTopicsResponse" name="parameters">
     </wsdl:part>
   </wsdl:message>
-  <wsdl:message name="getInterestingPhrasesForNewsgroupForYearResponse">
-    <wsdl:part element="tns:getInterestingPhrasesForNewsgroupForYearResponse" name="parameters">
-    </wsdl:part>
-  </wsdl:message>
-  <wsdl:message name="getPostResponse">
-    <wsdl:part element="tns:getPostResponse" name="parameters">
-    </wsdl:part>
-  </wsdl:message>
-  <wsdl:message name="getInterestingPhrasesForNewsgroupForYear">
-    <wsdl:part element="tns:getInterestingPhrasesForNewsgroupForYear" name="parameters">
+  <wsdl:message name="getMinDate">
+    <wsdl:part element="tns:getMinDate" name="parameters">
     </wsdl:part>
   </wsdl:message>
   <wsdl:message name="countUsenetPosts_1Response">
@@ -489,47 +440,113 @@
     <wsdl:part element="tns:getMinDateForUserResponse" name="parameters">
     </wsdl:part>
   </wsdl:message>
+  <wsdl:message name="getPost">
+    <wsdl:part element="tns:getPost" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="getMessageBody">
+    <wsdl:part element="tns:getMessageBody" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="getInterestingPhrasesForNewsgroupForYearResponse">
+    <wsdl:part element="tns:getInterestingPhrasesForNewsgroupForYearResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="getPostResponse">
+    <wsdl:part element="tns:getPostResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="getInterestingPhrasesForNewsgroupForYear">
+    <wsdl:part element="tns:getInterestingPhrasesForNewsgroupForYear" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="getNetworkEdgesResponse">
+    <wsdl:part element="tns:getNetworkEdgesResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="countUsenetPosts_1">
+    <wsdl:part element="tns:countUsenetPosts_1" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="getRelevantTopics">
+    <wsdl:part element="tns:getRelevantTopics" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="countUsenetPosts">
+    <wsdl:part element="tns:countUsenetPosts" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="getMaxDate">
+    <wsdl:part element="tns:getMaxDate" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="getMaxDateResponse">
+    <wsdl:part element="tns:getMaxDateResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="getNetworkEdges">
+    <wsdl:part element="tns:getNetworkEdges" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="getNetworkNodesResponse">
+    <wsdl:part element="tns:getNetworkNodesResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="listMessageIds">
+    <wsdl:part element="tns:listMessageIds" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="getMaxDateForUserResponse">
+    <wsdl:part element="tns:getMaxDateForUserResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="listUsenetPosts_1">
+    <wsdl:part element="tns:listUsenetPosts_1" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="getMinDateForUser">
+    <wsdl:part element="tns:getMinDateForUser" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="countUsenetPostsResponse">
+    <wsdl:part element="tns:countUsenetPostsResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="upgradeTable">
+    <wsdl:part element="tns:upgradeTable" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="updateMessageId">
+    <wsdl:part element="tns:updateMessageId" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="getMaxDateForUser">
+    <wsdl:part element="tns:getMaxDateForUser" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="listIndividualIdsResponse">
+    <wsdl:part element="tns:listIndividualIdsResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="listUsenetPosts_1Response">
+    <wsdl:part element="tns:listUsenetPosts_1Response" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="getMessageBodyResponse">
+    <wsdl:part element="tns:getMessageBodyResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
   <wsdl:portType name="UsenetPostWebService">
-    <wsdl:operation name="listMessageIds">
-      <wsdl:input message="tns:listMessageIds" name="listMessageIds">
-    </wsdl:input>
-      <wsdl:output message="tns:listMessageIdsResponse" name="listMessageIdsResponse">
-    </wsdl:output>
-    </wsdl:operation>
-    <wsdl:operation name="getMinDate">
-      <wsdl:input message="tns:getMinDate" name="getMinDate">
-    </wsdl:input>
-      <wsdl:output message="tns:getMinDateResponse" name="getMinDateResponse">
-    </wsdl:output>
-    </wsdl:operation>
-    <wsdl:operation name="listUsenetPosts_1">
-      <wsdl:input message="tns:listUsenetPosts_1" name="listUsenetPosts_1">
-    </wsdl:input>
-      <wsdl:output message="tns:listUsenetPosts_1Response" name="listUsenetPosts_1Response">
-    </wsdl:output>
-    </wsdl:operation>
-    <wsdl:operation name="getTopics">
-      <wsdl:input message="tns:getTopics" name="getTopics">
-    </wsdl:input>
-      <wsdl:output message="tns:getTopicsResponse" name="getTopicsResponse">
-    </wsdl:output>
-    </wsdl:operation>
-    <wsdl:operation name="getNetworkNodes">
-      <wsdl:input message="tns:getNetworkNodes" name="getNetworkNodes">
-    </wsdl:input>
-      <wsdl:output message="tns:getNetworkNodesResponse" name="getNetworkNodesResponse">
-    </wsdl:output>
-    </wsdl:operation>
-    <wsdl:operation name="getNetworkEdges">
-      <wsdl:input message="tns:getNetworkEdges" name="getNetworkEdges">
-    </wsdl:input>
-      <wsdl:output message="tns:getNetworkEdgesResponse" name="getNetworkEdgesResponse">
-    </wsdl:output>
-    </wsdl:operation>
     <wsdl:operation name="countUsenetPosts_1">
       <wsdl:input message="tns:countUsenetPosts_1" name="countUsenetPosts_1">
     </wsdl:input>
       <wsdl:output message="tns:countUsenetPosts_1Response" name="countUsenetPosts_1Response">
+    </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getRelevantTopics">
+      <wsdl:input message="tns:getRelevantTopics" name="getRelevantTopics">
+    </wsdl:input>
+      <wsdl:output message="tns:getRelevantTopicsResponse" name="getRelevantTopicsResponse">
     </wsdl:output>
     </wsdl:operation>
     <wsdl:operation name="listUsenetPosts">
@@ -553,6 +570,62 @@
     </wsdl:input>
       <wsdl:output message="tns:getMaxDateResponse" name="getMaxDateResponse">
     </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getNetworkNodes">
+      <wsdl:input message="tns:getNetworkNodes" name="getNetworkNodes">
+    </wsdl:input>
+      <wsdl:output message="tns:getNetworkNodesResponse" name="getNetworkNodesResponse">
+    </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getNetworkEdges">
+      <wsdl:input message="tns:getNetworkEdges" name="getNetworkEdges">
+    </wsdl:input>
+      <wsdl:output message="tns:getNetworkEdgesResponse" name="getNetworkEdgesResponse">
+    </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getTopics">
+      <wsdl:input message="tns:getTopics" name="getTopics">
+    </wsdl:input>
+      <wsdl:output message="tns:getTopicsResponse" name="getTopicsResponse">
+    </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listMessageIds">
+      <wsdl:input message="tns:listMessageIds" name="listMessageIds">
+    </wsdl:input>
+      <wsdl:output message="tns:listMessageIdsResponse" name="listMessageIdsResponse">
+    </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getMinDate">
+      <wsdl:input message="tns:getMinDate" name="getMinDate">
+    </wsdl:input>
+      <wsdl:output message="tns:getMinDateResponse" name="getMinDateResponse">
+    </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listUsenetPosts_1">
+      <wsdl:input message="tns:listUsenetPosts_1" name="listUsenetPosts_1">
+    </wsdl:input>
+      <wsdl:output message="tns:listUsenetPosts_1Response" name="listUsenetPosts_1Response">
+    </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listIndividualIds">
+      <wsdl:input message="tns:listIndividualIds" name="listIndividualIds">
+    </wsdl:input>
+      <wsdl:output message="tns:listIndividualIdsResponse" name="listIndividualIdsResponse">
+    </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getMinDateForUser">
+      <wsdl:input message="tns:getMinDateForUser" name="getMinDateForUser">
+    </wsdl:input>
+      <wsdl:output message="tns:getMinDateForUserResponse" name="getMinDateForUserResponse">
+    </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="upgradeTable">
+      <wsdl:input message="tns:upgradeTable" name="upgradeTable">
+    </wsdl:input>
+    </wsdl:operation>
+    <wsdl:operation name="updateMessageId">
+      <wsdl:input message="tns:updateMessageId" name="updateMessageId">
+    </wsdl:input>
     </wsdl:operation>
     <wsdl:operation name="getMaxDateForUser">
       <wsdl:input message="tns:getMaxDateForUser" name="getMaxDateForUser">
@@ -578,85 +651,24 @@
       <wsdl:output message="tns:getInterestingPhrasesForNewsgroupForYearResponse" name="getInterestingPhrasesForNewsgroupForYearResponse">
     </wsdl:output>
     </wsdl:operation>
-    <wsdl:operation name="updateMessageId">
-      <wsdl:input message="tns:updateMessageId" name="updateMessageId">
-    </wsdl:input>
-    </wsdl:operation>
-    <wsdl:operation name="listIndividualIds">
-      <wsdl:input message="tns:listIndividualIds" name="listIndividualIds">
-    </wsdl:input>
-      <wsdl:output message="tns:listIndividualIdsResponse" name="listIndividualIdsResponse">
-    </wsdl:output>
-    </wsdl:operation>
-    <wsdl:operation name="getMinDateForUser">
-      <wsdl:input message="tns:getMinDateForUser" name="getMinDateForUser">
-    </wsdl:input>
-      <wsdl:output message="tns:getMinDateForUserResponse" name="getMinDateForUserResponse">
-    </wsdl:output>
-    </wsdl:operation>
   </wsdl:portType>
   <wsdl:binding name="UsenetPostWebServiceSoapBinding" type="tns:UsenetPostWebService">
     <soap:binding style="document" transport="http://schemas.xmlsoap.org/soap/http"/>
-    <wsdl:operation name="listMessageIds">
-      <soap:operation soapAction="" style="document"/>
-      <wsdl:input name="listMessageIds">
-        <soap:body use="literal"/>
-      </wsdl:input>
-      <wsdl:output name="listMessageIdsResponse">
-        <soap:body use="literal"/>
-      </wsdl:output>
-    </wsdl:operation>
-    <wsdl:operation name="listUsenetPosts_1">
-      <soap:operation soapAction="" style="document"/>
-      <wsdl:input name="listUsenetPosts_1">
-        <soap:body use="literal"/>
-      </wsdl:input>
-      <wsdl:output name="listUsenetPosts_1Response">
-        <soap:body use="literal"/>
-      </wsdl:output>
-    </wsdl:operation>
-    <wsdl:operation name="getMinDate">
-      <soap:operation soapAction="" style="document"/>
-      <wsdl:input name="getMinDate">
-        <soap:body use="literal"/>
-      </wsdl:input>
-      <wsdl:output name="getMinDateResponse">
-        <soap:body use="literal"/>
-      </wsdl:output>
-    </wsdl:operation>
-    <wsdl:operation name="getTopics">
-      <soap:operation soapAction="" style="document"/>
-      <wsdl:input name="getTopics">
-        <soap:body use="literal"/>
-      </wsdl:input>
-      <wsdl:output name="getTopicsResponse">
-        <soap:body use="literal"/>
-      </wsdl:output>
-    </wsdl:operation>
-    <wsdl:operation name="getNetworkNodes">
-      <soap:operation soapAction="" style="document"/>
-      <wsdl:input name="getNetworkNodes">
-        <soap:body use="literal"/>
-      </wsdl:input>
-      <wsdl:output name="getNetworkNodesResponse">
-        <soap:body use="literal"/>
-      </wsdl:output>
-    </wsdl:operation>
-    <wsdl:operation name="getNetworkEdges">
-      <soap:operation soapAction="" style="document"/>
-      <wsdl:input name="getNetworkEdges">
-        <soap:body use="literal"/>
-      </wsdl:input>
-      <wsdl:output name="getNetworkEdgesResponse">
-        <soap:body use="literal"/>
-      </wsdl:output>
-    </wsdl:operation>
     <wsdl:operation name="countUsenetPosts_1">
       <soap:operation soapAction="" style="document"/>
       <wsdl:input name="countUsenetPosts_1">
         <soap:body use="literal"/>
       </wsdl:input>
       <wsdl:output name="countUsenetPosts_1Response">
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getRelevantTopics">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="getRelevantTopics">
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="getRelevantTopicsResponse">
         <soap:body use="literal"/>
       </wsdl:output>
     </wsdl:operation>
@@ -693,6 +705,90 @@
         <soap:body use="literal"/>
       </wsdl:output>
     </wsdl:operation>
+    <wsdl:operation name="getNetworkNodes">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="getNetworkNodes">
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="getNetworkNodesResponse">
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getNetworkEdges">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="getNetworkEdges">
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="getNetworkEdgesResponse">
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getTopics">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="getTopics">
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="getTopicsResponse">
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listMessageIds">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="listMessageIds">
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="listMessageIdsResponse">
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getMinDate">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="getMinDate">
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="getMinDateResponse">
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listUsenetPosts_1">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="listUsenetPosts_1">
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="listUsenetPosts_1Response">
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listIndividualIds">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="listIndividualIds">
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="listIndividualIdsResponse">
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getMinDateForUser">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="getMinDateForUser">
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="getMinDateForUserResponse">
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="upgradeTable">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="upgradeTable">
+        <soap:body use="literal"/>
+      </wsdl:input>
+    </wsdl:operation>
+    <wsdl:operation name="updateMessageId">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="updateMessageId">
+        <soap:body use="literal"/>
+      </wsdl:input>
+    </wsdl:operation>
     <wsdl:operation name="getMaxDateForUser">
       <soap:operation soapAction="" style="document"/>
       <wsdl:input name="getMaxDateForUser">
@@ -726,30 +822,6 @@
         <soap:body use="literal"/>
       </wsdl:input>
       <wsdl:output name="getInterestingPhrasesForNewsgroupForYearResponse">
-        <soap:body use="literal"/>
-      </wsdl:output>
-    </wsdl:operation>
-    <wsdl:operation name="updateMessageId">
-      <soap:operation soapAction="" style="document"/>
-      <wsdl:input name="updateMessageId">
-        <soap:body use="literal"/>
-      </wsdl:input>
-    </wsdl:operation>
-    <wsdl:operation name="listIndividualIds">
-      <soap:operation soapAction="" style="document"/>
-      <wsdl:input name="listIndividualIds">
-        <soap:body use="literal"/>
-      </wsdl:input>
-      <wsdl:output name="listIndividualIdsResponse">
-        <soap:body use="literal"/>
-      </wsdl:output>
-    </wsdl:operation>
-    <wsdl:operation name="getMinDateForUser">
-      <soap:operation soapAction="" style="document"/>
-      <wsdl:input name="getMinDateForUser">
-        <soap:body use="literal"/>
-      </wsdl:input>
-      <wsdl:output name="getMinDateForUserResponse">
         <soap:body use="literal"/>
       </wsdl:output>
     </wsdl:operation>

@@ -25,7 +25,7 @@ import javax.xml.bind.annotation.XmlRootElement;
  */
 @Entity
 @XmlRootElement
-public class UsenetPost implements Serializable {
+public class OldUsenetPost implements Serializable {
     private static final long serialVersionUID = 1L;
     @Id
     private String id;
@@ -42,9 +42,6 @@ public class UsenetPost implements Serializable {
     
     @OneToMany(fetch = FetchType.EAGER)
     private List<UsenetPostReference> referencedPostIds = new ArrayList<UsenetPostReference>();
-
-    @OneToMany(fetch = FetchType.EAGER)
-    private List<UsenetTopic> referencedTopics = new ArrayList<UsenetTopic>();
     
     @Lob @Basic(fetch = FetchType.EAGER)
     String body;
@@ -121,14 +118,6 @@ public class UsenetPost implements Serializable {
         this.referencedPostIds = referencedPosts;
     }
 
-    public List<UsenetTopic> getReferencedTopics() {
-        return referencedTopics;
-    }
-
-    public void setReferencedTopics(List<UsenetTopic> referencedPosts) {
-        this.referencedTopics = referencedTopics;
-    }
-
     public String getBody() {
         return body;
     }
@@ -155,10 +144,10 @@ public class UsenetPost implements Serializable {
     @Override
     public boolean equals(Object object) {
         // TODO: Warning - this method won't work in the case the id fields are not set
-        if (!(object instanceof UsenetPost)) {
+        if (!(object instanceof OldUsenetPost)) {
             return false;
         }
-        UsenetPost other = (UsenetPost) object;
+        OldUsenetPost other = (OldUsenetPost) object;
         if ((this.id == null && other.id != null) || (this.id != null && !this.id.equals(other.id))) {
             return false;
         }

@@ -116,7 +116,7 @@ public class IndividualInterestingPhrases implements Serializable {
         return topic;
     }
 
-    public void setTopic(String phrase) {
+    public void setTopic(String topic) {
         this.topic = topic;
     }
 

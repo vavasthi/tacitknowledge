@@ -22,6 +22,7 @@ public class UsenetPostHeaders implements Serializable {
     String newsgroup;
     String inReplyTo;
     List<String> references;
+    List<String> topics;
 
 
     public Long getSenderId() {
@@ -72,6 +73,13 @@ public class UsenetPostHeaders implements Serializable {
         this.references = references;
     }
 
+    public List<String> getTopics() {
+        return topics;
+    }
+
+    public void setTopics(List<String> topics) {
+        this.topics = topics;
+    }
     public UsenetPostHeaders() {
         
     }
@@ -80,7 +88,8 @@ public class UsenetPostHeaders implements Serializable {
             Date date,
             String newsgroup,
             String inReplyTo,
-            List<String> references) {
+            List<String> references,
+            List<String> topics) {
 
         this.senderId = senderId;
         this.id = id;
@@ -88,5 +97,6 @@ public class UsenetPostHeaders implements Serializable {
         this.newsgroup = newsgroup;
         this.inReplyTo = inReplyTo;
         this.references = references;
+        this.topics = topics;
     }
 }

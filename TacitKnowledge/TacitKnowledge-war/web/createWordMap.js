@@ -25,7 +25,7 @@ function createWordMap(url) {
         function draw(words) {
             d3.select("body").append("svg")
                     .attr("width", 1024).attr("height", 1024)
-                    .append("g").attr("transform", "translate(320,320)")
+                    .append("g").attr("transform", "translate(480,480)")
                     .selectAll("text").data(words)
                     .enter().append("text")
                     .style("font-size", function (d) {

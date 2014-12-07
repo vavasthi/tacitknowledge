@@ -14,6 +14,7 @@ import java.io.UnsupportedEncodingException;
 import java.net.URLDecoder;
 import java.net.URLEncoder;
 import java.util.ArrayList;
+import java.util.Calendar;
 import java.util.Date;
 import java.util.HashMap;
 import java.util.HashSet;
@@ -21,6 +22,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
 import java.util.Set;
+import java.util.StringTokenizer;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.ejb.Stateless;
@@ -28,6 +30,7 @@ import javax.jws.Oneway;
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
 import javax.persistence.Query;
+import javax.persistence.TemporalType;
 
 /**
  *
@@ -148,12 +151,18 @@ public class UsenetPostSession implements UsenetPostSessionLocal {
     public List<InterestingPhrase> getInterestingPhrasesForNewsgroupForYear(String topic, int year, int month) {
 
         List<InterestingPhrase> lip = new ArrayList<InterestingPhrase>();
+        Calendar cal = Calendar.getInstance();
+        cal.set(year, month, 1);
+        Date fromDate = cal.getTime();
+        cal.add(Calendar.MONTH, 1);
+        Date toDate = cal.getTime();
+        LOG.info("From Date is " + fromDate.toString() + " toDate is " + toDate.toString());
         Double maxScore = 0.0;
         {
 
-            Query q = em.createQuery("select iip.phrase, sum(iip.score) from IndividualInterestingPhrases iip where year(iip.fromDate) = :year and month(iip.fromDate) = :month  and iip.topic = :topic group by iip.phrase");
-            q.setParameter("year", year);
-            q.setParameter("month", month);
+            Query q = em.createQuery("select iip.phrase, sum(iip.score) from IndividualInterestingPhrases iip where iip.topic = :topic AND iip.fromDate BETWEEN :fromDate AND :toDate group by iip.phrase");
+            q.setParameter("fromDate", fromDate);
+            q.setParameter("toDate", toDate);
             q.setParameter("topic", topic);
             List<Object[]> resultList = (List<Object[]>) q.getResultList();
             for (Object[] oa : resultList) {
@@ -162,15 +171,12 @@ public class UsenetPostSession implements UsenetPostSessionLocal {
                 if (ns > maxScore) {
                     maxScore = ns;
                 }
-            }            
+            }
             for (Object[] oa : resultList) {
                 String phrase = (String) oa[0];
                 Double ns = ((Double) oa[1]);
-                if (ns > 50) {
-
-                    InterestingPhrase ip = new InterestingPhrase(ns / maxScore, phrase);
-                    lip.add(ip);
-                }
+                InterestingPhrase ip = new InterestingPhrase(ns / maxScore, phrase);
+                lip.add(ip);
             }
         }
         return lip;
@@ -217,12 +223,17 @@ public class UsenetPostSession implements UsenetPostSessionLocal {
                 return null;
             } else {
 
-                Logger.getLogger(UsenetPostSession.class.getName()).log(Level.SEVERE, "Searching message with Id " + id);
                 List<String> references = new ArrayList<String>();
+                List<String> topics = new ArrayList<String>();
                 if (post.getReferencedPosts() != null) {
 
                     for (UsenetPostReference upr : post.getReferencedPosts()) {
                         references.add(URLEncoder.encode(upr.getReferenceId(), "UTF-8"));
+                    }
+                }
+                if (post.getReferencedTopics() != null) {
+                    for (UsenetTopic ut : post.getReferencedTopics()) {
+                        topics.add(URLEncoder.encode(ut.getReferenceId(), "UTF-8"));
                     }
                 }
                 UsenetPostHeaders uph
@@ -231,7 +242,8 @@ public class UsenetPostSession implements UsenetPostSessionLocal {
                                 post.getDate(),
                                 URLEncoder.encode(post.getNewsGroup(), "UTF-8"),
                                 URLEncoder.encode(post.getInReplyTo(), "UTF-8"),
-                                references);
+                                references,
+                                topics);
                 return uph;
             }
         } catch (UnsupportedEncodingException ex) {
@@ -246,6 +258,21 @@ public class UsenetPostSession implements UsenetPostSessionLocal {
     public List<String> getTopics() {
 
         Query q = em.createQuery("select distinct une.topic from UsenetNetworkEdge une");
+        List l = q.getResultList();
+        List<String> result = new ArrayList<String>();
+        for (Object o : l) {
+            result.add((String) o);
+        }
+        return result;
+    }
+
+    @Override
+    public List<String> getRelevantTopics(long uid, Date dateFrom, Date dateTo) {
+
+        Query q = em.createQuery("select distinct une.topic from UsenetNetworkEdge une, UsenetPost up where up.sender = une.from and une.from = :uid and une.dateFrom <= :dateFrom and une.dateTo >= :dateTo");
+        q.setParameter("uid", uid);
+        q.setParameter("dateFrom", dateFrom);
+        q.setParameter("dateTo", dateTo);
         List l = q.getResultList();
         List<String> result = new ArrayList<String>();
         for (Object o : l) {
@@ -322,4 +349,25 @@ public class UsenetPostSession implements UsenetPostSessionLocal {
         }
     }
 
+    @Oneway
+    @Override
+    public void upgradeTable(long uid) {
+        Individual i = em.find(Individual.class, new Long(uid));
+        Query q = em.createQuery("select p from Individual i, UsenetPost p where p.sender = :sender and p.sender = i");
+        q.setParameter("sender", i);
+        List l = q.getResultList();
+        for (Object o : l) {
+            UsenetPost up = (UsenetPost) o;
+            StringTokenizer st = new StringTokenizer(up.getNewsGroup(), ",");
+            List<UsenetTopic> list = up.getReferencedTopics();
+            while (st.hasMoreTokens()) {
+                String topic = st.nextToken().trim();
+                UsenetTopic ut = new UsenetTopic();
+                ut.setReferenceId(topic);
+                em.persist(ut);
+                list.add(ut);
+            }
+            up.setReferencedTopics(list);
+        }
+    }
 }

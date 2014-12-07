@@ -6,10 +6,12 @@
 package com.avasthi.research.fpmi.tacitknowledge;
 
 import com.avasthi.research.fpmi.tacitknowledge.common.UsenetInterestingPhraseMessage;
+import com.avasthi.research.fpmi.tacitknowledge.common.UsenetInterestingPhraseMessages;
 import com.avasthi.research.fpmi.tacitknowledge.common.UsenetMessageIds;
 import com.avasthi.research.fpmi.tacitknowledge.common.UsenetNetworkEdgeMessage;
 import com.avasthi.research.fpmi.tacitknowledge.common.UsenetPostMessage;
 import com.avasthi.research.fpmi.tacitknowledge.common.UsenetPostPhraseScore;
+import com.avasthi.research.fpmi.tacitknowledge.common.UsenetUpgradeTableMessage;
 import java.io.UnsupportedEncodingException;
 import java.net.URLDecoder;
 import java.util.ArrayList;
@@ -49,8 +51,6 @@ public class UsenetPostMessageQueue implements MessageListener {
     @Override
     public void onMessage(Message message) {
 
-        LOG.info("Message received ");
-
         if (message instanceof ObjectMessage) {
             try {
                 ObjectMessage o = (ObjectMessage) message;
@@ -71,13 +71,14 @@ public class UsenetPostMessageQueue implements MessageListener {
                                 upm.getReferences(),
                                 upm.getBody());
                         break;
-                    case UsenetMessageIds.INTERESTING_PHRASE_MESSAGE:
+                    case UsenetMessageIds.INTERESTING_PHRASE_MESSAGE: {
+
                         UsenetInterestingPhraseMessage uipm = (UsenetInterestingPhraseMessage) o.getObject();
-                        processMessage(uipm.getUid(),
-                                uipm.getFrom(),
-                                uipm.getTo(),
-                                uipm.getPpsList());
+                        List<UsenetInterestingPhraseMessage> l = new ArrayList<UsenetInterestingPhraseMessage>();
+                        l.add(uipm);
+                        processMessage(l);
                         break;
+                    }
                     case UsenetMessageIds.NETWORK_EDGE_MESSAGE:
                         UsenetNetworkEdgeMessage unem = (UsenetNetworkEdgeMessage) o.getObject();
                         processMessage(unem.getIndividualFrom(),
@@ -85,7 +86,20 @@ public class UsenetPostMessageQueue implements MessageListener {
                                 unem.getDateFrom(),
                                 unem.getDateTo(),
                                 unem.getTopic());
+                    case UsenetMessageIds.UPGRADE_TABLE_MESSAGE:
+                        UsenetUpgradeTableMessage uutm = (UsenetUpgradeTableMessage) o.getObject();
+                        processMessage(uutm.getId());
                         break;
+                    case UsenetMessageIds.INTERESTING_PHRASE_MESSAGES: {
+
+                        UsenetInterestingPhraseMessages uipms = (UsenetInterestingPhraseMessages) o.getObject();
+
+                        if (uipms.getMessages() != null) {
+
+                            processMessage(uipms.getMessages());
+                        }
+                        break;
+                    }
                 }
             } catch (JMSException ex) {
                 Logger.getLogger(UsenetPostMessageQueue.class.getName()).log(Level.SEVERE, null, ex);
@@ -153,25 +167,28 @@ public class UsenetPostMessageQueue implements MessageListener {
         up.setReferencedPosts(referenceList);
     }
 
-    private void processMessage(long uid, Date from, Date to, List<UsenetPostPhraseScore> ppsList) {
+    private void processMessage(List<UsenetInterestingPhraseMessage> messages) {
 
-        if (ppsList != null) {
+        for (UsenetInterestingPhraseMessage uipm : messages) {
+            List<UsenetPostPhraseScore> ppsList = uipm.getPpsList();
 
-            LOG.info(ppsList.size() + " elements received for date range " + from.toString() + " to " + to.toString() + " for uid " + uid);
-            for (UsenetPostPhraseScore pps : ppsList) {
+            if (ppsList != null) {
+                for (UsenetPostPhraseScore pps : ppsList) {
 
-                IndividualInterestingPhrases iip
-                        = new IndividualInterestingPhrases();
-                iip.setFromDate(from);
-                iip.setToDate(to);
-                iip.setUserid(uid);
-                iip.setPhraseLength(pps.getPhraseLength());
-                iip.setPhrase(pps.getPhrase());
-                iip.setScore(pps.getScore());
-                em.persist(iip);
+                    IndividualInterestingPhrases iip
+                            = new IndividualInterestingPhrases();
+                    iip.setTopic(uipm.getTopic());
+                    iip.setFromDate(uipm.getFrom());
+                    iip.setToDate(uipm.getTo());
+                    iip.setUserid(uipm.getUid());
+                    iip.setPhraseLength(pps.getPhraseLength());
+                    iip.setPhrase(pps.getPhrase());
+                    iip.setScore(pps.getScore());
+                    em.persist(iip);
+                }
+            } else {
+                LOG.info("No element received for date range " + uipm.getFrom().toString() + " to " + uipm.getTo().toString() + " for uid " + uipm.getUid());
             }
-        } else {
-            LOG.info("No element received for date range " + from.toString() + " to " + to.toString() + " for uid " + uid);
         }
 
     }
@@ -187,7 +204,7 @@ public class UsenetPostMessageQueue implements MessageListener {
         try {
             String dTopic = URLDecoder.decode(topic, "UTF-8");
             StringTokenizer st = new StringTokenizer(dTopic, ", ");
-            String t= null;
+            String t = null;
             while (st.hasMoreTokens()) {
                 try {
                     t = st.nextToken();
@@ -213,6 +230,29 @@ public class UsenetPostMessageQueue implements MessageListener {
         } catch (UnsupportedEncodingException ex) {
             Logger.getLogger(UsenetPostMessageQueue.class.getName()).log(Level.SEVERE, null, ex);
         }
+    }
+
+    private void processMessage(Long uid) {
+        LOG.info("Processing table upgrade for uid =" + uid);
+
+        Individual i = em.find(Individual.class, uid);
+        Query q = em.createQuery("select p from Individual i, UsenetPost p where p.sender = :sender and p.sender = i");
+        q.setParameter("sender", i);
+        List l = q.getResultList();
+        for (Object o : l) {
+            UsenetPost up = (UsenetPost) o;
+            StringTokenizer st = new StringTokenizer(up.getNewsGroup(), ",");
+            List<UsenetTopic> list = up.getReferencedTopics();
+            while (st.hasMoreTokens()) {
+                String topic = st.nextToken().trim();
+                UsenetTopic ut = new UsenetTopic();
+                ut.setReferenceId(topic);
+                em.persist(ut);
+                list.add(ut);
+            }
+            up.setReferencedTopics(list);
+        }
+
     }
 
     private static final Logger LOG = Logger.getLogger(UsenetPostMessageQueue.class

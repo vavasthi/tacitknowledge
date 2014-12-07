@@ -6,9 +6,11 @@
 package com.avasthi.research.fpmi.tacitknowledge.contentparsers;
 
 import com.avasthi.research.fpmi.tacitknowledge.common.UsenetInterestingPhraseMessage;
+import com.avasthi.research.fpmi.tacitknowledge.common.UsenetInterestingPhraseMessages;
 import com.avasthi.research.fpmi.tacitknowledge.common.UsenetMessageIds;
 import com.avasthi.research.fpmi.tacitknowledge.common.UsenetNetworkEdgeMessage;
 import com.avasthi.research.fpmi.tacitknowledge.common.UsenetPostMessage;
+import com.avasthi.research.fpmi.tacitknowledge.common.UsenetUpgradeTableMessage;
 import java.util.Properties;
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -100,10 +102,28 @@ public class UsenetPostMessageQueueSender {
             Logger.getLogger(UsenetPostMessageQueueSender.class.getName()).log(Level.SEVERE, null, ex);
         }
     }
+    public void send(UsenetInterestingPhraseMessages messages) {
+        try {
+            Message m = session.createObjectMessage(messages);
+            m.setIntProperty(UsenetMessageIds.MESSAGE_TYPE_PROPERTY, UsenetMessageIds.INTERESTING_PHRASE_MESSAGES);
+            messageProducer.send(m);
+        } catch (JMSException ex) {
+            Logger.getLogger(UsenetPostMessageQueueSender.class.getName()).log(Level.SEVERE, null, ex);
+        }
+    }
     public void send(UsenetNetworkEdgeMessage message) {
         try {
             Message m = session.createObjectMessage(message);
             m.setIntProperty(UsenetMessageIds.MESSAGE_TYPE_PROPERTY, UsenetMessageIds.NETWORK_EDGE_MESSAGE);
+            messageProducer.send(m);
+        } catch (JMSException ex) {
+            Logger.getLogger(UsenetPostMessageQueueSender.class.getName()).log(Level.SEVERE, null, ex);
+        }
+    }
+    public void send(UsenetUpgradeTableMessage message) {
+        try {
+            Message m = session.createObjectMessage(message);
+            m.setIntProperty(UsenetMessageIds.MESSAGE_TYPE_PROPERTY, UsenetMessageIds.UPGRADE_TABLE_MESSAGE);
             messageProducer.send(m);
         } catch (JMSException ex) {
             Logger.getLogger(UsenetPostMessageQueueSender.class.getName()).log(Level.SEVERE, null, ex);

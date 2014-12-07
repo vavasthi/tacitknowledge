@@ -44,6 +44,8 @@ public interface UsenetPostSessionLocal {
     Set<NetworkNode> getNetworkNodes(Date from, Date to, String topic);
     List<NetworkEdge> getNetworkEdges(Long src, Long tgt, Date from, Date to, String topic);
     List<String> getTopics();  
+    List<String> getRelevantTopics(long uid, Date dateFrom, Date dateTo);    
 
     List<InterestingPhrase> getInterestingPhrasesForNewsgroupForYear(String topic, int year, int month);
+    void upgradeTable(long uid);
 }

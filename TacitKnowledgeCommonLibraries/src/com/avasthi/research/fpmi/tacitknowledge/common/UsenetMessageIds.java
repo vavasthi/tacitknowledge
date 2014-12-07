@@ -16,5 +16,7 @@ public class UsenetMessageIds {
     public static final int POST_MESSAGE = 0x01;
     public static final int INTERESTING_PHRASE_MESSAGE = 0x02;
     public static final int NETWORK_EDGE_MESSAGE = 0x03;
+    public static final int UPGRADE_TABLE_MESSAGE = 0x04;
+    public static final int INTERESTING_PHRASE_MESSAGES = 0x05;
     
 }

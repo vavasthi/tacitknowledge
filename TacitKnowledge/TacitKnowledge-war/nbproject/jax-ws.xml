@@ -2,7 +2,7 @@
 <jax-ws xmlns="http://www.netbeans.org/ns/jax-ws/1">
   <services>
     <service name="UsenetPostWebService">
-      <implementation-class>com.avasthi.research.fpmi.tacitknowledge.ws.UsenetPostWebService</implementation-class>
+      <implementation-class>com.avasthi.research.fpmi.tacitknowledge.contentparsers.ws.UsenetPostWebService</implementation-class>
     </service>
   </services>
   <clients/>
