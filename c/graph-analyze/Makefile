@@ -1,17 +1,17 @@
 IGRAPH_DIR=$(HOME)/gnu
 
-CFLAGS=-I$(IGRAPH_DIR)/include/igraph -fPIC -g
+CXXFLAGS=-I$(IGRAPH_DIR)/include/igraph -fPIC -g
 LDFLAGS=-L$(IGRAPH_DIR)/lib -ligraph
 
 SRCS = \
-	ganalyze.c
+	ganalyze.cpp
 
-OBJS=$(SRCS:.c=.o)
+OBJS=$(SRCS:.cpp=.o)
 
 all : ganalyze
 
 ganalyze : $(OBJS)
-	$(CC) $(OBJS) $(CFLAGS) $(LDFLAGS) -o $@ 
+	$(CXX) $(OBJS) $(CFLAGS) $(LDFLAGS) -o $@ 
 
 clean:
 	$(RM) $(OBJS) ganalyze

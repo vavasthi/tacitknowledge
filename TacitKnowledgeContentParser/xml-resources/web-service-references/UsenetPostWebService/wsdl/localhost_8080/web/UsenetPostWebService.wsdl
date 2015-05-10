@@ -34,6 +34,10 @@
 
   <xs:element name="getMinDateResponse" type="tns:getMinDateResponse"/>
 
+  <xs:element name="getMinMaxDates" type="tns:getMinMaxDates"/>
+
+  <xs:element name="getMinMaxDatesResponse" type="tns:getMinMaxDatesResponse"/>
+
   <xs:element name="getNetworkEdges" type="tns:getNetworkEdges"/>
 
   <xs:element name="getNetworkEdgesResponse" type="tns:getNetworkEdgesResponse"/>
@@ -285,6 +289,25 @@
     </xs:sequence>
   </xs:complexType>
 
+  <xs:complexType name="getMinMaxDates">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="topic" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="getMinMaxDatesResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="tns:minMaxDatePair"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="minMaxDatePair">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="maxDate" type="xs:dateTime"/>
+      <xs:element minOccurs="0" name="minDate" type="xs:dateTime"/>
+    </xs:sequence>
+  </xs:complexType>
+
   <xs:complexType name="listIndividualIds">
     <xs:sequence/>
   </xs:complexType>
@@ -428,6 +451,10 @@
     <wsdl:part element="tns:listUsenetPostsResponse" name="parameters">
     </wsdl:part>
   </wsdl:message>
+  <wsdl:message name="getMinMaxDates">
+    <wsdl:part element="tns:getMinMaxDates" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
   <wsdl:message name="listIndividualIds">
     <wsdl:part element="tns:listIndividualIds" name="parameters">
     </wsdl:part>
@@ -450,6 +477,10 @@
   </wsdl:message>
   <wsdl:message name="getInterestingPhrasesForNewsgroupForYearResponse">
     <wsdl:part element="tns:getInterestingPhrasesForNewsgroupForYearResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="getMinMaxDatesResponse">
+    <wsdl:part element="tns:getMinMaxDatesResponse" name="parameters">
     </wsdl:part>
   </wsdl:message>
   <wsdl:message name="getPostResponse">
@@ -607,6 +638,12 @@
       <wsdl:output message="tns:listUsenetPosts_1Response" name="listUsenetPosts_1Response">
     </wsdl:output>
     </wsdl:operation>
+    <wsdl:operation name="getMinMaxDates">
+      <wsdl:input message="tns:getMinMaxDates" name="getMinMaxDates">
+    </wsdl:input>
+      <wsdl:output message="tns:getMinMaxDatesResponse" name="getMinMaxDatesResponse">
+    </wsdl:output>
+    </wsdl:operation>
     <wsdl:operation name="listIndividualIds">
       <wsdl:input message="tns:listIndividualIds" name="listIndividualIds">
     </wsdl:input>
@@ -756,6 +793,15 @@
         <soap:body use="literal"/>
       </wsdl:input>
       <wsdl:output name="listUsenetPosts_1Response">
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getMinMaxDates">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="getMinMaxDates">
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="getMinMaxDatesResponse">
         <soap:body use="literal"/>
       </wsdl:output>
     </wsdl:operation>

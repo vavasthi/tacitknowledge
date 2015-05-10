@@ -8,6 +8,7 @@ package com.avasthi.research.fpmi.tacitknowledge.contentparsers.ws;
 import com.avasthi.research.fpmi.tacitknowledge.UsenetPost;
 import com.avasthi.research.fpmi.tacitknowledge.UsenetPostSessionLocal;
 import com.avasthi.research.fpmi.tacitknowledge.common.InterestingPhrase;
+import com.avasthi.research.fpmi.tacitknowledge.common.MinMaxDatePair;
 import com.avasthi.research.fpmi.tacitknowledge.common.NetworkEdge;
 import com.avasthi.research.fpmi.tacitknowledge.common.NetworkNode;
 import com.avasthi.research.fpmi.tacitknowledge.common.UsenetPostHeaders;
@@ -127,6 +128,11 @@ public class UsenetPostWebService {
     @WebMethod(operationName = "getRelevantTopics")
     public List<String> getRelevantTopics(@WebParam(name = "uid") long uid, @WebParam(name = "dateFrom") Date dateFrom, @WebParam(name = "dateTo") Date dateTo) {
         return ejbRef.getRelevantTopics(uid, dateFrom, dateTo);
+    }
+
+    @WebMethod(operationName = "getMinMaxDates")
+    public MinMaxDatePair getMinMaxDates(@WebParam(name = "topic") String topic) {
+        return ejbRef.getMinMaxDates(topic);
     }
 
     @WebMethod(operationName = "getInterestingPhrasesForNewsgroupForYear")

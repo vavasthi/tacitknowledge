@@ -1,6 +1,11 @@
 #include <igraph.h>
 #include <stdio.h>
 #include <unistd.h>		/* unlink */
+#include <dirent.h>
+
+#include <list>
+#include <string>
+#include <iostream>
 
 void custom_warning_handler (const char *reason, const char *file,
 			     int line, int igraph_errno) {
@@ -8,7 +13,7 @@ void custom_warning_handler (const char *reason, const char *file,
 }
 
 void 
-print_vector(igraph_vector_t *v) {
+printVector(igraph_vector_t *v) {
   long int i;
   for (i=0; i<igraph_vector_size(v); i++) {
     printf(" %li", (long int) VECTOR(*v)[i]);
@@ -16,7 +21,8 @@ print_vector(igraph_vector_t *v) {
   printf("\n");
 }
 
-int main(int argc, char **argv) {
+bool 
+processGraph(const std::string& fileName) {
   igraph_t g;
   igraph_error_handler_t* oldhandler;
   igraph_warning_handler_t* oldwarnhandler;
@@ -28,9 +34,9 @@ int main(int argc, char **argv) {
   igraph_vector_init(&res, 0);
 
   /* GraphML */
-  ifile=fopen("/home/vavasthi/fpmi/research/code/tacitknowledge/graphs/monthly/sci.physics/knowledge-network-monthly-sci.physics-from-2003-04-01T00:00:00.000Z-to-2003-10-01T00:00:00.000Z.graphml", "r");
+  ifile=fopen(fileName.c_str(), "r");
   if (ifile==0) {
-    return 10;
+    return false;
   }
   
   oldhandler=igraph_set_error_handler(igraph_error_handler_ignore);
@@ -73,7 +79,7 @@ int main(int argc, char **argv) {
                                     1);
 
   
-  print_vector(&res);
+  printVector(&res);
   
   igraph_centralization_degree(&g, 
                                0, 
@@ -94,5 +100,76 @@ int main(int argc, char **argv) {
   /* Only if called from R though, and only on random occasions, once in every 
      ten reads. Do testing here doesn't make much sense, but if we have the file 
      then let's do it anyway. */
-  return 0;
+  return true;
+}
+
+const std::list<std::string>&
+getListOfDirectories(const std::string& basedir,
+                     std::list<std::string>& list) {
+  
+  DIR *dirp;
+  if ((dirp = opendir(basedir.c_str())) == NULL) {
+    std::cerr << "Couldn't open " << basedir << std::endl;
+    return list;
+  }
+  struct dirent *dp = NULL;
+  do {
+    
+    if ((dp = readdir(dirp)) != NULL && dp->d_type == DT_DIR) {
+      
+      list.push_back(dp->d_name);
+    }
+  } while(dp != NULL);
+  closedir(dirp);
+  return list;
+}
+
+const std::list<std::string>&
+getListOfFiles(const std::string& basedir,
+               std::list<std::string>& list) {
+  
+  DIR *dirp;
+  if ((dirp = opendir(basedir.c_str())) == NULL) {
+    std::cerr << "Couldn't open " << basedir << std::endl;
+    return list;
+  }
+  struct dirent *dp = NULL;
+  do {
+    
+    if ((dp = readdir(dirp)) != NULL && dp->d_type == DT_REG) {
+      
+      list.push_back(dp->d_name);
+    }
+  } while(dp != NULL);
+  closedir(dirp);
+  return list;
+}
+
+int main(int argc, char **argv) {
+
+  if (argc < 2) {
+    std::cerr << argv[0] << " base_directory" << std::endl;
+    exit(1);
+  }
+  std::list<std::string> list;
+  getListOfDirectories(argv[1],list);
+  for (std::list<std::string>::const_iterator csi = 
+         list.begin();
+       csi != list.end();
+       ++csi) {
+
+    std::cout << "Topic is " << *csi << std::endl;
+    std::cout << "========================" << *csi << std::endl;
+    std::list<std::string> files;
+    std::string dir = argv[1];
+    dir += "/" + *csi;
+    getListOfFiles(dir, files);
+    for (std::list<std::string>::const_iterator cfi = 
+           files.begin();
+         cfi != files.end();
+         ++cfi) {
+      std::cout << *cfi << std::endl;
+      processGraph(dir + "/" + *cfi);
+    }
+  }
 }

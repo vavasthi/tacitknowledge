@@ -6,6 +6,7 @@
 package com.avasthi.research.fpmi.tacitknowledge;
 
 import com.avasthi.research.fpmi.tacitknowledge.common.InterestingPhrase;
+import com.avasthi.research.fpmi.tacitknowledge.common.MinMaxDatePair;
 import com.avasthi.research.fpmi.tacitknowledge.common.NetworkEdge;
 import com.avasthi.research.fpmi.tacitknowledge.common.NetworkNode;
 import com.avasthi.research.fpmi.tacitknowledge.common.UsenetPostHeaders;
@@ -46,6 +47,7 @@ public interface UsenetPostSessionLocal {
     List<String> getTopics();  
     List<String> getRelevantTopics(long uid, Date dateFrom, Date dateTo);    
 
+    MinMaxDatePair getMinMaxDates(String topic);
     List<InterestingPhrase> getInterestingPhrasesForNewsgroupForYear(String topic, int year, int month);
     void upgradeTable(long uid);
 }

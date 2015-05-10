@@ -6,6 +6,7 @@
 package com.avasthi.research.fpmi.tacitknowledge;
 
 import com.avasthi.research.fpmi.tacitknowledge.common.InterestingPhrase;
+import com.avasthi.research.fpmi.tacitknowledge.common.MinMaxDatePair;
 import com.avasthi.research.fpmi.tacitknowledge.common.NetworkEdge;
 import com.avasthi.research.fpmi.tacitknowledge.common.NetworkNode;
 import com.avasthi.research.fpmi.tacitknowledge.common.UsenetPostHeaders;
@@ -30,7 +31,6 @@ import javax.jws.Oneway;
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
 import javax.persistence.Query;
-import javax.persistence.TemporalType;
 
 /**
  *
@@ -145,6 +145,17 @@ public class UsenetPostSession implements UsenetPostSessionLocal {
             nodes.add(new NetworkNode(une.getTo().getId(), une.getTo().getEmail()));
         }
         return nodes;
+    }
+
+    @Override
+    public MinMaxDatePair getMinMaxDates(String topic) {
+        Query q = em.createQuery("select min(iip.fromDate), max(iip.fromDate) from IndividualInterestingPhrases iip where iip.topic = :topic order by iip.fromDate");
+        q.setParameter("topic", topic);
+        List<Object[]> resultList = q.getResultList();
+        for (Object[] oa : resultList) {
+            return new MinMaxDatePair((Date)(oa[0]), (Date)(oa[1]));
+        }
+        return null;
     }
 
     @Override
