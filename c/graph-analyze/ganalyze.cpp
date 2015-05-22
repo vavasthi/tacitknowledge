@@ -14,27 +14,88 @@ void custom_warning_handler (const char *reason, const char *file,
 
 void 
 printVector(igraph_vector_t *v) {
-  long int i;
-  for (i=0; i<igraph_vector_size(v); i++) {
-    printf(" %li", (long int) VECTOR(*v)[i]);
+  for (long i=0; i<igraph_vector_size(v); i++) {
+    std::cout << (long int) VECTOR(*v)[i] << ' ';
   }
-  printf("\n");
+  std::cout << std::endl;
 }
 
-bool 
-processGraph(const std::string& fileName) {
-  igraph_t g;
+
+void showMultilevelModularityResults(igraph_t *g, 
+                                     igraph_vector_t *membership, 
+                                     igraph_matrix_t *memberships, 
+                                     igraph_vector_t *modularity,
+                                     std::ostream& strm) {
+  
+  long int i, j, no_of_nodes = igraph_vcount(g);
+  
+  j=igraph_vector_which_max(modularity);
+  for (i=0; i<igraph_vector_size(membership); i++) {
+    if (VECTOR(*membership)[i] != MATRIX(*memberships, j, i)) {
+      strm << "WARNING: best membership vector element "
+           << i << " does not match the best one in the membership matrix\n"
+           << std::endl;
+    }
+  }
+
+  strm << "Modularities" ;
+  igraph_vector_print(modularity);
+  printVector(modularity);
+
+  for (i=0; i < igraph_matrix_nrow(memberships); i++) {
+    for (j=0; j < no_of_nodes; j++) {
+      strm << (long int)MATRIX(*memberships, i, j) << ' ';
+    }
+    strm << std::endl;
+  }
+  strm << std::endl;
+}
+
+int
+printAttributeList(const igraph_t* g){
+
+  igraph_vector_t gtypes, vtypes, etypes;
+  igraph_strvector_t gnames, vnames, enames;
+  long int i;
+
+  igraph_vector_t vec;
+  igraph_strvector_t svec;
+  long int j;
+
+  igraph_vector_init(&gtypes, 0);
+  igraph_vector_init(&vtypes, 0);
+  igraph_vector_init(&etypes, 0);
+  igraph_strvector_init(&gnames, 0);
+  igraph_strvector_init(&vnames, 0);
+  igraph_strvector_init(&enames, 0);
+
+  igraph_cattribute_list(g, &gnames, &gtypes, &vnames, &vtypes, 
+			 &enames, &etypes);
+
+
+  igraph_strvector_destroy(&svec);
+  igraph_vector_destroy(&vec);
+
+  igraph_strvector_destroy(&enames);
+  igraph_strvector_destroy(&vnames);
+  igraph_strvector_destroy(&gnames);
+  igraph_vector_destroy(&etypes);
+  igraph_vector_destroy(&vtypes);
+  igraph_vector_destroy(&gtypes);
+
+  return 0;
+}
+
+int
+readGraphFromFile(const std::string& filename, igraph_t& g){
+
+  FILE *ifile, *ofile;
   igraph_error_handler_t* oldhandler;
   igraph_warning_handler_t* oldwarnhandler;
   int result;
-  FILE *ifile, *ofile;
-  igraph_real_t centralization;
-  igraph_real_t theoterical_max;
-  igraph_vector_t res;
-  igraph_vector_init(&res, 0);
 
   /* GraphML */
-  ifile=fopen(fileName.c_str(), "r");
+  ifile=fopen(filename.c_str(), "r");
   if (ifile==0) {
     return false;
   }
@@ -49,24 +110,54 @@ processGraph(const std::string& fileName) {
   igraph_set_error_handler(oldhandler);
 
   fclose(ifile);
-  /*
-  ofile=fopen("test2.gxl", "w");
-  if (ofile) {
-    if ((result=igraph_write_graph_graphml(&g, ofile,  1))) {
-      return 1;
-    }
-    fclose(ofile);
-    unlink("test2.gxl");
-  }
-  */
+  return 0;
+}
+
+void
+processMultilevelModularity(const std::string& filename)
+{
+
+  igraph_t g;
+  
+  readGraphFromFile(filename, g);
+  igraph_to_undirected(&g, IGRAPH_TO_UNDIRECTED_MUTUAL, 0);
+  
+  igraph_vector_t modularity, membership, edges;
+  igraph_matrix_t memberships;
+  
+  igraph_vector_init(&modularity, 0);
+  igraph_vector_init(&membership, 0);
+  igraph_matrix_init(&memberships, 0, 0);
+  
+  igraph_community_multilevel(&g, 0, &membership, &memberships, &modularity);
+  showMultilevelModularityResults(&g, &membership, &memberships, &modularity, std::cout);
+  igraph_destroy(&g);
+  
+}
+
+bool 
+processGraph(const std::string& fileName) {
+  igraph_t g;
+  int result;
+  igraph_real_t centralization;
+  igraph_real_t theoterical_max;
+  igraph_vector_t res;
+  igraph_vector_ptr_t cliques;
+  igraph_vector_init(&res, 0);
+
+  readGraphFromFile(fileName, g);
+  
   long vcount = (long int) igraph_vcount(&g);
   long ecount = (long int) igraph_ecount(&g);
   
-  printf("The directed graph:\n");
-  printf("Vertices: %li\n", vcount);
-  printf("Edges: %li\n", ecount);
-  printf("Directed: %i\n", (int) igraph_is_directed(&g));
-  igraph_write_graph_edgelist(&g, stdout);
+  std::cout << "Directed graph " 
+            << "Vertices: " <<  vcount
+            << "Edges: " << ecount
+            << " Directed:" << (int) igraph_is_directed(&g)
+            << std::endl;
+  //  igraph_write_graph_edgelist(&g, stdout);
+  
+  //printAttributeList(&g);
   
   igraph_vector_reserve(&res, vcount);
 
@@ -78,8 +169,22 @@ processGraph(const std::string& fileName) {
                                     &theoterical_max, 
                                     1);
 
+
+  igraph_vector_ptr_init(&cliques, 0);
   
-  printVector(&res);
+  igraph_largest_cliques(&g, &cliques);
+
+  int vectorSize = igraph_vector_ptr_size(&cliques);
+  std::cout << "Number of Cliques = " << vectorSize << std::endl;
+  
+  for (long i = 0; i < vectorSize; ++i) {
+    igraph_vector_t* v = reinterpret_cast<igraph_vector_t*>(igraph_vector_ptr_e(&cliques, i));
+    printVector((igraph_vector_t*)v);
+    igraph_vector_destroy(v);
+    free(v);
+  }
+  
+  processMultilevelModularity(fileName);
   
   igraph_centralization_degree(&g, 
                                0, 
@@ -89,12 +194,12 @@ processGraph(const std::string& fileName) {
                                &theoterical_max, 
                                1);
 
-  printf("%f\n", centralization);
+  std::cout << "Centralization measure " << centralization << std::endl;
   
-  igraph_destroy(&g);
+  // igraph_destroy(&g);
   
   
-  igraph_set_warning_handler(oldwarnhandler);
+  //  igraph_set_warning_handler(oldwarnhandler);
 
   /* There were sometimes problems with this file */
   /* Only if called from R though, and only on random occasions, once in every 
@@ -136,9 +241,12 @@ getListOfFiles(const std::string& basedir,
   struct dirent *dp = NULL;
   do {
     
-    if ((dp = readdir(dirp)) != NULL && dp->d_type == DT_REG) {
-      
-      list.push_back(dp->d_name);
+    if ((dp = readdir(dirp)) != NULL && dp->d_type == DT_REG ) {
+      std::string name = dp->d_name;
+      if (name.find(".graphml") != std::string::npos) {
+          
+        list.push_back(dp->d_name);
+      }
     }
   } while(dp != NULL);
   closedir(dirp);
