@@ -139,7 +139,8 @@ bool
 processGraph(const std::string& fileName) {
   igraph_t g;
   int result;
-  igraph_real_t centralization;
+  igraph_real_t centralization_betweenness;
+  igraph_real_t centralization_degree;
   igraph_real_t theoterical_max;
   igraph_vector_t res;
   igraph_vector_ptr_t cliques;
@@ -165,10 +166,20 @@ processGraph(const std::string& fileName) {
                                     &res, 
                                     IGRAPH_IN, 
                                     IGRAPH_NO_LOOPS, 
-                                    &centralization, 
+                                    &centralization_betweenness, 
                                     &theoterical_max, 
                                     1);
 
+  igraph_centralization_betweenness(&g, 
+                                    &res, 
+                                    IGRAPH_IN, 
+                                    IGRAPH_NO_LOOPS, 
+                                    &centralization_degree, 
+                                    &theoterical_max, 
+                                    1);
+
+  std::cout << "Centralization Betweenness " << centralization_betweenness << " Centralization Degree " << centralization_degree << std::endl;
+  
 
   igraph_vector_ptr_init(&cliques, 0);
   
@@ -186,15 +197,6 @@ processGraph(const std::string& fileName) {
   
   processMultilevelModularity(fileName);
   
-  igraph_centralization_degree(&g, 
-                               0, 
-                               IGRAPH_IN, 
-                               IGRAPH_NO_LOOPS, 
-                               &centralization, 
-                               &theoterical_max, 
-                               1);
-
-  std::cout << "Centralization measure " << centralization << std::endl;
   
   // igraph_destroy(&g);
   

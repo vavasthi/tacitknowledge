@@ -11,11 +11,14 @@ import com.aliasi.tokenizer.EnglishStopTokenizerFactory;
 import com.aliasi.tokenizer.IndoEuropeanTokenizerFactory;
 import com.aliasi.tokenizer.LowerCaseTokenizerFactory;
 import com.aliasi.tokenizer.PorterStemmerTokenizerFactory;
+import com.aliasi.tokenizer.RegExFilteredTokenizerFactory;
+import com.aliasi.tokenizer.RegExTokenizerFactory;
 import com.aliasi.tokenizer.TokenizerFactory;
 import com.aliasi.tokenizer.WhitespaceNormTokenizerFactory;
 import com.aliasi.util.ScoredObject;
 import java.io.IOException;
 import java.util.SortedSet;
+import java.util.regex.Pattern;
 
 /**
  *
@@ -32,8 +35,10 @@ public class TacitKnowledgeInterestingPhraseDetector {
 
     public TacitKnowledgeInterestingPhraseDetector() {
         TokenizerFactory tokenizerFactory = IndoEuropeanTokenizerFactory.INSTANCE;
+        tokenizerFactory = new RegExFilteredTokenizerFactory(tokenizerFactory, Pattern.compile("[a-zA-Z]+|[0-9]+|"));
         tokenizerFactory = new WhitespaceNormTokenizerFactory(tokenizerFactory);
         tokenizerFactory = new LowerCaseTokenizerFactory(tokenizerFactory);
+        tokenizerFactory = new TacitKnowledgeEnglishStopTokenizerFactory(tokenizerFactory);
         tokenizerFactory = new EnglishStopTokenizerFactory(tokenizerFactory);
         tokenizerFactory = new PorterStemmerTokenizerFactory(tokenizerFactory);
         model = new TokenizedLM(tokenizerFactory, NGRAM);
