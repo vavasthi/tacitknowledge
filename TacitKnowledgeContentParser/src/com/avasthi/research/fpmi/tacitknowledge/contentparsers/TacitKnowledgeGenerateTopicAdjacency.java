@@ -6,6 +6,7 @@
 package com.avasthi.research.fpmi.tacitknowledge.contentparsers;
 
 import com.aliasi.util.ScoredObject;
+import com.avasthi.research.fpmi.tacitknowledge.common.UsenetInitiatePhraseAdjacencyCalculation;
 import com.avasthi.research.fpmi.tacitknowledge.common.UsenetInterestingPhraseMessages;
 import com.avasthi.research.fpmi.tacitknowledge.common.UsenetPostPhraseScore;
 import com.avasthi.research.fpmi.tacitknowledge.contentparsers.ws.client.UsenetPost;
@@ -41,13 +42,13 @@ import javax.xml.datatype.XMLGregorianCalendar;
  *
  * @author vavasthi
  */
-public class TacitKnowledgePerMessagePhrases {
+public class TacitKnowledgeGenerateTopicAdjacency {
 
     private Long startUserId;
-    Set<Pair<String, String> > probabilityExistenceSet = new HashSet<>();
+    Set<Pair<String, String>> probabilityExistenceSet = new HashSet<>();
     Map<Pair<String, String>, Double> conditionalProbabilityMap = new HashMap<>();
-    Map<String, Double > phraseCountMap = new HashMap<>();
-    
+    Map<String, Double> phraseCountMap = new HashMap<>();
+
     class Pair<T1, T2> {
 
         public Pair(T1 value1, T2 value2) {
@@ -55,7 +56,6 @@ public class TacitKnowledgePerMessagePhrases {
             this.value2 = value2;
         }
 
-        
         public T1 getValue1() {
             return value1;
         }
@@ -71,6 +71,7 @@ public class TacitKnowledgePerMessagePhrases {
         public void setValue2(T2 value2) {
             this.value2 = value2;
         }
+
         @Override
         public int hashCode() {
             int hash = 5;
@@ -97,7 +98,6 @@ public class TacitKnowledgePerMessagePhrases {
             return true;
         }
 
-        
         T1 value1;
         T2 value2;
     }
@@ -108,18 +108,16 @@ public class TacitKnowledgePerMessagePhrases {
         Double pc = phraseCountMap.get(phrase1);
         if (pc != null) {
             pc = count + pc;
-        }
-        else {
+        } else {
             pc = count;
         }
         phraseCountMap.put(phrase1, pc);
         if (!phrase1.equals(phrase2)) {
             pc = phraseCountMap.get(phrase2);
             if (pc != null) {
-                
+
                 pc = count + pc;
-            }
-            else {
+            } else {
                 pc = count;
             }
             phraseCountMap.put(phrase2, count);
@@ -128,26 +126,26 @@ public class TacitKnowledgePerMessagePhrases {
             if (!probabilityExistenceSet.contains(key)) {
                 probabilityExistenceSet.add(key);
                 conditionalProbabilityMap.put(key, count);
-            }
-            else {
+            } else {
                 count += conditionalProbabilityMap.get(revKey);
                 conditionalProbabilityMap.put(revKey, count);
             }
-        }
-        else {
-            
+        } else {
+
             count += conditionalProbabilityMap.get(key);
             conditionalProbabilityMap.put(key, count);
         }
     }
+
     private void printTables(PrintWriter pwMap, PrintWriter pwPhrase) {
-        for (Map.Entry<String, Double> e: phraseCountMap.entrySet()) {
+        for (Map.Entry<String, Double> e : phraseCountMap.entrySet()) {
             pwPhrase.printf("%f, %s\n", e.getValue(), e.getKey());
         }
         for (Map.Entry<Pair<String, String>, Double> e : conditionalProbabilityMap.entrySet()) {
             pwMap.printf("%s,%s,%f\n", e.getKey().value1, e.getKey().value2, e.getValue());
         }
     }
+
     void increaseCounts(SortedSet< ScoredObject<String[]>> sso) {
         String first = null;
         double firstCount = 0;
@@ -165,109 +163,73 @@ public class TacitKnowledgePerMessagePhrases {
                 first = phrase;
                 firstCount = so.score();
                 populateProbability(first, first, firstCount);
-            }
-            else {
-                
+            } else {
+
                 populateProbability(first, phrase, so.score());
             }
         }
     }
+
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
         // TODO code application logic here
-        TacitKnowledgePerMessagePhrases parser;
+        TacitKnowledgeGenerateTopicAdjacency parser;
         if (args.length > 0) {
-            parser = new TacitKnowledgePerMessagePhrases(Long.parseLong(args[0]));
+            parser = new TacitKnowledgeGenerateTopicAdjacency(Long.parseLong(args[0]));
         } else {
 
-            parser = new TacitKnowledgePerMessagePhrases(null);
+            parser = new TacitKnowledgeGenerateTopicAdjacency(null);
         }
         parser.parse();
     }
 
-    private TacitKnowledgePerMessagePhrases(Long startUserId) {
+    private TacitKnowledgeGenerateTopicAdjacency(Long startUserId) {
         this.startUserId = startUserId;
     }
 
-    void parse() {
+    void parse() throws InterruptedException {
 
-        File mapFile = new File("output-map.csv");
-        File phraseFile = new File("output-phrases.csv");
-        PrintWriter pwMap = null;
-        PrintWriter pwPhrase = null;
         int kount = 1;
-        try {
-            pwMap = new PrintWriter(new FileWriter(mapFile));
-            pwPhrase = new PrintWriter(new FileWriter(phraseFile));
-        } catch (IOException ex) {
-            Logger.getLogger(TacitKnowledgePerMessagePhrases.class.getName()).log(Level.SEVERE, null, ex);
-            System.exit(-1);
-        }
+        
         UsenetPostWebService_Service service = new UsenetPostWebService_Service();
         UsenetPostWebService ws = service.getUsenetPostWebServicePort();
         List<Long> users = ws.listIndividualIds();
         for (long u : users) {
 
-            XMLGregorianCalendar fromMin = ws.getMinDateForUser(u);
-            XMLGregorianCalendar toMax = ws.getMaxDateForUser(u);
-
-            List<String> messageIds = ws.listMessageIds(u, fromMin, toMax);
-            for (String m : messageIds) {
-                UsenetPostHeaders uph = ws.getPost(m);
-                for (String topic : uph.getTopics()) {
-
-                    try {
-                        int noMsgs = 0;
-                        UsenetInterestingPhraseMessages uipms
-                                = new UsenetInterestingPhraseMessages();
-                        TacitKnowledgeInterestingPhraseDetector ipd
-                                = new TacitKnowledgeInterestingPhraseDetector();
-                        String body = URLDecoder.decode(ws.getMessageBody(m), "UTF-8");
-                        body = body.trim();
-                        ipd.incrementalTrain(body);
-                        ipd.model.sequenceCounter().prune(3);
-                        SortedSet< ScoredObject<String[]>> sso = ipd.model.frequentTermSet(1, 100);
-                        increaseCounts(sso);
-                    } catch (UnsupportedEncodingException ex) {
-                        Logger.getLogger(TacitKnowledgePerMessagePhrases.class.getName()).log(Level.SEVERE, null, ex);
-                    } catch (IOException ex) {
-                        Logger.getLogger(TacitKnowledgePerMessagePhrases.class.getName()).log(Level.SEVERE, null, ex);
-                    }
-                }
-            }
+            UsenetInitiatePhraseAdjacencyCalculation msg = new UsenetInitiatePhraseAdjacencyCalculation(u);
+            UsenetPostMessageQueueSender.instance().send(msg);
         }
-        printTables(pwMap, pwPhrase);
     }
 }
-/*                            UsenetInterestingPhraseMessage uipm
- = new UsenetInterestingPhraseMessage();
- uipm.setUid(uid);
- uipm.setFrom(from.toGregorianCalendar().getTime());
- uipm.setTo(to.toGregorianCalendar().getTime());
- uipm.setPpsList(ppsList);
- for (String etopic : topicList) {
- String topic = etopic;
- try {
- topic = URLDecoder.decode(etopic, "UTF-8");
- } catch (UnsupportedEncodingException ex) {
- Logger.getLogger(TacitKnowledgeContentParser.class.getName()).log(Level.SEVERE, null, ex);
- }
- uipm.setTopic(topic);
- uipms.addMessage(uipm);
- System.out.printf("%d,%d,%d,\"%d\",%d,%s,%s,%s\n", kount, uid, 1, )
- if (uipms.getMessages().size() > 250) {
+    /*                            UsenetInterestingPhraseMessage uipm
+     = new UsenetInterestingPhraseMessage();
+     uipm.setUid(uid);
+     uipm.setFrom(from.toGregorianCalendar().getTime());
+     uipm.setTo(to.toGregorianCalendar().getTime());
+     uipm.setPpsList(ppsList);
+     for (String etopic : topicList) {
+     String topic = etopic;
+     try {
+     topic = URLDecoder.decode(etopic, "UTF-8");
+     } catch (UnsupportedEncodingException ex) {
+     Logger.getLogger(TacitKnowledgeContentParser.class.getName()).log(Level.SEVERE, null, ex);
+     }
+     uipm.setTopic(topic);
+     uipms.addMessage(uipm);
+     System.out.printf("%d,%d,%d,\"%d\",%d,%s,%s,%s\n", kount, uid, 1, )
+     if (uipms.getMessages().size() > 250) {
                                     
- UsenetPostMessageQueueSender.instance().send(uipms);
- uipms = new UsenetInterestingPhraseMessages();
- }*/
+     UsenetPostMessageQueueSender.instance().send(uipms);
+     uipms = new UsenetInterestingPhraseMessages();
+     }*/
 
 //                    ipd.report();
 //                 }
                     /*                        if (uipms.getMessages().size() > 0) {
                             
- UsenetPostMessageQueueSender.instance().send(uipms);
- }*/
+     UsenetPostMessageQueueSender.instance().send(uipms);
+     }*/
 //            } catch (IOException ex) {
 //                Logger.getLogger(TacitKnowledgeContentParser.class.getName()).log(Level.SEVERE, null, ex);

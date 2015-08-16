@@ -5,6 +5,8 @@
  */
 package com.avasthi.research.fpmi.tacitknowledge;
 
+import com.aliasi.util.ScoredObject;
+import com.avasthi.research.fpmi.tacitknowledge.common.UsenetInitiatePhraseAdjacencyCalculation;
 import com.avasthi.research.fpmi.tacitknowledge.common.UsenetInterestingPhraseMessage;
 import com.avasthi.research.fpmi.tacitknowledge.common.UsenetInterestingPhraseMessages;
 import com.avasthi.research.fpmi.tacitknowledge.common.UsenetMessageIds;
@@ -12,11 +14,13 @@ import com.avasthi.research.fpmi.tacitknowledge.common.UsenetNetworkEdgeMessage;
 import com.avasthi.research.fpmi.tacitknowledge.common.UsenetPostMessage;
 import com.avasthi.research.fpmi.tacitknowledge.common.UsenetPostPhraseScore;
 import com.avasthi.research.fpmi.tacitknowledge.common.UsenetUpgradeTableMessage;
+import java.io.IOException;
 import java.io.UnsupportedEncodingException;
 import java.net.URLDecoder;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
+import java.util.SortedSet;
 import java.util.StringTokenizer;
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -29,6 +33,7 @@ import javax.jms.ObjectMessage;
 import javax.persistence.EntityManager;
 import javax.persistence.NoResultException;
 import javax.persistence.PersistenceContext;
+import javax.persistence.PersistenceException;
 import javax.persistence.Query;
 
 /**
@@ -89,6 +94,12 @@ public class UsenetPostMessageQueue implements MessageListener {
                     case UsenetMessageIds.UPGRADE_TABLE_MESSAGE:
                         UsenetUpgradeTableMessage uutm = (UsenetUpgradeTableMessage) o.getObject();
                         processMessage(uutm.getId());
+                        break;
+                    case UsenetMessageIds.INITIATE_PHRASE_ADJACENCY:
+                        LOG.info("Initiate phrase adjacency message received.");
+                        UsenetInitiatePhraseAdjacencyCalculation uipac 
+                                = (UsenetInitiatePhraseAdjacencyCalculation)o.getObject();
+                        generateTopicAdjacency(uipac.getUid());
                         break;
                     case UsenetMessageIds.INTERESTING_PHRASE_MESSAGES: {
 
@@ -253,6 +264,138 @@ public class UsenetPostMessageQueue implements MessageListener {
             up.setReferencedTopics(list);
         }
 
+    }
+    private String createPhrase(String[] sa) {
+
+        String phrase = "";
+        String sep1 = " ";
+        String sep2 = "";
+        String sep = sep2;
+        for (int j = 0; j < sa.length; ++j) {
+            phrase += sep + sa[j];
+            sep = sep1;
+        }
+        return phrase;
+    }
+
+    private TopicAdjacencyPhrases getPhrase(String phrase, String topic) throws PersistenceException {
+
+            TopicAdjacencyPhrases phraseObject = new TopicAdjacencyPhrases();
+            phraseObject.setPhrase(phrase);
+            phraseObject.setTopic(topic);
+            phraseObject.setCount(0);
+            em.persist(phraseObject);
+            return phraseObject;
+    }
+
+    private TopicAdjacencyDependency getDependency(EntityManager em, TopicAdjacencyPhrases phrase1,
+            TopicAdjacencyPhrases phrase2,
+            double phrase1Count,
+            double phrase2Count) throws PersistenceException {
+        if (phrase1.getPhrase().compareTo(phrase2.getPhrase()) < 0) {
+            
+                TopicAdjacencyDependency dependency
+                        = new TopicAdjacencyDependency();
+                dependency.setFirstPhrase(phrase1);
+                dependency.setSecondPhrase(phrase2);
+                dependency.setTopic(phrase1.getTopic());
+                dependency.setCount(Math.min(phrase1Count, phrase2Count));
+                em.persist(dependency);
+                return dependency;
+        }
+        else {
+            
+                TopicAdjacencyDependency dependency
+                        = new TopicAdjacencyDependency();
+                dependency.setFirstPhrase(phrase2);
+                dependency.setSecondPhrase(phrase1);
+                dependency.setTopic(phrase2.getTopic());
+                dependency.setCount(Math.min(phrase1Count, phrase2Count));
+                em.persist(dependency);
+                return dependency;
+        }
+    }
+
+    private void increaseCounts(EntityManager em, String topic, SortedSet< ScoredObject<String[]>> sso) {
+        String first = null;
+        for (ScoredObject<String[]> soOuter : sso) {
+            String outerPhraseString = createPhrase(soOuter.getObject());
+            TopicAdjacencyPhrases outerPhrase = getPhrase(outerPhraseString, topic);
+            outerPhrase.setCount(outerPhrase.getCount() + soOuter.score());
+            boolean skipToOuter = true;
+            for (ScoredObject<String[]> soInner : sso) {
+                if (skipToOuter) {
+                    if (soInner == soOuter) {
+                        skipToOuter = false;
+                    }
+                } else {
+
+                    if (soInner.equals(soOuter)) {
+                        // This is the scenario where both the phrases are identical. 
+                        TopicAdjacencyDependency dependency = getDependency(em, outerPhrase, outerPhrase, soOuter.score(), soOuter.score());
+                    } else {
+
+                        String innerPhraseString = createPhrase(soInner.getObject());
+                        TopicAdjacencyPhrases innerPhrase = getPhrase(innerPhraseString, topic);
+                        innerPhrase.setCount(innerPhrase.getCount() + soInner.score());
+                        TopicAdjacencyDependency dependency = getDependency(em, outerPhrase, innerPhrase, soOuter.score(), soInner.score());
+                    }
+                }
+            }
+        }
+    }
+
+    public void  generateTopicAdjacency(long uid) {
+        Individual i = em.find(Individual.class, uid);
+        Query q = em.createQuery("select p from UsenetPost p where p.sender = :sender");
+        q.setParameter("sender", i);
+        for (Object o : q.getResultList()) {
+            UsenetPost p = (UsenetPost)o;
+            int count = generateTopicAdjacency(p);
+            Logger.getLogger(UsenetPostMessageQueue.class.getName()).log(Level.INFO, "Processed " + count + " messages for topic " + p.getId());
+        }
+        em.flush();
+    }
+
+    public Integer generateTopicAdjacency(UsenetPost p) {
+        
+        int noMsgs = 0;
+        if (p == null) {
+            return 0;
+        } else {
+            for (UsenetTopic topic : p.getReferencedTopics()) {
+                try {
+
+                    TacitKnowledgeInterestingPhraseDetector ipd
+                            = new TacitKnowledgeInterestingPhraseDetector();
+                    String body = p.body;
+                    body = body.trim();
+                    ipd.incrementalTrain(body);
+                    ipd.model.sequenceCounter().prune(3);
+                    SortedSet< ScoredObject<String[]>> sso = ipd.model.frequentTermSet(1, 100);
+                    increaseCounts(em, topic.getReferenceId(), sso);
+                    ++noMsgs;
+                } catch (IOException ex) {
+                    Logger.getLogger(UsenetPostSession.class.getName()).log(Level.SEVERE, null, ex);
+                }
+            }
+
+        }
+        return noMsgs;
+    }
+    
+    public Integer generateTopicAdjacency(String messageId) {
+
+        UsenetPost p;
+        try {
+            
+            p = em.find(UsenetPost.class, URLDecoder.decode(messageId, "UTF-8"));
+        }
+        catch (UnsupportedEncodingException uex) {
+            p = null;
+            uex.printStackTrace();
+        }
+        return generateTopicAdjacency(p);
     }
 
     private static final Logger LOG = Logger.getLogger(UsenetPostMessageQueue.class

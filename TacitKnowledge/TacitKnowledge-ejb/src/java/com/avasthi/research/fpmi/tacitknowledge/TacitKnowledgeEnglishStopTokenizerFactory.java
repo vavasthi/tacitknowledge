@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.avasthi.research.fpmi.tacitknowledge.contentparsers;
+package com.avasthi.research.fpmi.tacitknowledge;
 
 import com.aliasi.tokenizer.StopTokenizerFactory;
 import com.aliasi.tokenizer.TokenizerFactory;
@@ -11,7 +11,6 @@ import java.io.ObjectInput;
 import java.io.Serializable;
 import java.util.HashSet;
 import java.util.Set;
-import org.eclipse.persistence.sessions.serializers.AbstractSerializer;
 
 /**
  *

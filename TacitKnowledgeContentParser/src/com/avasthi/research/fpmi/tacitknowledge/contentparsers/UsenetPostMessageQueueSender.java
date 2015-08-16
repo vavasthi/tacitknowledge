@@ -5,6 +5,7 @@
  */
 package com.avasthi.research.fpmi.tacitknowledge.contentparsers;
 
+import com.avasthi.research.fpmi.tacitknowledge.common.UsenetInitiatePhraseAdjacencyCalculation;
 import com.avasthi.research.fpmi.tacitknowledge.common.UsenetInterestingPhraseMessage;
 import com.avasthi.research.fpmi.tacitknowledge.common.UsenetInterestingPhraseMessages;
 import com.avasthi.research.fpmi.tacitknowledge.common.UsenetMessageIds;
@@ -124,6 +125,15 @@ public class UsenetPostMessageQueueSender {
         try {
             Message m = session.createObjectMessage(message);
             m.setIntProperty(UsenetMessageIds.MESSAGE_TYPE_PROPERTY, UsenetMessageIds.UPGRADE_TABLE_MESSAGE);
+            messageProducer.send(m);
+        } catch (JMSException ex) {
+            Logger.getLogger(UsenetPostMessageQueueSender.class.getName()).log(Level.SEVERE, null, ex);
+        }
+    }
+    public void send(UsenetInitiatePhraseAdjacencyCalculation message) {
+        try {
+            Message m = session.createObjectMessage(message);
+            m.setIntProperty(UsenetMessageIds.MESSAGE_TYPE_PROPERTY, UsenetMessageIds.INITIATE_PHRASE_ADJACENCY);
             messageProducer.send(m);
         } catch (JMSException ex) {
             Logger.getLogger(UsenetPostMessageQueueSender.class.getName()).log(Level.SEVERE, null, ex);

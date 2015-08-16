@@ -18,5 +18,6 @@ public class UsenetMessageIds {
     public static final int NETWORK_EDGE_MESSAGE = 0x03;
     public static final int UPGRADE_TABLE_MESSAGE = 0x04;
     public static final int INTERESTING_PHRASE_MESSAGES = 0x05;
+    public static final int INITIATE_PHRASE_ADJACENCY = 0x06;
     
 }

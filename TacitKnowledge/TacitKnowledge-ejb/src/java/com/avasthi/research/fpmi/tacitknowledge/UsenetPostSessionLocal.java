@@ -9,6 +9,8 @@ import com.avasthi.research.fpmi.tacitknowledge.common.InterestingPhrase;
 import com.avasthi.research.fpmi.tacitknowledge.common.MinMaxDatePair;
 import com.avasthi.research.fpmi.tacitknowledge.common.NetworkEdge;
 import com.avasthi.research.fpmi.tacitknowledge.common.NetworkNode;
+import com.avasthi.research.fpmi.tacitknowledge.common.TacitKnowledgePhraseCount;
+import com.avasthi.research.fpmi.tacitknowledge.common.TacitKnowledgePhrasePairProbability;
 import com.avasthi.research.fpmi.tacitknowledge.common.UsenetPostHeaders;
 import com.avasthi.research.fpmi.tacitknowledge.common.UsenetPostPhraseScore;
 import java.util.Date;
@@ -49,5 +51,11 @@ public interface UsenetPostSessionLocal {
 
     MinMaxDatePair getMinMaxDates(String topic);
     List<InterestingPhrase> getInterestingPhrasesForNewsgroupForYear(String topic, int year, int month);
+    List<TacitKnowledgePhrasePairProbability> getPhrasePairProbability(String topic);
+    List<TacitKnowledgePhrasePairProbability> getPhrasePairProbability(String topic, long phraseId);
+    List<TacitKnowledgePhrasePairProbability> getPhrasePairProbability(String topicEncoded, String phrase);
+    
+    List<String> getTopPhrase(String topic);
+    List<TacitKnowledgePhraseCount> getTopPhraseIds(String topic);
     void upgradeTable(long uid);
 }

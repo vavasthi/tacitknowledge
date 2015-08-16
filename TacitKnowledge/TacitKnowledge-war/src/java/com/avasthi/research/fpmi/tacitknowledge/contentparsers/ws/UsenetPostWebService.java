@@ -11,6 +11,8 @@ import com.avasthi.research.fpmi.tacitknowledge.common.InterestingPhrase;
 import com.avasthi.research.fpmi.tacitknowledge.common.MinMaxDatePair;
 import com.avasthi.research.fpmi.tacitknowledge.common.NetworkEdge;
 import com.avasthi.research.fpmi.tacitknowledge.common.NetworkNode;
+import com.avasthi.research.fpmi.tacitknowledge.common.TacitKnowledgePhraseCount;
+import com.avasthi.research.fpmi.tacitknowledge.common.TacitKnowledgePhrasePairProbability;
 import com.avasthi.research.fpmi.tacitknowledge.common.UsenetPostHeaders;
 import com.avasthi.research.fpmi.tacitknowledge.common.UsenetPostPhraseScore;
 import java.util.Date;
@@ -138,6 +140,35 @@ public class UsenetPostWebService {
     @WebMethod(operationName = "getInterestingPhrasesForNewsgroupForYear")
     public List<InterestingPhrase> getInterestingPhrasesForNewsgroupForYear(@WebParam(name = "topic") String topic, @WebParam(name = "year") int year, @WebParam(name = "month") int month) {
         return ejbRef.getInterestingPhrasesForNewsgroupForYear(topic, year, month);
+    }
+
+    @WebMethod(operationName = "getPhrasePairProbability")
+    public List<TacitKnowledgePhrasePairProbability> getPhrasePairProbability(@WebParam(name = "topic") String topic) {
+        return ejbRef.getPhrasePairProbability(topic);
+    }
+
+    @WebMethod(operationName = "getPhrasePairProbability_1")
+    @RequestWrapper(className = "getPhrasePairProbability_1")
+    @ResponseWrapper(className = "getPhrasePairProbability_1Response")
+    public List<TacitKnowledgePhrasePairProbability> getPhrasePairProbability(@WebParam(name = "topic") String topic, @WebParam(name = "phraseId") long phraseId) {
+        return ejbRef.getPhrasePairProbability(topic, phraseId);
+    }
+
+    @WebMethod(operationName = "getPhrasePairProbability_2")
+    @RequestWrapper(className = "getPhrasePairProbability_2")
+    @ResponseWrapper(className = "getPhrasePairProbability_2Response")
+    public List<TacitKnowledgePhrasePairProbability> getPhrasePairProbability(@WebParam(name = "topicEncoded") String topicEncoded, @WebParam(name = "phrase") String phrase) {
+        return ejbRef.getPhrasePairProbability(topicEncoded, phrase);
+    }
+
+    @WebMethod(operationName = "getTopPhrase")
+    public List<String> getTopPhrase(@WebParam(name = "topic") String topic) {
+        return ejbRef.getTopPhrase(topic);
+    }
+
+    @WebMethod(operationName = "getTopPhraseIds")
+    public List<TacitKnowledgePhraseCount> getTopPhraseIds(@WebParam(name = "topic") String topic) {
+        return ejbRef.getTopPhraseIds(topic);
     }
 
     @WebMethod(operationName = "upgradeTable")

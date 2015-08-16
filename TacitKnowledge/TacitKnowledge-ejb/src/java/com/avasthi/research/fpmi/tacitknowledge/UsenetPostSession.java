@@ -5,12 +5,17 @@
  */
 package com.avasthi.research.fpmi.tacitknowledge;
 
+import com.aliasi.util.ScoredObject;
 import com.avasthi.research.fpmi.tacitknowledge.common.InterestingPhrase;
 import com.avasthi.research.fpmi.tacitknowledge.common.MinMaxDatePair;
 import com.avasthi.research.fpmi.tacitknowledge.common.NetworkEdge;
 import com.avasthi.research.fpmi.tacitknowledge.common.NetworkNode;
+import com.avasthi.research.fpmi.tacitknowledge.common.TacitKnowledgePhraseCount;
+import com.avasthi.research.fpmi.tacitknowledge.common.TacitKnowledgePhrasePairProbability;
+import com.avasthi.research.fpmi.tacitknowledge.common.UsenetInterestingPhraseMessages;
 import com.avasthi.research.fpmi.tacitknowledge.common.UsenetPostHeaders;
 import com.avasthi.research.fpmi.tacitknowledge.common.UsenetPostPhraseScore;
+import java.io.IOException;
 import java.io.UnsupportedEncodingException;
 import java.net.URLDecoder;
 import java.net.URLEncoder;
@@ -23,13 +28,16 @@ import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
 import java.util.Set;
+import java.util.SortedSet;
 import java.util.StringTokenizer;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.ejb.Stateless;
 import javax.jws.Oneway;
 import javax.persistence.EntityManager;
+import javax.persistence.NoResultException;
 import javax.persistence.PersistenceContext;
+import javax.persistence.PersistenceException;
 import javax.persistence.Query;
 
 /**
@@ -153,7 +161,7 @@ public class UsenetPostSession implements UsenetPostSessionLocal {
         q.setParameter("topic", topic);
         List<Object[]> resultList = q.getResultList();
         for (Object[] oa : resultList) {
-            return new MinMaxDatePair((Date)(oa[0]), (Date)(oa[1]));
+            return new MinMaxDatePair((Date) (oa[0]), (Date) (oa[1]));
         }
         return null;
     }
@@ -381,4 +389,137 @@ public class UsenetPostSession implements UsenetPostSessionLocal {
             up.setReferencedTopics(list);
         }
     }
+
+    @Override
+    public List<TacitKnowledgePhrasePairProbability> getPhrasePairProbability(String topicEncoded) {
+        List<TacitKnowledgePhrasePairProbability> ret = new ArrayList<>();
+        String topic = topicEncoded;
+        try {
+            topic = URLDecoder.decode(topicEncoded, "utf-8");
+        } catch (UnsupportedEncodingException ex) {
+            Logger.getLogger(UsenetPostSession.class.getName()).log(Level.SEVERE, null, ex);
+        }
+        List<TacitKnowledgePhraseCount> topPhrases = getTopPhraseIds(topic);
+
+        for (TacitKnowledgePhraseCount phraseCount : topPhrases) {
+
+            Query q = em.createNamedQuery(TacitKnowledgeTopicAdjacency.findByTopicFirstOrSecondPhraseId);
+            q.setParameter("topic", topic);
+            q.setParameter("phraseId", phraseCount.getPhraseId());
+            long maxCount = Long.MAX_VALUE;
+            List l = q.getResultList();
+                for (Object o : l) {
+                    TacitKnowledgeTopicAdjacency tkta = (TacitKnowledgeTopicAdjacency) o;
+                    if (tkta.getFirstPhraseId() == phraseCount.getPhraseId()) {
+                        TacitKnowledgePhraseCount secondPhraseCount = getPhraseCount(topic, tkta.getSecondPhraseId());
+                        double probability = ((tkta.getCount() * 1.0) / secondPhraseCount.getCount() * 1.0);
+                        TacitKnowledgePhrasePairProbability tkppp 
+                                = new TacitKnowledgePhrasePairProbability(topic, phraseCount.getPhrase(), secondPhraseCount.getPhrase(), probability);
+                        ret.add(tkppp);
+                    }
+                    else {
+                        
+                        TacitKnowledgePhraseCount firstPhraseCount = getPhraseCount(topic, tkta.getFirstPhraseId());
+                        double probability = ((tkta.getCount() * 1.0) / firstPhraseCount.getCount() * 1.0);
+                        TacitKnowledgePhrasePairProbability tkppp 
+                                = new TacitKnowledgePhrasePairProbability(topic, phraseCount.getPhrase(),  firstPhraseCount.getPhrase(), probability);
+                        ret.add(tkppp);
+                    }
+                }
+        }
+        return ret;
+    }
+    @Override
+    public List<TacitKnowledgePhrasePairProbability> getPhrasePairProbability(String topicEncoded, String phrase) {
+        String topic = topicEncoded;
+        try {
+            topic = URLDecoder.decode(topicEncoded, "utf-8");
+        } catch (UnsupportedEncodingException ex) {
+            Logger.getLogger(UsenetPostSession.class.getName()).log(Level.SEVERE, null, ex);
+        }
+        Query q = em.createNamedQuery(TacitKnowledgeTopicPhrase.findByTopicAndPhrase);
+        q.setParameter("phrase", phrase);
+        q.setParameter("topic", topic);
+        TacitKnowledgeTopicPhrase tktp = (TacitKnowledgeTopicPhrase)q.getSingleResult();
+        return getPhrasePairProbability(topicEncoded, tktp.getId());
+    }
+    @Override
+    public List<TacitKnowledgePhrasePairProbability> getPhrasePairProbability(String topicEncoded, long phraseId) {
+        List<TacitKnowledgePhrasePairProbability> ret = new ArrayList<>();
+        String topic = topicEncoded;
+        try {
+            topic = URLDecoder.decode(topicEncoded, "utf-8");
+        } catch (UnsupportedEncodingException ex) {
+            Logger.getLogger(UsenetPostSession.class.getName()).log(Level.SEVERE, null, ex);
+        }
+        TacitKnowledgePhraseCount phraseCount = getPhraseCount(topic, phraseId);
+        Query q = em.createNamedQuery(TacitKnowledgeTopicAdjacency.findByTopicFirstOrSecondPhraseId);
+        q.setParameter("topic", topic);
+        q.setParameter("phraseId", phraseCount.getPhraseId());
+        q.setMaxResults(1000);
+        long maxCount = Long.MAX_VALUE;
+        List l = q.getResultList();
+        for (Object o : l) {
+            TacitKnowledgeTopicAdjacency tkta = (TacitKnowledgeTopicAdjacency) o;
+            if (tkta.getFirstPhraseId() == phraseCount.getPhraseId()) {
+                TacitKnowledgePhraseCount secondPhraseCount = getPhraseCount(topic, tkta.getSecondPhraseId());
+                double probability = ((tkta.getCount() * 1.0) / phraseCount.getCount() * 1.0);
+                TacitKnowledgePhrasePairProbability tkppp
+                        = new TacitKnowledgePhrasePairProbability(topic, phraseCount.getPhrase(), secondPhraseCount.getPhrase(), probability);
+                ret.add(tkppp);
+            } else {
+
+                TacitKnowledgePhraseCount firstPhraseCount = getPhraseCount(topic, tkta.getFirstPhraseId());
+                double probability = ((tkta.getCount() * 1.0) / phraseCount.getCount() * 1.0);
+                TacitKnowledgePhrasePairProbability tkppp
+                        = new TacitKnowledgePhrasePairProbability(topic, phraseCount.getPhrase(), firstPhraseCount.getPhrase(), probability);
+                ret.add(tkppp);
+            }
+        }
+        return ret;
+    }
+     
+    
+    @Override
+    public List<String> getTopPhrase(String topic) {
+        List<String> ret = new ArrayList<>();
+        Query q = em.createNamedQuery(TacitKnowledgeTopicPhrase.findByTopic);
+        q.setParameter("topic", topic);
+        q.setMaxResults(1000);
+        long maxCount = Long.MAX_VALUE;
+        List l = q.getResultList();
+        if (l.size() > 0) {
+            maxCount = ((TacitKnowledgeTopicPhrase)l.get(0)).getCount();
+            for (Object o : l) {
+                TacitKnowledgeTopicPhrase tktp = (TacitKnowledgeTopicPhrase)o;
+                ret.add(tktp.getPhrase());
+            }
+        }
+        return ret;
+    }
+    @Override
+    public List<TacitKnowledgePhraseCount> getTopPhraseIds(String topic) {
+        List<TacitKnowledgePhraseCount> ret = new ArrayList<>();
+        Query q = em.createNamedQuery(TacitKnowledgeTopicPhrase.findByTopic);
+        q.setParameter("topic", topic);
+        q.setMaxResults(1000);
+        long maxCount = Long.MAX_VALUE;
+        List l = q.getResultList();
+        if (l.size() > 0) {
+            maxCount = ((TacitKnowledgeTopicPhrase)l.get(0)).getCount();
+            for (Object o : l) {
+                TacitKnowledgeTopicPhrase tktp = (TacitKnowledgeTopicPhrase)o;
+                ret.add(new TacitKnowledgePhraseCount(tktp.getId(), tktp.getPhrase(), tktp.getCount()));
+            }
+        }
+        return ret;
+    }    
+    private TacitKnowledgePhraseCount getPhraseCount(String topic, long phraseId) {
+        Query q = em.createNamedQuery(TacitKnowledgeTopicPhrase.findByTopicAndId);
+        q.setParameter("topic", topic);
+        q.setParameter("id", phraseId);
+        TacitKnowledgeTopicPhrase tktp = (TacitKnowledgeTopicPhrase)q.getSingleResult();
+        TacitKnowledgePhraseCount ret = new TacitKnowledgePhraseCount(tktp.getId(), tktp.getPhrase(), tktp.getCount());
+        return ret;
+    }  
 }
