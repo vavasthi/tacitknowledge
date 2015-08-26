@@ -156,6 +156,12 @@ public class TacitKnowledgeEnglishStopTokenizerFactory
         STOP_SET.add("com");
         STOP_SET.add("net");
         STOP_SET.add("edu");
+        STOP_SET.add("wrote");
+        STOP_SET.add("us");
+        STOP_SET.add("these");
+        STOP_SET.add("then");
+        STOP_SET.add("why");
+        STOP_SET.add("www");
     }
 
 }
