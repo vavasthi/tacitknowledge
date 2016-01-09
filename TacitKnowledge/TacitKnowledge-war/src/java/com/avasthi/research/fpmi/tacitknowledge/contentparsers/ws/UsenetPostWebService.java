@@ -60,6 +60,11 @@ public class UsenetPostWebService {
         return ejbRef.countUsenetPosts();
     }
 
+    @WebMethod(operationName = "countUsenetPostsForTopic")
+    public int countUsenetPostsForTopic(@WebParam(name = "topic") String topic) {
+        return ejbRef.countUsenetPostsForTopic(topic);
+    }
+
     @WebMethod(operationName = "listIndividualIds")
     public List<Long> listIndividualIds() {
         return ejbRef.listIndividualIds();

@@ -15,6 +15,8 @@ import javax.persistence.Entity;
 import javax.persistence.FetchType;
 import javax.persistence.Id;
 import javax.persistence.Lob;
+import javax.persistence.NamedQueries;
+import javax.persistence.NamedQuery;
 import javax.persistence.OneToMany;
 import javax.persistence.OneToOne;
 import javax.xml.bind.annotation.XmlRootElement;
@@ -23,6 +25,10 @@ import javax.xml.bind.annotation.XmlRootElement;
  *
  * @author vavasthi
  */
+@NamedQueries({
+    @NamedQuery(name="UsenetPost.findByNewsGroup",
+                query="SELECT p FROM com.avasthi.research.fpmi.tacitknowledge.UsenetPost p where p.newsGroup = :newsGroup")
+}) 
 @Entity
 @XmlRootElement
 public class UsenetPost implements Serializable {

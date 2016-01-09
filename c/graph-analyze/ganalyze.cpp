@@ -14,6 +14,7 @@ void custom_warning_handler (const char *reason, const char *file,
 
 void 
 printVector(igraph_vector_t *v) {
+  print_v
   for (long i=0; i<igraph_vector_size(v); i++) {
     std::cout << (long int) VECTOR(*v)[i] << ' ';
   }
@@ -30,6 +31,10 @@ void showMultilevelModularityResults(igraph_t *g,
   long int i, j, no_of_nodes = igraph_vcount(g);
   
   j=igraph_vector_which_max(modularity);
+  strm << "Membership ";
+  printVector(membership);
+  strm << "Modularity ";
+  printVector(modularity);
   for (i=0; i<igraph_vector_size(membership); i++) {
     if (VECTOR(*membership)[i] != MATRIX(*memberships, j, i)) {
       strm << "WARNING: best membership vector element "
@@ -37,11 +42,6 @@ void showMultilevelModularityResults(igraph_t *g,
            << std::endl;
     }
   }
-
-  strm << "Modularities" ;
-  igraph_vector_print(modularity);
-  printVector(modularity);
-
   for (i=0; i < igraph_matrix_nrow(memberships); i++) {
     for (j=0; j < no_of_nodes; j++) {
       strm << (long int)MATRIX(*memberships, i, j) << ' ';

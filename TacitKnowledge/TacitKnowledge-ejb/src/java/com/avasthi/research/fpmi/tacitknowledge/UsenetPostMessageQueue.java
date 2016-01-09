@@ -6,6 +6,7 @@
 package com.avasthi.research.fpmi.tacitknowledge;
 
 import com.aliasi.util.ScoredObject;
+import com.avasthi.research.fpmi.tacitknowledge.common.UsenetInitiatePeriodicPhraseAdjacencyCalculation;
 import com.avasthi.research.fpmi.tacitknowledge.common.UsenetInitiatePhraseAdjacencyCalculation;
 import com.avasthi.research.fpmi.tacitknowledge.common.UsenetInterestingPhraseMessage;
 import com.avasthi.research.fpmi.tacitknowledge.common.UsenetInterestingPhraseMessages;
@@ -18,12 +19,14 @@ import java.io.IOException;
 import java.io.UnsupportedEncodingException;
 import java.net.URLDecoder;
 import java.util.ArrayList;
+import java.util.Calendar;
 import java.util.Date;
 import java.util.List;
 import java.util.SortedSet;
 import java.util.StringTokenizer;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import javax.annotation.Resource;
 import javax.ejb.ActivationConfigProperty;
 import javax.ejb.MessageDriven;
 import javax.jms.JMSException;
@@ -97,9 +100,15 @@ public class UsenetPostMessageQueue implements MessageListener {
                         break;
                     case UsenetMessageIds.INITIATE_PHRASE_ADJACENCY:
                         LOG.info("Initiate phrase adjacency message received.");
-                        UsenetInitiatePhraseAdjacencyCalculation uipac 
-                                = (UsenetInitiatePhraseAdjacencyCalculation)o.getObject();
+                        UsenetInitiatePhraseAdjacencyCalculation uipac
+                                = (UsenetInitiatePhraseAdjacencyCalculation) o.getObject();
                         generateTopicAdjacency(uipac.getUid());
+                        break;
+                    case UsenetMessageIds.INITIATE_PERIODIC_PHRASE_ADJACENCY:
+                        LOG.info("Initiate periodic phrase adjacency message received.");
+                        UsenetInitiatePeriodicPhraseAdjacencyCalculation uippac
+                                = (UsenetInitiatePeriodicPhraseAdjacencyCalculation) o.getObject();
+                        generateTopicAdjacency(uippac);
                         break;
                     case UsenetMessageIds.INTERESTING_PHRASE_MESSAGES: {
 
@@ -265,6 +274,7 @@ public class UsenetPostMessageQueue implements MessageListener {
         }
 
     }
+
     private String createPhrase(String[] sa) {
 
         String phrase = "";
@@ -280,12 +290,23 @@ public class UsenetPostMessageQueue implements MessageListener {
 
     private TopicAdjacencyPhrases getPhrase(String phrase, String topic) throws PersistenceException {
 
-            TopicAdjacencyPhrases phraseObject = new TopicAdjacencyPhrases();
-            phraseObject.setPhrase(phrase);
-            phraseObject.setTopic(topic);
-            phraseObject.setCount(0);
-            em.persist(phraseObject);
-            return phraseObject;
+        TopicAdjacencyPhrases phraseObject = new TopicAdjacencyPhrases();
+        phraseObject.setPhrase(phrase);
+        phraseObject.setTopic(topic);
+        phraseObject.setCount(0);
+        em.persist(phraseObject);
+        return phraseObject;
+    }
+
+    private TopicPeriodicAdjacencyPhrases getPeriodicPhrase(String phrase, String topic, Date date) throws PersistenceException {
+
+        TopicPeriodicAdjacencyPhrases phraseObject = new TopicPeriodicAdjacencyPhrases();
+        phraseObject.setPhrase(phrase);
+        phraseObject.setTopic(topic);
+        phraseObject.setCount(0);
+        phraseObject.setDate(date);
+        em.persist(phraseObject);
+        return phraseObject;
     }
 
     private TopicAdjacencyDependency getDependency(EntityManager em, TopicAdjacencyPhrases phrase1,
@@ -293,26 +314,54 @@ public class UsenetPostMessageQueue implements MessageListener {
             double phrase1Count,
             double phrase2Count) throws PersistenceException {
         if (phrase1.getPhrase().compareTo(phrase2.getPhrase()) < 0) {
-            
-                TopicAdjacencyDependency dependency
-                        = new TopicAdjacencyDependency();
-                dependency.setFirstPhrase(phrase1);
-                dependency.setSecondPhrase(phrase2);
-                dependency.setTopic(phrase1.getTopic());
-                dependency.setCount(Math.min(phrase1Count, phrase2Count));
-                em.persist(dependency);
-                return dependency;
+
+            TopicAdjacencyDependency dependency
+                    = new TopicAdjacencyDependency();
+            dependency.setFirstPhrase(phrase1);
+            dependency.setSecondPhrase(phrase2);
+            dependency.setTopic(phrase1.getTopic());
+            dependency.setCount(Math.min(phrase1Count, phrase2Count));
+            em.persist(dependency);
+            return dependency;
+        } else {
+
+            TopicAdjacencyDependency dependency
+                    = new TopicAdjacencyDependency();
+            dependency.setFirstPhrase(phrase2);
+            dependency.setSecondPhrase(phrase1);
+            dependency.setTopic(phrase2.getTopic());
+            dependency.setCount(Math.min(phrase1Count, phrase2Count));
+            em.persist(dependency);
+            return dependency;
         }
-        else {
-            
-                TopicAdjacencyDependency dependency
-                        = new TopicAdjacencyDependency();
-                dependency.setFirstPhrase(phrase2);
-                dependency.setSecondPhrase(phrase1);
-                dependency.setTopic(phrase2.getTopic());
-                dependency.setCount(Math.min(phrase1Count, phrase2Count));
-                em.persist(dependency);
-                return dependency;
+    }
+
+    private TopicPeriodicAdjacencyDependency getPeriodicDependency(EntityManager em, TopicPeriodicAdjacencyPhrases phrase1,
+            TopicPeriodicAdjacencyPhrases phrase2,
+            double phrase1Count,
+            double phrase2Count, Date date) throws PersistenceException {
+        if (phrase1.getPhrase().compareTo(phrase2.getPhrase()) < 0) {
+
+            TopicPeriodicAdjacencyDependency dependency
+                    = new TopicPeriodicAdjacencyDependency();
+            dependency.setFirstPhrase(phrase1);
+            dependency.setSecondPhrase(phrase2);
+            dependency.setTopic(phrase1.getTopic());
+            dependency.setCount(Math.min(phrase1Count, phrase2Count));
+            dependency.setDate(date);
+            em.persist(dependency);
+            return dependency;
+        } else {
+
+            TopicPeriodicAdjacencyDependency dependency
+                    = new TopicPeriodicAdjacencyDependency();
+            dependency.setFirstPhrase(phrase2);
+            dependency.setSecondPhrase(phrase1);
+            dependency.setTopic(phrase2.getTopic());
+            dependency.setCount(Math.min(phrase1Count, phrase2Count));
+            dependency.setDate(date);
+            em.persist(dependency);
+            return dependency;
         }
     }
 
@@ -345,20 +394,77 @@ public class UsenetPostMessageQueue implements MessageListener {
         }
     }
 
-    public void  generateTopicAdjacency(long uid) {
+    private void increasePeriodicCounts(EntityManager em, String topic, SortedSet< ScoredObject<String[]>> sso, Date date) {
+        String first = null;
+        for (ScoredObject<String[]> soOuter : sso) {
+            String outerPhraseString = createPhrase(soOuter.getObject());
+            TopicPeriodicAdjacencyPhrases outerPhrase = getPeriodicPhrase(outerPhraseString, topic, date);
+            outerPhrase.setCount(outerPhrase.getCount() + soOuter.score());
+            boolean skipToOuter = true;
+            for (ScoredObject<String[]> soInner : sso) {
+                if (skipToOuter) {
+                    if (soInner == soOuter) {
+                        skipToOuter = false;
+                    }
+                } else {
+
+                    if (soInner.equals(soOuter)) {
+                        // This is the scenario where both the phrases are identical. 
+                        TopicPeriodicAdjacencyDependency dependency = getPeriodicDependency(em, outerPhrase, outerPhrase, soOuter.score(), soOuter.score(), date);
+                    } else {
+
+                        String innerPhraseString = createPhrase(soInner.getObject());
+                        TopicPeriodicAdjacencyPhrases innerPhrase = getPeriodicPhrase(innerPhraseString, topic, date);
+                        innerPhrase.setCount(innerPhrase.getCount() + soInner.score());
+                        TopicPeriodicAdjacencyDependency dependency = getPeriodicDependency(em, outerPhrase, innerPhrase, soOuter.score(), soInner.score(), date);
+                    }
+                }
+            }
+        }
+    }
+
+    public void generateTopicAdjacency(long uid) {
         Individual i = em.find(Individual.class, uid);
         Query q = em.createQuery("select p from UsenetPost p where p.sender = :sender");
         q.setParameter("sender", i);
         for (Object o : q.getResultList()) {
-            UsenetPost p = (UsenetPost)o;
+            UsenetPost p = (UsenetPost) o;
             int count = generateTopicAdjacency(p);
             Logger.getLogger(UsenetPostMessageQueue.class.getName()).log(Level.INFO, "Processed " + count + " messages for topic " + p.getId());
         }
         em.flush();
     }
 
+    public void generateTopicAdjacency(UsenetInitiatePeriodicPhraseAdjacencyCalculation uippac) {
+        generatePeriodicTopicAdjacency(uippac.getTopic(), uippac.getLimit(), uippac.getOffset());
+    }
+
+    public void generatePeriodicTopicAdjacency(String topic, int limit, int offset) {
+
+        Query q = em.createNamedQuery("UsenetPost.findByNewsGroup");
+        q.setParameter("newsGroup", topic);
+        q.setFirstResult(offset);
+        q.setMaxResults(limit);
+        int count = 0;
+        System.out.println("Processing  " + limit + " records at offset " + offset);
+        for (Object o : q.getResultList()) {
+            try {
+
+                UsenetPost post = (UsenetPost) o;
+                count += generatePeriodicTopicAdjacency(post);
+                --limit;
+                if (limit == 0) {
+                    break;
+                }
+            } catch (Exception e) {
+                LOG.log(Level.SEVERE, "User Transaction failed.", e);
+            }
+        }
+        System.out.println("Processed  " + count + " records");
+    }
+
     public Integer generateTopicAdjacency(UsenetPost p) {
-        
+
         int noMsgs = 0;
         if (p == null) {
             return 0;
@@ -383,15 +489,42 @@ public class UsenetPostMessageQueue implements MessageListener {
         }
         return noMsgs;
     }
-    
+
+    public Integer generatePeriodicTopicAdjacency(UsenetPost p) {
+
+        int noMsgs = 0;
+
+        if (p == null) {
+            return 0;
+        } else {
+            for (UsenetTopic topic : p.getReferencedTopics()) {
+                try {
+
+                    TacitKnowledgeInterestingPhraseDetector ipd
+                            = new TacitKnowledgeInterestingPhraseDetector();
+                    String body = p.body;
+                    body = body.trim();
+                    ipd.incrementalTrain(body);
+                    ipd.model.sequenceCounter().prune(3);
+                    SortedSet< ScoredObject<String[]>> sso = ipd.model.frequentTermSet(1, 100);
+                    increasePeriodicCounts(em, topic.getReferenceId(), sso, p.getDate());
+                    ++noMsgs;
+                } catch (IOException ex) {
+                    Logger.getLogger(UsenetPostSession.class.getName()).log(Level.SEVERE, null, ex);
+                }
+            }
+
+        }
+        return noMsgs;
+    }
+
     public Integer generateTopicAdjacency(String messageId) {
 
         UsenetPost p;
         try {
-            
+
             p = em.find(UsenetPost.class, URLDecoder.decode(messageId, "UTF-8"));
-        }
-        catch (UnsupportedEncodingException uex) {
+        } catch (UnsupportedEncodingException uex) {
             p = null;
             uex.printStackTrace();
         }

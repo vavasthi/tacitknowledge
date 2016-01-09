@@ -4,6 +4,10 @@
 
   <xs:element name="countUsenetPosts" type="tns:countUsenetPosts"/>
 
+  <xs:element name="countUsenetPostsForTopic" type="tns:countUsenetPostsForTopic"/>
+
+  <xs:element name="countUsenetPostsForTopicResponse" type="tns:countUsenetPostsForTopicResponse"/>
+
   <xs:element name="countUsenetPostsResponse" type="tns:countUsenetPostsResponse"/>
 
   <xs:element name="countUsenetPosts_1" type="tns:countUsenetPosts_1"/>
@@ -53,6 +57,10 @@
   <xs:element name="getPhrasePairProbability_1" type="tns:getPhrasePairProbability_1"/>
 
   <xs:element name="getPhrasePairProbability_1Response" type="tns:getPhrasePairProbability_1Response"/>
+
+  <xs:element name="getPhrasePairProbability_2" type="tns:getPhrasePairProbability_2"/>
+
+  <xs:element name="getPhrasePairProbability_2Response" type="tns:getPhrasePairProbability_2Response"/>
 
   <xs:element name="getPost" type="tns:getPost"/>
 
@@ -348,6 +356,18 @@
     </xs:sequence>
   </xs:complexType>
 
+  <xs:complexType name="countUsenetPostsForTopic">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="topic" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="countUsenetPostsForTopicResponse">
+    <xs:sequence>
+      <xs:element name="return" type="xs:int"/>
+    </xs:sequence>
+  </xs:complexType>
+
   <xs:complexType name="countUsenetPosts_1">
     <xs:sequence/>
   </xs:complexType>
@@ -417,6 +437,19 @@
       <xs:element minOccurs="0" name="individualFrom" type="xs:long"/>
       <xs:element minOccurs="0" name="individualTo" type="xs:long"/>
       <xs:element minOccurs="0" name="topic" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="getPhrasePairProbability_2">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="topicEncoded" type="xs:string"/>
+      <xs:element minOccurs="0" name="phrase" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="getPhrasePairProbability_2Response">
+    <xs:sequence>
+      <xs:element maxOccurs="unbounded" minOccurs="0" name="return" type="tns:tacitKnowledgePhrasePairProbability"/>
     </xs:sequence>
   </xs:complexType>
 
@@ -493,36 +526,8 @@
 
 </xs:schema>
   </wsdl:types>
-  <wsdl:message name="listUsenetPosts">
-    <wsdl:part element="tns:listUsenetPosts" name="parameters">
-    </wsdl:part>
-  </wsdl:message>
-  <wsdl:message name="insertPhrases">
-    <wsdl:part element="tns:insertPhrases" name="parameters">
-    </wsdl:part>
-  </wsdl:message>
-  <wsdl:message name="getTopPhraseIds">
-    <wsdl:part element="tns:getTopPhraseIds" name="parameters">
-    </wsdl:part>
-  </wsdl:message>
   <wsdl:message name="getMinDateResponse">
     <wsdl:part element="tns:getMinDateResponse" name="parameters">
-    </wsdl:part>
-  </wsdl:message>
-  <wsdl:message name="listMessageIdsResponse">
-    <wsdl:part element="tns:listMessageIdsResponse" name="parameters">
-    </wsdl:part>
-  </wsdl:message>
-  <wsdl:message name="getNetworkNodes">
-    <wsdl:part element="tns:getNetworkNodes" name="parameters">
-    </wsdl:part>
-  </wsdl:message>
-  <wsdl:message name="getTopics">
-    <wsdl:part element="tns:getTopics" name="parameters">
-    </wsdl:part>
-  </wsdl:message>
-  <wsdl:message name="getRelevantTopicsResponse">
-    <wsdl:part element="tns:getRelevantTopicsResponse" name="parameters">
     </wsdl:part>
   </wsdl:message>
   <wsdl:message name="getTopPhrase">
@@ -533,14 +538,6 @@
     <wsdl:part element="tns:getPhrasePairProbability" name="parameters">
     </wsdl:part>
   </wsdl:message>
-  <wsdl:message name="getMinDate">
-    <wsdl:part element="tns:getMinDate" name="parameters">
-    </wsdl:part>
-  </wsdl:message>
-  <wsdl:message name="listUsenetPostsResponse">
-    <wsdl:part element="tns:listUsenetPostsResponse" name="parameters">
-    </wsdl:part>
-  </wsdl:message>
   <wsdl:message name="countUsenetPosts_1Response">
     <wsdl:part element="tns:countUsenetPosts_1Response" name="parameters">
     </wsdl:part>
@@ -549,40 +546,12 @@
     <wsdl:part element="tns:getPhrasePairProbability_1Response" name="parameters">
     </wsdl:part>
   </wsdl:message>
-  <wsdl:message name="getMinMaxDates">
-    <wsdl:part element="tns:getMinMaxDates" name="parameters">
-    </wsdl:part>
-  </wsdl:message>
-  <wsdl:message name="listIndividualIds">
-    <wsdl:part element="tns:listIndividualIds" name="parameters">
-    </wsdl:part>
-  </wsdl:message>
-  <wsdl:message name="getTopicsResponse">
-    <wsdl:part element="tns:getTopicsResponse" name="parameters">
-    </wsdl:part>
-  </wsdl:message>
   <wsdl:message name="getMinDateForUserResponse">
     <wsdl:part element="tns:getMinDateForUserResponse" name="parameters">
     </wsdl:part>
   </wsdl:message>
-  <wsdl:message name="getTopPhraseResponse">
-    <wsdl:part element="tns:getTopPhraseResponse" name="parameters">
-    </wsdl:part>
-  </wsdl:message>
-  <wsdl:message name="getTopPhraseIdsResponse">
-    <wsdl:part element="tns:getTopPhraseIdsResponse" name="parameters">
-    </wsdl:part>
-  </wsdl:message>
   <wsdl:message name="getPost">
     <wsdl:part element="tns:getPost" name="parameters">
-    </wsdl:part>
-  </wsdl:message>
-  <wsdl:message name="getMessageBody">
-    <wsdl:part element="tns:getMessageBody" name="parameters">
-    </wsdl:part>
-  </wsdl:message>
-  <wsdl:message name="getInterestingPhrasesForNewsgroupForYearResponse">
-    <wsdl:part element="tns:getInterestingPhrasesForNewsgroupForYearResponse" name="parameters">
     </wsdl:part>
   </wsdl:message>
   <wsdl:message name="getMinMaxDatesResponse">
@@ -597,36 +566,24 @@
     <wsdl:part element="tns:getInterestingPhrasesForNewsgroupForYear" name="parameters">
     </wsdl:part>
   </wsdl:message>
-  <wsdl:message name="getNetworkEdgesResponse">
-    <wsdl:part element="tns:getNetworkEdgesResponse" name="parameters">
-    </wsdl:part>
-  </wsdl:message>
-  <wsdl:message name="countUsenetPosts_1">
-    <wsdl:part element="tns:countUsenetPosts_1" name="parameters">
+  <wsdl:message name="countUsenetPostsForTopic">
+    <wsdl:part element="tns:countUsenetPostsForTopic" name="parameters">
     </wsdl:part>
   </wsdl:message>
   <wsdl:message name="getRelevantTopics">
     <wsdl:part element="tns:getRelevantTopics" name="parameters">
     </wsdl:part>
   </wsdl:message>
-  <wsdl:message name="countUsenetPosts">
-    <wsdl:part element="tns:countUsenetPosts" name="parameters">
-    </wsdl:part>
-  </wsdl:message>
-  <wsdl:message name="getMaxDate">
-    <wsdl:part element="tns:getMaxDate" name="parameters">
-    </wsdl:part>
-  </wsdl:message>
   <wsdl:message name="getMaxDateResponse">
     <wsdl:part element="tns:getMaxDateResponse" name="parameters">
     </wsdl:part>
   </wsdl:message>
-  <wsdl:message name="getNetworkEdges">
-    <wsdl:part element="tns:getNetworkEdges" name="parameters">
-    </wsdl:part>
-  </wsdl:message>
   <wsdl:message name="getNetworkNodesResponse">
     <wsdl:part element="tns:getNetworkNodesResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="getPhrasePairProbability_2">
+    <wsdl:part element="tns:getPhrasePairProbability_2" name="parameters">
     </wsdl:part>
   </wsdl:message>
   <wsdl:message name="getPhrasePairProbability_1">
@@ -653,10 +610,6 @@
     <wsdl:part element="tns:getMinDateForUser" name="parameters">
     </wsdl:part>
   </wsdl:message>
-  <wsdl:message name="countUsenetPostsResponse">
-    <wsdl:part element="tns:countUsenetPostsResponse" name="parameters">
-    </wsdl:part>
-  </wsdl:message>
   <wsdl:message name="upgradeTable">
     <wsdl:part element="tns:upgradeTable" name="parameters">
     </wsdl:part>
@@ -679,6 +632,102 @@
   </wsdl:message>
   <wsdl:message name="getMessageBodyResponse">
     <wsdl:part element="tns:getMessageBodyResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="listUsenetPosts">
+    <wsdl:part element="tns:listUsenetPosts" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="insertPhrases">
+    <wsdl:part element="tns:insertPhrases" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="getTopPhraseIds">
+    <wsdl:part element="tns:getTopPhraseIds" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="listMessageIdsResponse">
+    <wsdl:part element="tns:listMessageIdsResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="getNetworkNodes">
+    <wsdl:part element="tns:getNetworkNodes" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="getTopics">
+    <wsdl:part element="tns:getTopics" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="getRelevantTopicsResponse">
+    <wsdl:part element="tns:getRelevantTopicsResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="getMinDate">
+    <wsdl:part element="tns:getMinDate" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="listUsenetPostsResponse">
+    <wsdl:part element="tns:listUsenetPostsResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="getMinMaxDates">
+    <wsdl:part element="tns:getMinMaxDates" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="listIndividualIds">
+    <wsdl:part element="tns:listIndividualIds" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="getTopicsResponse">
+    <wsdl:part element="tns:getTopicsResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="getTopPhraseResponse">
+    <wsdl:part element="tns:getTopPhraseResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="getTopPhraseIdsResponse">
+    <wsdl:part element="tns:getTopPhraseIdsResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="getMessageBody">
+    <wsdl:part element="tns:getMessageBody" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="getInterestingPhrasesForNewsgroupForYearResponse">
+    <wsdl:part element="tns:getInterestingPhrasesForNewsgroupForYearResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="getNetworkEdgesResponse">
+    <wsdl:part element="tns:getNetworkEdgesResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="countUsenetPosts_1">
+    <wsdl:part element="tns:countUsenetPosts_1" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="getPhrasePairProbability_2Response">
+    <wsdl:part element="tns:getPhrasePairProbability_2Response" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="countUsenetPosts">
+    <wsdl:part element="tns:countUsenetPosts" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="getMaxDate">
+    <wsdl:part element="tns:getMaxDate" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="getNetworkEdges">
+    <wsdl:part element="tns:getNetworkEdges" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="countUsenetPostsForTopicResponse">
+    <wsdl:part element="tns:countUsenetPostsForTopicResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="countUsenetPostsResponse">
+    <wsdl:part element="tns:countUsenetPostsResponse" name="parameters">
     </wsdl:part>
   </wsdl:message>
   <wsdl:portType name="UsenetPostWebService">
@@ -758,6 +807,12 @@
       <wsdl:output message="tns:getInterestingPhrasesForNewsgroupForYearResponse" name="getInterestingPhrasesForNewsgroupForYearResponse">
     </wsdl:output>
     </wsdl:operation>
+    <wsdl:operation name="countUsenetPostsForTopic">
+      <wsdl:input message="tns:countUsenetPostsForTopic" name="countUsenetPostsForTopic">
+    </wsdl:input>
+      <wsdl:output message="tns:countUsenetPostsForTopicResponse" name="countUsenetPostsForTopicResponse">
+    </wsdl:output>
+    </wsdl:operation>
     <wsdl:operation name="countUsenetPosts_1">
       <wsdl:input message="tns:countUsenetPosts_1" name="countUsenetPosts_1">
     </wsdl:input>
@@ -786,6 +841,12 @@
       <wsdl:input message="tns:getNetworkEdges" name="getNetworkEdges">
     </wsdl:input>
       <wsdl:output message="tns:getNetworkEdgesResponse" name="getNetworkEdgesResponse">
+    </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getPhrasePairProbability_2">
+      <wsdl:input message="tns:getPhrasePairProbability_2" name="getPhrasePairProbability_2">
+    </wsdl:input>
+      <wsdl:output message="tns:getPhrasePairProbability_2Response" name="getPhrasePairProbability_2Response">
     </wsdl:output>
     </wsdl:operation>
     <wsdl:operation name="getPhrasePairProbability_1">
@@ -943,6 +1004,15 @@
         <soap:body use="literal"/>
       </wsdl:output>
     </wsdl:operation>
+    <wsdl:operation name="countUsenetPostsForTopic">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="countUsenetPostsForTopic">
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="countUsenetPostsForTopicResponse">
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
     <wsdl:operation name="countUsenetPosts_1">
       <soap:operation soapAction="" style="document"/>
       <wsdl:input name="countUsenetPosts_1">
@@ -985,6 +1055,15 @@
         <soap:body use="literal"/>
       </wsdl:input>
       <wsdl:output name="getNetworkEdgesResponse">
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getPhrasePairProbability_2">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="getPhrasePairProbability_2">
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="getPhrasePairProbability_2Response">
         <soap:body use="literal"/>
       </wsdl:output>
     </wsdl:operation>

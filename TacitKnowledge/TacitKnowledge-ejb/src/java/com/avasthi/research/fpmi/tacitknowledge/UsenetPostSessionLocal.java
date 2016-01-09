@@ -29,6 +29,7 @@ public interface UsenetPostSessionLocal {
     List<UsenetPost> listUsenetPosts();
     int countUsenetPosts(String email);
     int countUsenetPosts();
+    int countUsenetPostsForTopic(String topic);
 
     List<Long> listIndividualIds();
 

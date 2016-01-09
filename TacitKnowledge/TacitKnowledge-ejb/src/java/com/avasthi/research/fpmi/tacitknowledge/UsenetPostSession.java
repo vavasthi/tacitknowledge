@@ -96,6 +96,13 @@ public class UsenetPostSession implements UsenetPostSessionLocal {
         List l = q.getResultList();
         return l.size();
     }
+    @Override
+    public int countUsenetPostsForTopic(String topic) {
+        Query q = em.createNamedQuery("UsenetPost.findByNewsGroup");
+        q.setParameter("newsGroup", topic);
+        List l = q.getResultList();
+        return l.size();
+    }
 
     @Override
     public List<Long> listIndividualIds() {
