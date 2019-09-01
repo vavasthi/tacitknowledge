@@ -30,10 +30,11 @@ public class TacitKnowledgeInterestingPhraseDetector {
     private static int NGRAM = 20;
     private static int MIN_COUNT = 5;
     private static int MAX_NGRAM_REPORTING_LENGTH = 2;
-    private static int NGRAM_REPORTING_LENGTH = 2;
+    private int nGramReportingLength = 2;
     private static int MAX_COUNT = 500;
+   
 
-    public TacitKnowledgeInterestingPhraseDetector() {
+    public TacitKnowledgeInterestingPhraseDetector(int nGramReportingLength) {
         TokenizerFactory tokenizerFactory = IndoEuropeanTokenizerFactory.INSTANCE;
         tokenizerFactory = new RegExFilteredTokenizerFactory(tokenizerFactory, Pattern.compile("[a-zA-Z]+|[0-9]+|"));
         tokenizerFactory = new WhitespaceNormTokenizerFactory(tokenizerFactory);
@@ -41,9 +42,13 @@ public class TacitKnowledgeInterestingPhraseDetector {
         tokenizerFactory = new TacitKnowledgeEnglishStopTokenizerFactory(tokenizerFactory);
         tokenizerFactory = new EnglishStopTokenizerFactory(tokenizerFactory);
         tokenizerFactory = new PorterStemmerTokenizerFactory(tokenizerFactory);
+        this.nGramReportingLength = nGramReportingLength;
         model = new TokenizedLM(tokenizerFactory, NGRAM);
     }
     /**
+     * @param args the command line arguments    /**
+     * @param args the command line arguments    /**
+     * @param args the command line arguments    /**
      * @param args the command line arguments
      */
 
@@ -52,7 +57,7 @@ public class TacitKnowledgeInterestingPhraseDetector {
         try {
             
         SortedSet<ScoredObject<String[]>> coll 
-            = model.collocationSet(NGRAM_REPORTING_LENGTH,
+            = model.collocationSet(nGramReportingLength,
                                    MIN_COUNT,
                                    MAX_COUNT);
 

@@ -9,6 +9,7 @@ import com.avasthi.research.fpmi.tacitknowledge.common.InterestingPhrase;
 import com.avasthi.research.fpmi.tacitknowledge.common.MinMaxDatePair;
 import com.avasthi.research.fpmi.tacitknowledge.common.NetworkEdge;
 import com.avasthi.research.fpmi.tacitknowledge.common.NetworkNode;
+import com.avasthi.research.fpmi.tacitknowledge.common.NetworkPhraseEdge;
 import com.avasthi.research.fpmi.tacitknowledge.common.TacitKnowledgePhraseCount;
 import com.avasthi.research.fpmi.tacitknowledge.common.TacitKnowledgePhrasePairProbability;
 import com.avasthi.research.fpmi.tacitknowledge.common.UsenetPostHeaders;
@@ -46,7 +47,9 @@ public interface UsenetPostSessionLocal {
     void insertPhrases(long userid, Date from, Date to, List<UsenetPostPhraseScore> ppsList);
     UsenetPostHeaders getPost(String id);
     Set<NetworkNode> getNetworkNodes(Date from, Date to, String topic);
+    Set<NetworkNode> getPhraseNetworkNodes(Date from, Date to, String topic);
     List<NetworkEdge> getNetworkEdges(Long src, Long tgt, Date from, Date to, String topic);
+    List<NetworkPhraseEdge> getPhraseNetworkEdges(Long src, Long tgt, Date from, Date to, String topic);
     List<String> getTopics();  
     List<String> getRelevantTopics(long uid, Date dateFrom, Date dateTo);    
 

@@ -10,6 +10,8 @@ import com.avasthi.research.fpmi.tacitknowledge.common.InterestingPhrase;
 import com.avasthi.research.fpmi.tacitknowledge.common.MinMaxDatePair;
 import com.avasthi.research.fpmi.tacitknowledge.common.NetworkEdge;
 import com.avasthi.research.fpmi.tacitknowledge.common.NetworkNode;
+import com.avasthi.research.fpmi.tacitknowledge.common.NetworkPhraseEdge;
+import com.avasthi.research.fpmi.tacitknowledge.common.Pair;
 import com.avasthi.research.fpmi.tacitknowledge.common.TacitKnowledgePhraseCount;
 import com.avasthi.research.fpmi.tacitknowledge.common.TacitKnowledgePhrasePairProbability;
 import com.avasthi.research.fpmi.tacitknowledge.common.UsenetInterestingPhraseMessages;
@@ -163,6 +165,21 @@ public class UsenetPostSession implements UsenetPostSessionLocal {
     }
 
     @Override
+    public Set<NetworkNode> getPhraseNetworkNodes(Date from, Date to, String topic) {
+        Set<NetworkNode> nodes = new HashSet<NetworkNode>();
+        Query q = em.createQuery("select une from UsenetNetworkPhraseEdge une where une.dateFrom >= :from and une.dateTo < :to and une.topic = :topic");
+        q.setParameter("from", from);
+        q.setParameter("to", to);
+        q.setParameter("topic", topic);
+        for (Object o : q.getResultList()) {
+            UsenetNetworkPhraseEdge une = (UsenetNetworkPhraseEdge) o;
+            nodes.add(new NetworkNode(une.getFrom().getId(), une.getFrom().getEmail()));
+            nodes.add(new NetworkNode(une.getTo().getId(), une.getTo().getEmail()));
+        }
+        return nodes;
+    }
+
+    @Override
     public MinMaxDatePair getMinMaxDates(String topic) {
         Query q = em.createQuery("select min(iip.fromDate), max(iip.fromDate) from IndividualInterestingPhrases iip where iip.topic = :topic order by iip.fromDate");
         q.setParameter("topic", topic);
@@ -236,6 +253,39 @@ public class UsenetPostSession implements UsenetPostSessionLocal {
             topicHash.put(une.getTopic(), edge);
         }
         for (Entry<String, NetworkEdge> e : topicHash.entrySet()) {
+            edges.add(e.getValue());
+        }
+        return edges;
+    }
+    @Override
+    public List<NetworkPhraseEdge> getPhraseNetworkEdges(Long src, Long tgt, Date from, Date to, String topic) {
+        Individual source = em.find(Individual.class, src);
+        Individual target = em.find(Individual.class, tgt);
+        Map<Pair<String, String>, NetworkPhraseEdge> topicHash = new HashMap<>();
+        List<NetworkPhraseEdge> edges = new ArrayList<>();
+        Query q = em.createQuery("select une from UsenetNetworkPhraseEdge une where une.dateFrom >= :dateFrom and une.dateTo < :dateTo and une.from = :from and une.to = :to and une.topic = :topic");
+        q.setParameter("dateFrom", from);
+        q.setParameter("dateTo", to);
+        q.setParameter("from", source);
+        q.setParameter("to", target);
+        q.setParameter("topic", topic);
+        for (Object o : q.getResultList()) {
+            UsenetNetworkPhraseEdge une = (UsenetNetworkPhraseEdge) o;
+            NetworkPhraseEdge edge = topicHash.get(new Pair<String, String>(une.getTopic(), une.getPhrase()));
+            if (edge != null) {
+                edge.setCount(edge.getCount() + une.getWeight());
+            } else {
+
+                edge = new NetworkPhraseEdge(une.getFrom().getId() + "-" + une.getTo().getId() + "-" + une.getTopic() + "-" + une.getPhrase(),
+                        une.getFrom().getId(),
+                        une.getTo().getId(),
+                        une.getTopic(),
+                        une.getPhrase(),
+                        une.getWeight());
+            }
+            topicHash.put(new Pair<>(une.getTopic(), une.getPhrase()), edge);
+        }
+        for (Entry<Pair<String, String>, NetworkPhraseEdge> e : topicHash.entrySet()) {
             edges.add(e.getValue());
         }
         return edges;
@@ -529,4 +579,5 @@ public class UsenetPostSession implements UsenetPostSessionLocal {
         TacitKnowledgePhraseCount ret = new TacitKnowledgePhraseCount(tktp.getId(), tktp.getPhrase(), tktp.getCount());
         return ret;
     }  
+
 }

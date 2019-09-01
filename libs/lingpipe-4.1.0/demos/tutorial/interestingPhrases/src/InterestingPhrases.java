@@ -19,9 +19,13 @@ public class InterestingPhrases {
     private static int MAX_COUNT = 500;
 
     private static File BACKGROUND_DIR 
-        = new File("/home/vavasthi/tweets/train");
+        = new File("../../data/rec.sport.hockey/train");
+
+//        = new File("/home/vavasthi/tweets/train");
     private static File FOREGROUND_DIR 
-        = new File("/home/vavasthi/tweets/test");
+        = new File("../../data/rec.sport.hockey/test");
+
+//        = new File("/home/vavasthi/tweets/test");
 
 
     public static void main(String[] args) throws IOException {
@@ -36,8 +40,10 @@ public class InterestingPhrases {
 
         System.out.println("\nAssembling collocations in Training");
         SortedSet<ScoredObject<String[]>> coll 
-            = backgroundModel.collocationSet(NGRAM_REPORTING_LENGTH,
-                                             MIN_COUNT,MAX_COUNT);
+            = backgroundModel.frequentTermSet(1,
+                                             MAX_COUNT);
+            //= backgroundModel.collocationSet(NGRAM_REPORTING_LENGTH,
+             //                                MIN_COUNT,MAX_COUNT);
 
         System.out.println("\nCollocations in Order of Significance:");
 

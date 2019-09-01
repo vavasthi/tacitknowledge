@@ -50,6 +50,14 @@
 
   <xs:element name="getNetworkNodesResponse" type="tns:getNetworkNodesResponse"/>
 
+  <xs:element name="getPhraseNetworkEdges" type="tns:getPhraseNetworkEdges"/>
+
+  <xs:element name="getPhraseNetworkEdgesResponse" type="tns:getPhraseNetworkEdgesResponse"/>
+
+  <xs:element name="getPhraseNetworkNodes" type="tns:getPhraseNetworkNodes"/>
+
+  <xs:element name="getPhraseNetworkNodesResponse" type="tns:getPhraseNetworkNodesResponse"/>
+
   <xs:element name="getPhrasePairProbability" type="tns:getPhrasePairProbability"/>
 
   <xs:element name="getPhrasePairProbabilityResponse" type="tns:getPhrasePairProbabilityResponse"/>
@@ -299,6 +307,33 @@
     </xs:sequence>
   </xs:complexType>
 
+  <xs:complexType name="getPhraseNetworkEdges">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="src" type="xs:long"/>
+      <xs:element minOccurs="0" name="tgt" type="xs:long"/>
+      <xs:element minOccurs="0" name="from" type="xs:dateTime"/>
+      <xs:element minOccurs="0" name="to" type="xs:dateTime"/>
+      <xs:element minOccurs="0" name="topic" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="getPhraseNetworkEdgesResponse">
+    <xs:sequence>
+      <xs:element maxOccurs="unbounded" minOccurs="0" name="return" type="tns:networkPhraseEdge"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="networkPhraseEdge">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="count" type="xs:long"/>
+      <xs:element minOccurs="0" name="id" type="xs:string"/>
+      <xs:element minOccurs="0" name="individualFrom" type="xs:long"/>
+      <xs:element minOccurs="0" name="individualTo" type="xs:long"/>
+      <xs:element minOccurs="0" name="phrase" type="xs:string"/>
+      <xs:element minOccurs="0" name="topic" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+
   <xs:complexType name="getPost">
     <xs:sequence>
       <xs:element minOccurs="0" name="id" type="xs:string"/>
@@ -502,6 +537,20 @@
     </xs:sequence>
   </xs:complexType>
 
+  <xs:complexType name="getPhraseNetworkNodes">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="from" type="xs:dateTime"/>
+      <xs:element minOccurs="0" name="to" type="xs:dateTime"/>
+      <xs:element minOccurs="0" name="topic" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="getPhraseNetworkNodesResponse">
+    <xs:sequence>
+      <xs:element maxOccurs="unbounded" minOccurs="0" name="return" type="tns:networkNode"/>
+    </xs:sequence>
+  </xs:complexType>
+
   <xs:complexType name="upgradeTable">
     <xs:sequence>
       <xs:element name="uid" type="xs:long"/>
@@ -610,6 +659,10 @@
     <wsdl:part element="tns:getMinDateForUser" name="parameters">
     </wsdl:part>
   </wsdl:message>
+  <wsdl:message name="getPhraseNetworkNodes">
+    <wsdl:part element="tns:getPhraseNetworkNodes" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
   <wsdl:message name="upgradeTable">
     <wsdl:part element="tns:upgradeTable" name="parameters">
     </wsdl:part>
@@ -640,6 +693,10 @@
   </wsdl:message>
   <wsdl:message name="insertPhrases">
     <wsdl:part element="tns:insertPhrases" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="getPhraseNetworkNodesResponse">
+    <wsdl:part element="tns:getPhraseNetworkNodesResponse" name="parameters">
     </wsdl:part>
   </wsdl:message>
   <wsdl:message name="getTopPhraseIds">
@@ -680,6 +737,10 @@
   </wsdl:message>
   <wsdl:message name="getTopicsResponse">
     <wsdl:part element="tns:getTopicsResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="getPhraseNetworkEdges">
+    <wsdl:part element="tns:getPhraseNetworkEdges" name="parameters">
     </wsdl:part>
   </wsdl:message>
   <wsdl:message name="getTopPhraseResponse">
@@ -728,6 +789,10 @@
   </wsdl:message>
   <wsdl:message name="countUsenetPostsResponse">
     <wsdl:part element="tns:countUsenetPostsResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="getPhraseNetworkEdgesResponse">
+    <wsdl:part element="tns:getPhraseNetworkEdgesResponse" name="parameters">
     </wsdl:part>
   </wsdl:message>
   <wsdl:portType name="UsenetPostWebService">
@@ -787,6 +852,12 @@
       <wsdl:input message="tns:listIndividualIds" name="listIndividualIds">
     </wsdl:input>
       <wsdl:output message="tns:listIndividualIdsResponse" name="listIndividualIdsResponse">
+    </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getPhraseNetworkEdges">
+      <wsdl:input message="tns:getPhraseNetworkEdges" name="getPhraseNetworkEdges">
+    </wsdl:input>
+      <wsdl:output message="tns:getPhraseNetworkEdgesResponse" name="getPhraseNetworkEdgesResponse">
     </wsdl:output>
     </wsdl:operation>
     <wsdl:operation name="getPost">
@@ -871,6 +942,12 @@
       <wsdl:input message="tns:getMinDateForUser" name="getMinDateForUser">
     </wsdl:input>
       <wsdl:output message="tns:getMinDateForUserResponse" name="getMinDateForUserResponse">
+    </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getPhraseNetworkNodes">
+      <wsdl:input message="tns:getPhraseNetworkNodes" name="getPhraseNetworkNodes">
+    </wsdl:input>
+      <wsdl:output message="tns:getPhraseNetworkNodesResponse" name="getPhraseNetworkNodesResponse">
     </wsdl:output>
     </wsdl:operation>
     <wsdl:operation name="upgradeTable">
@@ -974,6 +1051,15 @@
         <soap:body use="literal"/>
       </wsdl:input>
       <wsdl:output name="listIndividualIdsResponse">
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getPhraseNetworkEdges">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="getPhraseNetworkEdges">
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="getPhraseNetworkEdgesResponse">
         <soap:body use="literal"/>
       </wsdl:output>
     </wsdl:operation>
@@ -1100,6 +1186,15 @@
         <soap:body use="literal"/>
       </wsdl:input>
       <wsdl:output name="getMinDateForUserResponse">
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getPhraseNetworkNodes">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="getPhraseNetworkNodes">
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="getPhraseNetworkNodesResponse">
         <soap:body use="literal"/>
       </wsdl:output>
     </wsdl:operation>

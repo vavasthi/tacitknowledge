@@ -20,5 +20,6 @@ public class UsenetMessageIds {
     public static final int INTERESTING_PHRASE_MESSAGES = 0x05;
     public static final int INITIATE_PHRASE_ADJACENCY = 0x06;
     public static final int INITIATE_PERIODIC_PHRASE_ADJACENCY = 0x07;
+    public static final int INITIATE_PHRASE_NETWORK_EDGE = 0x08;
     
 }

@@ -11,6 +11,7 @@ import com.avasthi.research.fpmi.tacitknowledge.common.InterestingPhrase;
 import com.avasthi.research.fpmi.tacitknowledge.common.MinMaxDatePair;
 import com.avasthi.research.fpmi.tacitknowledge.common.NetworkEdge;
 import com.avasthi.research.fpmi.tacitknowledge.common.NetworkNode;
+import com.avasthi.research.fpmi.tacitknowledge.common.NetworkPhraseEdge;
 import com.avasthi.research.fpmi.tacitknowledge.common.TacitKnowledgePhraseCount;
 import com.avasthi.research.fpmi.tacitknowledge.common.TacitKnowledgePhrasePairProbability;
 import com.avasthi.research.fpmi.tacitknowledge.common.UsenetPostHeaders;
@@ -122,9 +123,19 @@ public class UsenetPostWebService {
         return ejbRef.getNetworkNodes(from, to, topic);
     }
 
+    @WebMethod(operationName = "getPhraseNetworkNodes")
+    public Set<NetworkNode> getPhraseNetworkNodes(@WebParam(name = "from") Date from, @WebParam(name = "to") Date to, @WebParam(name = "topic") String topic) {
+        return ejbRef.getPhraseNetworkNodes(from, to, topic);
+    }
+
     @WebMethod(operationName = "getNetworkEdges")
     public List<NetworkEdge> getNetworkEdges(@WebParam(name = "src") Long src, @WebParam(name = "tgt") Long tgt, @WebParam(name = "from") Date from, @WebParam(name = "to") Date to, @WebParam(name = "topic") String topic) {
         return ejbRef.getNetworkEdges(src, tgt, from, to, topic);
+    }
+
+    @WebMethod(operationName = "getPhraseNetworkEdges")
+    public List<NetworkPhraseEdge> getPhraseNetworkEdges(@WebParam(name = "src") Long src, @WebParam(name = "tgt") Long tgt, @WebParam(name = "from") Date from, @WebParam(name = "to") Date to, @WebParam(name = "topic") String topic) {
+        return ejbRef.getPhraseNetworkEdges(src, tgt, from, to, topic);
     }
 
     @WebMethod(operationName = "getTopics")

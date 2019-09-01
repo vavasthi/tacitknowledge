@@ -8,6 +8,7 @@ package com.avasthi.research.fpmi.tacitknowledge;
 import com.aliasi.util.ScoredObject;
 import com.avasthi.research.fpmi.tacitknowledge.common.UsenetInitiatePeriodicPhraseAdjacencyCalculation;
 import com.avasthi.research.fpmi.tacitknowledge.common.UsenetInitiatePhraseAdjacencyCalculation;
+import com.avasthi.research.fpmi.tacitknowledge.common.UsenetInitiatePhraseNetworkEdge;
 import com.avasthi.research.fpmi.tacitknowledge.common.UsenetInterestingPhraseMessage;
 import com.avasthi.research.fpmi.tacitknowledge.common.UsenetInterestingPhraseMessages;
 import com.avasthi.research.fpmi.tacitknowledge.common.UsenetMessageIds;
@@ -109,6 +110,12 @@ public class UsenetPostMessageQueue implements MessageListener {
                         UsenetInitiatePeriodicPhraseAdjacencyCalculation uippac
                                 = (UsenetInitiatePeriodicPhraseAdjacencyCalculation) o.getObject();
                         generateTopicAdjacency(uippac);
+                        break;
+                    case UsenetMessageIds.INITIATE_PHRASE_NETWORK_EDGE:
+                        LOG.info("Initiate phrase network edge creation.");
+                        UsenetInitiatePhraseNetworkEdge uipne
+                                = (UsenetInitiatePhraseNetworkEdge) o.getObject();
+                        this.generateNetwork(uipne.getTopic(), uipne.getLimit(), uipne.getOffset());
                         break;
                     case UsenetMessageIds.INTERESTING_PHRASE_MESSAGES: {
 
@@ -463,6 +470,97 @@ public class UsenetPostMessageQueue implements MessageListener {
         System.out.println("Processed  " + count + " records");
     }
 
+    public void generateNetwork(String topic, int limit, int offset) {
+
+        Query q = em.createNamedQuery("UsenetPost.findByNewsGroup");
+        q.setParameter("newsGroup", topic);
+        q.setFirstResult(offset);
+        q.setMaxResults(limit);
+        int count = 0;
+        System.out.println("Processing  " + limit + " records at offset " + offset);
+        for (Object o : q.getResultList()) {
+            try {
+
+                UsenetPost post = (UsenetPost) o;
+                generateNetwork(post);
+                --limit;
+                if (limit == 0) {
+                    break;
+                }
+            } catch (Exception e) {
+                LOG.log(Level.SEVERE, "User Transaction failed.", e);
+            }
+        }
+        System.out.println("Processed  " + count + " records");
+    }
+
+    public void generateNetwork(UsenetPost p) {
+
+        Date dateFrom = p.getDate();
+        Calendar c = Calendar.getInstance();
+        c.setTime(dateFrom);
+        c.set(Calendar.DAY_OF_MONTH, 1);
+        dateFrom = c.getTime();
+        c.set(Calendar.MONTH, c.get(Calendar.MONTH) + 1);
+        c.add(Calendar.DAY_OF_MONTH, -1);
+        Date dateTo = c.getTime();
+        for (UsenetTopic topic : p.getReferencedTopics()) {
+            try {
+
+                TacitKnowledgeInterestingPhraseDetector ipd
+                        = new TacitKnowledgeInterestingPhraseDetector(2);
+                String body = p.body;
+                body = body.trim();
+                ipd.incrementalTrain(body);
+                ipd.model.sequenceCounter().prune(3);
+                SortedSet< ScoredObject<String[]>> sso = ipd.model.frequentTermSet(1, 100);
+                for (ScoredObject<String[]> so : sso) {
+                    int weight = new Double(so.score()).intValue();
+                    String phrase = so.getObject()[0];
+                    Individual sender = p.getSender();
+                    for (UsenetPostReference upr : p.getReferencedPosts()) {
+                        if (upr != null && upr.getReferenceId() != null) {
+
+                            UsenetPost refPost = em.find(UsenetPost.class, upr.getReferenceId());
+                            if (refPost != null) {
+
+                                Individual receiver = refPost.getSender();
+                                UsenetNetworkPhraseEdge unpe;
+                                Query q = em.createNamedQuery("UsenetNetworkPhraseEdge.findBySenderReceiverDateFromDateToTopicPhrase");
+                                q.setParameter("from", sender);
+                                q.setParameter("to", receiver);
+                                q.setParameter("dateFrom", dateFrom);
+                                q.setParameter("dateTo", dateTo);
+                                q.setParameter("topic", topic.getReferenceId());
+                                q.setParameter("phrase", phrase);
+                                try {
+
+                                    unpe = (UsenetNetworkPhraseEdge) q.getSingleResult();
+                                } catch (NoResultException nre) {
+                                    unpe = null;
+                                }
+                                if (unpe == null) {
+                                    unpe = new UsenetNetworkPhraseEdge();
+                                    unpe.setWeight(0L);
+                                    em.persist(unpe);
+                                }
+                                unpe.setDateFrom(dateFrom);
+                                unpe.setDateTo(dateTo);
+                                unpe.setFrom(sender);
+                                unpe.setTo(receiver);
+                                unpe.setPhrase(phrase);
+                                unpe.setTopic(topic.getReferenceId());
+                                unpe.setWeight(unpe.getWeight() + weight);
+                            }
+                        }
+                    }
+                }
+            } catch (IOException ex) {
+                Logger.getLogger(UsenetPostSession.class.getName()).log(Level.SEVERE, null, ex);
+            }
+        }
+    }
+
     public Integer generateTopicAdjacency(UsenetPost p) {
 
         int noMsgs = 0;
@@ -473,7 +571,7 @@ public class UsenetPostMessageQueue implements MessageListener {
                 try {
 
                     TacitKnowledgeInterestingPhraseDetector ipd
-                            = new TacitKnowledgeInterestingPhraseDetector();
+                            = new TacitKnowledgeInterestingPhraseDetector(1);
                     String body = p.body;
                     body = body.trim();
                     ipd.incrementalTrain(body);
@@ -501,7 +599,7 @@ public class UsenetPostMessageQueue implements MessageListener {
                 try {
 
                     TacitKnowledgeInterestingPhraseDetector ipd
-                            = new TacitKnowledgeInterestingPhraseDetector();
+                            = new TacitKnowledgeInterestingPhraseDetector(2);
                     String body = p.body;
                     body = body.trim();
                     ipd.incrementalTrain(body);

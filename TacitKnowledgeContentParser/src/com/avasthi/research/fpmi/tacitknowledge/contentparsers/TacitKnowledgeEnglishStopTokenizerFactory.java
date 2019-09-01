@@ -11,7 +11,6 @@ import java.io.ObjectInput;
 import java.io.Serializable;
 import java.util.HashSet;
 import java.util.Set;
-import org.eclipse.persistence.sessions.serializers.AbstractSerializer;
 
 /**
  *

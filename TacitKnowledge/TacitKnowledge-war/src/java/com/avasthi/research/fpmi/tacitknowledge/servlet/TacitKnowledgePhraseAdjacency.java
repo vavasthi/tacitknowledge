@@ -5,7 +5,6 @@
  */
 package com.avasthi.research.fpmi.tacitknowledge.servlet;
 
-import com.avasthi.research.fpmi.tacitknowledge.contentparsers.ws.client.UsenetPostWebService_Service;
 import java.io.IOException;
 import java.io.PrintWriter;
 import javax.servlet.ServletException;

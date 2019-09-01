@@ -14,7 +14,6 @@ void custom_warning_handler (const char *reason, const char *file,
 
 void 
 printVector(igraph_vector_t *v) {
-  print_v
   for (long i=0; i<igraph_vector_size(v); i++) {
     std::cout << (long int) VECTOR(*v)[i] << ' ';
   }
